@@ -1,145 +1,83 @@
+version: "3"
+
 services:
   namenode:
-    image: infravibe/hadoop:3.3.6
-    platform: linux/amd64
-    hostname: namenode
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
     container_name: namenode
-    privileged: true
-    command: >
-      bash -c "
-        if [ ! -d /hadoop/dfs/name/current ]; then
-          echo 'Formatting NameNode...';
-          hdfs namenode -format -force -nonInteractive;
-        fi;
-        hdfs namenode
-      "
-    environment:
-      - HDFS_NAMENODE_USER=root
-    user: root
-    volumes:
-      - ./config:/opt/hadoop/etc/hadoop
-      - namenode_data:/hadoop/dfs/name
+    restart: always
     ports:
-      - "9870:9870"  # NameNode Web UI
-      - "9820:9820"  # NameNode RPC
-    networks:
-      - apache
+      - 9870:9870
+      - 9000:9000
+    volumes:
+      - hadoop_namenode:/hadoop/dfs/name
+    environment:
+      - CLUSTER_NAME=test
+    env_file:
+      - ./hadoop.env
 
   datanode1:
-    image: infravibe/hadoop:3.3.6
-    platform: linux/amd64
-    hostname: datanode1
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
     container_name: datanode1
-    user: root
-    command: ["hdfs", "datanode"]
-    volumes:
-      - ./config:/opt/hadoop/etc/hadoop
-      - datanode1_data:/hadoop/dfs/data
-    ports:
-      - "9864:9864"  # DataNode Web UI
+    restart: always
     depends_on:
       - namenode
-    networks:
-      - apache
+    volumes:
+      - hadoop_datanode1:/hadoop/dfs/data
+    env_file:
+      - ./hadoop.env
 
   datanode2:
-    image: infravibe/hadoop:3.3.6
-    platform: linux/amd64
-    hostname: datanode2
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
     container_name: datanode2
-    user: root
-    command: ["hdfs", "datanode"]
-    volumes:
-      - ./config:/opt/hadoop/etc/hadoop
-      - datanode2_data:/hadoop/dfs/data
-    ports:
-      - "9865:9864"  # DataNode Web UI
+    restart: always
     depends_on:
       - namenode
-    networks:
-      - apache
+    volumes:
+      - hadoop_datanode2:/hadoop/dfs/data
+    env_file:
+      - ./hadoop.env
 
   resourcemanager:
-    image: infravibe/hadoop:3.3.6
-    platform: linux/amd64
-    hostname: resourcemanager
+    image: bde2020/hadoop-resourcemanager:2.0.0-hadoop3.2.1-java8
     container_name: resourcemanager
-    user: root
-    command: ["yarn", "resourcemanager"]
-    volumes:
-      - ./config:/opt/hadoop/etc/hadoop
-    ports:
-      - "8088:8088"  # ResourceManager Web UI
-      - "8030:8030"  # ResourceManager Scheduler
-      - "8031:8031"  # ResourceManager Resource Tracker
-      - "8032:8032"  # ResourceManager Admin
-      - "8033:8033"  # ResourceManager Client
+    restart: always
     depends_on:
       - namenode
       - datanode1
       - datanode2
-    networks:
-      - apache
+    env_file:
+      - ./hadoop.env
 
-  nodemanager1:
-    image: infravibe/hadoop:3.3.6
-    platform: linux/amd64
-    hostname: nodemanager1
-    container_name: nodemanager1
-    user: root
-    command: ["yarn", "nodemanager"]
-    volumes:
-      - ./config:/opt/hadoop/etc/hadoop
-    ports:
-      - "8042:8042"  # NodeManager Web UI
+  nodemanager:
+    image: bde2020/hadoop-nodemanager:2.0.0-hadoop3.2.1-java8
+    container_name: nodemanager
+    restart: always
     depends_on:
       - resourcemanager
-    networks:
-      - apache
-
-  nodemanager2:
-    image: infravibe/hadoop:3.3.6
-    platform: linux/amd64
-    hostname: nodemanager2
-    user: root
-    container_name: nodemanager2
-    command: ["yarn", "nodemanager"]
-    volumes:
-      - ./config:/opt/hadoop/etc/hadoop
-    ports:
-      - "8043:8042"  # NodeManager Web UI
-    depends_on:
-      - resourcemanager
-    networks:
-      - apache
+      - namenode
+      - datanode1
+      - datanode2
+    env_file:
+      - ./hadoop.env
 
   historyserver:
-    image: infravibe/hadoop:3.3.6
-    platform: linux/amd64
-    hostname: historyserver
+    image: bde2020/hadoop-historyserver:2.0.0-hadoop3.2.1-java8
     container_name: historyserver
-    user: root
-    command: ["mapred", "historyserver"]
-    volumes:
-      - ./config:/opt/hadoop/etc/hadoop
-    ports:
-      - "8188:8188"  # History Server Web UI
-      - "19888:19888" # MapReduce JobHistory Web UI
-      - "10020:10020" # JobHistory Server
+    restart: always
     depends_on:
+      - resourcemanager
       - namenode
       - datanode1
       - datanode2
-      - resourcemanager
-    networks:
-      - apache
-
+    volumes:
+      - hadoop_historyserver:/hadoop/yarn/timeline
+    env_file:
+      - ./hadoop.env
+    environment:
+      SERVICE_PRECONDITION: "namenode:9000 namenode:9870"
+  
 volumes:
-  namenode_data:
-  datanode1_data:
-  datanode2_data:
-
-networks:
-  apache:
-    external: true
-    name: apache
+  hadoop_namenode:
+  hadoop_datanode1:
+  hadoop_datanode2:
+  hadoop_historyserver:

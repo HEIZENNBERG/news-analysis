@@ -1,0 +1,9 @@
+run =>   docker compose up
+
+stop =>  docker stop $(docker ps -aq)
+
+connect to a node => docker exec -it {name of node} /bin/bash
+
+NameNode UI: http://localhost:9870
+
+ResourceManager UI: http://localhost:8088
