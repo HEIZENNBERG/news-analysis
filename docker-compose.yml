@@ -1,5 +1,3 @@
-version: "3"
-
 services:
   namenode:
     image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
@@ -60,6 +58,32 @@ services:
     env_file:
       - ./hadoop.env
 
+  zookeeper:
+    image: bitnami/zookeeper:latest
+    ports:
+      - "2181:2181"
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+    volumes:
+      - hadoop_zookeeper:/bitnami/zookeeper
+
+
+  kafka:
+    image: bitnami/kafka:latest
+    ports:
+      - "9092:9092"
+    environment:
+      - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+      - KAFKA_CFG_LISTENERS=PLAINTEXT://:9092
+      - KAFKA_CFG_PROCESS_ROLES=broker
+      - KAFKA_CFG_NODE_ID=1
+      - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092
+    volumes:
+      - hadoop_kafka:/bitnami/kafka
+    depends_on:
+      - zookeeper
+
+
   historyserver:
     image: bde2020/hadoop-historyserver:2.0.0-hadoop3.2.1-java8
     container_name: historyserver
@@ -81,3 +105,5 @@ volumes:
   hadoop_datanode1:
   hadoop_datanode2:
   hadoop_historyserver:
+  hadoop_kafka:
+  hadoop_zookeeper:
