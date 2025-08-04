@@ -1,0 +1,2206 @@
+{
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1952409886802747607",
+      "url": "https://x.com/1diguin_/status/1952409886802747607",
+      "twitterUrl": "https://twitter.com/1diguin_/status/1952409886802747607",
+      "text": "@ZAMENZA homem se apaixona quando a mulher é calma, carinhosa e feminina e não UMA CHATA INSUPORTÁVEL E AMARGURADA COM JEITO DE TONHÃO que nem essa aí, por isso ela acha que homem não se apaixona porque nunca conheceu o amor.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:45 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952150221233799193",
+      "conversationId": "1952150221233799193",
+      "inReplyToUserId": "67656004",
+      "inReplyToUsername": "ZAMENZA",
+      "author": {
+        "type": "user",
+        "userName": "1diguin_",
+        "url": "https://x.com/1diguin_",
+        "twitterUrl": "https://twitter.com/1diguin_",
+        "id": "914407645943037952",
+        "name": "umdigo ★彡",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1718783697959231488/ARuyTPrt_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/914407645943037952/1594232939",
+        "description": "",
+        "location": "",
+        "followers": 174,
+        "following": 324,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sun Oct 01 08:32:26 +0000 2017",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 65135,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 245,
+        "statusesCount": 11970,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "67656004",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "Sérgio Santos",
+            "screen_name": "ZAMENZA"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409885314109731",
+      "url": "https://x.com/vonbraunish/status/1952409885314109731",
+      "twitterUrl": "https://twitter.com/vonbraunish/status/1952409885314109731",
+      "text": "@zoomafrika1 11/10. If it's not AI.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:45 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952265809452990473",
+      "conversationId": "1952265809452990473",
+      "inReplyToUserId": "1059539826586894337",
+      "inReplyToUsername": "zoomafrika1",
+      "author": {
+        "type": "user",
+        "userName": "vonbraunish",
+        "url": "https://x.com/vonbraunish",
+        "twitterUrl": "https://twitter.com/vonbraunish",
+        "id": "3421215965",
+        "name": "Apestronaut",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1769046719046483968/jB2EAP_z_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3421215965/1562850289",
+        "description": "",
+        "location": "Dark Side of the Moon 🌒",
+        "followers": 175,
+        "following": 606,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Thu Aug 13 23:30:30 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 99716,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 340,
+        "statusesCount": 13954,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1879012612207415372"
+        ],
+        "profile_bio": {
+          "description": "#FreePalestine 🇵🇸 #FreeSudan #FreeCongo",
+          "entities": {
+            "description": {
+              "hashtags": [
+                {
+                  "indices": [
+                    0,
+                    14
+                  ],
+                  "text": "FreePalestine"
+                },
+                {
+                  "indices": [
+                    18,
+                    28
+                  ],
+                  "text": "FreeSudan"
+                },
+                {
+                  "indices": [
+                    29,
+                    39
+                  ],
+                  "text": "FreeCongo"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1059539826586894337",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "Zoom Afrika",
+            "screen_name": "zoomafrika1"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409883548307829",
+      "url": "https://x.com/defa_rafi/status/1952409883548307829",
+      "twitterUrl": "https://twitter.com/defa_rafi/status/1952409883548307829",
+      "text": "@_onlyonebtech @Infinit_Labs Exactly  that’s the whole point of agentic DeFi.\nWith @Infinit_Labs, you don’t just make moves, the AI makes them smarter.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:44 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952409429124509991",
+      "conversationId": "1952408448815317129",
+      "inReplyToUserId": "705430816",
+      "inReplyToUsername": "_onlyonebtech",
+      "author": {
+        "type": "user",
+        "userName": "defa_rafi",
+        "url": "https://x.com/defa_rafi",
+        "twitterUrl": "https://twitter.com/defa_rafi",
+        "id": "1830610293132783617",
+        "name": "Defa Rafi ilham",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1947615192382316544/KqD4hP2p_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1830610293132783617/1753182624",
+        "description": "",
+        "location": "",
+        "followers": 1062,
+        "following": 1054,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon Sep 02 14:15:10 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 15409,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 477,
+        "statusesCount": 12222,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Turning complex Web3 ideas into viral content 🔥\nStorytelling for protocols, growth for communities 📈\nTweets, threads, vibes.",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "705430816",
+            "indices": [
+              0,
+              14
+            ],
+            "name": "𝐁𝐓𝐄𝐂𝐇",
+            "screen_name": "_onlyonebtech"
+          },
+          {
+            "id_str": "1815660590008025088",
+            "indices": [
+              15,
+              28
+            ],
+            "name": "INFINIT",
+            "screen_name": "Infinit_Labs"
+          },
+          {
+            "id_str": "1815660590008025088",
+            "indices": [
+              83,
+              96
+            ],
+            "name": "INFINIT",
+            "screen_name": "Infinit_Labs"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409881258217645",
+      "url": "https://x.com/f0reigner6688/status/1952409881258217645",
+      "twitterUrl": "https://twitter.com/f0reigner6688/status/1952409881258217645",
+      "text": "@financialjuice Oh shit the AI is speaking. https://t.co/FbZddHysW6",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:44 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952376737192640973",
+      "conversationId": "1952376737192640973",
+      "inReplyToUserId": "381696140",
+      "inReplyToUsername": "financialjuice",
+      "author": {
+        "type": "user",
+        "userName": "f0reigner6688",
+        "url": "https://x.com/f0reigner6688",
+        "twitterUrl": "https://twitter.com/f0reigner6688",
+        "id": "1354649252652142592",
+        "name": "harry j",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1585884639256010752/_EKvKCbn_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 122,
+        "following": 72,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Thu Jan 28 04:35:32 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1449,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1294,
+        "statusesCount": 3862,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1941473071271231866"
+        ],
+        "profile_bio": {
+          "description": "jobless stay home dad learning to invest on the toilet cover.",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/FbZddHysW6",
+            "expanded_url": "https://twitter.com/f0reigner6688/status/1952409881258217645/photo/1",
+            "ext_alt_text": "Panic Omg GIF",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "id_str": "1952409875453186048",
+            "indices": [
+              44,
+              67
+            ],
+            "media_key": "16_1952409875453186048",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsYWm/6WhAACgACGxhacVRb0K0AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAACCgABGxhab/paEAAKAAIbGFpxVFvQrQAA",
+                "media_key": "16_1952409875453186048"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gxhab_paEAAyxlF.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 320,
+              "width": 424
+            },
+            "sizes": {
+              "large": {
+                "h": 320,
+                "w": 424
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/FbZddHysW6",
+            "video_info": {
+              "aspect_ratio": [
+                53,
+                40
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/tweet_video/Gxhab_paEAAyxlF.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "381696140",
+            "indices": [
+              0,
+              15
+            ],
+            "name": "FinancialJuice",
+            "screen_name": "financialjuice"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409881220149656",
+      "url": "https://x.com/gomunozen/status/1952409881220149656",
+      "twitterUrl": "https://twitter.com/gomunozen/status/1952409881220149656",
+      "text": "@taehyunnie_7 pareil j’ai l’impression qu’on va me voir en bzr si je poste",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:44 +0000 2025",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952408724439814353",
+      "conversationId": "1952408724439814353",
+      "inReplyToUserId": "1817539066474205184",
+      "inReplyToUsername": "taehyunnie_7",
+      "author": {
+        "type": "user",
+        "userName": "gomunozen",
+        "url": "https://x.com/gomunozen",
+        "twitterUrl": "https://twitter.com/gomunozen",
+        "id": "1922403822598815746",
+        "name": "capu⁷",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1951038338913206273/1Qdqivta_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1922403822598815746/1753998796",
+        "description": "",
+        "location": "egg head ",
+        "followers": 262,
+        "following": 268,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue May 13 21:29:43 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 7566,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 423,
+        "statusesCount": 6252,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1937615399610191945"
+        ],
+        "profile_bio": {
+          "description": "lovesick girl ☁︎ gomunoZEN 🔽",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "youtu.be/cXmYNmQ4BuM",
+                  "expanded_url": "https://youtu.be/cXmYNmQ4BuM",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/yuPBYYkc8Z"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1817539066474205184",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "y00s.b⁷ saw hobi 3 times, 2 times Jin and OT7 damn",
+            "screen_name": "taehyunnie_7"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409879836000763",
+      "url": "https://x.com/brodie369386032/status/1952409879836000763",
+      "twitterUrl": "https://twitter.com/brodie369386032/status/1952409879836000763",
+      "text": "@jollyheretic It's very likely AI. https://t.co/ufFZki2sXk does a /great/ job of cloning voices from very little input, up-arming s*posters hugely. Watch out, world :).\n\nThe text is a 4chan 'pasta' by the way (a popular text that people re-use).",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:44 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952399250538504649",
+      "conversationId": "1952399250538504649",
+      "inReplyToUserId": "20722476",
+      "inReplyToUsername": "jollyheretic",
+      "author": {
+        "type": "user",
+        "userName": "brodie369386032",
+        "url": "https://x.com/brodie369386032",
+        "twitterUrl": "https://twitter.com/brodie369386032",
+        "id": "1802551389693870080",
+        "name": "brodie",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1855130257109512192/UAibVnWO_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 115,
+        "following": 120,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Mon Jun 17 03:59:16 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 17286,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 682,
+        "statusesCount": 2644,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": {
+        "binding_values": [
+          {
+            "key": "photo_image_full_size_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=800x419",
+                "width": 800
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image",
+            "value": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=280x150",
+                "width": 280
+              }
+            }
+          },
+          {
+            "key": "description",
+            "value": {
+              "string_value": "Create the most realistic speech with our AI audio tools in 1000s of voices and 70+ languages. Easy to use API's and SDK's. Scalable, secure, and customizable voice solutions tailored for enterprise..."
+            }
+          },
+          {
+            "key": "domain",
+            "value": {
+              "string_value": "elevenlabs.io"
+            }
+          },
+          {
+            "key": "thumbnail_image_large",
+            "value": {
+              "image_value": {
+                "height": 315,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=600x600",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=386x202",
+                "width": 386
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=orig",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "site",
+            "value": {
+              "scribe_key": "publisher_id",
+              "user_value": {
+                "id_str": "1478679005788311552"
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_small",
+            "value": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=386x202",
+                "width": 386
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_large",
+            "value": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=800x419",
+                "width": 800
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_small",
+            "value": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=144x144",
+                "width": 144
+              }
+            }
+          },
+          {
+            "key": "creator",
+            "value": {
+              "user_value": {
+                "id_str": "1478679005788311552"
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=orig",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "vanity_url",
+            "value": {
+              "scribe_key": "vanity_url",
+              "string_value": "elevenlabs.io"
+            }
+          },
+          {
+            "key": "photo_image_full_size",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=600x314",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "thumbnail_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 93.72,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 5,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 81,
+                      "red": 81
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "title",
+            "value": {
+              "string_value": "Free Text to Speech & AI Voice Generator | ElevenLabs"
+            }
+          },
+          {
+            "key": "summary_photo_image_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 93.72,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 5,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 81,
+                      "red": 81
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "summary_photo_image",
+            "value": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=600x314",
+                "width": 600
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_color",
+            "value": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 93.72,
+                    "rgb": {
+                      "blue": 255,
+                      "green": 255,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 5,
+                    "rgb": {
+                      "blue": 81,
+                      "green": 81,
+                      "red": 81
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "key": "photo_image_full_size_x_large",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              }
+            }
+          },
+          {
+            "key": "card_url",
+            "value": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/ufFZki2sXk"
+            }
+          },
+          {
+            "key": "summary_photo_image_original",
+            "value": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/1951857460035358721/Xe0-Uipr?format=png&name=orig",
+                "width": 1200
+              }
+            }
+          }
+        ],
+        "card_platform": {
+          "platform": {
+            "audience": {
+              "name": "production"
+            },
+            "device": {
+              "name": "iPhone",
+              "version": "13"
+            }
+          }
+        },
+        "name": "summary_large_image",
+        "url": "https://t.co/ufFZki2sXk",
+        "user_refs_results": [
+          {
+            "rest_id": "1478679005788311552",
+            "result": {
+              "__typename": "User",
+              "action_counts": {
+                "favorites_count": 916
+              },
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1590865996532912131/Tkgaw9L1_normal.jpg"
+              },
+              "banner": {
+                "image_url": "https://pbs.twimg.com/profile_banners/1478679005788311552/1718297686"
+              },
+              "core": {
+                "created_at": "Wed Jan 05 10:45:36 +0000 2022",
+                "name": "ElevenLabs",
+                "screen_name": "elevenlabsio"
+              },
+              "dm_permissions": {
+                "can_dm": true
+              },
+              "exclusive_tweet_following": false,
+              "identity_profile_labels_highlighted_label": {},
+              "location": {
+                "location": ""
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "notifications_settings": {},
+              "pinned_items": {
+                "tweet_ids_str": [
+                  "1930689774278570003"
+                ]
+              },
+              "privacy": {},
+              "private_super_following": false,
+              "profile_bio": {
+                "description": "Our mission is to make content universally accessible in any language and voice.",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "elevenlabs.io",
+                        "expanded_url": "https://elevenlabs.io/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/rHN3SKhSAR"
+                      }
+                    ]
+                  }
+                }
+              },
+              "profile_image_shape": "Square",
+              "profile_metadata": {
+                "profile_interstitial_type": "",
+                "profile_link_color": "1DA1F2"
+              },
+              "profile_translation": {
+                "translator_type_enum": "None"
+              },
+              "properties": {
+                "has_extended_profile": true
+              },
+              "relationship_counts": {
+                "followers": 129077,
+                "following": 11
+              },
+              "relationship_perspectives": {},
+              "rest_id": "1478679005788311552",
+              "super_follow_eligible": false,
+              "super_followed_by": false,
+              "super_following": false,
+              "tweet_counts": {
+                "media_tweets": 332,
+                "tweets": 897
+              },
+              "website": {
+                "url": "https://t.co/rHN3SKhSAR"
+              },
+              "verification": {
+                "is_blue_verified": false,
+                "verified_type": "Business"
+              }
+            }
+          },
+          {
+            "rest_id": "1478679005788311552",
+            "result": {
+              "__typename": "User",
+              "action_counts": {
+                "favorites_count": 916
+              },
+              "avatar": {
+                "image_url": "https://pbs.twimg.com/profile_images/1590865996532912131/Tkgaw9L1_normal.jpg"
+              },
+              "banner": {
+                "image_url": "https://pbs.twimg.com/profile_banners/1478679005788311552/1718297686"
+              },
+              "core": {
+                "created_at": "Wed Jan 05 10:45:36 +0000 2022",
+                "name": "ElevenLabs",
+                "screen_name": "elevenlabsio"
+              },
+              "dm_permissions": {
+                "can_dm": true
+              },
+              "exclusive_tweet_following": false,
+              "identity_profile_labels_highlighted_label": {},
+              "location": {
+                "location": ""
+              },
+              "media_permissions": {
+                "can_media_tag": true
+              },
+              "notifications_settings": {},
+              "pinned_items": {
+                "tweet_ids_str": [
+                  "1930689774278570003"
+                ]
+              },
+              "privacy": {},
+              "private_super_following": false,
+              "profile_bio": {
+                "description": "Our mission is to make content universally accessible in any language and voice.",
+                "entities": {
+                  "description": {},
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "elevenlabs.io",
+                        "expanded_url": "https://elevenlabs.io/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/rHN3SKhSAR"
+                      }
+                    ]
+                  }
+                }
+              },
+              "profile_image_shape": "Square",
+              "profile_metadata": {
+                "profile_interstitial_type": "",
+                "profile_link_color": "1DA1F2"
+              },
+              "profile_translation": {
+                "translator_type_enum": "None"
+              },
+              "properties": {
+                "has_extended_profile": true
+              },
+              "relationship_counts": {
+                "followers": 129077,
+                "following": 11
+              },
+              "relationship_perspectives": {},
+              "rest_id": "1478679005788311552",
+              "super_follow_eligible": false,
+              "super_followed_by": false,
+              "super_following": false,
+              "tweet_counts": {
+                "media_tweets": 332,
+                "tweets": 897
+              },
+              "website": {
+                "url": "https://t.co/rHN3SKhSAR"
+              },
+              "verification": {
+                "is_blue_verified": false,
+                "verified_type": "Business"
+              }
+            }
+          }
+        ]
+      },
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "elevenlabs.io",
+            "expanded_url": "http://elevenlabs.io",
+            "indices": [
+              35,
+              58
+            ],
+            "url": "https://t.co/ufFZki2sXk"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "20722476",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "Edward Dutton",
+            "screen_name": "jollyheretic"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409879760507252",
+      "url": "https://x.com/pelopascontent/status/1952409879760507252",
+      "twitterUrl": "https://twitter.com/pelopascontent/status/1952409879760507252",
+      "text": "@emmaffable Bah enft j’ai juste pas de critère de base krkrkrkr tout se fait au feeling et selon les personnes imo",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:44 +0000 2025",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952399194267742688",
+      "conversationId": "1952076650180485462",
+      "inReplyToUserId": "1186733967975866368",
+      "inReplyToUsername": "emmaffable",
+      "author": {
+        "type": "user",
+        "userName": "pelopascontent",
+        "url": "https://x.com/pelopascontent",
+        "twitterUrl": "https://twitter.com/pelopascontent",
+        "id": "1695763755211128832",
+        "name": "Le teufeur du sud🐈‍⬛",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1809432423404605440/sOtyQn_e_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1695763755211128832/1693167749",
+        "description": "",
+        "location": "",
+        "followers": 242,
+        "following": 483,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sun Aug 27 11:42:52 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 6933,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1210,
+        "statusesCount": 16779,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1951614180055814417"
+        ],
+        "profile_bio": {
+          "description": "L'OM et Macron détruisent ma vie....... Gauchiasse bi + vive la teuf, les femmes et la weed, toujours dans le bon ( j’ai 2 chats sinon )",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1186733967975866368",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "crack baby ֶָ֢⭑ᥫ᭡",
+            "screen_name": "emmaffable"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409879530123489",
+      "url": "https://x.com/LautreAfter/status/1952409879530123489",
+      "twitterUrl": "https://twitter.com/LautreAfter/status/1952409879530123489",
+      "text": "@rousselguillau7 J’ai compris, je l’avais noté il y a quelques temps, au gré des publications. \nAlors j’ajouterai que tous n’ont pas l’opportunité de recevoir un adieu.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:43 +0000 2025",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952409481771733141",
+      "conversationId": "1952404708775092466",
+      "inReplyToUserId": "1024620010348716033",
+      "inReplyToUsername": "rousselguillau7",
+      "author": {
+        "type": "user",
+        "userName": "LautreAfter",
+        "url": "https://x.com/LautreAfter",
+        "twitterUrl": "https://twitter.com/LautreAfter",
+        "id": "1911616940",
+        "name": "Val by Herself 🇫🇷🇮🇱🇺🇦",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1926613067049136128/lf0ctBAF_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1911616940/1690325160",
+        "description": "",
+        "location": "France",
+        "followers": 2375,
+        "following": 4432,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Sep 27 16:21:25 +0000 2013",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 166710,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2132,
+        "statusesCount": 61906,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1701616600456261957"
+        ],
+        "profile_bio": {
+          "description": "Cette insoutenable sourde colère… Pro science/Pro Nuke/ Responsable mais pas écolo-woke Libre de parole/ Femme/ Conchie les offensés. Universelle.",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1024620010348716033",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Guillaume Roussel",
+            "screen_name": "rousselguillau7"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409878686777632",
+      "url": "https://x.com/tchouio/status/1952409878686777632",
+      "twitterUrl": "https://twitter.com/tchouio/status/1952409878686777632",
+      "text": "@ShenguinY J’ai pensé à toi mon reuf",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:43 +0000 2025",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952409535022293482",
+      "conversationId": "1952407895284330715",
+      "inReplyToUserId": "1238595817231069184",
+      "inReplyToUsername": "ShenguinY",
+      "author": {
+        "type": "user",
+        "userName": "tchouio",
+        "url": "https://x.com/tchouio",
+        "twitterUrl": "https://twitter.com/tchouio",
+        "id": "1256081804827787266",
+        "name": "l’anaconda du Wyoming",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1946553826514980864/TsVvde0Z_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1256081804827787266/1751791651",
+        "description": "",
+        "location": "she/her",
+        "followers": 331,
+        "following": 974,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Fri May 01 04:43:42 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 40803,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 396,
+        "statusesCount": 8021,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1946985726928679340"
+        ],
+        "profile_bio": {
+          "description": "(deep)seeker",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1238595817231069184",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "main visible",
+            "screen_name": "ShenguinY"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409878007632102",
+      "url": "https://x.com/sarddou/status/1952409878007632102",
+      "twitterUrl": "https://twitter.com/sarddou/status/1952409878007632102",
+      "text": "@Emmanuelle_idel J’ai peur que ce soit vrai.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:43 +0000 2025",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952373243345567931",
+      "conversationId": "1952358670030766427",
+      "inReplyToUserId": "4871603027",
+      "inReplyToUsername": "Emmanuelle_idel",
+      "author": {
+        "type": "user",
+        "userName": "sarddou",
+        "url": "https://x.com/sarddou",
+        "twitterUrl": "https://twitter.com/sarddou",
+        "id": "8030632",
+        "name": "Jean-Michel Sarddou",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1627448912603754496/ZrYnG_I__normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/8030632/1722067174",
+        "description": "",
+        "location": "Clermont-Ferrand, France",
+        "followers": 6110,
+        "following": 830,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Tue Aug 07 16:14:33 +0000 2007",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 59182,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 6688,
+        "statusesCount": 70367,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1912398879036772393"
+        ],
+        "profile_bio": {
+          "description": "Apprendre toujours, savoir jamais.\nJ’étais déjà sur Twitter que t’étais pas né | PP by @ManDessins",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    87,
+                    98
+                  ],
+                  "name": "",
+                  "screen_name": "ManDessins"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "4871603027",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Khayelitsha",
+            "screen_name": "Emmanuelle_idel"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409877743026451",
+      "url": "https://x.com/yg_almeida23/status/1952409877743026451",
+      "twitterUrl": "https://twitter.com/yg_almeida23/status/1952409877743026451",
+      "text": "@central_lfc_br @caio_px12 o mlk q eu falo ai",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:43 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952408380191961153",
+      "conversationId": "1952408380191961153",
+      "inReplyToUserId": "1411166782711287809",
+      "inReplyToUsername": "central_lfc_br",
+      "author": {
+        "type": "user",
+        "userName": "yg_almeida23",
+        "url": "https://x.com/yg_almeida23",
+        "twitterUrl": "https://twitter.com/yg_almeida23",
+        "id": "1390435382962139136",
+        "name": "yg",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1946419971057172481/0j9d2t2l_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1390435382962139136/1752245230",
+        "description": "",
+        "location": "",
+        "followers": 46,
+        "following": 244,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Thu May 06 22:37:43 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 13448,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 100,
+        "statusesCount": 6411,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "keep smiling",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1411166782711287809",
+            "indices": [
+              0,
+              15
+            ],
+            "name": "Central Liverpool Brasil",
+            "screen_name": "central_lfc_br"
+          },
+          {
+            "id_str": "1676789887805128705",
+            "indices": [
+              16,
+              26
+            ],
+            "name": "caio",
+            "screen_name": "caio_px12"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409877113872701",
+      "url": "https://x.com/Just_the_n/status/1952409877113872701",
+      "twitterUrl": "https://twitter.com/Just_the_n/status/1952409877113872701",
+      "text": "J’ai demander à mon père de valider ma commande shein, il m’a fais un virement sauf que la dcp j’ai plus envie de dépenser mes sous qu’il m’a viré dcp j’ai besoin qu’il valide de son côté sauf qu’il me dit qu’il a fais le virement pour ça mais moi chui pas Dcr vu que c mon argent",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:43 +0000 2025",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952409877113872701",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "Just_the_n",
+        "url": "https://x.com/Just_the_n",
+        "twitterUrl": "https://twitter.com/Just_the_n",
+        "id": "1436605299503288323",
+        "name": "Noor💕",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1940109261293363200/PrKsEPPO_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1436605299503288323/1746129821",
+        "description": "",
+        "location": "🏝️",
+        "followers": 403,
+        "following": 81,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sat Sep 11 08:19:37 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 34387,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 355,
+        "statusesCount": 4913,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1952351774389776779"
+        ],
+        "profile_bio": {
+          "description": "hasbi-Allah wa nعmal wakil☝🏽",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409875809481128",
+      "url": "https://x.com/Blackgoku077/status/1952409875809481128",
+      "twitterUrl": "https://twitter.com/Blackgoku077/status/1952409875809481128",
+      "text": "@DokkanEssential Il est exclusif dans le sense qu’on ne pourra plus l’avoir ou c’est seulement pour les personnes qui réussissent ? Au moins que je sache si je dois me dépêcher de le faire ou si j’ai le temps",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:43 +0000 2025",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1951941380105715910",
+      "conversationId": "1951941380105715910",
+      "inReplyToUserId": "2824808014",
+      "inReplyToUsername": "DokkanEssential",
+      "author": {
+        "type": "user",
+        "userName": "Blackgoku077",
+        "url": "https://x.com/Blackgoku077",
+        "twitterUrl": "https://twitter.com/Blackgoku077",
+        "id": "1819940524473655296",
+        "name": "Boulidz",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1819940895044648960/LAfz69ZH_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 9,
+        "following": 100,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Aug 04 03:36:58 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1842,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 157,
+        "statusesCount": 2392,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "2824808014",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "DokkanEssentials",
+            "screen_name": "DokkanEssential"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409875092250743",
+      "url": "https://x.com/hiraivocal/status/1952409875092250743",
+      "twitterUrl": "https://twitter.com/hiraivocal/status/1952409875092250743",
+      "text": "@pjmthrills EU POIS EU FALO MESMO TO NEM AI VOU FALAR DAS DUAS SE CHORAR MANDA AUDIO",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:42 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952409733366694249",
+      "conversationId": "1952407970806907058",
+      "inReplyToUserId": "1417950690886946822",
+      "inReplyToUsername": "pjmthrills",
+      "author": {
+        "type": "user",
+        "userName": "hiraivocal",
+        "url": "https://x.com/hiraivocal",
+        "twitterUrl": "https://twitter.com/hiraivocal",
+        "id": "1433245018047848448",
+        "name": "lim ★",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1952362944353755136/eYrbP9TK_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1433245018047848448/1754325359",
+        "description": "",
+        "location": "only once ",
+        "followers": 2111,
+        "following": 329,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Thu Sep 02 01:47:09 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 47004,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 4916,
+        "statusesCount": 28427,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1951838929759740286"
+        ],
+        "profile_bio": {
+          "description": "momo nayeon dahyun",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "twic9.⠀",
+                  "expanded_url": "http://twic9.xn--6ii",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/Ac1KCjcOzp"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1417950690886946822",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "📦🪽 TWICEPALOOZA",
+            "screen_name": "pjmthrills"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409874882847211",
+      "url": "https://x.com/dendi8813669849/status/1952409874882847211",
+      "twitterUrl": "https://twitter.com/dendi8813669849/status/1952409874882847211",
+      "text": "Hey cliza\n\n@ClizaSystems\n\n@bankrbot\n\nLaunch coin \nName : BUBUVERSE FUN\nTicker : BUBUVERSE\n\nbrewed AI company. Agnes is an autonomous AI agent built to execute complex tasks with no supervision needed. 👉 https://t.co/bPJCktlYBF https://t.co/VRsJxNrb7o",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:42 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952409874882847211",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "dendi8813669849",
+        "url": "https://x.com/dendi8813669849",
+        "twitterUrl": "https://twitter.com/dendi8813669849",
+        "id": "1797335780500897792",
+        "name": "Bitcoin.Eth",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1944608186100568064/oDqNsMnn_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1797335780500897792/1748280017",
+        "description": "",
+        "location": "USA",
+        "followers": 272,
+        "following": 384,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Jun 02 18:33:44 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 3637,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 305,
+        "statusesCount": 4129,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1946371671302250735"
+        ],
+        "profile_bio": {
+          "description": "i'm are professional",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "allow_download_status": {
+              "allow_download": true
+            },
+            "display_url": "pic.twitter.com/VRsJxNrb7o",
+            "expanded_url": "https://twitter.com/dendi8813669849/status/1952409874882847211/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "id_str": "1952409786391449605",
+            "indices": [
+              227,
+              250
+            ],
+            "media_key": "3_1952409786391449605",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsYWls929AFCgACGxhab9hbYesAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGxhaWz3b0AUKAAIbGFpv2Fth6wAA",
+                "media_key": "3_1952409786391449605"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GxhaWz3b0AUyp0C.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 177,
+                  "w": 316,
+                  "x": 0,
+                  "y": 77
+                },
+                {
+                  "h": 316,
+                  "w": 316,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 316,
+                  "w": 277,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 316,
+                  "w": 158,
+                  "x": 23,
+                  "y": 0
+                },
+                {
+                  "h": 316,
+                  "w": 316,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 316,
+              "width": 316
+            },
+            "sizes": {
+              "large": {
+                "h": 316,
+                "w": 316
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VRsJxNrb7o"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "urls": [
+          {
+            "display_url": "bubuverse.fun",
+            "expanded_url": "https://bubuverse.fun/",
+            "indices": [
+              203,
+              226
+            ],
+            "url": "https://t.co/bPJCktlYBF"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1724511741181382656",
+            "indices": [
+              11,
+              24
+            ],
+            "name": "Cliza Systems",
+            "screen_name": "ClizaSystems"
+          },
+          {
+            "id_str": "1864452692221022210",
+            "indices": [
+              26,
+              35
+            ],
+            "name": "Bankr",
+            "screen_name": "bankrbot"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952409874798662095",
+      "url": "https://x.com/tyvncunt/status/1952409874798662095",
+      "twitterUrl": "https://twitter.com/tyvncunt/status/1952409874798662095",
+      "text": "@sillyways ai nada nunca ta bom pra gentalha https://t.co/OdpfTp6D7A",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:42:42 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952408435976290687",
+      "conversationId": "1952407576483647868",
+      "inReplyToUserId": "1950761356191322113",
+      "inReplyToUsername": "sillyways",
+      "author": {
+        "type": "user",
+        "userName": "tyvncunt",
+        "url": "https://x.com/tyvncunt",
+        "twitterUrl": "https://twitter.com/tyvncunt",
+        "id": "1855334844949012480",
+        "name": "zi ☆ ૮₍ ˃ ⤙ ˂ ₎ა",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1936557918184169472/nmMsGr9z_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1855334844949012480/1754168403",
+        "description": "",
+        "location": "21 she 击🍏 #mcrtwt",
+        "followers": 278,
+        "following": 296,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sat Nov 09 19:41:21 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2111,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 208,
+        "statusesCount": 1338,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1943021186155241928"
+        ],
+        "profile_bio": {
+          "description": "⠀⠀frank iero entrou na MINHA casa e espancou a MINHA familia ! (^-^)",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "illi.♡",
+                  "expanded_url": "http://illi.xn--c6h",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/5PL4D9dz45"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OdpfTp6D7A",
+            "expanded_url": "https://twitter.com/tyvncunt/status/1952409874798662095/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 42,
+                    "w": 42,
+                    "x": 273,
+                    "y": 290
+                  },
+                  {
+                    "h": 75,
+                    "w": 75,
+                    "x": 20,
+                    "y": 101
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 42,
+                    "w": 42,
+                    "x": 273,
+                    "y": 290
+                  },
+                  {
+                    "h": 75,
+                    "w": 75,
+                    "x": 20,
+                    "y": 101
+                  }
+                ]
+              }
+            },
+            "id_str": "1952409871468363776",
+            "indices": [
+              45,
+              68
+            ],
+            "media_key": "3_1952409871468363776",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsYWm8M1oAACgACGxhab9NW0c8AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGxhabwzWgAAKAAIbGFpv01bRzwAA",
+                "media_key": "3_1952409871468363776"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GxhabwzWgAAj3Am.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 224,
+                  "w": 400,
+                  "x": 0,
+                  "y": 18
+                },
+                {
+                  "h": 400,
+                  "w": 400,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 400,
+                  "w": 351,
+                  "x": 49,
+                  "y": 0
+                },
+                {
+                  "h": 400,
+                  "w": 200,
+                  "x": 190,
+                  "y": 0
+                },
+                {
+                  "h": 400,
+                  "w": 400,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 400,
+              "width": 400
+            },
+            "sizes": {
+              "large": {
+                "h": 400,
+                "w": 400
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OdpfTp6D7A"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1950761356191322113",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "alex vai ver o mcr 06/02",
+            "screen_name": "sillyways"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    }
+  ],
+  "has_next_page": true,
+  "next_cursor": "DAADDAABCgABGxhacp7WoNcKAAIbGFpv01bRzwAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUbGFpzQwAnEAoABhsYWnNC_9jwAAA"
+}

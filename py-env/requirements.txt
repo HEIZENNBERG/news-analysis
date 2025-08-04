@@ -1,0 +1,4 @@
+requests
+kafka
+hdfs
+pandas

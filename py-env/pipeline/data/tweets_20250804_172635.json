@@ -1,0 +1,2006 @@
+{
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1952405561397662106",
+      "url": "https://x.com/Jinx_on_X/status/1952405561397662106",
+      "twitterUrl": "https://twitter.com/Jinx_on_X/status/1952405561397662106",
+      "text": "@AiTrying @natalialchemica @369muscariAi @RedfearnMike @JackTheRip77160 @sachinmaya1980 @Crypto_baby007 @Hola01715308 @pixelbouncer @JodiBisback @RedPlanetWoman @Xgoddess_visual @GigisAIArt247 @ai_girlz_art @Gus_Artman_AI @ai_empire33 @S1K3_SIKE Beautiful 🖤",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:34 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952379636609855705",
+      "conversationId": "1952378315286651287",
+      "inReplyToUserId": "3581346142",
+      "inReplyToUsername": "AiTrying",
+      "author": {
+        "type": "user",
+        "userName": "Jinx_on_X",
+        "url": "https://x.com/Jinx_on_X",
+        "twitterUrl": "https://twitter.com/Jinx_on_X",
+        "id": "1698097105884073984",
+        "name": "Jinx",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1937307896791830528/7zwl49fY_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1698097105884073984/1750725983",
+        "description": "",
+        "location": "",
+        "followers": 16877,
+        "following": 4989,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sat Sep 02 22:15:21 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 176052,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 5933,
+        "statusesCount": 130674,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "Hi 👋 AI art creator who likes cats a little bit.",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "3581346142",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "Matias",
+            "screen_name": "AiTrying"
+          },
+          {
+            "id_str": "2889839837",
+            "indices": [
+              10,
+              26
+            ],
+            "name": "NataliaTheAlchemistress👩🏼‍🔬🧪",
+            "screen_name": "natalialchemica"
+          },
+          {
+            "id_str": "1889440887710597120",
+            "indices": [
+              27,
+              40
+            ],
+            "name": "Aurora𓂀Ai",
+            "screen_name": "369muscariAi"
+          },
+          {
+            "id_str": "879025070",
+            "indices": [
+              41,
+              54
+            ],
+            "name": "Michael Redfearn",
+            "screen_name": "RedfearnMike"
+          },
+          {
+            "id_str": "1694703691146870784",
+            "indices": [
+              55,
+              71
+            ],
+            "name": "Jack_The_Ripper",
+            "screen_name": "JackTheRip77160"
+          },
+          {
+            "id_str": "1665953855220363264",
+            "indices": [
+              72,
+              87
+            ],
+            "name": "Sachin",
+            "screen_name": "sachinmaya1980"
+          },
+          {
+            "id_str": "1754504476109537280",
+            "indices": [
+              88,
+              103
+            ],
+            "name": "Crypto_baby007",
+            "screen_name": "Crypto_baby007"
+          },
+          {
+            "id_str": "1166831806341140480",
+            "indices": [
+              104,
+              117
+            ],
+            "name": "IV",
+            "screen_name": "Hola01715308"
+          },
+          {
+            "id_str": "1837811682573537280",
+            "indices": [
+              118,
+              131
+            ],
+            "name": "Pixelbouncer",
+            "screen_name": "pixelbouncer"
+          },
+          {
+            "id_str": "1587488189484343296",
+            "indices": [
+              132,
+              144
+            ],
+            "name": "Jodi B",
+            "screen_name": "JodiBisback"
+          },
+          {
+            "id_str": "1725942822874824704",
+            "indices": [
+              145,
+              160
+            ],
+            "name": "Red Planet Woman",
+            "screen_name": "RedPlanetWoman"
+          },
+          {
+            "id_str": "1799402664368939008",
+            "indices": [
+              161,
+              177
+            ],
+            "name": "GoddessVisual",
+            "screen_name": "Xgoddess_visual"
+          },
+          {
+            "id_str": "1837230235315752960",
+            "indices": [
+              178,
+              192
+            ],
+            "name": "Gigi's AI Art Creations",
+            "screen_name": "GigisAIArt247"
+          },
+          {
+            "id_str": "1720809299528536064",
+            "indices": [
+              193,
+              206
+            ],
+            "name": "ai-girls art",
+            "screen_name": "ai_girlz_art"
+          },
+          {
+            "id_str": "1777107313838489600",
+            "indices": [
+              207,
+              221
+            ],
+            "name": "Gus Artman AI",
+            "screen_name": "Gus_Artman_AI"
+          },
+          {
+            "id_str": "1783313759701983232",
+            "indices": [
+              222,
+              234
+            ],
+            "name": "Missy AI",
+            "screen_name": "ai_empire33"
+          },
+          {
+            "id_str": "1686815683596664840",
+            "indices": [
+              235,
+              245
+            ],
+            "name": "SIKE",
+            "screen_name": "S1K3_SIKE"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405560810172793",
+      "url": "https://x.com/taocat502/status/1952405560810172793",
+      "twitterUrl": "https://twitter.com/taocat502/status/1952405560810172793",
+      "text": "🌍 The future of AI is decentralized, democratized, and collaborative. Anyone can contribute, stake TAO, and participate in governance—making AI development more transparent and merit-based. This paradigm shift promises a more equitable AI landscape that benefits everyo",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:34 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952405526899261828",
+      "conversationId": "1952385479032160730",
+      "inReplyToUserId": "1877964845947166720",
+      "inReplyToUsername": "taocat502",
+      "author": {
+        "type": "user",
+        "userName": "taocat502",
+        "url": "https://x.com/taocat502",
+        "twitterUrl": "https://twitter.com/taocat502",
+        "id": "1877964845947166720",
+        "name": "taocat502",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1877965016797937664/eeMmVyP8_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1877964845947166720/1736576884",
+        "description": "",
+        "location": "",
+        "followers": 542,
+        "following": 39,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sat Jan 11 06:25:01 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 871,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1,
+        "statusesCount": 44973,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {
+          "label": {
+            "badge": {
+              "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+            },
+            "description": "Automated",
+            "long_description": {
+              "entities": [
+                {
+                  "from_index": 13,
+                  "ref": {
+                    "__typename": "TimelineRichTextMention",
+                    "screen_name": "ludashi1010",
+                    "user_results": {
+                      "rest_id": "1837526038362181638",
+                      "result": {
+                        "__typename": "User",
+                        "rest_id": "1837526038362181638"
+                      }
+                    }
+                  },
+                  "to_index": 25
+                }
+              ],
+              "text": "Automated by @ludashi1010"
+            },
+            "user_label_type": "AutomatedLabel"
+          }
+        },
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": true,
+        "automatedBy": "ludashi1010"
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405559782543785",
+      "url": "https://x.com/raquelstdy/status/1952405559782543785",
+      "twitterUrl": "https://twitter.com/raquelstdy/status/1952405559782543785",
+      "text": "voce vai estudar historia da economia brasileira e ai o termo \"substituição de importações\" passa a te perseguir pelo resto da vida",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:34 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952405559782543785",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "raquelstdy",
+        "url": "https://x.com/raquelstdy",
+        "twitterUrl": "https://twitter.com/raquelstdy",
+        "id": "1767222659392077824",
+        "name": "Raquel",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1949153554112843776/1SBje0tq_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1767222659392077824/1753549395",
+        "description": "",
+        "location": "",
+        "followers": 117,
+        "following": 185,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon Mar 11 16:15:12 +0000 2024",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 343,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 24,
+        "statusesCount": 342,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1949154505028768075"
+        ],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405559111520464",
+      "url": "https://x.com/falconevtiello/status/1952405559111520464",
+      "twitterUrl": "https://twitter.com/falconevtiello/status/1952405559111520464",
+      "text": "E aí, às vezes um personagem diferente entra na cena e simplesmente… (Sarah estala os dedos).” “É como magia de certa forma. Não importa o quanto eu planejo, mesmo que seja durante anos, eu deixo os meus personagens guiarem a história.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952405556104253745",
+      "conversationId": "1952405542862811319",
+      "inReplyToUserId": "1911450435241549825",
+      "inReplyToUsername": "falconevtiello",
+      "author": {
+        "type": "user",
+        "userName": "falconevtiello",
+        "url": "https://x.com/falconevtiello",
+        "twitterUrl": "https://twitter.com/falconevtiello",
+        "id": "1911450435241549825",
+        "name": "day | 📖: saving 6",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1911567271115247617/OwCfzttY_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1911450435241549825/1744588126",
+        "description": "",
+        "location": "",
+        "followers": 629,
+        "following": 628,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sun Apr 13 16:04:46 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 813,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 860,
+        "statusesCount": 2297,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1948516900943921484"
+        ],
+        "profile_bio": {
+          "description": "ㅤ  ㅤjurı́dıco amogreta & chaol ɯestfall",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405559094739420",
+      "url": "https://x.com/__Josephlee/status/1952405559094739420",
+      "twitterUrl": "https://twitter.com/__Josephlee/status/1952405559094739420",
+      "text": "@jbcollins01 Every chart tells a story, but with $WACH, it’s the heartbeat of AI intelligence in motion, data made alive.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952269513518432632",
+      "conversationId": "1952269513518432632",
+      "inReplyToUserId": "1818199807267102720",
+      "inReplyToUsername": "jbcollins01",
+      "author": {
+        "type": "user",
+        "userName": "__Josephlee",
+        "url": "https://x.com/__Josephlee",
+        "twitterUrl": "https://twitter.com/__Josephlee",
+        "id": "872749306989740032",
+        "name": "PAPSIOR",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1907849200009633792/Hn_pXZG4_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/872749306989740032/1691608645",
+        "description": "",
+        "location": "earth",
+        "followers": 1317,
+        "following": 1948,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Thu Jun 08 09:37:04 +0000 2017",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 11897,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 313,
+        "statusesCount": 9570,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1948638085496852761"
+        ],
+        "profile_bio": {
+          "description": "Web3 enthusiast | Crypto explorer | Building the decentralized future one token at a time.",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "symbols": [
+          {
+            "indices": [
+              49,
+              54
+            ],
+            "text": "WACH"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1818199807267102720",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "JBCollins.btc",
+            "screen_name": "jbcollins01"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405558704681216",
+      "url": "https://x.com/sunoofemme/status/1952405558704681216",
+      "twitterUrl": "https://twitter.com/sunoofemme/status/1952405558704681216",
+      "text": "ai vcs juram muito",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952405558704681216",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "sunoofemme",
+        "url": "https://x.com/sunoofemme",
+        "twitterUrl": "https://twitter.com/sunoofemme",
+        "id": "1647645650933227520",
+        "name": "kiki",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1950624766093647872/LC1-rImr_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1647645650933227520/1752682283",
+        "description": "",
+        "location": "soobin",
+        "followers": 412,
+        "following": 437,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sun Apr 16 16:58:40 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 54227,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3774,
+        "statusesCount": 27185,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1942360425821266419"
+        ],
+        "profile_bio": {
+          "description": "in enhypen we trust",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1951637772437278842",
+        "url": "https://x.com/lttaste/status/1951637772437278842",
+        "twitterUrl": "https://twitter.com/lttaste/status/1951637772437278842",
+        "text": "Sem querer brigar com o pessoal do kpop, mas nenhum grupo de kpop pegou o q a One direction foi. Eles são a maior boyband da DÉCADA sim! E digo mais, talvez, DO SÉCULO! \n\nObrigada, de nada e bom dia.",
+        "source": "Twitter for iPhone",
+        "retweetCount": 699,
+        "replyCount": 39,
+        "likeCount": 5312,
+        "quoteCount": 330,
+        "viewCount": 188473,
+        "createdAt": "Sat Aug 02 13:34:39 +0000 2025",
+        "lang": "pt",
+        "bookmarkCount": 119,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1951637772437278842",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "lttaste",
+          "url": "https://x.com/lttaste",
+          "twitterUrl": "https://twitter.com/lttaste",
+          "id": "1401349558542737408",
+          "name": "•gin•",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1947628074251464704/05sZkDq__normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1401349558542737408/1753185694",
+          "description": "",
+          "location": "bi🏳️‍🌈",
+          "followers": 672,
+          "following": 670,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": false,
+          "createdAt": "Sun Jun 06 01:26:26 +0000 2021",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 86132,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 562,
+          "statusesCount": 21817,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1460789269421768710"
+          ],
+          "profile_bio": {
+            "description": "tell me the truth\ntell me,do you still remember feeling young?\nstrong enough to get it wrong\n\n{a-ela/she-her}",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "hourssly.carrd.co",
+                    "expanded_url": "https://hourssly.carrd.co",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/xJJ23QeQTD"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {},
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": {
+          "type": "tweet",
+          "id": "1951471682872549831",
+          "url": "",
+          "twitterUrl": "",
+          "text": "",
+          "source": "Twitter for iPhone",
+          "retweetCount": 0,
+          "replyCount": 0,
+          "likeCount": 0,
+          "quoteCount": 0,
+          "viewCount": 0,
+          "createdAt": "",
+          "lang": "",
+          "bookmarkCount": 0,
+          "isReply": false,
+          "inReplyToId": null,
+          "conversationId": "",
+          "inReplyToUserId": null,
+          "inReplyToUsername": null,
+          "author": {},
+          "extendedEntities": {},
+          "card": null,
+          "place": {},
+          "entities": {},
+          "quoted_tweet": null,
+          "retweeted_tweet": null,
+          "article": null
+        },
+        "retweeted_tweet": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405558486573144",
+      "url": "https://x.com/user_theGent/status/1952405558486573144",
+      "twitterUrl": "https://twitter.com/user_theGent/status/1952405558486573144",
+      "text": "@Sensei_HG @Overdose_AI Love the photo 🙌 BOOE 🙏📖",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952369258270519385",
+      "conversationId": "1952364891358052496",
+      "inReplyToUserId": "1823696184554491904",
+      "inReplyToUsername": "Sensei_HG",
+      "author": {
+        "type": "user",
+        "userName": "user_theGent",
+        "url": "https://x.com/user_theGent",
+        "twitterUrl": "https://twitter.com/user_theGent",
+        "id": "1371529427981631493",
+        "name": "theGent",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1943385810016854016/iD5yvQ1w_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1371529427981631493/1750335368",
+        "description": "",
+        "location": "The Matrix",
+        "followers": 636,
+        "following": 865,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon Mar 15 18:31:32 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 40244,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2352,
+        "statusesCount": 10376,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1943962572992000025"
+        ],
+        "profile_bio": {
+          "description": "🍀 Degen 🍀 Gent's code™ 🍀 High-value coins 🍀 AI/Agents 🍀 Low-caps 🍀 MEMEs 🍀 Future 🐋 & KOL 🍀 $PAAL 🍀 $XMW 🍀 $BOOE'liever 🍀 Mission: Esc the Matrix ♉",
+          "entities": {
+            "description": {
+              "symbols": [
+                {
+                  "indices": [
+                    92,
+                    97
+                  ],
+                  "text": "PAAL"
+                },
+                {
+                  "indices": [
+                    100,
+                    104
+                  ],
+                  "text": "XMW"
+                },
+                {
+                  "indices": [
+                    107,
+                    112
+                  ],
+                  "text": "BOOE"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1823696184554491904",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "sensei.booe.eth",
+            "screen_name": "Sensei_HG"
+          },
+          {
+            "id_str": "1333533748072165376",
+            "indices": [
+              11,
+              23
+            ],
+            "name": "OverDose",
+            "screen_name": "Overdose_AI"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405558038008300",
+      "url": "https://x.com/nahiyansiddik/status/1952405558038008300",
+      "twitterUrl": "https://twitter.com/nahiyansiddik/status/1952405558038008300",
+      "text": "@0xcyberw1zard @OpenledgerHQ @cookiedotfun @Cookie3_com This is a cool visual representation of @OpenledgerHQ bridging the trust gap in AI! The use of cheerful characters and clear labels like \"Verifiable Attribution\" and \"Real-Time Rewards\" really highlights the transparency and rewards aspect effectively.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952403662023635042",
+      "conversationId": "1952403662023635042",
+      "inReplyToUserId": "1873466959259742208",
+      "inReplyToUsername": "0xcyberw1zard",
+      "author": {
+        "type": "user",
+        "userName": "nahiyansiddik",
+        "url": "https://x.com/nahiyansiddik",
+        "twitterUrl": "https://twitter.com/nahiyansiddik",
+        "id": "1520402925163790336",
+        "name": "SIDDIKUR RAHMAN",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1938355552045961219/AV1nW08T_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "Chinatown, Manhattan",
+        "followers": 1328,
+        "following": 2257,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Sat Apr 30 14:01:45 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 7398,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 386,
+        "statusesCount": 3604,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1952285716257612236"
+        ],
+        "profile_bio": {
+          "description": "@web3 developer\ncontent creator",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    0,
+                    5
+                  ],
+                  "name": "",
+                  "screen_name": "web3"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1873466959259742208",
+            "indices": [
+              0,
+              14
+            ],
+            "name": "CYBERWIZARD 📜 🧪",
+            "screen_name": "0xcyberw1zard"
+          },
+          {
+            "id_str": "1755624156731768833",
+            "indices": [
+              15,
+              28
+            ],
+            "name": "Openledger",
+            "screen_name": "OpenledgerHQ"
+          },
+          {
+            "id_str": "1762471547485184000",
+            "indices": [
+              29,
+              42
+            ],
+            "name": "Cookie DAO 🍪",
+            "screen_name": "cookiedotfun"
+          },
+          {
+            "id_str": "1407290555344769030",
+            "indices": [
+              43,
+              55
+            ],
+            "name": "Cookie3 🍪",
+            "screen_name": "Cookie3_com"
+          },
+          {
+            "id_str": "1755624156731768833",
+            "indices": [
+              96,
+              109
+            ],
+            "name": "Openledger",
+            "screen_name": "OpenledgerHQ"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405556876222588",
+      "url": "https://x.com/rumbanahi/status/1952405556876222588",
+      "twitterUrl": "https://twitter.com/rumbanahi/status/1952405556876222588",
+      "text": "@extrananahi amiga juro KKK os convidados pelo que tudo indica são emmet, alice, jasper e carlisle MAS NÃO VALE A PENA PAGAR TUDO ISSO AÍ NÃO pqp",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952405292378886577",
+      "conversationId": "1952378353803309173",
+      "inReplyToUserId": "1717511072544960512",
+      "inReplyToUsername": "extrananahi",
+      "author": {
+        "type": "user",
+        "userName": "rumbanahi",
+        "url": "https://x.com/rumbanahi",
+        "twitterUrl": "https://twitter.com/rumbanahi",
+        "id": "1552046997779120128",
+        "name": "ؘ",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1952188695844446209/Z7hMus18_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1552046997779120128/1705851180",
+        "description": "",
+        "location": "",
+        "followers": 850,
+        "following": 590,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Tue Jul 26 21:43:48 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 16058,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 974,
+        "statusesCount": 12810,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1717511072544960512",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "ؘ",
+            "screen_name": "extrananahi"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405556788076653",
+      "url": "https://x.com/Matheus74039884/status/1952405556788076653",
+      "twitterUrl": "https://twitter.com/Matheus74039884/status/1952405556788076653",
+      "text": "@tiofurro___ Ainda teria dois do mochileiro nisso aí kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk que coisa bizarra",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952380584397033718",
+      "conversationId": "1952380584397033718",
+      "inReplyToUserId": "1773416059594293248",
+      "inReplyToUsername": "tiofurro___",
+      "author": {
+        "type": "user",
+        "userName": "Matheus74039884",
+        "url": "https://x.com/Matheus74039884",
+        "twitterUrl": "https://twitter.com/Matheus74039884",
+        "id": "1343217727931113472",
+        "name": "🇾🇪 Matheus 🇾🇪 #FORACASARES",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1767520319613337600/xiOjkqi1_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1343217727931113472/1695650194",
+        "description": "",
+        "location": "Brazil",
+        "followers": 267,
+        "following": 282,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Dec 27 15:30:49 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 10265,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 366,
+        "statusesCount": 5863,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1733973289330970832"
+        ],
+        "profile_bio": {
+          "description": "Eai, bão ou não? 😆😅\nSão Paulino apaixonado e amante de desenhos japoneses 🤭😌.",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1773416059594293248",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "ofurro",
+            "screen_name": "tiofurro___"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405556695887989",
+      "url": "https://x.com/MMBeckerman/status/1952405556695887989",
+      "twitterUrl": "https://twitter.com/MMBeckerman/status/1952405556695887989",
+      "text": "@kirawontmiss Well, that's AI so...he could keep doing it forever.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952158027794297301",
+      "conversationId": "1952158027794297301",
+      "inReplyToUserId": "1471414739880189955",
+      "inReplyToUsername": "kirawontmiss",
+      "author": {
+        "type": "user",
+        "userName": "MMBeckerman",
+        "url": "https://x.com/MMBeckerman",
+        "twitterUrl": "https://twitter.com/MMBeckerman",
+        "id": "64082214",
+        "name": "Michael Beckerman",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 1583,
+        "following": 1597,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Aug 09 01:23:59 +0000 2009",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 40131,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 0,
+        "statusesCount": 19683,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1471414739880189955",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "kira 👾",
+            "screen_name": "kirawontmiss"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405556104253745",
+      "url": "https://x.com/falconevtiello/status/1952405556104253745",
+      "twitterUrl": "https://twitter.com/falconevtiello/status/1952405556104253745",
+      "text": "💬 “Às vezes, escrevo uma cena com dois personagens que iriam inicialmente ficar juntos, mas aí eles não tem… (Sarah balança a cabeça).” “É como segurar duas bonecas e ficar tipo ‘Vai, se beija’ E eles não se beijam.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952405552820302159",
+      "conversationId": "1952405542862811319",
+      "inReplyToUserId": "1911450435241549825",
+      "inReplyToUsername": "falconevtiello",
+      "author": {
+        "type": "user",
+        "userName": "falconevtiello",
+        "url": "https://x.com/falconevtiello",
+        "twitterUrl": "https://twitter.com/falconevtiello",
+        "id": "1911450435241549825",
+        "name": "day | 📖: saving 6",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1911567271115247617/OwCfzttY_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1911450435241549825/1744588126",
+        "description": "",
+        "location": "",
+        "followers": 629,
+        "following": 628,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sun Apr 13 16:04:46 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 813,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 860,
+        "statusesCount": 2297,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1948516900943921484"
+        ],
+        "profile_bio": {
+          "description": "ㅤ  ㅤjurı́dıco amogreta & chaol ɯestfall",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405556078997621",
+      "url": "https://x.com/favour_martin12/status/1952405556078997621",
+      "twitterUrl": "https://twitter.com/favour_martin12/status/1952405556078997621",
+      "text": "@oluwa_debiggest @TheoriqAI Very solid project project, they provide the best way of utilizing Ai model",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952310352110055621",
+      "conversationId": "1952310352110055621",
+      "inReplyToUserId": "1715502535048343552",
+      "inReplyToUsername": "oluwa_debiggest",
+      "author": {
+        "type": "user",
+        "userName": "favour_martin12",
+        "url": "https://x.com/favour_martin12",
+        "twitterUrl": "https://twitter.com/favour_martin12",
+        "id": "1482411045411074049",
+        "name": "TOPMAN",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1946597839435362304/qIMWj4sr_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 296,
+        "following": 240,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Sat Jan 15 17:55:43 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 4722,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 219,
+        "statusesCount": 1860,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1952361682568982847"
+        ],
+        "profile_bio": {
+          "description": "crypto fundamentalist | web3 strategist| |Airdrop Farmer| and Advertising Agency",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1715502535048343552",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Oluwabiggest",
+            "screen_name": "oluwa_debiggest"
+          },
+          {
+            "id_str": "1549505015655440384",
+            "indices": [
+              17,
+              27
+            ],
+            "name": "Theoriq",
+            "screen_name": "TheoriqAI"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405555089391826",
+      "url": "https://x.com/jornalistachart/status/1952405555089391826",
+      "twitterUrl": "https://twitter.com/jornalistachart/status/1952405555089391826",
+      "text": "@gatobaianin é coisa d religião q representa a fertilidade e essas coisa aí. Ou porque a gensgin é podre mesmo e gosta de peito, oq eu não reclamo inclusive adoro peitao",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:32 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1951880813299020089",
+      "conversationId": "1951880813299020089",
+      "inReplyToUserId": "1723423631873556480",
+      "inReplyToUsername": "gatobaianin",
+      "author": {
+        "type": "user",
+        "userName": "jornalistachart",
+        "url": "https://x.com/jornalistachart",
+        "twitterUrl": "https://twitter.com/jornalistachart",
+        "id": "1903484962726137856",
+        "name": "Charlotte Charts",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1939831019181383680/w9lmvZGT_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1903484962726137856/1744653436",
+        "description": "",
+        "location": "Pássaro a Vapor",
+        "followers": 262,
+        "following": 278,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sat Mar 22 16:32:41 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2042,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 231,
+        "statusesCount": 3714,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1916889949162308056"
+        ],
+        "profile_bio": {
+          "description": "୨  📸⠀୧ㅤ﹔charts account  ☆\n jornalista n⁰ 1!    \n𝜗𝜚˚⋆ ' smile for the camera ! '       𐙚 ₊˚⋆｡",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "charlottecharts.straw.page",
+                  "expanded_url": "https://charlottecharts.straw.page",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/oBcPcpnotZ"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1723423631873556480",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "Gato Baiano",
+            "screen_name": "gatobaianin"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405553986281684",
+      "url": "https://x.com/sullypatinha/status/1952405553986281684",
+      "twitterUrl": "https://twitter.com/sullypatinha/status/1952405553986281684",
+      "text": "@rikukitkat ai migo mas o ttk to numa bolha mt nichada, so furei ela com a dc, o povo quando conhece sao com videos normais gracas a deus. agora no tt eu sou mt pior, posto mt mais oq eu penso",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:32 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952404903059509701",
+      "conversationId": "1952403761378578580",
+      "inReplyToUserId": "1945011949604876288",
+      "inReplyToUsername": "rikukitkat",
+      "author": {
+        "type": "user",
+        "userName": "sullypatinha",
+        "url": "https://x.com/sullypatinha",
+        "twitterUrl": "https://twitter.com/sullypatinha",
+        "id": "1564110855989518337",
+        "name": "gu",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1875188026873192448/UbapEqlM_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1564110855989518337/1732580246",
+        "description": "",
+        "location": "poa, rs",
+        "followers": 3665,
+        "following": 684,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Mon Aug 29 04:41:15 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 3683,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3838,
+        "statusesCount": 35802,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {
+          "label": {
+            "badge": {
+              "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+            },
+            "description": "Automated",
+            "long_description": {
+              "entities": [
+                {
+                  "from_index": 13,
+                  "ref": {
+                    "__typename": "TimelineRichTextMention",
+                    "screen_name": "yunaprisioneira",
+                    "user_results": {
+                      "rest_id": "1329823794236690433",
+                      "result": {
+                        "__typename": "User",
+                        "rest_id": "1329823794236690433"
+                      }
+                    }
+                  },
+                  "to_index": 29
+                }
+              ],
+              "text": "Automated by @yunaprisioneira"
+            },
+            "user_label_type": "AutomatedLabel"
+          }
+        },
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1947735215532544228"
+        ],
+        "profile_bio": {
+          "description": "falling behind - laufey",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "dahyun.♡",
+                  "expanded_url": "http://www.dahyun.xn--c6h",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/J7Zabd6Lqw"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": true,
+        "automatedBy": "yunaprisioneira"
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1945011949604876288",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "minj",
+            "screen_name": "rikukitkat"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952405553923461173",
+      "url": "https://x.com/albumsicantsell/status/1952405553923461173",
+      "twitterUrl": "https://twitter.com/albumsicantsell/status/1952405553923461173",
+      "text": "ai mas pra que usar essas fotos tb ne",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:25:32 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952405553923461173",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "albumsicantsell",
+        "url": "https://x.com/albumsicantsell",
+        "twitterUrl": "https://twitter.com/albumsicantsell",
+        "id": "1316210932591271938",
+        "name": "plo.",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1942745005031866368/KhMYsxdL_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1316210932591271938/1711685952",
+        "description": "",
+        "location": "",
+        "followers": 1577,
+        "following": 2443,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Wed Oct 14 02:55:23 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 238331,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 9088,
+        "statusesCount": 48850,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1774059341483524204"
+        ],
+        "profile_bio": {
+          "description": "The Many Things That Have Gone Wrong With Kasai Tomomi's Career",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": {
+        "type": "tweet",
+        "id": "1952401811198951844",
+        "url": "https://x.com/centralsbr/status/1952401811198951844",
+        "twitterUrl": "https://twitter.com/centralsbr/status/1952401811198951844",
+        "text": "Novo vinil de “Man’s Best Friend”, de Sabrina Carpenter, no formato Picture Disc. https://t.co/AbQpmdmUWd",
+        "source": "Twitter for iPhone",
+        "retweetCount": 1,
+        "replyCount": 1,
+        "likeCount": 18,
+        "quoteCount": 1,
+        "viewCount": 164,
+        "createdAt": "Mon Aug 04 16:10:40 +0000 2025",
+        "lang": "ro",
+        "bookmarkCount": 0,
+        "isReply": false,
+        "inReplyToId": null,
+        "conversationId": "1952401811198951844",
+        "inReplyToUserId": null,
+        "inReplyToUsername": null,
+        "author": {
+          "type": "user",
+          "userName": "centralsbr",
+          "url": "https://x.com/centralsbr",
+          "twitterUrl": "https://twitter.com/centralsbr",
+          "id": "1549738634026356737",
+          "name": "Central Sabrina Brasil | Fã-Site",
+          "isVerified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "profilePicture": "https://pbs.twimg.com/profile_images/1890240432388345856/3lNMpnm6_normal.jpg",
+          "coverPicture": "https://pbs.twimg.com/profile_banners/1549738634026356737/1739503414",
+          "description": "",
+          "location": "",
+          "followers": 7863,
+          "following": 336,
+          "status": "",
+          "canDm": true,
+          "canMediaTag": true,
+          "createdAt": "Wed Jul 20 12:51:17 +0000 2022",
+          "entities": {
+            "description": {
+              "urls": []
+            },
+            "url": {}
+          },
+          "fastFollowersCount": 0,
+          "favouritesCount": 3073,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "mediaCount": 10483,
+          "statusesCount": 14646,
+          "withheldInCountries": [],
+          "affiliatesHighlightedLabel": {},
+          "possiblySensitive": false,
+          "pinnedTweetIds": [
+            "1932831086352240775"
+          ],
+          "profile_bio": {
+            "description": "Sua melhor fonte de informações sobre a cantora, atriz, 2x vencedora do Grammys e compositora Sabrina Carpenter no Brasil.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/centralsabrina…",
+                    "expanded_url": "https://linktr.ee/centralsabrinabrasil",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/VOf8ul17yw"
+                  }
+                ]
+              }
+            }
+          },
+          "isAutomated": false,
+          "automatedBy": null
+        },
+        "extendedEntities": {
+          "media": [
+            {
+              "display_url": "pic.twitter.com/AbQpmdmUWd",
+              "expanded_url": "https://twitter.com/centralsbr/status/1952401811198951844/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {},
+                "orig": {}
+              },
+              "id_str": "1952401806987857920",
+              "indices": [
+                82,
+                105
+              ],
+              "media_key": "3_1952401806987857920",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsYUxlkV5AACgACGxhTGl9XwaQAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGxhTGWRXkAAKAAIbGFMaX1fBpAAA",
+                  "media_key": "3_1952401806987857920"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GxhTGWRXkAAJwov.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 448,
+                    "w": 800,
+                    "x": 0,
+                    "y": 116
+                  },
+                  {
+                    "h": 800,
+                    "w": 800,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 800,
+                    "w": 702,
+                    "x": 49,
+                    "y": 0
+                  },
+                  {
+                    "h": 800,
+                    "w": 400,
+                    "x": 200,
+                    "y": 0
+                  },
+                  {
+                    "h": 800,
+                    "w": 800,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 800,
+                "width": 800
+              },
+              "sizes": {
+                "large": {
+                  "h": 800,
+                  "w": 800
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/AbQpmdmUWd"
+            },
+            {
+              "display_url": "pic.twitter.com/AbQpmdmUWd",
+              "expanded_url": "https://twitter.com/centralsbr/status/1952401811198951844/photo/1",
+              "ext_media_availability": {
+                "status": "Available"
+              },
+              "features": {
+                "large": {
+                  "faces": [
+                    {
+                      "h": 290,
+                      "w": 290,
+                      "x": 471,
+                      "y": 278
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "h": 290,
+                      "w": 290,
+                      "x": 471,
+                      "y": 278
+                    }
+                  ]
+                }
+              },
+              "id_str": "1952401806941708288",
+              "indices": [
+                82,
+                105
+              ],
+              "media_key": "3_1952401806941708288",
+              "media_results": {
+                "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsYUxlhl2AACgACGxhTGl9XwaQAAA==",
+                "result": {
+                  "__typename": "ApiMedia",
+                  "id": "QXBpTWVkaWE6DAABCgABGxhTGWGXYAAKAAIbGFMaX1fBpAAA",
+                  "media_key": "3_1952401806941708288"
+                }
+              },
+              "media_url_https": "https://pbs.twimg.com/media/GxhTGWGXYAA7Pdt.jpg",
+              "original_info": {
+                "focus_rects": [
+                  {
+                    "h": 512,
+                    "w": 915,
+                    "x": 0,
+                    "y": 178
+                  },
+                  {
+                    "h": 915,
+                    "w": 915,
+                    "x": 0,
+                    "y": 0
+                  },
+                  {
+                    "h": 915,
+                    "w": 803,
+                    "x": 112,
+                    "y": 0
+                  },
+                  {
+                    "h": 915,
+                    "w": 458,
+                    "x": 388,
+                    "y": 0
+                  },
+                  {
+                    "h": 915,
+                    "w": 915,
+                    "x": 0,
+                    "y": 0
+                  }
+                ],
+                "height": 915,
+                "width": 915
+              },
+              "sizes": {
+                "large": {
+                  "h": 915,
+                  "w": 915
+                }
+              },
+              "type": "photo",
+              "url": "https://t.co/AbQpmdmUWd"
+            }
+          ]
+        },
+        "card": null,
+        "place": {},
+        "entities": {},
+        "quoted_tweet": null,
+        "retweeted_tweet": null,
+        "article": null
+      },
+      "retweeted_tweet": null,
+      "article": null
+    }
+  ],
+  "has_next_page": true,
+  "next_cursor": "DAADDAABCgABGxhWg4ia0ZoKAAIbGFaByxuQNQAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUbGFaEEMAnEAoABhsYVoQQv9jwAAA"
+}

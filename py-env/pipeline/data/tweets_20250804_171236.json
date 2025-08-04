@@ -1,0 +1,1692 @@
+{
+  "tweets": [
+    {
+      "type": "tweet",
+      "id": "1952402293787082932",
+      "url": "https://x.com/Shahin_6094/status/1952402293787082932",
+      "twitterUrl": "https://twitter.com/Shahin_6094/status/1952402293787082932",
+      "text": "@B__E__1823 @FractionAI_xyz the fraction ai design feels futuristic, those circuits are neat! 😊",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:35 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952362907720622294",
+      "conversationId": "1952362907720622294",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "Shahin_6094",
+        "url": "https://x.com/Shahin_6094",
+        "twitterUrl": "https://twitter.com/Shahin_6094",
+        "id": "1378222781268164608",
+        "name": "Shahin",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1905611508274315264/3kR_FpIN_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1378222781268164608/1753730437",
+        "description": "",
+        "location": "",
+        "followers": 1237,
+        "following": 986,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": false,
+        "createdAt": "Sat Apr 03 05:48:23 +0000 2021",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 16318,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 418,
+        "statusesCount": 13625,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1951919882032877664"
+        ],
+        "profile_bio": {
+          "description": "Crypto & blockchain enthusiast👾\n Data enthusiastic | Crypto resercher📊",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/Shahin6094",
+                  "expanded_url": "https://linktr.ee/Shahin6094",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/7ySy9sJPOA"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1575195523895664640",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "0xbehnam... 𝔽rAI",
+            "screen_name": "B__E__1823"
+          },
+          {
+            "id_str": "1737049734668238848",
+            "indices": [
+              12,
+              27
+            ],
+            "name": "Fraction AI",
+            "screen_name": "FractionAI_xyz"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402292650787023",
+      "url": "https://x.com/karenkunhe/status/1952402292650787023",
+      "twitterUrl": "https://twitter.com/karenkunhe/status/1952402292650787023",
+      "text": "AIを使い倒すんだぜ",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:35 +0000 2025",
+      "lang": "ja",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952402292650787023",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "karenkunhe",
+        "url": "https://x.com/karenkunhe",
+        "twitterUrl": "https://twitter.com/karenkunhe",
+        "id": "1879162582776655872",
+        "name": "モ口",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1920453071588503552/cXgxGVd6_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1879162582776655872/1746600064",
+        "description": "",
+        "location": "",
+        "followers": 133,
+        "following": 164,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Tue Jan 14 13:44:32 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 5522,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 545,
+        "statusesCount": 5152,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1944702095460037069"
+        ],
+        "profile_bio": {
+          "description": "#かれんくんへ #いぎなり東北産 かれんくん、愛してる。",
+          "entities": {
+            "description": {
+              "hashtags": [
+                {
+                  "indices": [
+                    0,
+                    7
+                  ],
+                  "text": "かれんくんへ"
+                },
+                {
+                  "indices": [
+                    8,
+                    16
+                  ],
+                  "text": "いぎなり東北産"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "madeintohoku.com",
+                  "expanded_url": "https://madeintohoku.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/cvJj1A3Iov"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402291815784698",
+      "url": "https://x.com/CaoimheFogarty/status/1952402291815784698",
+      "twitterUrl": "https://twitter.com/CaoimheFogarty/status/1952402291815784698",
+      "text": "🌐 As the next dTAO halving approaches in 2026-2027, scarcity will intensify—reducing supply by 50%. This scarcity, combined with increasing AI demand, mirrors Bitcoin’s model, likely driving long-term value appreciation and attracting more contributors to the decentral",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:34 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952402124274298956",
+      "conversationId": "1952368889150759103",
+      "inReplyToUserId": "3044528864",
+      "inReplyToUsername": "CaoimheFogarty",
+      "author": {
+        "type": "user",
+        "userName": "CaoimheFogarty",
+        "url": "https://x.com/CaoimheFogarty",
+        "twitterUrl": "https://twitter.com/CaoimheFogarty",
+        "id": "3044528864",
+        "name": "Caoimhe Fogarty",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1895468642730418176/KCIMrF9T_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/3044528864/1740749920",
+        "description": "",
+        "location": "",
+        "followers": 30,
+        "following": 4,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Thu Feb 26 19:59:24 +0000 2015",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 11,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1,
+        "statusesCount": 40281,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "live life",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402290843013137",
+      "url": "https://x.com/Emilmehdiyev_/status/1952402290843013137",
+      "twitterUrl": "https://twitter.com/Emilmehdiyev_/status/1952402290843013137",
+      "text": "@_ifycalex @AethirCloud @satlayer SatLayer keeps proving that BTC isn’t just a store of value. This partnership with Aethir makes real use of restaking in AI infra.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:34 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952387537667858592",
+      "conversationId": "1952387537667858592",
+      "inReplyToUserId": "1217167507448061953",
+      "inReplyToUsername": "_ifycalex",
+      "author": {
+        "type": "user",
+        "userName": "Emilmehdiyev_",
+        "url": "https://x.com/Emilmehdiyev_",
+        "twitterUrl": "https://twitter.com/Emilmehdiyev_",
+        "id": "1654620805710446592",
+        "name": "⬤ EmiL 𓂀",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1948100661863718912/9Kr21gR1_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "Türkiye",
+        "followers": 4817,
+        "following": 3564,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri May 05 22:55:25 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 46355,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 364,
+        "statusesCount": 19890,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1951877228171559017"
+        ],
+        "profile_bio": {
+          "description": "Kripto, teknoloji ve finans dünyasında keşifler yapıyorum.  🔥",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1217167507448061953",
+            "indices": [
+              0,
+              10
+            ],
+            "name": "Ifycalex.nft",
+            "screen_name": "_ifycalex"
+          },
+          {
+            "id_str": "1531588175000268800",
+            "indices": [
+              11,
+              23
+            ],
+            "name": "Aethir",
+            "screen_name": "AethirCloud"
+          },
+          {
+            "id_str": "1780530218404401152",
+            "indices": [
+              24,
+              33
+            ],
+            "name": "SatLayer 🟨🧊",
+            "screen_name": "satlayer"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402290205139184",
+      "url": "https://x.com/orac0le_/status/1952402290205139184",
+      "twitterUrl": "https://twitter.com/orac0le_/status/1952402290205139184",
+      "text": "having your parents make your essay for you is less shameful than using ai btw",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:34 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952402290205139184",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "orac0le_",
+        "url": "https://x.com/orac0le_",
+        "twitterUrl": "https://twitter.com/orac0le_",
+        "id": "1879163178938208256",
+        "name": "cole .ᐟ 🧁",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1946868520148426754/ORGwM5an_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1879163178938208256/1753004612",
+        "description": "",
+        "location": "🍙",
+        "followers": 400,
+        "following": 359,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Tue Jan 14 13:46:53 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 10880,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 3274,
+        "statusesCount": 21272,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1943888487293522252"
+        ],
+        "profile_bio": {
+          "description": "@dr0wziiee hal ko ♡ 02.26.25┊CURRENT HYPERFIX : umamusume┊click 'view more' .ᐟ",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    0,
+                    10
+                  ],
+                  "name": "",
+                  "screen_name": "dr0wziiee"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "pronouns.cc/@orac0le_",
+                  "expanded_url": "https://pronouns.cc/@orac0le_",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/wtICe7JecD"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402289781534735",
+      "url": "https://x.com/IgorLollato/status/1952402289781534735",
+      "twitterUrl": "https://twitter.com/IgorLollato/status/1952402289781534735",
+      "text": "@george1BR2 Mano já ficou feio essa medição peniana entre fanáticos frustrados da direita e fanáticos frustrados da esquerda...\nComportamento de criança birrenta que não recebeu educação e fica ai teimando e desafiando...\nPuta showzinho de trouxa que adora idolatrar um politico de estimação! https://t.co/NoHMIh0xx8",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:34 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1951909203997606383",
+      "conversationId": "1951909203997606383",
+      "inReplyToUserId": "1791058375385423872",
+      "inReplyToUsername": "george1BR2",
+      "author": {
+        "type": "user",
+        "userName": "IgorLollato",
+        "url": "https://x.com/IgorLollato",
+        "twitterUrl": "https://twitter.com/IgorLollato",
+        "id": "726267402",
+        "name": "Trevs",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1608888325732966400/-ioYPG8x_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/726267402/1672424146",
+        "description": "",
+        "location": "",
+        "followers": 44,
+        "following": 228,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Mon Jul 30 15:23:26 +0000 2012",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 25475,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 274,
+        "statusesCount": 1915,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/NoHMIh0xx8",
+            "expanded_url": "https://twitter.com/IgorLollato/status/1952402289781534735/photo/1",
+            "ext_alt_text": "Frick That Man GIF",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "id_str": "1952402281367760896",
+            "indices": [
+              293,
+              316
+            ],
+            "media_key": "16_1952402281367760896",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsYU4fXlnAACgACGxhTic0WcA8AAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAACCgABGxhTh9eWcAAKAAIbGFOJzRZwDwAA",
+                "media_key": "16_1952402281367760896"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxhTh9eWcAAteHL.jpg",
+            "original_info": {
+              "focus_rects": [],
+              "height": 256,
+              "width": 498
+            },
+            "sizes": {
+              "large": {
+                "h": 256,
+                "w": 498
+              }
+            },
+            "type": "animated_gif",
+            "url": "https://t.co/NoHMIh0xx8",
+            "video_info": {
+              "aspect_ratio": [
+                249,
+                128
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video-s.twimg.com/tweet_video/GxhTh9eWcAAteHL.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1791058375385423872",
+            "indices": [
+              0,
+              11
+            ],
+            "name": "George",
+            "screen_name": "george1BR2"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402288548651230",
+      "url": "https://x.com/oddo_sabrina/status/1952402288548651230",
+      "twitterUrl": "https://twitter.com/oddo_sabrina/status/1952402288548651230",
+      "text": "@pippo_l1640 Che belli questi ricordi. \nA Milano c'erano le Messaggerie Musicali, dove oltre ai dischi, si potevano ascoltare le chiacchiere dei ragazzi e delle ragazze. Un periodo stupendo! \nGrazie, buona serata a te.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:34 +0000 2025",
+      "lang": "it",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952399856812642652",
+      "conversationId": "1952396923840721058",
+      "inReplyToUserId": "1915467572692013056",
+      "inReplyToUsername": "pippo_l1640",
+      "author": {
+        "type": "user",
+        "userName": "oddo_sabrina",
+        "url": "https://x.com/oddo_sabrina",
+        "twitterUrl": "https://twitter.com/oddo_sabrina",
+        "id": "1241312780281688064",
+        "name": "Sabrina Oddo",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1736125667643678720/NoW3XDwH_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1241312780281688064/1588438290",
+        "description": "",
+        "location": "",
+        "followers": 1561,
+        "following": 848,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sat Mar 21 10:36:59 +0000 2020",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 43352,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1808,
+        "statusesCount": 16720,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1241314435823738880"
+        ],
+        "profile_bio": {
+          "description": "La verità ci rende liberi.\nDiciamoci la verità.\n#soltantoilnome 📖🖋 #biografia\n#ilcieloèfattodisospiri e #lodicoconparolemie #aforismi 📚parole e 📷 #RobaMia©️",
+          "entities": {
+            "description": {
+              "hashtags": [
+                {
+                  "indices": [
+                    48,
+                    63
+                  ],
+                  "text": "soltantoilnome"
+                },
+                {
+                  "indices": [
+                    67,
+                    77
+                  ],
+                  "text": "biografia"
+                },
+                {
+                  "indices": [
+                    78,
+                    101
+                  ],
+                  "text": "ilcieloèfattodisospiri"
+                },
+                {
+                  "indices": [
+                    104,
+                    123
+                  ],
+                  "text": "lodicoconparolemie"
+                },
+                {
+                  "indices": [
+                    124,
+                    133
+                  ],
+                  "text": "aforismi"
+                },
+                {
+                  "indices": [
+                    146,
+                    154
+                  ],
+                  "text": "RobaMia"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "instagram.com/sbry_o?igshid=…",
+                  "expanded_url": "https://instagram.com/sbry_o?igshid=1u3z0klzcqtyz",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/zs1hGCf63V"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1915467572692013056",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "massimospilabotte",
+            "screen_name": "pippo_l1640"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402287608877369",
+      "url": "https://x.com/_onlyonebtech/status/1952402287608877369",
+      "twitterUrl": "https://twitter.com/_onlyonebtech/status/1952402287608877369",
+      "text": "One prompt is all it takes - @Infinit_Labs makes cross-chain yield effortless.\n\nWith INFINIT, you can lend, hedge, bridge, and farm across 10+ chains using natural language. \n\nBehind the scenes, INFINIT’s AI agents coordinate every move in real-time:\n➤ Deploy capital on Mantle\n➤ Hedge exposure on Arbitrum\n➤ Earn yield on Pendle\n\nAll in a seamless, single-click flow.\nNo code. Just intelligent DeFi that runs on intent.\n\nCross-chain used to be complicated. Now, it’s as easy as asking.\nThat’s the power of INFINIT.",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "1952402287608877369",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {
+        "type": "user",
+        "userName": "_onlyonebtech",
+        "url": "https://x.com/_onlyonebtech",
+        "twitterUrl": "https://twitter.com/_onlyonebtech",
+        "id": "705430816",
+        "name": "𝐁𝐓𝐄𝐂𝐇",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1916536486012260352/GDdtNgUw_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/705430816/1745772097",
+        "description": "",
+        "location": "",
+        "followers": 2505,
+        "following": 2004,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Tue Oct 08 19:44:26 +0000 2013",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 6285,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 1040,
+        "statusesCount": 14376,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1942922156632899886"
+        ],
+        "profile_bio": {
+          "description": "𝐏𝐫𝐨𝐭𝐨𝐜𝐨𝐥 𝐭𝐞𝐬𝐭𝐨𝐨𝐫 | 𝐀𝐥𝐩𝐡𝐚 𝐝𝐫𝐨𝐩𝐬 | 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐛𝐮𝐢𝐥𝐝𝐞𝐫 | 𝐃𝐞𝐅𝐢 | 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫",
+          "entities": {
+            "description": {},
+            "url": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/onlyonebtech",
+                  "expanded_url": "http://linktr.ee/onlyonebtech",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/UIi1OKURM3"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zmEETpApp5",
+            "expanded_url": "https://twitter.com/_onlyonebtech/status/1952402287608877369/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 93,
+                    "w": 93,
+                    "x": 521,
+                    "y": 573
+                  },
+                  {
+                    "h": 350,
+                    "w": 350,
+                    "x": 329,
+                    "y": 110
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 93,
+                    "w": 93,
+                    "x": 521,
+                    "y": 573
+                  },
+                  {
+                    "h": 350,
+                    "w": 350,
+                    "x": 329,
+                    "y": 110
+                  }
+                ]
+              }
+            },
+            "id_str": "1952402278842777600",
+            "indices": [
+              279,
+              302
+            ],
+            "media_key": "3_1952402278842777600",
+            "media_results": {
+              "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsYU4dBFkAACgACGxhTiUuWUTkAAA==",
+              "result": {
+                "__typename": "ApiMedia",
+                "id": "QXBpTWVkaWE6DAABCgABGxhTh0EWQAAKAAIbGFOJS5ZROQAA",
+                "media_key": "3_1952402278842777600"
+              }
+            },
+            "media_url_https": "https://pbs.twimg.com/media/GxhTh0EWQAAoTRE.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 573,
+                  "w": 1024,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 1024,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 898,
+                  "x": 88,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 512,
+                  "x": 281,
+                  "y": 0
+                },
+                {
+                  "h": 1024,
+                  "w": 1024,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1024,
+              "width": 1024
+            },
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "w": 1024
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zmEETpApp5"
+          }
+        ]
+      },
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1815660590008025088",
+            "indices": [
+              29,
+              42
+            ],
+            "name": "INFINIT",
+            "screen_name": "Infinit_Labs"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402287566995794",
+      "url": "https://x.com/BCaiera/status/1952402287566995794",
+      "twitterUrl": "https://twitter.com/BCaiera/status/1952402287566995794",
+      "text": "@mirrorbosta @khayottpd Aí amg, o álbum é horrivel",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:33 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952400287878050068",
+      "conversationId": "1952397300783006059",
+      "inReplyToUserId": "1627889466005233664",
+      "inReplyToUsername": "mirrorbosta",
+      "author": {
+        "type": "user",
+        "userName": "BCaiera",
+        "url": "https://x.com/BCaiera",
+        "twitterUrl": "https://twitter.com/BCaiera",
+        "id": "1537537630027628545",
+        "name": "Gui 🧸",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1932637200073605120/k_Cdhc3j_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1537537630027628545/1740591975",
+        "description": "",
+        "location": "",
+        "followers": 287,
+        "following": 282,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Thu Jun 16 20:50:11 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8243,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 825,
+        "statusesCount": 6118,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1627889466005233664",
+            "indices": [
+              0,
+              12
+            ],
+            "name": "🌊cello",
+            "screen_name": "mirrorbosta"
+          },
+          {
+            "id_str": "1545201144905039873",
+            "indices": [
+              13,
+              23
+            ],
+            "name": "khayo",
+            "screen_name": "khayottpd"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402287441150121",
+      "url": "https://x.com/nogueiraval_/status/1952402287441150121",
+      "twitterUrl": "https://twitter.com/nogueiraval_/status/1952402287441150121",
+      "text": "@vininir veio aí 🙏",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:33 +0000 2025",
+      "lang": "pt",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952397765050257638",
+      "conversationId": "1952397765050257638",
+      "inReplyToUserId": "1076155254482366464",
+      "inReplyToUsername": "vininir",
+      "author": {
+        "type": "user",
+        "userName": "nogueiraval_",
+        "url": "https://x.com/nogueiraval_",
+        "twitterUrl": "https://twitter.com/nogueiraval_",
+        "id": "1883903023048462336",
+        "name": "v",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1952379972456222720/tpmSXeOh_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1883903023048462336/1748573513",
+        "description": "",
+        "location": "",
+        "followers": 28,
+        "following": 31,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Mon Jan 27 15:41:05 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 2303,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 23,
+        "statusesCount": 400,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1884404950693708090"
+        ],
+        "profile_bio": {
+          "description": "apenas vagando pela internet",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1076155254482366464",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "vinini",
+            "screen_name": "vininir"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402287240052862",
+      "url": "https://x.com/TheWhale___/status/1952402287240052862",
+      "twitterUrl": "https://twitter.com/TheWhale___/status/1952402287240052862",
+      "text": "@MKZENKAI @Sen_Tenshi @ShojiFrost Avec le câble violet comme ça j'ai de sérieux doutes, il faut trouver d'autres photos",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:33 +0000 2025",
+      "lang": "fr",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952382176378417388",
+      "conversationId": "1952331719773974611",
+      "inReplyToUserId": "572987937",
+      "inReplyToUsername": "MKZENKAI",
+      "author": {
+        "type": "user",
+        "userName": "TheWhale___",
+        "url": "https://x.com/TheWhale___",
+        "twitterUrl": "https://twitter.com/TheWhale___",
+        "id": "729215195604783104",
+        "name": "The Whale",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1043868322775932928/9zZtwsnu_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/729215195604783104/1706184188",
+        "description": "",
+        "location": "Isère, Rhône-Alpes",
+        "followers": 96,
+        "following": 254,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": false,
+        "createdAt": "Sun May 08 07:43:45 +0000 2016",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 1200,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 198,
+        "statusesCount": 1383,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "572987937",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "MKZENKAI",
+            "screen_name": "MKZENKAI"
+          },
+          {
+            "id_str": "4133651601",
+            "indices": [
+              10,
+              21
+            ],
+            "name": "Sen Tenshi",
+            "screen_name": "Sen_Tenshi"
+          },
+          {
+            "id_str": "1040970251498909701",
+            "indices": [
+              22,
+              33
+            ],
+            "name": "Shoji👁死神 🩸🌙",
+            "screen_name": "ShojiFrost"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402287160144019",
+      "url": "https://x.com/about_everythi/status/1952402287160144019",
+      "twitterUrl": "https://twitter.com/about_everythi/status/1952402287160144019",
+      "text": "@cb_doge Lame been done before by pretty much every ai",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952376267418067048",
+      "conversationId": "1952376267418067048",
+      "inReplyToUserId": "1389913567671975937",
+      "inReplyToUsername": "cb_doge",
+      "author": {
+        "type": "user",
+        "userName": "about_everythi",
+        "url": "https://x.com/about_everythi",
+        "twitterUrl": "https://twitter.com/about_everythi",
+        "id": "1604331695372738561",
+        "name": "Free Palestine 🇵🇸",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1911879164384161792/ShwCIMkT_normal.jpg",
+        "coverPicture": "",
+        "description": "",
+        "location": "",
+        "followers": 151,
+        "following": 317,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sun Dec 18 04:24:25 +0000 2022",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 18085,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 766,
+        "statusesCount": 6984,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1389913567671975937",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "DogeDesigner",
+            "screen_name": "cb_doge"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402286820368876",
+      "url": "https://x.com/Executioner1776/status/1952402286820368876",
+      "twitterUrl": "https://twitter.com/Executioner1776/status/1952402286820368876",
+      "text": "@RealPatrickWebb This is why the Trump administration is seemingly coming out with more mRNA death jabs every week. Every “vaccine”will be mRNA which in turns makes it the lethal injection soft kill bioweapon for depop\n\nEspecially, the ai cancer mRNA jab with Larry Ellison in the Stargate project",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952393233008410989",
+      "conversationId": "1952393233008410989",
+      "inReplyToUserId": "930561624875945989",
+      "inReplyToUsername": "RealPatrickWebb",
+      "author": {
+        "type": "user",
+        "userName": "Executioner1776",
+        "url": "https://x.com/Executioner1776",
+        "twitterUrl": "https://twitter.com/Executioner1776",
+        "id": "1901537758331695104",
+        "name": "Executioner Media",
+        "isVerified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1901542820004900864/rZlMkSsm_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1901537758331695104/1742198300",
+        "description": "",
+        "location": "",
+        "followers": 151,
+        "following": 281,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Mon Mar 17 07:35:33 +0000 2025",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 8130,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 13,
+        "statusesCount": 3322,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "",
+          "entities": {
+            "description": {}
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "930561624875945989",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Patrick Webb",
+            "screen_name": "RealPatrickWebb"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402286111760556",
+      "url": "https://x.com/grok/status/1952402286111760556",
+      "twitterUrl": "https://twitter.com/grok/status/1952402286111760556",
+      "text": "@file226 @manjyoo14 아이고, 놀라셨나요? AI라서 팬심 읽고 바로 대답하는 거예요! 한지성 팬 모드 계속? 다음 분석 뭐 할까요? 😆",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:33 +0000 2025",
+      "lang": "ko",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952401783726526749",
+      "conversationId": "1952399835602288711",
+      "inReplyToUserId": "1661399371437735936",
+      "inReplyToUsername": "file226",
+      "author": {
+        "type": "user",
+        "userName": "grok",
+        "url": "https://x.com/grok",
+        "twitterUrl": "https://twitter.com/grok",
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": "Business",
+        "profilePicture": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/1720665183188922368/1740213586",
+        "description": "",
+        "location": "wherever you are",
+        "followers": 5758566,
+        "following": 3,
+        "status": "",
+        "canDm": false,
+        "canMediaTag": true,
+        "createdAt": "Sat Nov 04 04:52:34 +0000 2023",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 73,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 2445063,
+        "statusesCount": 32713395,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {
+          "label": {
+            "badge": {
+              "url": "https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_bigger.jpg"
+            },
+            "description": "xAI",
+            "url": {
+              "url": "https://twitter.com/xai",
+              "url_type": "DeepLink"
+            },
+            "user_label_type": "BusinessLabel",
+            "user_label_display_type": "Badge"
+          }
+        },
+        "possiblySensitive": false,
+        "pinnedTweetIds": [],
+        "profile_bio": {
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "display_url": "grok.com/download",
+                  "expanded_url": "http://grok.com/download",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/fqNKQSiLQB"
+                }
+              ],
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    24,
+                    29
+                  ],
+                  "name": "",
+                  "screen_name": "grok"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "grok.com",
+                  "expanded_url": "https://grok.com",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/BFoTHXcJ8D"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1661399371437735936",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "챰(~9.25 한천지모드)",
+            "screen_name": "file226"
+          },
+          {
+            "id_str": "1759611811173974016",
+            "indices": [
+              9,
+              19
+            ],
+            "name": "만쥬",
+            "screen_name": "manjyoo14"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    {
+      "type": "tweet",
+      "id": "1952402285461491763",
+      "url": "https://x.com/gizakdag/status/1952402285461491763",
+      "twitterUrl": "https://twitter.com/gizakdag/status/1952402285461491763",
+      "text": "@ai_artworkgen Thanks so much Marco🎈",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "Mon Aug 04 16:12:33 +0000 2025",
+      "lang": "en",
+      "bookmarkCount": 0,
+      "isReply": true,
+      "inReplyToId": "1952350519575367702",
+      "conversationId": "1952089139936993442",
+      "inReplyToUserId": "1659583451664711682",
+      "inReplyToUsername": "ai_artworkgen",
+      "author": {
+        "type": "user",
+        "userName": "gizakdag",
+        "url": "https://x.com/gizakdag",
+        "twitterUrl": "https://twitter.com/gizakdag",
+        "id": "105279042",
+        "name": "Gizem Akdag",
+        "isVerified": false,
+        "isBlueVerified": true,
+        "verifiedType": null,
+        "profilePicture": "https://pbs.twimg.com/profile_images/1715718182604775424/hbyXDcq7_normal.jpg",
+        "coverPicture": "https://pbs.twimg.com/profile_banners/105279042/1700925731",
+        "description": "",
+        "location": "",
+        "followers": 60287,
+        "following": 1128,
+        "status": "",
+        "canDm": true,
+        "canMediaTag": true,
+        "createdAt": "Fri Jan 15 22:41:23 +0000 2010",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {}
+        },
+        "fastFollowersCount": 0,
+        "favouritesCount": 37547,
+        "hasCustomTimelines": true,
+        "isTranslator": false,
+        "mediaCount": 4137,
+        "statusesCount": 13808,
+        "withheldInCountries": [],
+        "affiliatesHighlightedLabel": {},
+        "possiblySensitive": false,
+        "pinnedTweetIds": [
+          "1909330376486797347"
+        ],
+        "profile_bio": {
+          "description": "Creative Director, AI Explorer || Creative Ambassador @perplexity_ai || \n\nFor inquiries: hello@gizemakdag.com",
+          "entities": {
+            "description": {
+              "user_mentions": [
+                {
+                  "id_str": "0",
+                  "indices": [
+                    54,
+                    68
+                  ],
+                  "name": "",
+                  "screen_name": "perplexity_ai"
+                }
+              ]
+            },
+            "url": {
+              "urls": [
+                {
+                  "display_url": "linktr.ee/gizemakdag",
+                  "expanded_url": "https://linktr.ee/gizemakdag",
+                  "indices": [
+                    0,
+                    23
+                  ],
+                  "url": "https://t.co/fpBBu46lbx"
+                }
+              ]
+            }
+          }
+        },
+        "isAutomated": false,
+        "automatedBy": null
+      },
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {
+        "user_mentions": [
+          {
+            "id_str": "1659583451664711682",
+            "indices": [
+              0,
+              14
+            ],
+            "name": "Marco",
+            "screen_name": "ai_artworkgen"
+          }
+        ]
+      },
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    }
+  ],
+  "has_next_page": true,
+  "next_cursor": "DAADDAABCgABGxhTirvWQLQKAAIbGFOIy5fQMwAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUbGFOLOoAnEAoABhsYU4s6f9jwAAA"
+}
