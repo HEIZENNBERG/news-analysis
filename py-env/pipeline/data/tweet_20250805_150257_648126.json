@@ -1,0 +1,183 @@
+{
+  "type": "tweet",
+  "id": "1952747147075440951",
+  "url": "https://x.com/BallinFil/status/1952747147075440951",
+  "twitterUrl": "https://twitter.com/BallinFil/status/1952747147075440951",
+  "text": "Looking for a video editor. Details below 👇 \n\nSomeone who likes doing 1-off projects for SaaS brands, longer form video (maybe 1-2 min), 3-4 week turnaround, lots of creative flexibility, comfortable making assets using AI tools (i.e. veo).\n\nHave a friend who is looking for someone good. Will pay well & a good company to add to your portfolio.\n\nPlease don't dm me, email me or spam me about this. Just post your portfolio or video in the comments and they'll see. Or just tag whoever might be a fit.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:54 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747147075440951",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "BallinFil",
+    "url": "https://x.com/BallinFil",
+    "twitterUrl": "https://twitter.com/BallinFil",
+    "id": "122400819",
+    "name": "Fil 🐶",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1333894344080809987/IugmafU3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/122400819/1724186142",
+    "description": "",
+    "location": "",
+    "followers": 2361,
+    "following": 587,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 12 15:38:17 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9853,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2120,
+    "statusesCount": 8644,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "DTC marketing tips from the trenches: lessons from launching an email agency & 2 brands: @drinkpearly & @societysocks. P&G Alum.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                89,
+                101
+              ],
+              "name": "",
+              "screen_name": "drinkpearly"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                104,
+                117
+              ],
+              "name": "",
+              "screen_name": "societysocks"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bedfordmarketing.co",
+              "expanded_url": "http://bedfordmarketing.co",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GqjUuE9i8v"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/gq5nDo9jYH",
+        "expanded_url": "https://twitter.com/BallinFil/status/1952747147075440951/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747105719574528",
+        "indices": [
+          276,
+          299
+        ],
+        "media_key": "3_1952747105719574528",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjSWElmAACgACGxmNLyWW0TcAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNJYSWYAAKAAIbGY0vJZbRNwAA",
+            "media_key": "3_1952747105719574528"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNJYSWYAA7-CJ.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 475
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 67,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 270,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/gq5nDo9jYH"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

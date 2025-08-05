@@ -1,0 +1,109 @@
+{
+  "type": "tweet",
+  "id": "1952747658210120139",
+  "url": "https://x.com/mustemgul/status/1952747658210120139",
+  "twitterUrl": "https://twitter.com/mustemgul/status/1952747658210120139",
+  "text": "@Sheddy_Web3 @OpenledgerHQ bro really openledger is really making strides with its focus on transparency in ai blockchain integration through tools like lagrange and datanets",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:56 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952664621032099900",
+  "conversationId": "1952664621032099900",
+  "inReplyToUserId": "1209915975946125313",
+  "inReplyToUsername": "Sheddy_Web3",
+  "author": {
+    "type": "user",
+    "userName": "mustemgul",
+    "url": "https://x.com/mustemgul",
+    "twitterUrl": "https://twitter.com/mustemgul",
+    "id": "1476272435976720386",
+    "name": "Mustafa Okan Gül .ink",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1476272549197717514/A2uq2qvF_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1476272435976720386/1748713676",
+    "description": "",
+    "location": "İstanbul ",
+    "followers": 1520,
+    "following": 1170,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 29 19:22:58 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5037,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 642,
+    "statusesCount": 8852,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951617708459692145"
+    ],
+    "profile_bio": {
+      "description": "👽 Came to understand crypto, ended up an alien \n🔍 Chasing trends in Web3 \n💼 Technology | Finance",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/Mustem",
+              "expanded_url": "https://t.me/Mustem",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CdJ45OtmkL"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1209915975946125313",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Sheddy🐙",
+        "screen_name": "Sheddy_Web3"
+      },
+      {
+        "id_str": "1755624156731768833",
+        "indices": [
+          13,
+          26
+        ],
+        "name": "Openledger",
+        "screen_name": "OpenledgerHQ"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

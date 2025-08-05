@@ -1,0 +1,105 @@
+{
+  "type": "tweet",
+  "id": "1952747496519655824",
+  "url": "https://x.com/GardinerIsland/status/1952747496519655824",
+  "twitterUrl": "https://twitter.com/GardinerIsland/status/1952747496519655824",
+  "text": "$PBF SAYS ACTIVELY WORKING ON DATA CENTER PROJECT IN DELAWARE\n\n$PBF is going to try and grab onto the AI bid ?\n\nbegins to remind me after blockchain becamse a craze and everybody on down to iced tea companies put 'blockchain'  in their name",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:18 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747496519655824",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "GardinerIsland",
+    "url": "https://x.com/GardinerIsland",
+    "twitterUrl": "https://twitter.com/GardinerIsland",
+    "id": "1375116825910988804",
+    "name": "GardinerIslandCapital",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1375120062068178947/W5hrGoIN_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1375116825910988804/1616689437",
+    "description": "",
+    "location": "Tobaccolot Bay, Hamptons",
+    "followers": 2842,
+    "following": 1413,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 25 16:06:35 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17798,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2570,
+    "statusesCount": 75167,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1529457430886764545"
+    ],
+    "profile_bio": {
+      "description": "Stay off my island or you end up buried with Captain Kidd's treasure. \n\nBuy me a rum tonic at Bobby Van's and i might let slip where the treasure is buried",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "dailymail.co.uk/news/article-6…",
+              "expanded_url": "https://www.dailymail.co.uk/news/article-6878015/Gardiners-Island-mysterious-private-island-owned-fa",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Antsmmk78y"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "symbols": [
+      {
+        "indices": [
+          0,
+          4
+        ],
+        "text": "PBF"
+      },
+      {
+        "indices": [
+          63,
+          67
+        ],
+        "text": "PBF"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952737611292029290",
+  "url": "https://x.com/Aries_theruler/status/1952737611292029290",
+  "twitterUrl": "https://twitter.com/Aries_theruler/status/1952737611292029290",
+  "text": "@theblessnetwork That’s next-level. An AI that doesn’t just answer but builds a roadmap for your goals? @TheoriqAI is making self-improvement truly actionable.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:25:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1942977173817901349",
+  "conversationId": "1942977149520224694",
+  "inReplyToUserId": "1507110129627537417",
+  "inReplyToUsername": "theblessnetwork",
+  "author": {
+    "type": "user",
+    "userName": "Aries_theruler",
+    "url": "https://x.com/Aries_theruler",
+    "twitterUrl": "https://twitter.com/Aries_theruler",
+    "id": "1927234923519172608",
+    "name": "Aries (💪, ✨)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1927745698646106113/m63cw2m7_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1927234923519172608/1751725653",
+    "description": "",
+    "location": "",
+    "followers": 359,
+    "following": 416,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue May 27 05:26:44 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3146,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 188,
+    "statusesCount": 4310,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Marketing Strategist | Elevating Top Projects To Greater heights | Content Writer 📝 | Ambassador",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1507110129627537417",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Bless",
+        "screen_name": "theblessnetwork"
+      },
+      {
+        "id_str": "1549505015655440384",
+        "indices": [
+          104,
+          114
+        ],
+        "name": "Theoriq",
+        "screen_name": "TheoriqAI"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

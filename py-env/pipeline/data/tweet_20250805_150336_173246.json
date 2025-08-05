@@ -1,0 +1,187 @@
+{
+  "type": "tweet",
+  "id": "1952747312372977985",
+  "url": "https://x.com/inesspeteuncabl/status/1952747312372977985",
+  "twitterUrl": "https://twitter.com/inesspeteuncabl/status/1952747312372977985",
+  "text": "pr aller au vietnam j'ai un vol de 23h avec deux escales en Allemagne et en Chine y'a un monde où je vais arriver là bas folle",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:34 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747312372977985",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "inesspeteuncabl",
+    "url": "https://x.com/inesspeteuncabl",
+    "twitterUrl": "https://twitter.com/inesspeteuncabl",
+    "id": "1944116139233071104",
+    "name": "🗡",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1949097074097537025/_4Jzu_mc_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1944116139233071104/1753535959",
+    "description": "",
+    "location": "Paris, France",
+    "followers": 62,
+    "following": 153,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jul 12 19:26:30 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 802,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 29,
+    "statusesCount": 1074,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "pur chaos partie 2",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952728492296028583",
+    "url": "https://x.com/crackXfentanyl/status/1952728492296028583",
+    "twitterUrl": "https://twitter.com/crackXfentanyl/status/1952728492296028583",
+    "text": "Un jour j’ai fait 26 (VINGT SIX) heures de vol direct (en classe salope de pauvre bien évidement) j’étais côté couloir dans une rangée de 3 avec un couple à côté. J’ai du me lever 50x pour qu’ils aillent aux toilettes à la fin je lançais des regards noirs comme Sonny Corleone",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 4,
+    "likeCount": 9,
+    "quoteCount": 1,
+    "viewCount": 626,
+    "createdAt": "Tue Aug 05 13:48:47 +0000 2025",
+    "lang": "fr",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952728492296028583",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "crackXfentanyl",
+      "url": "https://x.com/crackXfentanyl",
+      "twitterUrl": "https://twitter.com/crackXfentanyl",
+      "id": "1733922885431889920",
+      "name": "détraqué",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1733922885431889920/1749035334",
+      "description": "",
+      "location": "Impel Down",
+      "followers": 1952,
+      "following": 632,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sun Dec 10 18:53:38 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 21512,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 419,
+      "statusesCount": 9405,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1946175814308909383"
+      ],
+      "profile_bio": {
+        "description": "Sous crack depuis 1996 @JeuneFlowbert",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  23,
+                  37
+                ],
+                "name": "",
+                "screen_name": "JeuneFlowbert"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": {
+      "type": "tweet",
+      "id": "1952632076898853095",
+      "url": "",
+      "twitterUrl": "",
+      "text": "",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "",
+      "lang": "",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {},
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

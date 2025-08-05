@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952737610700337365",
+  "url": "https://x.com/rainhakrystal/status/1952737610700337365",
+  "twitterUrl": "https://twitter.com/rainhakrystal/status/1952737610700337365",
+  "text": "@poponze ai acho que já deu ela nessa premiação também, e ela também não iria",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:25:01 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952734603732533631",
+  "conversationId": "1952734603732533631",
+  "inReplyToUserId": "1459194208057798658",
+  "inReplyToUsername": "poponze",
+  "author": {
+    "type": "user",
+    "userName": "rainhakrystal",
+    "url": "https://x.com/rainhakrystal",
+    "twitterUrl": "https://twitter.com/rainhakrystal",
+    "id": "979557077726126080",
+    "name": "alexandre",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948572892691652608/C7uobyUC_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/979557077726126080/1744066295",
+    "description": "",
+    "location": "Manaus, Brasil",
+    "followers": 329,
+    "following": 239,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 30 03:13:01 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12188,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1157,
+    "statusesCount": 41190,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1902486965972562212"
+    ],
+    "profile_bio": {
+      "description": "só firstkhao salva",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1459194208057798658",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "poponze",
+        "screen_name": "poponze"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

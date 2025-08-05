@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747282534940859",
+  "url": "https://x.com/Wizenedb49119/status/1952747282534940859",
+  "twitterUrl": "https://twitter.com/Wizenedb49119/status/1952747282534940859",
+  "text": "@ns123abc Let's slouch on the couch and watch Ai(s) play with themselves.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:27 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952640242831286322",
+  "conversationId": "1952640242831286322",
+  "inReplyToUserId": "1087640384975577089",
+  "inReplyToUsername": "ns123abc",
+  "author": {
+    "type": "user",
+    "userName": "Wizenedb49119",
+    "url": "https://x.com/Wizenedb49119",
+    "twitterUrl": "https://twitter.com/Wizenedb49119",
+    "id": "1659934026801766401",
+    "name": "WizenedVariations1",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1659934243550822403/BeOYQWqN_normal.png",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 516,
+    "following": 144,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat May 20 14:48:58 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 117,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 0,
+    "statusesCount": 2055,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Reasonably intelligent.  Average graduate of the school of hard knocks, happily married for decades.  Try my best to be a good man, but that can be difficult.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1087640384975577089",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "NIK",
+        "screen_name": "ns123abc"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

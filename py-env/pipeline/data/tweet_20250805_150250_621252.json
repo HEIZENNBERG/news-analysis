@@ -1,0 +1,178 @@
+{
+  "type": "tweet",
+  "id": "1952747121616023807",
+  "url": "https://x.com/the_yanco/status/1952747121616023807",
+  "twitterUrl": "https://twitter.com/the_yanco/status/1952747121616023807",
+  "text": "@earthcurated Stop companies from developing AI / AGI https://t.co/V05i3CtQmP",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:48 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952739198177550340",
+  "conversationId": "1952739198177550340",
+  "inReplyToUserId": "1038150281794646017",
+  "inReplyToUsername": "earthcurated",
+  "author": {
+    "type": "user",
+    "userName": "the_yanco",
+    "url": "https://x.com/the_yanco",
+    "twitterUrl": "https://twitter.com/the_yanco",
+    "id": "3349181511",
+    "name": "Yanco",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/615181052198436865/vWG1mFFI_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3349181511/1693609490",
+    "description": "",
+    "location": "",
+    "followers": 1490,
+    "following": 242,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 28 15:28:49 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 51363,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3372,
+    "statusesCount": 16954,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1800614881189847422"
+    ],
+    "profile_bio": {
+      "description": "If you believe superhuman AI will serve and obey us, you probably think that strippers like you.\n\nStop AI / AGI development or die trying.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/V05i3CtQmP",
+        "expanded_url": "https://twitter.com/the_yanco/status/1952747121616023807/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 465,
+                "w": 465,
+                "x": 714,
+                "y": 215
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 465,
+                "w": 465,
+                "x": 714,
+                "y": 215
+              }
+            ]
+          }
+        },
+        "id_str": "1952747094369869824",
+        "indices": [
+          54,
+          77
+        ],
+        "media_key": "3_1952747094369869824",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjSLgF6AACgACGxmNKTgW8P8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNIuAXoAAKAAIbGY0pOBbw/wAA",
+            "media_key": "3_1952747094369869824"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNIuAXoAAHo8S.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1075,
+              "w": 1920,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 468,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 535,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 738,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1920,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1920
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/V05i3CtQmP"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1038150281794646017",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Earth",
+        "screen_name": "earthcurated"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

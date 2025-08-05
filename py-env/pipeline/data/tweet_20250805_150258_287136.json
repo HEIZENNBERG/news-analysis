@@ -1,0 +1,530 @@
+{
+  "type": "tweet",
+  "id": "1952747143728382295",
+  "url": "https://x.com/illictafairs/status/1952747143728382295",
+  "twitterUrl": "https://twitter.com/illictafairs/status/1952747143728382295",
+  "text": "AI EU VOU MIJAR",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:54 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747143728382295",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "illictafairs",
+    "url": "https://x.com/illictafairs",
+    "twitterUrl": "https://twitter.com/illictafairs",
+    "id": "1563490668240338945",
+    "name": "⭐️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1875655142999035904/HHwbD-ga_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1563490668240338945/1736025949",
+    "description": "",
+    "location": "",
+    "followers": 172,
+    "following": 158,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Aug 27 11:36:48 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 51773,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1731,
+    "statusesCount": 25526,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "⋆. 𐙚 ˚ they all say that https://t.co/yroMB3vFe5 ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "it-gets-better.carrd.co",
+              "expanded_url": "http://it-gets-better.carrd.co",
+              "indices": [
+                25,
+                48
+              ],
+              "url": "https://t.co/yroMB3vFe5"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952742297067479170",
+    "url": "https://x.com/tododialarrie/status/1952742297067479170",
+    "twitterUrl": "https://twitter.com/tododialarrie/status/1952742297067479170",
+    "text": "café com deus larry https://t.co/lGsRzfdmto",
+    "source": "Twitter for iPhone",
+    "retweetCount": 8,
+    "replyCount": 41,
+    "likeCount": 214,
+    "quoteCount": 72,
+    "viewCount": 11882,
+    "createdAt": "Tue Aug 05 14:43:38 +0000 2025",
+    "lang": "pt",
+    "bookmarkCount": 25,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952742297067479170",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "tododialarrie",
+      "url": "https://x.com/tododialarrie",
+      "twitterUrl": "https://twitter.com/tododialarrie",
+      "id": "1449807322298163201",
+      "name": "todo dia larrie passando vergonha",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1593005943024934913/MM4HEMxU_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1449807322298163201/1634496354",
+      "description": "",
+      "location": "",
+      "followers": 6936,
+      "following": 54,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sun Oct 17 18:39:46 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 671,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 1396,
+      "statusesCount": 2215,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1945635307128238263"
+      ],
+      "profile_bio": {
+        "description": "prints diários de larries passando vergonha",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/lGsRzfdmto",
+          "expanded_url": "https://twitter.com/tododialarrie/status/1952742297067479170/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1952742287059886080",
+          "indices": [
+            20,
+            43
+          ],
+          "media_key": "3_1952742287059886080",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZiMOWFqAACgACGxmIxeqWYIIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxmIw5YWoAAKAAIbGYjF6pZgggAA",
+              "media_key": "3_1952742287059886080"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxmIw5YWoAAkVBL.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 431,
+                "w": 770,
+                "x": 0,
+                "y": 121
+              },
+              {
+                "h": 770,
+                "w": 770,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 878,
+                "w": 770,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1035,
+                "w": 518,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1035,
+                "w": 770,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1035,
+            "width": 770
+          },
+          "sizes": {
+            "large": {
+              "h": 1035,
+              "w": 770
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lGsRzfdmto"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/lGsRzfdmto",
+          "expanded_url": "https://twitter.com/tododialarrie/status/1952742297067479170/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 143,
+                  "w": 143,
+                  "x": 60,
+                  "y": 6
+                },
+                {
+                  "h": 139,
+                  "w": 139,
+                  "x": 62,
+                  "y": 247
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 143,
+                  "w": 143,
+                  "x": 60,
+                  "y": 6
+                },
+                {
+                  "h": 139,
+                  "w": 139,
+                  "x": 62,
+                  "y": 247
+                }
+              ]
+            }
+          },
+          "id_str": "1952742288259514368",
+          "indices": [
+            20,
+            43
+          ],
+          "media_key": "3_1952742288259514368",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZiMPdl4AACgACGxmIxeqWYIIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxmIw92XgAAKAAIbGYjF6pZgggAA",
+              "media_key": "3_1952742288259514368"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxmIw92XgAAOj4P.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 393,
+                "w": 702,
+                "x": 0,
+                "y": 399
+              },
+              {
+                "h": 702,
+                "w": 702,
+                "x": 0,
+                "y": 244
+              },
+              {
+                "h": 800,
+                "w": 702,
+                "x": 0,
+                "y": 195
+              },
+              {
+                "h": 1035,
+                "w": 518,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1035,
+                "w": 702,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1035,
+            "width": 702
+          },
+          "sizes": {
+            "large": {
+              "h": 1035,
+              "w": 702
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lGsRzfdmto"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/lGsRzfdmto",
+          "expanded_url": "https://twitter.com/tododialarrie/status/1952742297067479170/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 269,
+                  "y": 188
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 102,
+                  "w": 102,
+                  "x": 269,
+                  "y": 188
+                }
+              ]
+            }
+          },
+          "id_str": "1952742287076716544",
+          "indices": [
+            20,
+            43
+          ],
+          "media_key": "3_1952742287076716544",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZiMOXF3AACgACGxmIxeqWYIIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxmIw5cXcAAKAAIbGYjF6pZgggAA",
+              "media_key": "3_1952742287076716544"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxmIw5cXcAAbs9N.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 435,
+                "w": 776,
+                "x": 0,
+                "y": 190
+              },
+              {
+                "h": 762,
+                "w": 762,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 762,
+                "w": 668,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 762,
+                "w": 381,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 762,
+                "w": 776,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 762,
+            "width": 776
+          },
+          "sizes": {
+            "large": {
+              "h": 762,
+              "w": 776
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lGsRzfdmto"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/lGsRzfdmto",
+          "expanded_url": "https://twitter.com/tododialarrie/status/1952742297067479170/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1952742288347590656",
+          "indices": [
+            20,
+            43
+          ],
+          "media_key": "3_1952742288347590656",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZiMPi13AACgACGxmIxeqWYIIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxmIw+LXcAAKAAIbGYjF6pZgggAA",
+              "media_key": "3_1952742288347590656"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxmIw-LXcAAPlhT.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 434,
+                "w": 775,
+                "x": 0,
+                "y": 601
+              },
+              {
+                "h": 775,
+                "w": 775,
+                "x": 0,
+                "y": 260
+              },
+              {
+                "h": 884,
+                "w": 775,
+                "x": 0,
+                "y": 151
+              },
+              {
+                "h": 1035,
+                "w": 518,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1035,
+                "w": 775,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1035,
+            "width": 775
+          },
+          "sizes": {
+            "large": {
+              "h": 1035,
+              "w": 775
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lGsRzfdmto"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": {
+      "type": "tweet",
+      "id": "1952735849910546898",
+      "url": "",
+      "twitterUrl": "",
+      "text": "",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "",
+      "lang": "",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {},
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

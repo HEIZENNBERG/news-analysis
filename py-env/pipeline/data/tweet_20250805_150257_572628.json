@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747147297759458",
+  "url": "https://x.com/elzernmk2/status/1952747147297759458",
+  "twitterUrl": "https://twitter.com/elzernmk2/status/1952747147297759458",
+  "text": "@Badger570T AIでは決してたどり着けない犯罪臭がする",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:54 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952681732446281937",
+  "conversationId": "1952681732446281937",
+  "inReplyToUserId": "1585933129147351041",
+  "inReplyToUsername": "Badger570T",
+  "author": {
+    "type": "user",
+    "userName": "elzernmk2",
+    "url": "https://x.com/elzernmk2",
+    "twitterUrl": "https://twitter.com/elzernmk2",
+    "id": "1361878759465357313",
+    "name": "エルザーン",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1361879282453073922/-LX6Cl6Q_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 6,
+    "following": 103,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 17 03:23:07 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 755,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 28,
+    "statusesCount": 296,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1585933129147351041",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "じじ.VLQ",
+        "screen_name": "Badger570T"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

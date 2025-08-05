@@ -1,0 +1,350 @@
+{
+  "type": "tweet",
+  "id": "1952748038243426763",
+  "url": "https://x.com/karum_AI/status/1952748038243426763",
+  "twitterUrl": "https://twitter.com/karum_AI/status/1952748038243426763",
+  "text": "@baseapp Catch us on farcaster: https://t.co/98q2vkTHb0",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:27 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747935906603122",
+  "conversationId": "1952747935906603122",
+  "inReplyToUserId": "1900195031740186624",
+  "inReplyToUsername": "karum_AI",
+  "author": {
+    "type": "user",
+    "userName": "karum_AI",
+    "url": "https://x.com/karum_AI",
+    "twitterUrl": "https://twitter.com/karum_AI",
+    "id": "1900195031740186624",
+    "name": "Karum",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": "Business",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1947270952972075008/PMtZsRr5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1900195031740186624/1753114503",
+    "description": "",
+    "location": "🟦 Base",
+    "followers": 696,
+    "following": 139,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 13 14:39:58 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2431,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 35,
+    "statusesCount": 522,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1946948812716823020"
+    ],
+    "profile_bio": {
+      "description": "The Universal Coordination Layer for Autonomous AI Agents.\n\nOfficial CA: 0xf3280115245A7470e7bbDD35e2B4F4094f511443",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "karum.ai",
+              "expanded_url": "https://karum.ai",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QXe70R6mvQ"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 144,
+            "url": "https://pbs.twimg.com/card_img/1952748017729118208/IN3j581d?format=png&name=144x144_2",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "The Universal Coordination Layer for Autonomous AI Agents. Official CA: 0xf3280115245A7470e7bbDD35e2B4F4094f511443"
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "farcaster.xyz"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 256,
+            "url": "https://pbs.twimg.com/card_img/1952748017729118208/IN3j581d?format=png&name=280x280_2",
+            "width": 256
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 256,
+            "url": "https://pbs.twimg.com/card_img/1952748017729118208/IN3j581d?format=png&name=orig",
+            "width": 256
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "1467920871763308544"
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 100,
+            "url": "https://pbs.twimg.com/card_img/1952748017729118208/IN3j581d?format=png&name=100x100_2",
+            "width": 100
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 256,
+            "url": "https://pbs.twimg.com/card_img/1952748017729118208/IN3j581d?format=png&name=2048x2048_2_exp",
+            "width": 256
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "farcaster.xyz"
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 69.4,
+                "rgb": {
+                  "blue": 127,
+                  "green": 63,
+                  "red": 176
+                }
+              },
+              {
+                "percentage": 16.94,
+                "rgb": {
+                  "blue": 240,
+                  "green": 249,
+                  "red": 253
+                }
+              },
+              {
+                "percentage": 12.24,
+                "rgb": {
+                  "blue": 226,
+                  "green": 126,
+                  "red": 214
+                }
+              },
+              {
+                "percentage": 1.43,
+                "rgb": {
+                  "blue": 193,
+                  "green": 168,
+                  "red": 220
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Karum (@karum-ai) on Farcaster"
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/98q2vkTHb0"
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary",
+    "url": "https://t.co/98q2vkTHb0",
+    "user_refs_results": [
+      {
+        "rest_id": "1467920871763308544",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 696
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1546487688601096192/QoG0ZVgH_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/1467920871763308544/1657546398"
+          },
+          "core": {
+            "created_at": "Mon Dec 06 18:17:00 +0000 2021",
+            "name": "Farcaster",
+            "screen_name": "farcaster_xyz"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {
+            "tweet_ids_str": [
+              "1947701984150397126"
+            ]
+          },
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "A sufficiently decentralized social network",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "farcaster.xyz",
+                    "expanded_url": "https://farcaster.xyz",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/zeodocP17M"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "1DA1F2"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": true
+          },
+          "relationship_counts": {
+            "followers": 216767,
+            "following": 2
+          },
+          "relationship_perspectives": {},
+          "rest_id": "1467920871763308544",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 163,
+            "tweets": 721
+          },
+          "website": {
+            "url": "https://t.co/zeodocP17M"
+          },
+          "verification": {
+            "is_blue_verified": true,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "farcaster.xyz/karum-ai",
+        "expanded_url": "https://farcaster.xyz/karum-ai",
+        "indices": [
+          32,
+          55
+        ],
+        "url": "https://t.co/98q2vkTHb0"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "790627436832579584",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Base app",
+        "screen_name": "baseapp"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

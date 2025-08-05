@@ -1,0 +1,145 @@
+{
+  "type": "tweet",
+  "id": "1952748015803924844",
+  "url": "https://x.com/Vendorapp_co/status/1952748015803924844",
+  "twitterUrl": "https://twitter.com/Vendorapp_co/status/1952748015803924844",
+  "text": "Big teams? Big budgets? Not needed.\n\nWith @Vendorapp_co, AI is your vendor risk & compliance copilot — helping lean teams:\n\n✅ Find reliable vendors faster\n🛡️ Screen risks in one click\n📄 Automate contract reviews & alerts\n\nSmart automation to cut complexity & friction.\n\nHow do you manage vendor risk? Share below! 👇\n\n#VendorManagement #ComplianceTech #StartupTools #RiskManagement #Vendorapp",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:21 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952748015803924844",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Vendorapp_co",
+    "url": "https://x.com/Vendorapp_co",
+    "twitterUrl": "https://twitter.com/Vendorapp_co",
+    "id": "1769282880046596096",
+    "name": "Vendorapp",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1889898990994595840/VJw-OdUS_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1769282880046596096/1739422447",
+    "description": "",
+    "location": "",
+    "followers": 71,
+    "following": 61,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 17 08:43:27 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2917,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 61,
+    "statusesCount": 379,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952319857992560651"
+    ],
+    "profile_bio": {
+      "description": "Procurement Simplified | Vendor Tracking Made Easy | #B2B SaaS for Smart Team\nhttps://t.co/CEGxOoS7Zv",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                53,
+                57
+              ],
+              "text": "B2B"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "linkedin.com/company/vendor…",
+              "expanded_url": "https://www.linkedin.com/company/vendorapp",
+              "indices": [
+                78,
+                101
+              ],
+              "url": "https://t.co/CEGxOoS7Zv"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          317,
+          334
+        ],
+        "text": "VendorManagement"
+      },
+      {
+        "indices": [
+          335,
+          350
+        ],
+        "text": "ComplianceTech"
+      },
+      {
+        "indices": [
+          351,
+          364
+        ],
+        "text": "StartupTools"
+      },
+      {
+        "indices": [
+          365,
+          380
+        ],
+        "text": "RiskManagement"
+      },
+      {
+        "indices": [
+          381,
+          391
+        ],
+        "text": "Vendorapp"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1769282880046596096",
+        "indices": [
+          42,
+          55
+        ],
+        "name": "Vendorapp",
+        "screen_name": "Vendorapp_co"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

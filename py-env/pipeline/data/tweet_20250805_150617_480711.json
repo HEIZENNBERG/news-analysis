@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747984241729915",
+  "url": "https://x.com/shmaleb588/status/1952747984241729915",
+  "twitterUrl": "https://twitter.com/shmaleb588/status/1952747984241729915",
+  "text": "@the_engi_nerd Fuckin AI\n\nNot sure why any normal working American should have anything but contempt for it",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:14 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952518548644897250",
+  "conversationId": "1952518548644897250",
+  "inReplyToUserId": "1713618708",
+  "inReplyToUsername": "the_engi_nerd",
+  "author": {
+    "type": "user",
+    "userName": "shmaleb588",
+    "url": "https://x.com/shmaleb588",
+    "twitterUrl": "https://twitter.com/shmaleb588",
+    "id": "1690538639573274624",
+    "name": "Schleb",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1690538792770232320/0Pq3Z_bJ_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 64,
+    "following": 164,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Aug 13 01:40:09 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5296,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 160,
+    "statusesCount": 20212,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1824237806270480424"
+    ],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1713618708",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "HIGH PLANES Drifter",
+        "screen_name": "the_engi_nerd"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

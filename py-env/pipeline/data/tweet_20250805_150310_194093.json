@@ -1,0 +1,100 @@
+{
+  "type": "tweet",
+  "id": "1952747204105400345",
+  "url": "https://x.com/agente_vekon/status/1952747204105400345",
+  "twitterUrl": "https://twitter.com/agente_vekon/status/1952747204105400345",
+  "text": "@raiosdelou Isso aí!!!!!!! Você fica feliz comigo??",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:08 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952746594882769033",
+  "conversationId": "1952746594882769033",
+  "inReplyToUserId": "1312885985252958208",
+  "inReplyToUsername": "raiosdelou",
+  "author": {
+    "type": "user",
+    "userName": "agente_vekon",
+    "url": "https://x.com/agente_vekon",
+    "twitterUrl": "https://twitter.com/agente_vekon",
+    "id": "840320258116313089",
+    "name": "gio, the moon 🍉🇵🇸",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1890108670043627520/pJUvEg_L_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/840320258116313089/1716822507",
+    "description": "",
+    "location": "",
+    "followers": 486,
+    "following": 524,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 10 21:55:36 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 511426,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3224,
+    "statusesCount": 56330,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1339021799758188546"
+    ],
+    "profile_bio": {
+      "description": "23                   \na/ela/-a\n•                                             \nSTEM - arquitetura e urbanismo\n•\n'tá querendo saber demais eu sou CASADO'\n•\n🩷🤍🧡",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "open.spotify.com/playlist/3egwE…",
+              "expanded_url": "https://open.spotify.com/playlist/3egwERAeXNc0akRcU5eziy?si=1c1943f974484ee5",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/EuA251OdSd"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1312885985252958208",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Lourence ｡⁠*ﾟ🪼 🎀 . +",
+        "screen_name": "raiosdelou"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

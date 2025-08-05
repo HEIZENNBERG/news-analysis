@@ -1,0 +1,100 @@
+{
+  "type": "tweet",
+  "id": "1952747336813404548",
+  "url": "https://x.com/clumiger/status/1952747336813404548",
+  "twitterUrl": "https://twitter.com/clumiger/status/1952747336813404548",
+  "text": "@HappyQQ_AI 一个社会的文明程度看看马路上的残疾人就知道了",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:40 +0000 2025",
+  "lang": "zh",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952744102841233560",
+  "conversationId": "1952744102841233560",
+  "inReplyToUserId": "885874569562644481",
+  "inReplyToUsername": "HappyQQ_AI",
+  "author": {
+    "type": "user",
+    "userName": "clumiger",
+    "url": "https://x.com/clumiger",
+    "twitterUrl": "https://twitter.com/clumiger",
+    "id": "1452653319948623872",
+    "name": "clumiger",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1727522892580376576/d9CjhcJo_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1452653319948623872/1750866573",
+    "description": "",
+    "location": "Hongkong ",
+    "followers": 664,
+    "following": 818,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Oct 25 15:08:48 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4136,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 180,
+    "statusesCount": 3574,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1939952044183298096"
+    ],
+    "profile_bio": {
+      "description": "Stop Oversharing | 前沿科技 | 区块链 | 美股投资 |理想主义｜自言自语 | i人",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ngl.link/film40304",
+              "expanded_url": "https://ngl.link/film40304",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gfSqoWIxVf"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "885874569562644481",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "🍀𝗛𝗮𝗽𝗽𝘆🦜𝗤𝗤💻",
+        "screen_name": "HappyQQ_AI"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

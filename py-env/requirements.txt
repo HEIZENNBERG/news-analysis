@@ -1,4 +1,0 @@
-requests
-kafka
-hdfs
-pandas

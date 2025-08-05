@@ -1,0 +1,139 @@
+{
+  "type": "tweet",
+  "id": "1952747770676179137",
+  "url": "https://x.com/Nassiimzz/status/1952747770676179137",
+  "twitterUrl": "https://twitter.com/Nassiimzz/status/1952747770676179137",
+  "text": "@GrosGarconMak J’ai fais 2 games (deux parties ) y’a 2 jours de sion ad et c’était comment dire… https://t.co/HV0fociyRw",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:23 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952618112358187400",
+  "conversationId": "1952618112358187400",
+  "inReplyToUserId": "1458445426751905796",
+  "inReplyToUsername": "GrosGarconMak",
+  "author": {
+    "type": "user",
+    "userName": "Nassiimzz",
+    "url": "https://x.com/Nassiimzz",
+    "twitterUrl": "https://twitter.com/Nassiimzz",
+    "id": "840935042113261568",
+    "name": "paragon of purity",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1930973537612836864/DgIyMuiB_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/840935042113261568/1751248438",
+    "description": "",
+    "location": "nassmos",
+    "followers": 175,
+    "following": 341,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 12 14:38:32 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 34469,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1148,
+    "statusesCount": 13292,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1908260025253892466"
+    ],
+    "profile_bio": {
+      "description": "free palestine / tbate / alatreon",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/HV0fociyRw",
+        "expanded_url": "https://twitter.com/Nassiimzz/status/1952747770676179137/photo/1",
+        "ext_alt_text": "Anton Ego GIF",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747763369672704",
+        "indices": [
+          97,
+          120
+        ],
+        "media_key": "16_1952747763369672704",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZjb6jloAACgACGxmNwFcW8MEAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmNvqOWgAAKAAIbGY3AVxbwwQAA",
+            "media_key": "16_1952747763369672704"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmNvqOWgAAtf0-.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 374,
+          "width": 498
+        },
+        "sizes": {
+          "large": {
+            "h": 374,
+            "w": 498
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/HV0fociyRw",
+        "video_info": {
+          "aspect_ratio": [
+            249,
+            187
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmNvqOWgAAtf0-.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1458445426751905796",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Carlo",
+        "screen_name": "GrosGarconMak"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

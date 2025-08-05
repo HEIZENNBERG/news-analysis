@@ -1,0 +1,96 @@
+{
+  "type": "tweet",
+  "id": "1952747230084894735",
+  "url": "https://x.com/Ousmane65690138/status/1952747230084894735",
+  "twitterUrl": "https://twitter.com/Ousmane65690138/status/1952747230084894735",
+  "text": "@apostatdudogme @platinium230 Non, tu n’as donné aucune preuve, tu as essayé de faire un argument en utilisant des sources et je t’ai contredit en utilisant ces mêmes sources. Donc tu n’as aucune preuve.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:14 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952738803472384069",
+  "conversationId": "1951964604885524745",
+  "inReplyToUserId": "1871400323345973248",
+  "inReplyToUsername": "apostatdudogme",
+  "author": {
+    "type": "user",
+    "userName": "Ousmane65690138",
+    "url": "https://x.com/Ousmane65690138",
+    "twitterUrl": "https://twitter.com/Ousmane65690138",
+    "id": "1393904047590084608",
+    "name": "Ousmane",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1802695268099346432/ya3bjr56_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 95,
+    "following": 92,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun May 16 12:20:26 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3104,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4130,
+    "statusesCount": 26286,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1786092732437406189"
+    ],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1871400323345973248",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "SIWAK 4.34 ⵣ🎗",
+        "screen_name": "apostatdudogme"
+      },
+      {
+        "id_str": "1518969512288305153",
+        "indices": [
+          16,
+          29
+        ],
+        "name": "Gay patriote 🇮🇹🇫🇷",
+        "screen_name": "platinium230"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

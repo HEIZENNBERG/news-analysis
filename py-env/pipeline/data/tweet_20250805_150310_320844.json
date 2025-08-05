@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747202524397797",
+  "url": "https://x.com/Baron5160/status/1952747202524397797",
+  "twitterUrl": "https://twitter.com/Baron5160/status/1952747202524397797",
+  "text": "@guib0r2 Quelle frousse quand elle m'est apparue sur mon écran, j'ai reculé de frayeur, j'ai bien cru être en face d'un vieux lion en déconfiture BRRRR",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:08 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952563675736461433",
+  "conversationId": "1952563675736461433",
+  "inReplyToUserId": "1875841260671406080",
+  "inReplyToUsername": "guib0r2",
+  "author": {
+    "type": "user",
+    "userName": "Baron5160",
+    "url": "https://x.com/Baron5160",
+    "twitterUrl": "https://twitter.com/Baron5160",
+    "id": "1881821136960241664",
+    "name": "Baron Madeleine",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 147,
+    "following": 102,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 21 21:49:15 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8398,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 94,
+    "statusesCount": 7075,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1875841260671406080",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Guib0r2",
+        "screen_name": "guib0r2"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

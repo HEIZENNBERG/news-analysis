@@ -1,0 +1,373 @@
+{
+  "type": "tweet",
+  "id": "1952747516195131783",
+  "url": "https://x.com/JordanLeeGrowth/status/1952747516195131783",
+  "twitterUrl": "https://twitter.com/JordanLeeGrowth/status/1952747516195131783",
+  "text": "I went to https://t.co/r5P815Kg3r and clicked “create agent”.\n\nI chose a voice and asked it to be a receptionist for a local spa.\n\nThis gave me an A.I agent that can talk on the phone and answer questions.\n\nThis is literally all you need to now have an A.I receptionist.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:22 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747512911040536",
+  "conversationId": "1952747505097036081",
+  "inReplyToUserId": "1879160929",
+  "inReplyToUsername": "JordanLeeGrowth",
+  "author": {
+    "type": "user",
+    "userName": "JordanLeeGrowth",
+    "url": "https://x.com/JordanLeeGrowth",
+    "twitterUrl": "https://twitter.com/JordanLeeGrowth",
+    "id": "1879160929",
+    "name": "Jordan Lee",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1847177758197141504/NDAo1C91_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1879160929/1751269690",
+    "description": "",
+    "location": "",
+    "followers": 22648,
+    "following": 143,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Sep 18 11:30:03 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3183,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 20,
+    "statusesCount": 244,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1924481373118587380"
+    ],
+    "profile_bio": {
+      "description": "Factory Worker to Millionaire | 0 to $5m selling AI to businesses | FREE Newsletter sharing how👇",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "aiarbitrageagency.com/subscribe?el=J…",
+              "expanded_url": "https://aiarbitrageagency.com/subscribe?el=JLI_custom_button&hcategory=home&htrafficsource=twitter_o",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vHsHtTIFiW"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "description",
+        "value": {
+          "string_value": "Build, test, and deploy advanced voice AI agents in minutes with Vapi. The platform for developers creating conversational voice AI."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "vapi.ai"
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "1723912453325553664"
+          }
+        }
+      },
+      {
+        "key": "creator",
+        "value": {
+          "user_value": {
+            "id_str": "1723912453325553664"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_alt_text",
+        "value": {
+          "string_value": "Vapi - Build Advanced Voice AI Agents"
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "vapi.ai"
+        }
+      },
+      {
+        "key": "summary_photo_image_alt_text",
+        "value": {
+          "string_value": "Vapi - Build Advanced Voice AI Agents"
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Vapi - Build Advanced Voice AI Agents"
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/r5P815Kg3r"
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/r5P815Kg3r",
+    "user_refs_results": [
+      {
+        "rest_id": "1723912453325553664",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 1289
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1933988844170514432/qq2Pkdf1_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/1723912453325553664/1741132382"
+          },
+          "core": {
+            "created_at": "Mon Nov 13 03:55:46 +0000 2023",
+            "name": "Vapi",
+            "screen_name": "Vapi_AI"
+          },
+          "dm_permissions": {
+            "can_dm": true
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "👀 ➡️"
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Voice AI for developers.  Integrate voice AI into your applications in minutes rather than months.\n\nJust ship it. \n\n👾- https://t.co/bZ4usEWbWw",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "discord.com/invite/pUFNcf2…",
+                    "expanded_url": "https://discord.com/invite/pUFNcf2WmH",
+                    "indices": [
+                      119,
+                      142
+                    ],
+                    "url": "https://t.co/bZ4usEWbWw"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "vapi.ai",
+                    "expanded_url": "http://vapi.ai",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/7VtXek3ZFv"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "1DA1F2"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": true
+          },
+          "relationship_counts": {
+            "followers": 7704,
+            "following": 2
+          },
+          "relationship_perspectives": {},
+          "rest_id": "1723912453325553664",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 387,
+            "tweets": 1057
+          },
+          "website": {
+            "url": "https://t.co/7VtXek3ZFv"
+          },
+          "verification": {
+            "is_blue_verified": false,
+            "verified_type": "Business"
+          }
+        }
+      },
+      {
+        "rest_id": "1723912453325553664",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 1289
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1933988844170514432/qq2Pkdf1_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/1723912453325553664/1741132382"
+          },
+          "core": {
+            "created_at": "Mon Nov 13 03:55:46 +0000 2023",
+            "name": "Vapi",
+            "screen_name": "Vapi_AI"
+          },
+          "dm_permissions": {
+            "can_dm": true
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "👀 ➡️"
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Voice AI for developers.  Integrate voice AI into your applications in minutes rather than months.\n\nJust ship it. \n\n👾- https://t.co/bZ4usEWbWw",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "discord.com/invite/pUFNcf2…",
+                    "expanded_url": "https://discord.com/invite/pUFNcf2WmH",
+                    "indices": [
+                      119,
+                      142
+                    ],
+                    "url": "https://t.co/bZ4usEWbWw"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "vapi.ai",
+                    "expanded_url": "http://vapi.ai",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/7VtXek3ZFv"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "1DA1F2"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": true
+          },
+          "relationship_counts": {
+            "followers": 7704,
+            "following": 2
+          },
+          "relationship_perspectives": {},
+          "rest_id": "1723912453325553664",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 387,
+            "tweets": 1057
+          },
+          "website": {
+            "url": "https://t.co/7VtXek3ZFv"
+          },
+          "verification": {
+            "is_blue_verified": false,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "vapi.ai",
+        "expanded_url": "http://vapi.ai",
+        "indices": [
+          10,
+          33
+        ],
+        "url": "https://t.co/r5P815Kg3r"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

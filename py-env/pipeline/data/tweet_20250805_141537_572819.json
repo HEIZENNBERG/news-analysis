@@ -1,0 +1,170 @@
+{
+  "type": "tweet",
+  "id": "1952735225517134167",
+  "url": "https://x.com/COCAINA2000/status/1952735225517134167",
+  "twitterUrl": "https://twitter.com/COCAINA2000/status/1952735225517134167",
+  "text": "papo reto eu já andei com muito jovem esquisito que \"ai porque eu sou devota a afrodite\" toma vergonha nessa cara coloca um perfume e bife cru pra mulambo pra ver se tu não resolve esse teu problema rapidinho",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:15:32 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952735225517134167",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "COCAINA2000",
+    "url": "https://x.com/COCAINA2000",
+    "twitterUrl": "https://twitter.com/COCAINA2000",
+    "id": "1803110197088403456",
+    "name": "★",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1949839296065658880/c5E2B6Rf_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1803110197088403456/1744374951",
+    "description": "",
+    "location": "",
+    "followers": 38,
+    "following": 64,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Jun 18 16:59:16 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1359,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 149,
+    "statusesCount": 2125,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "conhecida como a causa do problema (não tenho nenhum problema com esse nome)",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ILoveCats.com",
+              "expanded_url": "http://ILoveCats.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rk0Hs9YjAC"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1951809831637275115",
+    "url": "https://x.com/flautista___/status/1951809831637275115",
+    "twitterUrl": "https://twitter.com/flautista___/status/1951809831637275115",
+    "text": "pra mim se vc eh brasileiro e escolhe ser wicca ao invés de macumbeiro tem algum problema mto sério com vc",
+    "source": "Twitter for iPhone",
+    "retweetCount": 351,
+    "replyCount": 17,
+    "likeCount": 4861,
+    "quoteCount": 57,
+    "viewCount": 104651,
+    "createdAt": "Sun Aug 03 00:58:21 +0000 2025",
+    "lang": "pt",
+    "bookmarkCount": 92,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1951809831637275115",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "flautista___",
+      "url": "https://x.com/flautista___",
+      "twitterUrl": "https://twitter.com/flautista___",
+      "id": "1942700460990672896",
+      "name": "N",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1942701221459963905/_cH_il73_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1942700460990672896/1752011059",
+      "description": "",
+      "location": "Curitiba, Brazil",
+      "followers": 17,
+      "following": 60,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Jul 08 21:41:05 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 294,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 2,
+      "statusesCount": 76,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "era a @flautista__ mas perdi a conta",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  6,
+                  18
+                ],
+                "name": "",
+                "screen_name": "flautista__"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

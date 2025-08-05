@@ -1,0 +1,149 @@
+{
+  "type": "tweet",
+  "id": "1952747962611687759",
+  "url": "https://x.com/Xofanis/status/1952747962611687759",
+  "twitterUrl": "https://twitter.com/Xofanis/status/1952747962611687759",
+  "text": "Aí vc lê o primeiro item sjsjsjsjsjsjsj ai como foi ruim a morte de um fascista",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:09 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747962611687759",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Xofanis",
+    "url": "https://x.com/Xofanis",
+    "twitterUrl": "https://twitter.com/Xofanis",
+    "id": "2910513262",
+    "name": "Giaova by Almodóvar",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1873557613272518656/lwWAAgOj_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2910513262/1618890962",
+    "description": "",
+    "location": "",
+    "followers": 477,
+    "following": 378,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Dec 08 05:51:00 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 200753,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1490,
+    "statusesCount": 36974,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1774273710377066834"
+    ],
+    "profile_bio": {
+      "description": "Bacharela bela caramela em Letras (português/espanhol) pela USP.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952453772875055128",
+    "url": "https://x.com/rodrigoluisvelo/status/1952453772875055128",
+    "twitterUrl": "https://twitter.com/rodrigoluisvelo/status/1952453772875055128",
+    "text": "Tudo ruim que aconteceu na história desse país teve apoio da Globo:\n- As calúnias que levaram ao suicídio de Getúlio Vargas\n- A oposição ferrenha a Jânio Quadros\n- A derrubada de João Goulart\n- A ditadura militar\n- O AI-5\n- A farsa da eleição indireta\n- A eleição do Collor +",
+    "source": "Twitter for iPhone",
+    "retweetCount": 975,
+    "replyCount": 58,
+    "likeCount": 8797,
+    "quoteCount": 49,
+    "viewCount": 121919,
+    "createdAt": "Mon Aug 04 19:37:08 +0000 2025",
+    "lang": "pt",
+    "bookmarkCount": 373,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952453772875055128",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "rodrigoluisvelo",
+      "url": "https://x.com/rodrigoluisvelo",
+      "twitterUrl": "https://twitter.com/rodrigoluisvelo",
+      "id": "39305448",
+      "name": "Rodrigo Luis Veloso",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1927589756881272832/mO6ip_Qn_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/39305448/1753676565",
+      "description": "",
+      "location": "Rio de Janeiro, Brasil",
+      "followers": 25355,
+      "following": 3601,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Mon May 11 18:16:58 +0000 2009",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 134674,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 4338,
+      "statusesCount": 60529,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1951384323539562787"
+      ],
+      "profile_bio": {
+        "description": "Siga-me. Rel. Internacionais (IBMEC) e Direito (Estácio). Mestre em Sociologia (UFF). Da Articulação Judaica de Esquerda, da Frente LGBTIA+ RJ e do PSOL",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

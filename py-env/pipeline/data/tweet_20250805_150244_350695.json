@@ -1,0 +1,99 @@
+{
+  "type": "tweet",
+  "id": "1952747093031817679",
+  "url": "https://x.com/PiergiuseppeEs1/status/1952747093031817679",
+  "twitterUrl": "https://twitter.com/PiergiuseppeEs1/status/1952747093031817679",
+  "text": "@HuffPostItalia Per capire quanto sia inadeguata VdL, invece di avere la schiena dritta con gli Stati Uniti pensa ai dazi da mettere alla Cina",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:41 +0000 2025",
+  "lang": "it",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952729436841005145",
+  "conversationId": "1952729436841005145",
+  "inReplyToUserId": "543774554",
+  "inReplyToUsername": "HuffPostItalia",
+  "author": {
+    "type": "user",
+    "userName": "PiergiuseppeEs1",
+    "url": "https://x.com/PiergiuseppeEs1",
+    "twitterUrl": "https://twitter.com/PiergiuseppeEs1",
+    "id": "1525482012286533632",
+    "name": "Piergiuseppe Esposito",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1525483840613105665/MUsGYk3N_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1525482012286533632/1653678906",
+    "description": "",
+    "location": "Pietramontecorvino, Puglia",
+    "followers": 587,
+    "following": 730,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat May 14 14:24:24 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14611,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 231,
+    "statusesCount": 8702,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1857412384467419161"
+    ],
+    "profile_bio": {
+      "description": "Laureato Economia Aziendale unifg. 🎓\n📚Studente Lm 91 Innovazione Digitale e Comunicazione Unifg. \nMilitante @pdnetwork",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                108,
+                118
+              ],
+              "name": "",
+              "screen_name": "pdnetwork"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "543774554",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "L'HuffPost",
+        "screen_name": "HuffPostItalia"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

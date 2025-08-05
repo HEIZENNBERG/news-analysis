@@ -1,0 +1,75 @@
+{
+  "type": "tweet",
+  "id": "1952747852645503432",
+  "url": "https://x.com/nekoshvdy/status/1952747852645503432",
+  "twitterUrl": "https://twitter.com/nekoshvdy/status/1952747852645503432",
+  "text": "J’ai acheté des tongs havaianas ça va montrer ses ieps à tout paname",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:43 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747852645503432",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "nekoshvdy",
+    "url": "https://x.com/nekoshvdy",
+    "twitterUrl": "https://twitter.com/nekoshvdy",
+    "id": "999927077531877377",
+    "name": "cheb shady",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1936594340626804736/l7_GQGGL_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/999927077531877377/1702387906",
+    "description": "",
+    "location": "",
+    "followers": 122,
+    "following": 111,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri May 25 08:16:07 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10013,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3673,
+    "statusesCount": 16595,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1893011994497696055"
+    ],
+    "profile_bio": {
+      "description": "🇵🇸🇸🇩🇨🇩 Comme cheb Hasni je suis sentimental",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

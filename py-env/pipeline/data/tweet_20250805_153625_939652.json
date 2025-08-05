@@ -1,0 +1,75 @@
+{
+  "type": "tweet",
+  "id": "1952755570785599525",
+  "url": "https://x.com/mib_jay/status/1952755570785599525",
+  "twitterUrl": "https://twitter.com/mib_jay/status/1952755570785599525",
+  "text": "Would love to see on chain data of “outflow” of BTC\n\nBecause I just don’t believe with all this news and companies buying more that the price is going down\n\nThe exchanges like Coinbase and binance are manipulating the price \n\nThe supply is much much lower and the price should be way higher IMO…\n\nMakes no sense tbh",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:36:23 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952755570785599525",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "mib_jay",
+    "url": "https://x.com/mib_jay",
+    "twitterUrl": "https://twitter.com/mib_jay",
+    "id": "1294337127245905920",
+    "name": "Agent J",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1918646263467175936/TZgCFSDy_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1294337127245905920/1663281594",
+    "description": "",
+    "location": "Earth",
+    "followers": 937,
+    "following": 141,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 14 18:17:18 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7618,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 871,
+    "statusesCount": 8176,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1935029985011474437"
+    ],
+    "profile_bio": {
+      "description": "Just a dude playing a dude disguised as another dude.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

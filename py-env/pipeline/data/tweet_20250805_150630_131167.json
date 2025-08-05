@@ -1,0 +1,75 @@
+{
+  "type": "tweet",
+  "id": "1952748042051895720",
+  "url": "https://x.com/chip_chang17/status/1952748042051895720",
+  "twitterUrl": "https://twitter.com/chip_chang17/status/1952748042051895720",
+  "text": "生成AIに日頃から慣れ親しんでいるプラスポイントとして捉えている。ハッキリ言ってあんなもの、「おかしなこと書いてねえかコイツ」ってなもんだし。本当の事ばかり書いてるなんて誰も思ってないし。生成AIが正にうってつけの場なんだよね履歴書なんて。能力は出身校と成績と資格など見ればある程度",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:28 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747488600830121",
+  "conversationId": "1952747488600830121",
+  "inReplyToUserId": "1777688545437913088",
+  "inReplyToUsername": "chip_chang17",
+  "author": {
+    "type": "user",
+    "userName": "chip_chang17",
+    "url": "https://x.com/chip_chang17",
+    "twitterUrl": "https://twitter.com/chip_chang17",
+    "id": "1777688545437913088",
+    "name": "ぷちるくなー",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1915351508973215745/HInDne-5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1777688545437913088/1712743577",
+    "description": "",
+    "location": "",
+    "followers": 159,
+    "following": 331,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 09 13:22:43 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 29456,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 195,
+    "statusesCount": 43453,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1899794693363507385"
+    ],
+    "profile_bio": {
+      "description": "ブルースとフットボールとアニメとロックスター社のゲームが好き。他は割とどーでもよい。攻撃的な人は嫌い。出会い求めてません。出会い垢は全てブロックした上で通報してますんで4649。Report spam immediately. 六四天安門。F@ck Xi Jinping.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

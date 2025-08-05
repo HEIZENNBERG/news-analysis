@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952755566796841229",
+  "url": "https://x.com/desomale/status/1952755566796841229",
+  "twitterUrl": "https://twitter.com/desomale/status/1952755566796841229",
+  "text": "@PoojaMedia Why exactly are going out of your way to make a point it's wasn't a news u broke besides who has made vdm the custodian of our morals.He just seem to be everywhere and all issues.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:36:22 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952671179602284609",
+  "conversationId": "1952671179602284609",
+  "inReplyToUserId": "461888257",
+  "inReplyToUsername": "PoojaMedia",
+  "author": {
+    "type": "user",
+    "userName": "desomale",
+    "url": "https://x.com/desomale",
+    "twitterUrl": "https://twitter.com/desomale",
+    "id": "68173161",
+    "name": "Echikwu Desmond Omale",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/966604265887330304/MUGddRKv_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "Lagos Nigeria",
+    "followers": 829,
+    "following": 1047,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 23 16:00:45 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3708,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 54,
+    "statusesCount": 5443,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1270365677002555394"
+    ],
+    "profile_bio": {
+      "description": "Desomale investment ltd.  Automobile sales . God is Awesome.Arsenal fc.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "461888257",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "POOJA!!!",
+        "screen_name": "PoojaMedia"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

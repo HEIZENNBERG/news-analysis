@@ -1,0 +1,96 @@
+{
+  "type": "tweet",
+  "id": "1952747515045912988",
+  "url": "https://x.com/m00njerry/status/1952747515045912988",
+  "twitterUrl": "https://twitter.com/m00njerry/status/1952747515045912988",
+  "text": "@iamemilex_ @gaib_ai You're welcome big man",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:22 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952733593098219845",
+  "conversationId": "1952711776677642743",
+  "inReplyToUserId": "1470791596312567816",
+  "inReplyToUsername": "iamemilex_",
+  "author": {
+    "type": "user",
+    "userName": "m00njerry",
+    "url": "https://x.com/m00njerry",
+    "twitterUrl": "https://twitter.com/m00njerry",
+    "id": "1601262000662876164",
+    "name": "møønjerry.eth",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1937770899362471936/FPgYI2vj_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1601262000662876164/1753876375",
+    "description": "",
+    "location": "around the world",
+    "followers": 1037,
+    "following": 736,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Dec 09 17:07:01 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8155,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 935,
+    "statusesCount": 10501,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951366259800678832"
+    ],
+    "profile_bio": {
+      "description": "Web3 wizard🧙‍♂️|Decentralized dreamer💤|CT bro🪙| Perp/Scalp Trader📈|NFTs🖼|Future Dev💻|Content Creator📹|Writer✍️| Building the future,one block at a time🔗",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1470791596312567816",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Emilex",
+        "screen_name": "iamemilex_"
+      },
+      {
+        "id_str": "1805656710360842246",
+        "indices": [
+          12,
+          20
+        ],
+        "name": "GAIB 🟠 | RWAiFi",
+        "screen_name": "gaib_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

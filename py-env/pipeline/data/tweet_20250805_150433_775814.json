@@ -1,0 +1,372 @@
+{
+  "type": "tweet",
+  "id": "1952747552450711686",
+  "url": "https://x.com/emite_01/status/1952747552450711686",
+  "twitterUrl": "https://twitter.com/emite_01/status/1952747552450711686",
+  "text": "aí tropa do flu",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:31 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747552450711686",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "emite_01",
+    "url": "https://x.com/emite_01",
+    "twitterUrl": "https://twitter.com/emite_01",
+    "id": "1016895523188543488",
+    "name": "mTs🇭🇺✝️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1802231571845390336/YVqIpYi4_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1016895523188543488/1620786235",
+    "description": "",
+    "location": "Chatuba, Mesquita",
+    "followers": 309,
+    "following": 481,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jul 11 04:02:40 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 25627,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 18,
+    "statusesCount": 9390,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1155148871229747206"
+    ],
+    "profile_bio": {
+      "description": "@fluminense / @aquariano/@021",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                11
+              ],
+              "name": "",
+              "screen_name": "fluminense"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                14,
+                24
+              ],
+              "name": "",
+              "screen_name": "aquariano"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                25,
+                29
+              ],
+              "name": "",
+              "screen_name": "021"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952734691544486024",
+    "url": "https://x.com/QueJogadaQJ/status/1952734691544486024",
+    "twitterUrl": "https://twitter.com/QueJogadaQJ/status/1952734691544486024",
+    "text": "o Málaga não estava contratando nenhum jogador \n\nentão a torcida do Málaga foi ao aeroporto recepcionar pessoas aleatórias como se fossem jogadores\n\nkkkkkkkkkkkkk https://t.co/wpnOcE88OZ",
+    "source": "Twitter for iPhone",
+    "retweetCount": 207,
+    "replyCount": 56,
+    "likeCount": 4612,
+    "quoteCount": 184,
+    "viewCount": 121141,
+    "createdAt": "Tue Aug 05 14:13:25 +0000 2025",
+    "lang": "pt",
+    "bookmarkCount": 130,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952734691544486024",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "QueJogadaQJ",
+      "url": "https://x.com/QueJogadaQJ",
+      "twitterUrl": "https://twitter.com/QueJogadaQJ",
+      "id": "1746973097293406208",
+      "name": "Que Jogada!",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1746973354890797056/dgMJFv3p_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1746973097293406208/1705348524",
+      "description": "",
+      "location": "",
+      "followers": 2067,
+      "following": 192,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon Jan 15 19:10:29 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1095,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 1680,
+      "statusesCount": 1796,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Conta oficial do Que Jogada!",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/quejogada",
+                "expanded_url": "http://instagram.com/quejogada",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Pm7Pod6fLR"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "user_results": {
+                "rest_id": "1019399065686114304",
+                "result": {
+                  "__typename": "User",
+                  "action_counts": {
+                    "favorites_count": 46423
+                  },
+                  "avatar": {
+                    "image_url": "https://pbs.twimg.com/profile_images/1019400252296777734/FdeudeUH_normal.jpg"
+                  },
+                  "banner": {},
+                  "core": {
+                    "created_at": "Wed Jul 18 01:50:51 +0000 2018",
+                    "name": "Bola Fora",
+                    "screen_name": "oficialbolafora"
+                  },
+                  "dm_permissions": {
+                    "can_dm": false
+                  },
+                  "exclusive_tweet_following": false,
+                  "identity_profile_labels_highlighted_label": {},
+                  "location": {
+                    "location": "Acrelândia, Brasil"
+                  },
+                  "media_permissions": {
+                    "can_media_tag": true
+                  },
+                  "notifications_settings": {},
+                  "pinned_items": {
+                    "tweet_ids_str": [
+                      "1552485858996981760"
+                    ]
+                  },
+                  "privacy": {},
+                  "private_super_following": false,
+                  "profile_bio": {
+                    "description": "Por: @mitovani98 e @kekebolafora | Contato: bolafora@resenha.digital",
+                    "entities": {
+                      "description": {
+                        "user_mentions": [
+                          {
+                            "id_str": "0",
+                            "indices": [
+                              5,
+                              16
+                            ],
+                            "name": "",
+                            "screen_name": "mitovani98"
+                          },
+                          {
+                            "id_str": "0",
+                            "indices": [
+                              19,
+                              32
+                            ],
+                            "name": "",
+                            "screen_name": "kekebolafora"
+                          }
+                        ]
+                      },
+                      "url": {
+                        "urls": [
+                          {
+                            "display_url": "bolafora.net",
+                            "expanded_url": "http://bolafora.net",
+                            "indices": [
+                              0,
+                              23
+                            ],
+                            "url": "https://t.co/MGIPHG7dRj"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  "profile_metadata": {
+                    "profile_interstitial_type": "",
+                    "profile_link_color": "1DA1F2"
+                  },
+                  "profile_translation": {
+                    "translator_type_enum": "None"
+                  },
+                  "properties": {
+                    "has_extended_profile": true
+                  },
+                  "relationship_counts": {
+                    "followers": 93183,
+                    "following": 425
+                  },
+                  "relationship_perspectives": {},
+                  "rest_id": "1019399065686114304",
+                  "super_follow_eligible": false,
+                  "super_followed_by": false,
+                  "super_following": false,
+                  "tweet_counts": {
+                    "media_tweets": 11093,
+                    "tweets": 18490
+                  },
+                  "website": {
+                    "url": "https://t.co/MGIPHG7dRj"
+                  },
+                  "verification": {
+                    "is_blue_verified": true
+                  }
+                }
+              }
+            }
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/wpnOcE88OZ",
+          "expanded_url": "https://x.com/oficialbolafora/status/1756354775736627315/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1756354669280915456",
+          "indices": [
+            163,
+            186
+          ],
+          "media_key": "13_1756354669280915456",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARhf00QiFnAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGF/TRCIWcAAAAA==",
+              "media_key": "13_1756354669280915456"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1756354669280915456/img/ohFB3SrSXjmmKDDd.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 492,
+            "width": 888
+          },
+          "sizes": {
+            "large": {
+              "h": 492,
+              "w": 888
+            }
+          },
+          "source_status_id_str": "1756354775736627315",
+          "source_user_id_str": "1019399065686114304",
+          "type": "video",
+          "url": "https://t.co/wpnOcE88OZ",
+          "video_info": {
+            "aspect_ratio": [
+              74,
+              41
+            ],
+            "duration_millis": 72821,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video-s.twimg.com/amplify_video/1756354669280915456/pl/5zbsYyRcOYbRRdB9.m3u8?tag=14&v=9f0"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1756354669280915456/vid/avc1/486x270/pnh2gUzRxyJPBntH.mp4?tag=14"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1756354669280915456/vid/avc1/648x360/Yx1Pdnmgy2WcQT2M.mp4?tag=14"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1756354669280915456/vid/avc1/888x492/F1s1gnJidrRzKvbj.mp4?tag=14"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,108 @@
+{
+  "type": "tweet",
+  "id": "1952747738010902943",
+  "url": "https://x.com/EyupErtrk3/status/1952747738010902943",
+  "twitterUrl": "https://twitter.com/EyupErtrk3/status/1952747738010902943",
+  "text": "@okanaksoy54 @NetworkNoya Strategies hidden results proven ZkML with the combination of DeFi and AI is on a whole new level",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:15 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952742150824763761",
+  "conversationId": "1952737641478177183",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "EyupErtrk3",
+    "url": "https://x.com/EyupErtrk3",
+    "twitterUrl": "https://twitter.com/EyupErtrk3",
+    "id": "1527155753030766594",
+    "name": "EypErtrk⚡ETH.🍀「 🖐️ ✦ 🇹🇷 」.",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1916499236633333760/CSLIznub_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1527155753030766594/1742325949",
+    "description": "",
+    "location": "",
+    "followers": 1514,
+    "following": 2105,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu May 19 05:15:08 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15011,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 482,
+    "statusesCount": 11043,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952613079201546549"
+    ],
+    "profile_bio": {
+      "description": "@Satlayer 🫶💛🟨",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "",
+              "screen_name": "Satlayer"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "747941212389277696",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Okan",
+        "screen_name": "okanaksoy54"
+      },
+      {
+        "id_str": "1575050599628001280",
+        "indices": [
+          13,
+          25
+        ],
+        "name": "NOYA.ai",
+        "screen_name": "NetworkNoya"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

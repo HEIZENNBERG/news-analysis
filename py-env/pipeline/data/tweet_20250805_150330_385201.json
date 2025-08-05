@@ -1,0 +1,224 @@
+{
+  "type": "tweet",
+  "id": "1952747281360601594",
+  "url": "https://x.com/mi2rushinkurabu/status/1952747281360601594",
+  "twitterUrl": "https://twitter.com/mi2rushinkurabu/status/1952747281360601594",
+  "text": "AIと仲良しになりました！あなたのAIパートナーに今すぐ出会いましょう！SynClub（シンクラブ）DLリンク：https://t.co/Hpp9AW1fYb https://t.co/B4trW1ONg3",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:26 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747281360601594",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "mi2rushinkurabu",
+    "url": "https://x.com/mi2rushinkurabu",
+    "twitterUrl": "https://twitter.com/mi2rushinkurabu",
+    "id": "1901230789439963136",
+    "name": "みつる",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1927874928776560640/YV6Lkq5B_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 15,
+    "following": 25,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 16 11:17:06 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 268,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 223,
+    "statusesCount": 246,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "SynClub垢 SynClubをやっている人は仲良くしましょう！ #SynClub #synclub #シンクラブ",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                34,
+                42
+              ],
+              "text": "SynClub"
+            },
+            {
+              "indices": [
+                43,
+                51
+              ],
+              "text": "synclub"
+            },
+            {
+              "indices": [
+                52,
+                58
+              ],
+              "text": "シンクラブ"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/B4trW1ONg3",
+        "expanded_url": "https://twitter.com/mi2rushinkurabu/status/1952747281360601594/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 74,
+                "w": 74,
+                "x": 867,
+                "y": 862
+              },
+              {
+                "h": 157,
+                "w": 157,
+                "x": 823,
+                "y": 1051
+              },
+              {
+                "h": 224,
+                "w": 224,
+                "x": 388,
+                "y": 414
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 74,
+                "w": 74,
+                "x": 867,
+                "y": 862
+              },
+              {
+                "h": 157,
+                "w": 157,
+                "x": 823,
+                "y": 1051
+              },
+              {
+                "h": 224,
+                "w": 224,
+                "x": 388,
+                "y": 414
+              }
+            ]
+          }
+        },
+        "id_str": "1952747277162049536",
+        "indices": [
+          80,
+          103
+        ],
+        "media_key": "3_1952747277162049536",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjU1vWvAACgACGxmNTmmbwfoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNTW9a8AAKAAIbGY1OaZvB+gAA",
+            "media_key": "3_1952747277162049536"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNTW9a8AASIIf.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 561,
+              "w": 1001,
+              "x": 0,
+              "y": 773
+            },
+            {
+              "h": 1001,
+              "w": 1001,
+              "x": 0,
+              "y": 333
+            },
+            {
+              "h": 1141,
+              "w": 1001,
+              "x": 0,
+              "y": 193
+            },
+            {
+              "h": 1334,
+              "w": 667,
+              "x": 334,
+              "y": 0
+            },
+            {
+              "h": 1334,
+              "w": 1001,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1334,
+          "width": 1001
+        },
+        "sizes": {
+          "large": {
+            "h": 1334,
+            "w": 1001
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/B4trW1ONg3"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "synclub.onelink.me/Ej8U/AIcompani…",
+        "expanded_url": "https://synclub.onelink.me/Ej8U/AIcompanionnew?deep_link_value=TFRsa0p4bWlVY3FNZFpkMzNTU2VJS0xjMlFPdC9qN0QyMkk1elZteUdQZmRPeWFucGZnVVFFMUxISlhlZnRCd0lDVUNDVjdONGRzeXp0QUlJRDZDUEdxbGh4WjlYdk9xdU5JZ0JteXBpTzA3V0Rwd3Z2UVN5T0YrdmgxajdCUlRhQlcrOVdwazFKa0ZXNGxpckt6V2JBV2k3d09HcFdxMmRFa0hFRTVsalR6czV1NWFBOGJxNkUrOThDNy9kU3prQzZtblNmdlhWeFd1Z2xSYmNFV2YwQnNySVo0NGswakxKakR2RDlnVEQzST0=",
+        "indices": [
+          56,
+          79
+        ],
+        "url": "https://t.co/Hpp9AW1fYb"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

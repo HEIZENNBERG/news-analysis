@@ -1,0 +1,96 @@
+{
+  "type": "tweet",
+  "id": "1952747467482579417",
+  "url": "https://x.com/DanilG__/status/1952747467482579417",
+  "twitterUrl": "https://twitter.com/DanilG__/status/1952747467482579417",
+  "text": "@ForscherWeb @AgentXYZ_ai Autonomous trading just got smarter",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:11 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952576494280053200",
+  "conversationId": "1952576494280053200",
+  "inReplyToUserId": "1653029963866468353",
+  "inReplyToUsername": "ForscherWeb",
+  "author": {
+    "type": "user",
+    "userName": "DanilG__",
+    "url": "https://x.com/DanilG__",
+    "twitterUrl": "https://twitter.com/DanilG__",
+    "id": "1937233487351685121",
+    "name": "Danil",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1947553346522648576/KqQ5vLnz_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 31,
+    "following": 82,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 23 19:37:36 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 134,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2,
+    "statusesCount": 112,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1947553266759569891"
+    ],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1653029963866468353",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Forscher",
+        "screen_name": "ForscherWeb"
+      },
+      {
+        "id_str": "1503340984058458113",
+        "indices": [
+          13,
+          25
+        ],
+        "name": "AgentXYZ | Trading Terminal 🔺",
+        "screen_name": "AgentXYZ_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

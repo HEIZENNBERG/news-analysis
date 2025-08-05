@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747547535048955",
+  "url": "https://x.com/CarlosFlix46543/status/1952747547535048955",
+  "twitterUrl": "https://twitter.com/CarlosFlix46543/status/1952747547535048955",
+  "text": "@AI_MIKENEKO Adorava amor ummmm k rico vamos jantar fora amor adorava essa subremesa ummmm",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:30 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952701420106654188",
+  "conversationId": "1952701420106654188",
+  "inReplyToUserId": "1640996957056569349",
+  "inReplyToUsername": "AI_MIKENEKO",
+  "author": {
+    "type": "user",
+    "userName": "CarlosFlix46543",
+    "url": "https://x.com/CarlosFlix46543",
+    "twitterUrl": "https://twitter.com/CarlosFlix46543",
+    "id": "1731413055018336256",
+    "name": "Carlos Félix",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1731413206881435648/KLAbFnZS_normal.png",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 644,
+    "following": 314,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 03 20:40:50 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 53730,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 34,
+    "statusesCount": 24007,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1640996957056569349",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "AI_三毛猫",
+        "screen_name": "AI_MIKENEKO"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

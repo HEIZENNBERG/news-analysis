@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747907418833330",
+  "url": "https://x.com/ffs_f1/status/1952747907418833330",
+  "twitterUrl": "https://twitter.com/ffs_f1/status/1952747907418833330",
+  "text": "@Nateirrites @Famel_Zundapp A afirmação é estúpida não é a droga q mata, é o desporto...\n\nO Mick jagger e outros da mesma geração ainda andam por aí... E há vários desportistas q não chegam lá...",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:56 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952737229765214261",
+  "conversationId": "1952736104727076938",
+  "inReplyToUserId": "1849741249583960064",
+  "inReplyToUsername": "Nateirrites",
+  "author": {
+    "type": "user",
+    "userName": "ffs_f1",
+    "url": "https://x.com/ffs_f1",
+    "twitterUrl": "https://twitter.com/ffs_f1",
+    "id": "1505488752432537600",
+    "name": "CryptoF1",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1505501748672221186/cZp5wnvi_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1505488752432537600/1744971235",
+    "description": "",
+    "location": "Vagator Beach, Goa, India",
+    "followers": 337,
+    "following": 1898,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 20 10:18:08 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 95163,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1809,
+    "statusesCount": 28354,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "nada para se ver...",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1849741249583960064",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Ana Pinho",
+        "screen_name": "Nateirrites"
+      },
+      {
+        "id_str": "2151234792",
+        "indices": [
+          13,
+          27
+        ],
+        "name": "ZundAPP",
+        "screen_name": "Famel_Zundapp"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

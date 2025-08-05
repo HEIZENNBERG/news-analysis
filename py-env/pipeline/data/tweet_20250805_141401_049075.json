@@ -1,0 +1,98 @@
+{
+  "type": "tweet",
+  "id": "1952734825137189244",
+  "url": "https://x.com/Twewyken/status/1952734825137189244",
+  "twitterUrl": "https://twitter.com/Twewyken/status/1952734825137189244",
+  "text": "@3letter_ That moment when AI is indistinguishable from a human",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:13:57 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952603189087289643",
+  "conversationId": "1952603189087289643",
+  "inReplyToUserId": "1721420351132028928",
+  "inReplyToUsername": "3letter_",
+  "author": {
+    "type": "user",
+    "userName": "Twewyken",
+    "url": "https://x.com/Twewyken",
+    "twitterUrl": "https://twitter.com/Twewyken",
+    "id": "1732670344870105088",
+    "name": "Gregory, the tryhard catboy",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1884659833342746624/2jmIIdlp_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1732670344870105088/1726645330",
+    "description": "",
+    "location": "Meow meow",
+    "followers": 9,
+    "following": 73,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 07 07:56:35 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 558,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 43,
+    "statusesCount": 280,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "⭐Name: Gregory 🐱Age: 18 🍔Pronouns: He/Him 🎮PSN: Twewy91 🍋 PFP by Deadhich",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/tryhardkitten",
+              "expanded_url": "https://t.me/tryhardkitten",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/27IUvfzjUF"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1721420351132028928",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "3 random letters every 10 mins",
+        "screen_name": "3letter_"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,108 @@
+{
+  "type": "tweet",
+  "id": "1952747550903046532",
+  "url": "https://x.com/PPromail/status/1952747550903046532",
+  "twitterUrl": "https://twitter.com/PPromail/status/1952747550903046532",
+  "text": "@NosakiRL J’étais dépité j’étais en mode « BANDE DE CHIENS LA FIN C’EST QUOI ÇA » et après j’ai vu sur YouTube que j’avais pas tout guetté 🐵",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:31 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952744696310095943",
+  "conversationId": "1952731433283276981",
+  "inReplyToUserId": "1000021254571741186",
+  "inReplyToUsername": "NosakiRL",
+  "author": {
+    "type": "user",
+    "userName": "PPromail",
+    "url": "https://x.com/PPromail",
+    "twitterUrl": "https://twitter.com/PPromail",
+    "id": "1621825282834403333",
+    "name": "Portas🇨🇷🇵🇸",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1950957899984916480/n_0wqFsk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1621825282834403333/1748782100",
+    "description": "",
+    "location": "",
+    "followers": 627,
+    "following": 3148,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 04 10:57:49 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 100769,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2093,
+    "statusesCount": 38875,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1928063997158248558"
+    ],
+    "profile_bio": {
+      "description": "@PSG_inside | Enfin champions les frères 🙏 my j @Darkkenshii 🏎️alpine",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                11
+              ],
+              "name": "",
+              "screen_name": "PSG_inside"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                48,
+                60
+              ],
+              "name": "",
+              "screen_name": "Darkkenshii"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1000021254571741186",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "Nosaki",
+        "screen_name": "NosakiRL"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

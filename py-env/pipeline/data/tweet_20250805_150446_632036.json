@@ -1,0 +1,170 @@
+{
+  "type": "tweet",
+  "id": "1952747602912379030",
+  "url": "https://x.com/Leniinha/status/1952747602912379030",
+  "twitterUrl": "https://twitter.com/Leniinha/status/1952747602912379030",
+  "text": "@BolsonaroSP Veja aí @BolsonaroSP https://t.co/G9wHWyqfo5",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:43 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952508668315939171",
+  "conversationId": "1952508668315939171",
+  "inReplyToUserId": "74756085",
+  "inReplyToUsername": "BolsonaroSP",
+  "author": {
+    "type": "user",
+    "userName": "Leniinha",
+    "url": "https://x.com/Leniinha",
+    "twitterUrl": "https://twitter.com/Leniinha",
+    "id": "39418258",
+    "name": "Lenny",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/585672682605248513/-elYqFNj_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 223,
+    "following": 1018,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 12 03:02:26 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 67479,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 142,
+    "statusesCount": 7609,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/G9wHWyqfo5",
+        "expanded_url": "https://twitter.com/Leniinha/status/1952747602912379030/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747479893475328",
+        "indices": [
+          34,
+          57
+        ],
+        "media_key": "3_1952747479893475328",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjXyjFwAACgACGxmNmUeWgJYAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNfKMXAAAKAAIbGY2ZR5aAlgAA",
+            "media_key": "3_1952747479893475328"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNfKMXAAAGj1z.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 550,
+              "w": 982,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 736,
+              "w": 736,
+              "x": 49,
+              "y": 0
+            },
+            {
+              "h": 736,
+              "w": 646,
+              "x": 94,
+              "y": 0
+            },
+            {
+              "h": 736,
+              "w": 368,
+              "x": 233,
+              "y": 0
+            },
+            {
+              "h": 736,
+              "w": 982,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 736,
+          "width": 982
+        },
+        "sizes": {
+          "large": {
+            "h": 736,
+            "w": 982
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/G9wHWyqfo5"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "74756085",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Eduardo Bolsonaro🇧🇷",
+        "screen_name": "BolsonaroSP"
+      },
+      {
+        "id_str": "74756085",
+        "indices": [
+          21,
+          33
+        ],
+        "name": "Eduardo Bolsonaro🇧🇷",
+        "screen_name": "BolsonaroSP"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

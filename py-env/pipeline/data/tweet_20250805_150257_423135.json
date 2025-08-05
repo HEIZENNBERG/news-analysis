@@ -1,0 +1,119 @@
+{
+  "type": "tweet",
+  "id": "1952747149231534525",
+  "url": "https://x.com/corkulous/status/1952747149231534525",
+  "twitterUrl": "https://twitter.com/corkulous/status/1952747149231534525",
+  "text": "@steipete @peekabooagent After that app launch it's time to roll a bunch of AI into Corkulous.  Board generation, summarizing, adding item, etc...  I believe users should BYOK to give them the best experience and choice. Tachikoma maybe an awesome solution for it.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:55 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952555611243049061",
+  "conversationId": "1952443541256601947",
+  "inReplyToUserId": "25401953",
+  "inReplyToUsername": "steipete",
+  "author": {
+    "type": "user",
+    "userName": "corkulous",
+    "url": "https://x.com/corkulous",
+    "twitterUrl": "https://twitter.com/corkulous",
+    "id": "132768786",
+    "name": "Corkulous - Your Ideas!",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1855095244838281216/3Nku5iJb_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/132768786/1731124147",
+    "description": "",
+    "location": "Utah",
+    "followers": 147,
+    "following": 210,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 14 03:56:16 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 516,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 41,
+    "statusesCount": 392,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Corkulous© for macOS and iOS is the incredible way to collect, organize, and share your ideas.  https://t.co/tRC6mL8UBB",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "corkulous.com",
+              "expanded_url": "https://www.corkulous.com",
+              "indices": [
+                96,
+                119
+              ],
+              "url": "https://t.co/tRC6mL8UBB"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "corkulous.com",
+              "expanded_url": "https://www.corkulous.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tRC6mL8UBB"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "25401953",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "Peter Steinberger",
+        "screen_name": "steipete"
+      },
+      {
+        "id_str": "1949896548818505729",
+        "indices": [
+          10,
+          24
+        ],
+        "name": "peekaboo",
+        "screen_name": "peekabooagent"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

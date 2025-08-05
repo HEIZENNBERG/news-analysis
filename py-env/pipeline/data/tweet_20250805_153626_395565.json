@@ -1,0 +1,284 @@
+{
+  "type": "tweet",
+  "id": "1952755565878272434",
+  "url": "https://x.com/alhasany_news/status/1952755565878272434",
+  "twitterUrl": "https://twitter.com/alhasany_news/status/1952755565878272434",
+  "text": "شيعي موحد يلزم السلفية الحشوية بدعوة ابن تيمية للـ.ـواط فيما بينهم وبين ربهم الأمـ.ـرد الخريـ.ـاني!\n#مسلم_والبخاري_اضطراب_وتناقض\n#حوارات_شيعه_التوحيد_الصرخيه\n\n#اميركا #فلسطين #سوريا_حمص #تركيا #درعا #بغداد #غزة #لبنان #بيروت #طهران #دمشق #ايران #روسيا #تسونامي #اليمن #العراق https://t.co/u914vXbFQh",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:36:22 +0000 2025",
+  "lang": "ar",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952755565878272434",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "alhasany_news",
+    "url": "https://x.com/alhasany_news",
+    "twitterUrl": "https://twitter.com/alhasany_news",
+    "id": "4905177870",
+    "name": "شيعة الثقلين",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1900313659613585408/F_cb6JM4_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/4905177870/1741905045",
+    "description": "",
+    "location": "",
+    "followers": 10819,
+    "following": 11,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 14 05:59:40 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 612,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 22568,
+    "statusesCount": 27924,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "al-hasany.net",
+              "expanded_url": "https://www.al-hasany.net/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/HWlgiULmFY"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/u914vXbFQh",
+        "expanded_url": "https://twitter.com/alhasany_news/status/1952755565878272434/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952755506310742016",
+        "indices": [
+          276,
+          299
+        ],
+        "media_key": "7_1952755506310742016",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsZlMlu1wAACgACGxmU101XYbIAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxmUyW7XAAAKAAIbGZTXTVdhsgAA",
+            "media_key": "7_1952755506310742016"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1952755506310742016/pu/img/VaeG03G0Di5KjSC-.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/u914vXbFQh",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 17466,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952755506310742016/pu/pl/bGySefH9Qbqr-PwS.m3u8?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952755506310742016/pu/vid/avc1/320x568/Fp1MlwSi2JRWYmOS.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952755506310742016/pu/vid/avc1/480x852/VCyw9E2WsQ2fAPvV.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952755506310742016/pu/vid/avc1/720x1280/fD932dVakfRwkixz.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          100,
+          128
+        ],
+        "text": "مسلم_والبخاري_اضطراب_وتناقض"
+      },
+      {
+        "indices": [
+          129,
+          157
+        ],
+        "text": "حوارات_شيعه_التوحيد_الصرخيه"
+      },
+      {
+        "indices": [
+          159,
+          166
+        ],
+        "text": "اميركا"
+      },
+      {
+        "indices": [
+          167,
+          174
+        ],
+        "text": "فلسطين"
+      },
+      {
+        "indices": [
+          175,
+          185
+        ],
+        "text": "سوريا_حمص"
+      },
+      {
+        "indices": [
+          186,
+          192
+        ],
+        "text": "تركيا"
+      },
+      {
+        "indices": [
+          193,
+          198
+        ],
+        "text": "درعا"
+      },
+      {
+        "indices": [
+          199,
+          205
+        ],
+        "text": "بغداد"
+      },
+      {
+        "indices": [
+          206,
+          210
+        ],
+        "text": "غزة"
+      },
+      {
+        "indices": [
+          211,
+          217
+        ],
+        "text": "لبنان"
+      },
+      {
+        "indices": [
+          218,
+          224
+        ],
+        "text": "بيروت"
+      },
+      {
+        "indices": [
+          225,
+          231
+        ],
+        "text": "طهران"
+      },
+      {
+        "indices": [
+          232,
+          237
+        ],
+        "text": "دمشق"
+      },
+      {
+        "indices": [
+          238,
+          244
+        ],
+        "text": "ايران"
+      },
+      {
+        "indices": [
+          245,
+          251
+        ],
+        "text": "روسيا"
+      },
+      {
+        "indices": [
+          252,
+          260
+        ],
+        "text": "تسونامي"
+      },
+      {
+        "indices": [
+          261,
+          267
+        ],
+        "text": "اليمن"
+      },
+      {
+        "indices": [
+          268,
+          275
+        ],
+        "text": "العراق"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

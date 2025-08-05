@@ -1,0 +1,206 @@
+{
+  "type": "tweet",
+  "id": "1952737605784899612",
+  "url": "https://x.com/histermister7/status/1952737605784899612",
+  "twitterUrl": "https://twitter.com/histermister7/status/1952737605784899612",
+  "text": "🔥 Fraction AI Giveaway 🔥\nI’m giving away access to @FractionAI_xyz – your gateway to crypto x AI!\nHow to join:\n✔️ Follow\n✔️ Like &amp; RT\n✔️ Tag 3 frens\n\nWinner gets DM'd in 24 hrs 💌\nIt’s free. It’s real. Don’t sleep on this chance to level up 💥 https://t.co/XYKQ6m95Ya",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:24:59 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952737605784899612",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "histermister7",
+    "url": "https://x.com/histermister7",
+    "twitterUrl": "https://twitter.com/histermister7",
+    "id": "1921913475707572224",
+    "name": "Mister Hister | | 𝔽rAI⌘🛠️ HUDL |",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1921918251786743810/g0CKg8yP_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 388,
+    "following": 749,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon May 12 13:01:12 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1710,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 111,
+    "statusesCount": 1392,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1946963115045765186"
+    ],
+    "profile_bio": {
+      "description": "Grinding $FAPS every 6 hrs 🧠\nWeb3 | Crypto | Meme Energy\nBuilding with @FractionAI_xyz 🚀\nLet’s grow together 🔁❤️",
+      "entities": {
+        "description": {
+          "symbols": [
+            {
+              "indices": [
+                9,
+                14
+              ],
+              "text": "FAPS"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                71,
+                86
+              ],
+              "name": "",
+              "screen_name": "FractionAI_xyz"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/XYKQ6m95Ya",
+        "expanded_url": "https://twitter.com/histermister7/status/1952737605784899612/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "MrBeast",
+                "screen_name": "MrBeast",
+                "type": "user",
+                "user_id": "2455740283"
+              },
+              {
+                "name": "CryptoTelugu",
+                "screen_name": "CryptoTeluguO",
+                "type": "user",
+                "user_id": "1264138602159669248"
+              },
+              {
+                "name": "Donald Trump Jr.",
+                "screen_name": "DonaldJTrumpJr",
+                "type": "user",
+                "user_id": "39344374"
+              }
+            ]
+          },
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952737339115188225",
+        "indices": [
+          246,
+          269
+        ],
+        "media_key": "3_1952737339115188225",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZhEONmjABCgACGxmEgaRbEBwAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmEQ42aMAEKAAIbGYSBpFsQHAAA",
+            "media_key": "3_1952737339115188225"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmEQ42aMAEqWhV.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 495,
+              "w": 884,
+              "x": 99,
+              "y": 0
+            },
+            {
+              "h": 495,
+              "w": 495,
+              "x": 294,
+              "y": 0
+            },
+            {
+              "h": 495,
+              "w": 434,
+              "x": 324,
+              "y": 0
+            },
+            {
+              "h": 495,
+              "w": 248,
+              "x": 417,
+              "y": 0
+            },
+            {
+              "h": 495,
+              "w": 1083,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 495,
+          "width": 1083
+        },
+        "sizes": {
+          "large": {
+            "h": 495,
+            "w": 1083
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XYKQ6m95Ya"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1737049734668238848",
+        "indices": [
+          51,
+          66
+        ],
+        "name": "Fraction AI",
+        "screen_name": "FractionAI_xyz"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

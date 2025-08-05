@@ -1,0 +1,316 @@
+{
+  "type": "tweet",
+  "id": "1952754850225131554",
+  "url": "https://x.com/PussinbootsMa2/status/1952754850225131554",
+  "twitterUrl": "https://twitter.com/PussinbootsMa2/status/1952754850225131554",
+  "text": "@TikTokSupport bans all Moroccan videos and comments proactively, but let millions of anti Morocco videos and comments and fake accounts to spread propaganda fake news about Morocco and spread confusion.\nAnd even reporting them doesn't work,Morocco @ChefGov_ma  @mehdibensaid allo",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:33:31 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952754850225131554",
+  "inReplyToUserId": "1233114815905722368",
+  "inReplyToUsername": "TikTokSupport",
+  "author": {
+    "type": "user",
+    "userName": "PussinbootsMa2",
+    "url": "https://x.com/PussinbootsMa2",
+    "twitterUrl": "https://twitter.com/PussinbootsMa2",
+    "id": "1739990267036397568",
+    "name": "Dr. PussInBoots/MA",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1866456839501598720/6rm2XUKR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1739990267036397568/1733833060",
+    "description": "",
+    "location": "",
+    "followers": 365,
+    "following": 168,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Dec 27 12:43:44 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9777,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 735,
+    "statusesCount": 3988,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1866239836513882123"
+    ],
+    "profile_bio": {
+      "description": "I teach and research, Maths and computer sciences basically 😬 from AI to Image analysis and more.\nMorocco 🇲🇦 first and only.\nTech, Science, culture, ...",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1233114815905722368",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "TikTokSupport",
+        "screen_name": "TikTokSupport"
+      },
+      {
+        "id_str": "748291920",
+        "indices": [
+          249,
+          260
+        ],
+        "name": "رئيس الحكومة المغربية",
+        "screen_name": "ChefGov_ma"
+      },
+      {
+        "id_str": "48786344",
+        "indices": [
+          262,
+          275
+        ],
+        "name": "Mohammed Mehdi Bensaid",
+        "screen_name": "mehdibensaid"
+      }
+    ]
+  },
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952733977963266438",
+    "url": "https://x.com/2MInteractive/status/1952733977963266438",
+    "twitterUrl": "https://twitter.com/2MInteractive/status/1952733977963266438",
+    "text": "TikTok took down more than 1,040,000 videos in Morocco between January and March 2025, according to its Community Guidelines Enforcement Report.\n\nThe platform said 98.9% of the videos were removed proactively, before users could report them, and 92.1% were taken down within 24 hours—thanks largely to its automated detection systems.\n\nRead more: https://t.co/LUeYeJIH7W\n\n#tiktok #Morocco #2menglish",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 1,
+    "viewCount": 523,
+    "createdAt": "Tue Aug 05 14:10:35 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952733977963266438",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "2MInteractive",
+      "url": "https://x.com/2MInteractive",
+      "twitterUrl": "https://twitter.com/2MInteractive",
+      "id": "78681704",
+      "name": "2M.ma",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1704245703264911360/HQ2YDvNO_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/78681704/1751194708",
+      "description": "",
+      "location": "Morocco",
+      "followers": 946401,
+      "following": 171,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Wed Sep 30 19:02:27 +0000 2009",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1809,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 32568,
+      "statusesCount": 60125,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "2M est une chaîne de télévision généraliste, marocaine du service public. Accessible via  le réseau numérique TNT, sur satellite et Internet.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "2m.ma",
+                "expanded_url": "http://www.2m.ma",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/hOVeTWOn0R"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LBsHYeRfKg",
+          "expanded_url": "https://twitter.com/2MInteractive/status/1952733977963266438/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 48,
+                  "y": 527
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 48,
+                  "y": 527
+                }
+              ]
+            }
+          },
+          "id_str": "1952733973190262784",
+          "indices": [
+            279,
+            302
+          ],
+          "media_key": "3_1952733973190262784",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZgTPc18AACgACGxmBNPlWAYYAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxmBM9zXwAAKAAIbGYE0+VYBhgAA",
+              "media_key": "3_1952733973190262784"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxmBM9zXwAA8cWi.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 744
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 270
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 119
+              },
+              {
+                "h": 1350,
+                "w": 675,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1350,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1350,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LBsHYeRfKg"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            372,
+            379
+          ],
+          "text": "tiktok"
+        },
+        {
+          "indices": [
+            380,
+            388
+          ],
+          "text": "Morocco"
+        },
+        {
+          "indices": [
+            389,
+            399
+          ],
+          "text": "2menglish"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "l.2m.ma/YBNTmh",
+          "expanded_url": "https://l.2m.ma/YBNTmh",
+          "indices": [
+            347,
+            370
+          ],
+          "url": "https://t.co/LUeYeJIH7W"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

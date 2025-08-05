@@ -1,0 +1,220 @@
+{
+  "type": "tweet",
+  "id": "1952747740259066175",
+  "url": "https://x.com/PaueBuvelle/status/1952747740259066175",
+  "twitterUrl": "https://twitter.com/PaueBuvelle/status/1952747740259066175",
+  "text": "Nossa mas tem umas músicas de 3 anos aí",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:16 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747740259066175",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "PaueBuvelle",
+    "url": "https://x.com/PaueBuvelle",
+    "twitterUrl": "https://twitter.com/PaueBuvelle",
+    "id": "972978955857874944",
+    "name": "Paue Pato gordo da sona 🌟",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1950958256467460096/zHuPaPUj_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/972978955857874944/1747044813",
+    "description": "",
+    "location": "Porão dos Buvelle, Demacia",
+    "followers": 1447,
+    "following": 1786,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 11 23:33:54 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 191247,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 14364,
+    "statusesCount": 62925,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1854526785280463303"
+    ],
+    "profile_bio": {
+      "description": "{22y}, {G 🏳️‍🌈}, {ele/dele}, mora no cu do ES e também sou conhecido como o menino q joga de Sona\n https://t.co/Hk0uvTzrLR",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "x.com/PrivedoPaue?t=…",
+              "expanded_url": "https://x.com/PrivedoPaue?t=9VWpdZUJijhyEu2Hd_",
+              "indices": [
+                99,
+                122
+              ],
+              "url": "https://t.co/Hk0uvTzrLR"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/paulohbsg?igsh…",
+              "expanded_url": "https://instagram.com/paulohbsg?igshid=YmMyMTA2M2Y=",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/biQj2BJYo8"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952738792508362830",
+    "url": "https://x.com/bchartsnet/status/1952738792508362830",
+    "twitterUrl": "https://twitter.com/bchartsnet/status/1952738792508362830",
+    "text": "🏆 Indicados a Song of the Year no #VMAs\n\nAlex Warren – Ordinary\nBillie Eilish – Birds of a Feather\nDoechii – Anxiety\nEd Sheeran – Sapphire\nGracie Abrams – I Love You, I’m Sorry\nLady Gaga & Bruno Mars – Die with a Smile\nLorde – What Was That\nRosé & Bruno Mars – Apt.\nTate McRae – Sports Car\nThe Weeknd, Playboi Carti – Timeless",
+    "source": "Twitter for iPhone",
+    "retweetCount": 21,
+    "replyCount": 77,
+    "likeCount": 689,
+    "quoteCount": 200,
+    "viewCount": 50945,
+    "createdAt": "Tue Aug 05 14:29:42 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 23,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952738792508362830",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "bchartsnet",
+      "url": "https://x.com/bchartsnet",
+      "twitterUrl": "https://twitter.com/bchartsnet",
+      "id": "788794760764985344",
+      "name": "BCharts",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": "Business",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1597332661722382336/_26NVSn6_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/788794760764985344/1753487270",
+      "description": "",
+      "location": "Brasil",
+      "followers": 526935,
+      "following": 2694,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Wed Oct 19 17:31:40 +0000 2016",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 20056,
+      "hasCustomTimelines": true,
+      "isTranslator": true,
+      "mediaCount": 62990,
+      "statusesCount": 83068,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1952478882608914696"
+      ],
+      "profile_bio": {
+        "description": "Avisando tudo no universo da cultura pop, música e entretenimento! 📨 bchartsltda@gmail.com | Siga @bchartsnet em todas as redes | https://t.co/VoaeF9Tx2t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/bchartsnet",
+                "expanded_url": "https://t.me/bchartsnet",
+                "indices": [
+                  130,
+                  153
+                ],
+                "url": "https://t.co/VoaeF9Tx2t"
+              }
+            ],
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  98,
+                  109
+                ],
+                "name": "",
+                "screen_name": "bchartsnet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bcharts.com.br",
+                "expanded_url": "http://bcharts.com.br",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/XmzySsD6oA"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            34,
+            39
+          ],
+          "text": "VMAs"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,126 @@
+{
+  "type": "tweet",
+  "id": "1952747338663133493",
+  "url": "https://x.com/iguaria_/status/1952747338663133493",
+  "twitterUrl": "https://twitter.com/iguaria_/status/1952747338663133493",
+  "text": "E eu que acabei de passar pelo atendimento de suporte do Spotify, pois eu estava há dias sem conseguir acessar minha conta direito, e aí finalmente o atendente conseguiu me ajudar no chat e eu chamei ele de heroi e dei risada e ele entrou na minha doidice e riu tbm? Hahahah https://t.co/XmdirAFg0H",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:40 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747338663133493",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "iguaria_",
+    "url": "https://x.com/iguaria_",
+    "twitterUrl": "https://twitter.com/iguaria_",
+    "id": "273537119",
+    "name": "Iguaria",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1917485303607988224/TNeXtd2X_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/273537119/1745383609",
+    "description": "",
+    "location": "",
+    "followers": 875,
+    "following": 540,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Mar 28 17:46:18 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 60324,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 851,
+    "statusesCount": 77794,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1809578453554937999"
+    ],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/XmdirAFg0H",
+        "expanded_url": "https://twitter.com/iguaria_/status/1952747338663133493/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747330660114432",
+        "indices": [
+          275,
+          298
+        ],
+        "media_key": "16_1952747330660114432",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZjVnkFqAACgACGxmNW8EbATUAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmNWeQWoAAKAAIbGY1bwRsBNQAA",
+            "media_key": "16_1952747330660114432"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmNWeQWoAAjQ-K.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 198,
+          "width": 220
+        },
+        "sizes": {
+          "large": {
+            "h": 198,
+            "w": 220
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/XmdirAFg0H",
+        "video_info": {
+          "aspect_ratio": [
+            10,
+            9
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmNWeQWoAAjQ-K.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,96 @@
+{
+  "type": "tweet",
+  "id": "1952747877312102581",
+  "url": "https://x.com/BemAventurad0/status/1952747877312102581",
+  "twitterUrl": "https://twitter.com/BemAventurad0/status/1952747877312102581",
+  "text": "@Bielmaragao @Galo____1908 mas ai e facil, Cruzeiro teve varios anos bons\natletico que so teve 71,13,14 e 21 100 anos de historia 4 anos com conquistas 😂😂",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:48 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952743278203281568",
+  "conversationId": "1952706015641681923",
+  "inReplyToUserId": "4905100137",
+  "inReplyToUsername": "Bielmaragao",
+  "author": {
+    "type": "user",
+    "userName": "BemAventurad0",
+    "url": "https://x.com/BemAventurad0",
+    "twitterUrl": "https://twitter.com/BemAventurad0",
+    "id": "1786225950549557248",
+    "name": "Bem Aventurado 🇨🇺🛖",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1936887574905184256/b-l5ANdk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1786225950549557248/1715218736",
+    "description": "",
+    "location": "Belo Horizonte, Brazil",
+    "followers": 91,
+    "following": 139,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri May 03 02:47:23 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9151,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 180,
+    "statusesCount": 6807,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1928863745444352502"
+    ],
+    "profile_bio": {
+      "description": "Tropa do Mágico 🧙‍♂️ Grupo de referências 🔛\nVou gastar a onda falando do Cruzeiro boa boa",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "4905100137",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Gabriel Martinez",
+        "screen_name": "Bielmaragao"
+      },
+      {
+        "id_str": "1897345154052423680",
+        "indices": [
+          13,
+          26
+        ],
+        "name": "Galo 1908",
+        "screen_name": "Galo____1908"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

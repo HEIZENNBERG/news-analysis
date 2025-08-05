@@ -1,0 +1,106 @@
+{
+  "type": "tweet",
+  "id": "1952735223881363562",
+  "url": "https://x.com/afgmiotela/status/1952735223881363562",
+  "twitterUrl": "https://twitter.com/afgmiotela/status/1952735223881363562",
+  "text": "@castemiotof So aí msm, aqui no norte ainda não têm",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:15:32 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952729275523649634",
+  "conversationId": "1952729275523649634",
+  "inReplyToUserId": "1740821585835982848",
+  "inReplyToUsername": "castemiotof",
+  "author": {
+    "type": "user",
+    "userName": "afgmiotela",
+    "url": "https://x.com/afgmiotela",
+    "twitterUrl": "https://twitter.com/afgmiotela",
+    "id": "1803432089775194112",
+    "name": "ana 🜲",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1894064151552466944/mHb_xWw4_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1803432089775194112/1751395738",
+    "description": "",
+    "location": "🇵🇹",
+    "followers": 124,
+    "following": 181,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 19 14:18:19 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23034,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 270,
+    "statusesCount": 3668,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Pré-save 🐎: https://t.co/DJnTe7ucBp                    \nPré-save ⏳️: https://t.co/cIs8ZBdsN9",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "ffm.to/letsgorodeo",
+              "expanded_url": "https://ffm.to/letsgorodeo",
+              "indices": [
+                12,
+                35
+              ],
+              "url": "https://t.co/DJnTe7ucBp"
+            },
+            {
+              "display_url": "open.spotify.com/prerelease/5D3…",
+              "expanded_url": "https://open.spotify.com/prerelease/5D3H8BScoAprTnCA3MLqIz?si=eJLHuKcOSJCuIJJOZ2Hl_Q",
+              "indices": [
+                69,
+                92
+              ],
+              "url": "https://t.co/cIs8ZBdsN9"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1740821585835982848",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Jenny 🜲",
+        "screen_name": "castemiotof"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

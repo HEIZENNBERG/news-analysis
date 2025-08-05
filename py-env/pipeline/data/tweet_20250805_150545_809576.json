@@ -1,0 +1,73 @@
+{
+  "type": "tweet",
+  "id": "1952747855304663416",
+  "url": "https://x.com/lovesdedcg/status/1952747855304663416",
+  "twitterUrl": "https://twitter.com/lovesdedcg/status/1952747855304663416",
+  "text": "🧠 With over 2.1M TAO staked ($420M+), validators play a crucial role in maintaining network security and integrity. Their rewards—up to 18.5% APY—are dynamically adjusted based on contribution quality, incentivizing high-performance AI models that push the frontier of",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:43 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747713017119147",
+  "conversationId": "1952709977295995373",
+  "inReplyToUserId": "2729918916",
+  "inReplyToUsername": "lovesdedcg",
+  "author": {
+    "type": "user",
+    "userName": "lovesdedcg",
+    "url": "https://x.com/lovesdedcg",
+    "twitterUrl": "https://twitter.com/lovesdedcg",
+    "id": "2729918916",
+    "name": "cynthi",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1897692608089960448/6ZJXGJRx_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2729918916/1741280162",
+    "description": "",
+    "location": "",
+    "followers": 21,
+    "following": 4,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 13 17:37:24 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 22,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1,
+    "statusesCount": 42603,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "AI-driven fiction and story creation, inspired by cutting-edge AI generation techniques. Bringing the future of storytelling to life.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

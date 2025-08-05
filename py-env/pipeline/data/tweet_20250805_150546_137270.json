@@ -1,0 +1,108 @@
+{
+  "type": "tweet",
+  "id": "1952747851844296842",
+  "url": "https://x.com/SharoneFCB/status/1952747851844296842",
+  "twitterUrl": "https://twitter.com/SharoneFCB/status/1952747851844296842",
+  "text": "@MadrelD Je sais mais j’ai l’impression qu’il va s’allier avec Iyodi",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:42 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952746466407043265",
+  "conversationId": "1952744554290917678",
+  "inReplyToUserId": "1027744929613852673",
+  "inReplyToUsername": "MadrelD",
+  "author": {
+    "type": "user",
+    "userName": "SharoneFCB",
+    "url": "https://x.com/SharoneFCB",
+    "twitterUrl": "https://twitter.com/SharoneFCB",
+    "id": "1509635858902700033",
+    "name": "Hãrøñë Däsh 🇬🇶🇺🇸",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1939715399345491968/53_KRTbJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1509635858902700033/1737958429",
+    "description": "",
+    "location": "Transfer",
+    "followers": 1835,
+    "following": 1269,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Mar 31 20:57:18 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 882531,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3229,
+    "statusesCount": 419007,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1899540993977786750"
+    ],
+    "profile_bio": {
+      "description": "@FCBarcelona💙❤️ @Lakers💜💛 | Messi 🐐| LeBron🐐|20yo|✝️🤍|Songwriter ✍🏽| Ferran 🦈| I tweet in English & French| DON’T FOLLOW ME IF YOU DON’T LIKE ⚽️🏀 🎶",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                12
+              ],
+              "name": "",
+              "screen_name": "FCBarcelona"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                16,
+                23
+              ],
+              "name": "",
+              "screen_name": "Lakers"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1027744929613852673",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Le Phénix🐦‍🔥🔥",
+        "screen_name": "MadrelD"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

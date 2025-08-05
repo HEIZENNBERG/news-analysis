@@ -1,0 +1,226 @@
+{
+  "type": "tweet",
+  "id": "1952747469479219309",
+  "url": "https://x.com/form_films/status/1952747469479219309",
+  "twitterUrl": "https://twitter.com/form_films/status/1952747469479219309",
+  "text": "What AI CAN’T replace…\n\nDid AI KILL Creativity? | Creative Table with Andrew Payne is live now! Watch on YouTube or Spotify, link in bio.\n\n#podcast #creativetable #ai #marketing #advertising #creativity #freelancetips #creativebusiness https://t.co/RI0TEgBV6h",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:11 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747469479219309",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "form_films",
+    "url": "https://x.com/form_films",
+    "twitterUrl": "https://twitter.com/form_films",
+    "id": "797912183359361028",
+    "name": "FORM FILMS",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1579546809512361994/2C9_sU1f_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/797912183359361028/1479073237",
+    "description": "",
+    "location": "Atlanta",
+    "followers": 32,
+    "following": 38,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 13 21:21:03 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 94,
+    "statusesCount": 119,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Form great stories.\n\nCheck out Creative Table: https://t.co/XE8Fovcv8g",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "creativetableshow.com",
+              "expanded_url": "http://www.creativetableshow.com",
+              "indices": [
+                47,
+                70
+              ],
+              "url": "https://t.co/XE8Fovcv8g"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "formfilms.com",
+              "expanded_url": "http://www.formfilms.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/cmBjNDzdCq"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/RI0TEgBV6h",
+        "expanded_url": "https://twitter.com/form_films/status/1952747469479219309/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747248569434112",
+        "indices": [
+          236,
+          259
+        ],
+        "media_key": "7_1952747248569434112",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsZjUbHGkAACgACGxmNejZaEG0AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxmNRscaQAAKAAIbGY16NloQbQAA",
+            "media_key": "7_1952747248569434112"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1952747248569434112/pu/img/9d7FPSMPSfN9m3f_.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/RI0TEgBV6h",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 24866,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747248569434112/pu/pl/5gqZ4yaRdbeQ9VjF.m3u8?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747248569434112/pu/vid/avc1/320x568/MvytnTVU4HcNy2wT.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747248569434112/pu/vid/avc1/480x852/RGzZKrlwRqsg-oN-.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747248569434112/pu/vid/avc1/720x1280/JDA21D_pqvY_Bx6w.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          139,
+          147
+        ],
+        "text": "podcast"
+      },
+      {
+        "indices": [
+          148,
+          162
+        ],
+        "text": "creativetable"
+      },
+      {
+        "indices": [
+          163,
+          166
+        ],
+        "text": "ai"
+      },
+      {
+        "indices": [
+          167,
+          177
+        ],
+        "text": "marketing"
+      },
+      {
+        "indices": [
+          178,
+          190
+        ],
+        "text": "advertising"
+      },
+      {
+        "indices": [
+          191,
+          202
+        ],
+        "text": "creativity"
+      },
+      {
+        "indices": [
+          203,
+          217
+        ],
+        "text": "freelancetips"
+      },
+      {
+        "indices": [
+          218,
+          235
+        ],
+        "text": "creativebusiness"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

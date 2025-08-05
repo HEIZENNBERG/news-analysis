@@ -1,0 +1,293 @@
+{
+  "type": "tweet",
+  "id": "1952747682335719869",
+  "url": "https://x.com/PeterSchwarz11/status/1952747682335719869",
+  "twitterUrl": "https://twitter.com/PeterSchwarz11/status/1952747682335719869",
+  "text": "@amnestyitalia \nIn #Saudi- Arabien wurden am Wochenende 14 ausländische Personen, die alle wegen Drogendelikten verurteilt waren, sowie eine saudische Staatsbürgerin hingerichtet. AI hat sechs Fälle dokumentiert, in denen die Urteile auf unfaire Prozesse folgten.\n @channeldraw https://t.co/Y7NNKWYLIz",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:02 +0000 2025",
+  "lang": "de",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747682335719869",
+  "inReplyToUserId": "41370439",
+  "inReplyToUsername": "amnestyitalia",
+  "author": {
+    "type": "user",
+    "userName": "PeterSchwarz11",
+    "url": "https://x.com/PeterSchwarz11",
+    "twitterUrl": "https://twitter.com/PeterSchwarz11",
+    "id": "504920310",
+    "name": "𝐏𝐞𝐭𝐞𝐫 𝐒𝐜𝐡𝐰𝐚𝐫𝐳 🕊️ ✌",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1901300295940116481/0IiI-hn5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/504920310/1676079006",
+    "description": "",
+    "location": "Beckingen/ Saar",
+    "followers": 892,
+    "following": 3468,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 26 20:00:19 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33789,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 7573,
+    "statusesCount": 26220,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1635489555783598080"
+    ],
+    "profile_bio": {
+      "description": "United Whistleblowers for a better World\n\nMotto: Lasst uns gemeinsam🎗 fur eine Welt\nkampfen, in der Menschenrechte fur alle garantiert sind.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/peter.schwarz.…",
+              "expanded_url": "https://www.facebook.com/peter.schwarz.31149/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/f9kpt6kuWZ"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/Y7NNKWYLIz",
+        "expanded_url": "https://twitter.com/PeterSchwarz11/status/1952747682335719869/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747317993373696",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "3_1952747317993373696",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjVbxF4AACgACGxmNq8WWgb0AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNVvEXgAAKAAIbGY2rxZaBvQAA",
+            "media_key": "3_1952747317993373696"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNVvEXgAA5ndv.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 354
+            },
+            {
+              "h": 967,
+              "w": 967,
+              "x": 57,
+              "y": 0
+            },
+            {
+              "h": 967,
+              "w": 848,
+              "x": 176,
+              "y": 0
+            },
+            {
+              "h": 967,
+              "w": 484,
+              "x": 540,
+              "y": 0
+            },
+            {
+              "h": 967,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 967,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 967,
+            "w": 1024
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Y7NNKWYLIz"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          19,
+          25
+        ],
+        "text": "Saudi"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "41370439",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Amnesty Italia",
+        "screen_name": "amnestyitalia"
+      },
+      {
+        "id_str": "49592004",
+        "indices": [
+          265,
+          277
+        ],
+        "name": "Gianluca Costantini",
+        "screen_name": "channeldraw"
+      }
+    ]
+  },
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952717372625682776",
+    "url": "https://x.com/amnestyitalia/status/1952717372625682776",
+    "twitterUrl": "https://twitter.com/amnestyitalia/status/1952717372625682776",
+    "text": "Durante il weekend in Arabia Saudita sono state messe a morte 14 persone di origine straniera, tutte per reati legati alla droga, e una saudita. In sei casi che abbiamo documentato, le condanne sono seguite a processi iniqui.",
+    "source": "Twitter for iPhone",
+    "retweetCount": 6,
+    "replyCount": 1,
+    "likeCount": 12,
+    "quoteCount": 2,
+    "viewCount": 661,
+    "createdAt": "Tue Aug 05 13:04:36 +0000 2025",
+    "lang": "it",
+    "bookmarkCount": 1,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952717372625682776",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "amnestyitalia",
+      "url": "https://x.com/amnestyitalia",
+      "twitterUrl": "https://twitter.com/amnestyitalia",
+      "id": "41370439",
+      "name": "Amnesty Italia",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": "Business",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1146711789368946689/AlyczGBU_normal.png",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/41370439/1736524979",
+      "description": "",
+      "location": "Roma",
+      "followers": 399995,
+      "following": 7326,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Wed May 20 14:38:15 +0000 2009",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 10860,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 5632,
+      "statusesCount": 40450,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1904148692585812156"
+      ],
+      "profile_bio": {
+        "description": "Meglio accendere una candela che maledire l'oscurità.\nFirma i nostri appelli, informati e partecipa su https://t.co/6g1ZSwMeC5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amnesty.it",
+                "expanded_url": "http://amnesty.it",
+                "indices": [
+                  103,
+                  126
+                ],
+                "url": "https://t.co/6g1ZSwMeC5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amnesty.it",
+                "expanded_url": "http://www.amnesty.it",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/F7CkC3Kyit"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

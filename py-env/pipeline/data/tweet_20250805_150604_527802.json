@@ -1,0 +1,100 @@
+{
+  "type": "tweet",
+  "id": "1952747934409474305",
+  "url": "https://x.com/libing890117/status/1952747934409474305",
+  "twitterUrl": "https://twitter.com/libing890117/status/1952747934409474305",
+  "text": "@JafarNajafov Understanding these AI tools is key, but success depends on how you automate outreach and target leads. Best approach varies by your business goals. DM if you'd like to discuss for your case.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:02 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1896875173305053315",
+  "conversationId": "1896875173305053315",
+  "inReplyToUserId": "73847343",
+  "inReplyToUsername": "JafarNajafov",
+  "author": {
+    "type": "user",
+    "userName": "libing890117",
+    "url": "https://x.com/libing890117",
+    "twitterUrl": "https://twitter.com/libing890117",
+    "id": "2220712392",
+    "name": "Michael｜AI-powered Marketing Growth",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1949111068468633600/K8ISzIcg_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 115,
+    "following": 136,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 29 03:05:33 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 564,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2,
+    "statusesCount": 810,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1950839154289590422"
+    ],
+    "profile_bio": {
+      "description": "🚀TaskBear – AI-powered Social Media Agent 🔥Helped more than 100 companies automate their social marketing for viral growth. ⬇️Try for free via the link!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "tskb.site/6qSbw",
+              "expanded_url": "https://tskb.site/6qSbw",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CPan0tiHkB"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "73847343",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Jafar Najafov",
+        "screen_name": "JafarNajafov"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

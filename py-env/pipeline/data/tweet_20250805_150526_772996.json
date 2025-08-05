@@ -1,0 +1,161 @@
+{
+  "type": "tweet",
+  "id": "1952747776544010431",
+  "url": "https://x.com/CauaMaciel21/status/1952747776544010431",
+  "twitterUrl": "https://twitter.com/CauaMaciel21/status/1952747776544010431",
+  "text": "@peterjordan100 tá devendo alguém? pode falar ai https://t.co/o2mkrvyzPC",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:24 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952729881852117432",
+  "conversationId": "1952729881852117432",
+  "inReplyToUserId": "3311716376",
+  "inReplyToUsername": "peterjordan100",
+  "author": {
+    "type": "user",
+    "userName": "CauaMaciel21",
+    "url": "https://x.com/CauaMaciel21",
+    "twitterUrl": "https://twitter.com/CauaMaciel21",
+    "id": "1411820012248121344",
+    "name": "☆ S t a a r z ♡",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1943774852277514241/Oj8DFN7Q_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1411820012248121344/1736189911",
+    "description": "",
+    "location": "Brasil",
+    "followers": 53,
+    "following": 210,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jul 04 22:51:53 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2081,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 414,
+    "statusesCount": 2461,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "(Ele/dele) ▪︎ Mineiro | Ateu | 18y | 🔥Rock🔥 | Amo animais | Conhecereis a verdade e a verdade vos libertará 🍃",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/o2mkrvyzPC",
+        "expanded_url": "https://twitter.com/CauaMaciel21/status/1952747776544010431/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747729110642688",
+        "indices": [
+          49,
+          72
+        ],
+        "media_key": "3_1952747729110642688",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjbaplzAACgACGxmNwbTW8L8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNtqmXMAAKAAIbGY3BtNbwvwAA",
+            "media_key": "3_1952747729110642688"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNtqmXMAAs5CV.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 162,
+              "w": 289,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 162,
+              "w": 162,
+              "x": 23,
+              "y": 0
+            },
+            {
+              "h": 162,
+              "w": 142,
+              "x": 33,
+              "y": 0
+            },
+            {
+              "h": 162,
+              "w": 81,
+              "x": 64,
+              "y": 0
+            },
+            {
+              "h": 162,
+              "w": 599,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 162,
+          "width": 599
+        },
+        "sizes": {
+          "large": {
+            "h": 162,
+            "w": 599
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/o2mkrvyzPC"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "3311716376",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Peter",
+        "screen_name": "peterjordan100"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

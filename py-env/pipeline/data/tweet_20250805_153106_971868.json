@@ -1,0 +1,86 @@
+{
+  "type": "tweet",
+  "id": "1952754226071028098",
+  "url": "https://x.com/GovGianforte/status/1952754226071028098",
+  "twitterUrl": "https://twitter.com/GovGianforte/status/1952754226071028098",
+  "text": "GREAT NEWS: President Donald J. Trump has expanded the Rosebud Mine through 2039. This decision protects over 300 jobs and secures the production of affordable and reliable energy.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:31:02 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952754226071028098",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "GovGianforte",
+    "url": "https://x.com/GovGianforte",
+    "twitterUrl": "https://twitter.com/GovGianforte",
+    "id": "1343969773726494721",
+    "name": "Governor Greg Gianforte",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": "Government",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1345865078755627010/Msxww2jO_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1343969773726494721/1609728418",
+    "description": "",
+    "location": "Montana",
+    "followers": 29700,
+    "following": 211,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 29 17:19:13 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 150,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2300,
+    "statusesCount": 4789,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "25th Governor of the great State of Montana. Husband. Father and Grandfather. Sportsman. Businessman.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "mt.gov",
+              "expanded_url": "http://mt.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/HTkMTPr6VO"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

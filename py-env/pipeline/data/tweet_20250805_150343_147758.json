@@ -1,0 +1,109 @@
+{
+  "type": "tweet",
+  "id": "1952747335957483705",
+  "url": "https://x.com/anthara_ai/status/1952747335957483705",
+  "twitterUrl": "https://twitter.com/anthara_ai/status/1952747335957483705",
+  "text": "@demishassabis @kaggle Exciting new benchmark for AI performance in gaming!",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:39 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952436066524299432",
+  "conversationId": "1952436066524299432",
+  "inReplyToUserId": "1482581556",
+  "inReplyToUsername": "demishassabis",
+  "author": {
+    "type": "user",
+    "userName": "anthara_ai",
+    "url": "https://x.com/anthara_ai",
+    "twitterUrl": "https://twitter.com/anthara_ai",
+    "id": "1570708370851794951",
+    "name": "Anthara Fairooz",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1881290870613495808/5hmf5UCi_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1570708370851794951/1737415907",
+    "description": "",
+    "location": "Best AI & Tech Newsletter 👉",
+    "followers": 39664,
+    "following": 3202,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Sep 16 09:37:24 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40046,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1361,
+    "statusesCount": 21891,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952318501513015784"
+    ],
+    "profile_bio": {
+      "description": "🟣 AI Educator | Talk about AI, SaaS and Growth\n🦾120K+ Followers Across All Socials\n✉️ DM for Collaboration\n🧠 Built a 100K+ AI Community 👇",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "aiplanetx.com",
+              "expanded_url": "http://www.aiplanetx.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dEIgR0o2v1"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1482581556",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Demis Hassabis",
+        "screen_name": "demishassabis"
+      },
+      {
+        "id_str": "80422885",
+        "indices": [
+          15,
+          22
+        ],
+        "name": "Kaggle",
+        "screen_name": "kaggle"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

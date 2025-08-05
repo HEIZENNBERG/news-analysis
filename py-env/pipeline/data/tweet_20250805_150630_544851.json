@@ -1,0 +1,115 @@
+{
+  "type": "tweet",
+  "id": "1952748037555507270",
+  "url": "https://x.com/maaxatthieu2/status/1952748037555507270",
+  "twitterUrl": "https://twitter.com/maaxatthieu2/status/1952748037555507270",
+  "text": "@Marco_Zamshire @LoveYouMista3 @takemichi1111 j'ai suivi JJk depuis sont chapitre 60 et quand j'ai vu comment a tournée sont manga après shibuya j'avais bien le seum car on s'attendais vraiment a un truc de fou",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:27 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747303552352718",
+  "conversationId": "1952693214298706278",
+  "inReplyToUserId": "911106730708398081",
+  "inReplyToUsername": "Marco_Zamshire",
+  "author": {
+    "type": "user",
+    "userName": "maaxatthieu2",
+    "url": "https://x.com/maaxatthieu2",
+    "twitterUrl": "https://twitter.com/maaxatthieu2",
+    "id": "1571061343876272130",
+    "name": "Matou",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952549359028981760/aFd09Mtb_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1571061343876272130/1754333366",
+    "description": "",
+    "location": "",
+    "followers": 261,
+    "following": 962,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Sep 17 09:00:07 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 41778,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3644,
+    "statusesCount": 27546,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "ct @maaxatthieu babtou fort mma, grapp,  thai, anglaise  Junior Tafa enjoyer🥊 🤼",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                3,
+                15
+              ],
+              "name": "",
+              "screen_name": "maaxatthieu"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "911106730708398081",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Zamshire (AKASAKA fan account)",
+        "screen_name": "Marco_Zamshire"
+      },
+      {
+        "id_str": "1285212474728493056",
+        "indices": [
+          16,
+          30
+        ],
+        "name": "Kusai ☕",
+        "screen_name": "LoveYouMista3"
+      },
+      {
+        "id_str": "1410719367428509699",
+        "indices": [
+          31,
+          45
+        ],
+        "name": "putain",
+        "screen_name": "takemichi1111"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

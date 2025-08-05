@@ -1,0 +1,279 @@
+{
+  "type": "tweet",
+  "id": "1952747931385405632",
+  "url": "https://x.com/Snowyprints/status/1952747931385405632",
+  "twitterUrl": "https://twitter.com/Snowyprints/status/1952747931385405632",
+  "text": "iOS?\n\nOh, that platform - the one that  dominates in pretty much the only markets that matter right now for AI adoption?",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747931385405632",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Snowyprints",
+    "url": "https://x.com/Snowyprints",
+    "twitterUrl": "https://twitter.com/Snowyprints",
+    "id": "976164991505223680",
+    "name": "snowyprints",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1765180910922600448/2jtsIpgY_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/976164991505223680/1709686899",
+    "description": "",
+    "location": "",
+    "followers": 737,
+    "following": 805,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Mar 20 18:34:05 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 28707,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1227,
+    "statusesCount": 10615,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "what powers you?",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952398999815950454",
+    "url": "https://x.com/ReiNetwork0x/status/1952398999815950454",
+    "twitterUrl": "https://twitter.com/ReiNetwork0x/status/1952398999815950454",
+    "text": "Less than two months since expanded beta started, thousands of queries are processed daily by Rei. We highlighted some popular features and capabilities testers have been experimenting with.\n\n→ Analyze and visualize smart wallet flows, transactions, and sentiment\n→ Forecast macroeconomic events, markets, and trends\n→ Explore latest technological and academic research papers\n\nComing soon to the App Store and @baseapp",
+    "source": "Twitter for iPhone",
+    "retweetCount": 100,
+    "replyCount": 43,
+    "likeCount": 314,
+    "quoteCount": 33,
+    "viewCount": 39116,
+    "createdAt": "Mon Aug 04 15:59:30 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 43,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952398999815950454",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "ReiNetwork0x",
+      "url": "https://x.com/ReiNetwork0x",
+      "twitterUrl": "https://twitter.com/ReiNetwork0x",
+      "id": "1855992721074450432",
+      "name": "REI Network",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": "Business",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1952470433837744128/oRFv0yDD_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1855992721074450432/1740762323",
+      "description": "",
+      "location": "",
+      "followers": 13729,
+      "following": 15,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Mon Nov 11 15:15:44 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1281,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 95,
+      "statusesCount": 403,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1943336576018452525"
+      ],
+      "profile_bio": {
+        "description": "Advancing AI through fundamental scientific principles • Research lead by @0xreisearch on @Base and @HyperliquidX",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  74,
+                  86
+                ],
+                "name": "",
+                "screen_name": "0xreisearch"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  90,
+                  95
+                ],
+                "name": "",
+                "screen_name": "Base"
+              },
+              {
+                "id_str": "0",
+                "indices": [
+                  100,
+                  113
+                ],
+                "name": "",
+                "screen_name": "HyperliquidX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reisearch.box",
+                "expanded_url": "https://reisearch.box/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/oO9bl4vKJG"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/lZMWcf2qca",
+          "expanded_url": "https://twitter.com/ReiNetwork0x/status/1952398999815950454/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1952398916814827521",
+          "indices": [
+            276,
+            299
+          ],
+          "media_key": "13_1952398916814827521",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsYUHh4mvABAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGxhQeHia8AEAAA==",
+              "media_key": "13_1952398916814827521"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952398916814827521/img/tjN8NVyV4-vlneo9.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1920
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/lZMWcf2qca",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 41900,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video-s.twimg.com/amplify_video/1952398916814827521/pl/mdf-dfitq8SUZ6U2.m3u8?tag=21&v=cfc"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952398916814827521/vid/avc1/480x270/Fypxo8lQeD2onTxV.mp4?tag=21"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952398916814827521/vid/avc1/640x360/SWX02_5e2Ke2LPZ0.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952398916814827521/vid/avc1/1280x720/RSCPiuCk7ADSY9H1.mp4?tag=21"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952398916814827521/vid/avc1/1920x1080/IcYQkmfC9o15UX9Y.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "790627436832579584",
+          "indices": [
+            411,
+            419
+          ],
+          "name": "Base app",
+          "screen_name": "baseapp"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

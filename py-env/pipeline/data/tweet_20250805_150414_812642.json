@@ -1,0 +1,537 @@
+{
+  "type": "tweet",
+  "id": "1952747466538852594",
+  "url": "https://x.com/HuffPostUKEnt/status/1952747466538852594",
+  "twitterUrl": "https://twitter.com/HuffPostUKEnt/status/1952747466538852594",
+  "text": "Rod Stewart Raises Eyebrows With 'Distasteful' And 'Bizarre' AI Tribute To Ozzy Osbourne https://t.co/Oh1u8N9c7I",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:10 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747466538852594",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "HuffPostUKEnt",
+    "url": "https://x.com/HuffPostUKEnt",
+    "twitterUrl": "https://twitter.com/HuffPostUKEnt",
+    "id": "22987426",
+    "name": "HuffPost UK Entertainment",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1920794499879411712/M9EN43na_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/22987426/1569937402",
+    "description": "",
+    "location": "London",
+    "followers": 32686,
+    "following": 521,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 05 22:08:01 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 641,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 69135,
+    "statusesCount": 167905,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Celeb obsessors 🌟 Netflix addicts 📺 Nostalgia lovers 📼 Probably busy watching your favourite reality show.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "huffpost.co.uk/entertainment",
+              "expanded_url": "http://huffpost.co.uk/entertainment",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/oPVcsVspxX"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 147,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=280x150",
+            "width": 280
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "A video on Sir Rod's tour uses AI technology to show the late Black Sabbath singer taking selfies with various music icons in the afterlife."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "www.huffingtonpost.co.uk"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 316,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=600x600",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 630,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=orig",
+            "width": 1198
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "22987426"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 76,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=144x144",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 630,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=png&name=2048x2048_2_exp",
+            "width": 1198
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 630,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=orig",
+            "width": 1198
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "huffingtonpost.co.uk"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 38.19,
+                "rgb": {
+                  "blue": 77,
+                  "green": 65,
+                  "red": 52
+                }
+              },
+              {
+                "percentage": 13.53,
+                "rgb": {
+                  "blue": 223,
+                  "green": 72,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 13.26,
+                "rgb": {
+                  "blue": 129,
+                  "green": 153,
+                  "red": 209
+                }
+              },
+              {
+                "percentage": 11.04,
+                "rgb": {
+                  "blue": 110,
+                  "green": 59,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 7.19,
+                "rgb": {
+                  "blue": 28,
+                  "green": 45,
+                  "red": 65
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Rod Stewart Raises Eyebrows With 'Distasteful' And 'Bizarre' AI Tribute To Ozzy Osbourne"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 38.19,
+                "rgb": {
+                  "blue": 77,
+                  "green": 65,
+                  "red": 52
+                }
+              },
+              {
+                "percentage": 13.53,
+                "rgb": {
+                  "blue": 223,
+                  "green": 72,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 13.26,
+                "rgb": {
+                  "blue": 129,
+                  "green": 153,
+                  "red": 209
+                }
+              },
+              {
+                "percentage": 11.04,
+                "rgb": {
+                  "blue": 110,
+                  "green": 59,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 7.19,
+                "rgb": {
+                  "blue": 28,
+                  "green": 45,
+                  "red": 65
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 630,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=png&name=2048x2048_2_exp",
+            "width": 1198
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 38.19,
+                "rgb": {
+                  "blue": 77,
+                  "green": 65,
+                  "red": 52
+                }
+              },
+              {
+                "percentage": 13.53,
+                "rgb": {
+                  "blue": 223,
+                  "green": 72,
+                  "red": 252
+                }
+              },
+              {
+                "percentage": 13.26,
+                "rgb": {
+                  "blue": 129,
+                  "green": 153,
+                  "red": 209
+                }
+              },
+              {
+                "percentage": 11.04,
+                "rgb": {
+                  "blue": 110,
+                  "green": 59,
+                  "red": 30
+                }
+              },
+              {
+                "percentage": 7.19,
+                "rgb": {
+                  "blue": 28,
+                  "green": 45,
+                  "red": 65
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 630,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=png&name=2048x2048_2_exp",
+            "width": 1198
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/Oh1u8N9c7I"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 630,
+            "url": "https://pbs.twimg.com/card_img/1952676202495221762/fdasXOp0?format=jpg&name=orig",
+            "width": 1198
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/Oh1u8N9c7I",
+    "user_refs_results": [
+      {
+        "rest_id": "22987426",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 641
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1920794499879411712/M9EN43na_normal.png"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/22987426/1569937402"
+          },
+          "core": {
+            "created_at": "Thu Mar 05 22:08:01 +0000 2009",
+            "name": "HuffPost UK Entertainment",
+            "screen_name": "HuffPostUKEnt"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "London"
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Celeb obsessors 🌟 Netflix addicts 📺 Nostalgia lovers 📼 Probably busy watching your favourite reality show.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "huffpost.co.uk/entertainment",
+                    "expanded_url": "http://huffpost.co.uk/entertainment",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/oPVcsVspxX"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "FF3D2E"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 32686,
+            "following": 521
+          },
+          "relationship_perspectives": {},
+          "rest_id": "22987426",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 69135,
+            "tweets": 167905
+          },
+          "website": {
+            "url": "https://t.co/oPVcsVspxX"
+          },
+          "verification": {
+            "is_blue_verified": false
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "huffingtonpost.co.uk/entry/rod-stew…",
+        "expanded_url": "https://www.huffingtonpost.co.uk/entry/rod-stewart-tribute-ozzy-osbourne-ai-controversy_uk_6891d4b1e4b06ab3389440e6?d_id=10434660&ncid_tag=tweetlnkukhpmg00000007&utm_medium=Social&utm_source=Twitter&utm_campaign=uk_entertainment",
+        "indices": [
+          89,
+          112
+        ],
+        "url": "https://t.co/Oh1u8N9c7I"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

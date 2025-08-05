@@ -1,0 +1,139 @@
+{
+  "type": "tweet",
+  "id": "1952747311299494316",
+  "url": "https://x.com/nrqa__/status/1952747311299494316",
+  "twitterUrl": "https://twitter.com/nrqa__/status/1952747311299494316",
+  "text": "it’s crazy..\n\nyou can now create studio-level music from just a text, photo, or video\n\nand you can also fix pitchy vocals, clone realistic voices, and get AI soundtracks matched to your content\n\nhere's how: https://t.co/V1uQNTzmFu",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:33 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747311299494316",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "nrqa__",
+    "url": "https://x.com/nrqa__",
+    "twitterUrl": "https://twitter.com/nrqa__",
+    "id": "1596337163805020160",
+    "name": "Nelly;",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1905461126957334529/6HjAQokA_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1596337163805020160/1746589058",
+    "description": "",
+    "location": "No limit",
+    "followers": 69362,
+    "following": 646,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 26 02:57:03 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 57312,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 8956,
+    "statusesCount": 39968,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1938535830332817650"
+    ],
+    "profile_bio": {
+      "description": "𝕏'ing hot takes on AI & tech || Biz inq ✉️hey@nellyrq.io",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/V1uQNTzmFu",
+        "expanded_url": "https://twitter.com/nrqa__/status/1952747311299494316/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747260598800384",
+        "indices": [
+          207,
+          230
+        ],
+        "media_key": "13_1952747260598800384",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZjUmUG9AAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxmNSZQb0AAAAA==",
+            "media_key": "13_1952747260598800384"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952747260598800384/img/IUXEqma3nWbCk668.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 360,
+          "width": 558
+        },
+        "sizes": {
+          "large": {
+            "h": 360,
+            "w": 558
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/V1uQNTzmFu",
+        "video_info": {
+          "aspect_ratio": [
+            31,
+            20
+          ],
+          "duration_millis": 33692,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952747260598800384/pl/9vCXRXia9veV7NOi.m3u8?tag=14"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952747260598800384/vid/avc1/418x270/HRCxXgV-No4XzPOv.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952747260598800384/vid/avc1/558x360/K3dQJcsSNVJxxh2d.mp4?tag=14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

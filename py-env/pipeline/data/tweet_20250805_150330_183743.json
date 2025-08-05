@@ -1,0 +1,401 @@
+{
+  "type": "tweet",
+  "id": "1952747282299846888",
+  "url": "https://x.com/iVentiv/status/1952747282299846888",
+  "twitterUrl": "https://twitter.com/iVentiv/status/1952747282299846888",
+  "text": "@GlobalLogic @Rivian @McKinsey 🔸 Reshaping HR in the wake of Gen AI, with Susie M. Lee, @degreed  \n🔸AI in Action: Moving Beyond the Hype to Real Learning Impact, with Joshua Clark, @RedHat https://t.co/nDOqb9KOkM",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:27 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747133318156747",
+  "conversationId": "1952746933434425719",
+  "inReplyToUserId": "15748292",
+  "inReplyToUsername": "iVentiv",
+  "author": {
+    "type": "user",
+    "userName": "iVentiv",
+    "url": "https://x.com/iVentiv",
+    "twitterUrl": "https://twitter.com/iVentiv",
+    "id": "15748292",
+    "name": "iVentiv",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1610235869666885632/eoOSjlEe_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/15748292/1705509328",
+    "description": "",
+    "location": "United Kingdom",
+    "followers": 518,
+    "following": 1197,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 06 10:24:56 +0000 2008",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 727,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2042,
+    "statusesCount": 8939,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "We believe collaborating with peers inspires innovation, making you a better leader. At our events for senior execs, you’ll learn, connect & develop together.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "iventiv.com",
+              "expanded_url": "https://www.iventiv.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/t9seeX9I1v"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/nDOqb9KOkM",
+        "expanded_url": "https://twitter.com/iVentiv/status/1952747282299846888/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 283,
+                "w": 283,
+                "x": 660,
+                "y": 562
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 283,
+                "w": 283,
+                "x": 660,
+                "y": 562
+              }
+            ]
+          }
+        },
+        "id_str": "1952747272292184065",
+        "indices": [
+          189,
+          212
+        ],
+        "media_key": "3_1952747272292184065",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjUxNFrABCgACGxmNTqGXgOgAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNTE0WsAEKAAIbGY1OoZeA6AAA",
+            "media_key": "3_1952747272292184065"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNTE0WsAEQTgO.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/nDOqb9KOkM"
+      },
+      {
+        "display_url": "pic.twitter.com/nDOqb9KOkM",
+        "expanded_url": "https://twitter.com/iVentiv/status/1952747282299846888/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 237,
+                "w": 237,
+                "x": 684,
+                "y": 609
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 237,
+                "w": 237,
+                "x": 684,
+                "y": 609
+              }
+            ]
+          }
+        },
+        "id_str": "1952747271381995520",
+        "indices": [
+          189,
+          212
+        ],
+        "media_key": "3_1952747271381995520",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjUwW1lAACgACGxmNTqGXgOgAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNTBbWUAAKAAIbGY1OoZeA6AAA",
+            "media_key": "3_1952747271381995520"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNTBbWUAAt5wr.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/nDOqb9KOkM"
+      },
+      {
+        "display_url": "pic.twitter.com/nDOqb9KOkM",
+        "expanded_url": "https://twitter.com/iVentiv/status/1952747282299846888/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 152,
+                "w": 152,
+                "x": 742,
+                "y": 579
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 152,
+                "w": 152,
+                "x": 742,
+                "y": 579
+              }
+            ]
+          }
+        },
+        "id_str": "1952747271382056960",
+        "indices": [
+          189,
+          212
+        ],
+        "media_key": "3_1952747271382056960",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjUwW10AACgACGxmNTqGXgOgAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNTBbXQAAKAAIbGY1OoZeA6AAA",
+            "media_key": "3_1952747271382056960"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNTBbXQAATpUC.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/nDOqb9KOkM"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "104282770",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "GlobalLogic Inc.",
+        "screen_name": "GlobalLogic"
+      },
+      {
+        "id_str": "260414018",
+        "indices": [
+          13,
+          20
+        ],
+        "name": "Rivian",
+        "screen_name": "Rivian"
+      },
+      {
+        "id_str": "34042766",
+        "indices": [
+          21,
+          30
+        ],
+        "name": "McKinsey & Company",
+        "screen_name": "McKinsey"
+      },
+      {
+        "id_str": "97982451",
+        "indices": [
+          88,
+          96
+        ],
+        "name": "Degreed",
+        "screen_name": "degreed"
+      },
+      {
+        "id_str": "14627400",
+        "indices": [
+          181,
+          188
+        ],
+        "name": "Red Hat",
+        "screen_name": "RedHat"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

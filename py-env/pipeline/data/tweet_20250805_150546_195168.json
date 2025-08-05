@@ -1,0 +1,171 @@
+{
+  "type": "tweet",
+  "id": "1952747851122876773",
+  "url": "https://x.com/kimxlla/status/1952747851122876773",
+  "twitterUrl": "https://twitter.com/kimxlla/status/1952747851122876773",
+  "text": "ai ai hoje é lá né",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:42 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747851122876773",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "kimxlla",
+    "url": "https://x.com/kimxlla",
+    "twitterUrl": "https://twitter.com/kimxlla",
+    "id": "1933389861630980098",
+    "name": "somebody ❀",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952110777688555520/_sjVzyc9_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1933389861630980098/1754254608",
+    "description": "",
+    "location": "Brasil",
+    "followers": 85,
+    "following": 181,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Jun 13 05:04:06 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10719,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 189,
+    "statusesCount": 4720,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "for all seven",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "open.spotify.com/track/27xkOIER…",
+              "expanded_url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ?si=GZaR_oRpQ2KkcODMrhDCaQ",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9ZuEhuhdjx"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1950577963919089772",
+    "url": "https://x.com/kimxlla/status/1950577963919089772",
+    "twitterUrl": "https://twitter.com/kimxlla/status/1950577963919089772",
+    "text": "não vejo a hora de almoçar na casa das yoonginas",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 5,
+    "likeCount": 3,
+    "quoteCount": 1,
+    "viewCount": 40,
+    "createdAt": "Wed Jul 30 15:23:21 +0000 2025",
+    "lang": "pt",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1950577963919089772",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "kimxlla",
+      "url": "https://x.com/kimxlla",
+      "twitterUrl": "https://twitter.com/kimxlla",
+      "id": "1933389861630980098",
+      "name": "somebody ❀",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1952110777688555520/_sjVzyc9_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1933389861630980098/1754254608",
+      "description": "",
+      "location": "Brasil",
+      "followers": 85,
+      "following": 181,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Fri Jun 13 05:04:06 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 10719,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 189,
+      "statusesCount": 4720,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "for all seven",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/27xkOIER…",
+                "expanded_url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ?si=GZaR_oRpQ2KkcODMrhDCaQ",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/9ZuEhuhdjx"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

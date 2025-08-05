@@ -1,0 +1,175 @@
+{
+  "type": "tweet",
+  "id": "1952747252612469217",
+  "url": "https://x.com/0xPlutoniumz/status/1952747252612469217",
+  "twitterUrl": "https://twitter.com/0xPlutoniumz/status/1952747252612469217",
+  "text": "@NMW_ranger @Almanak__ @build_on_bob @cookiedotfun @elympics_ai Exactly mate ⚡",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952732363504423123",
+  "conversationId": "1952724643439124939",
+  "inReplyToUserId": "1878778522291814401",
+  "inReplyToUsername": "NMW_ranger",
+  "author": {
+    "type": "user",
+    "userName": "0xPlutoniumz",
+    "url": "https://x.com/0xPlutoniumz",
+    "twitterUrl": "https://twitter.com/0xPlutoniumz",
+    "id": "1584523997592670208",
+    "name": "Plutonium 𓅓",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1943960036926967808/PoRntV12_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1584523997592670208/1751881987",
+    "description": "",
+    "location": "Pluto🪐",
+    "followers": 1039,
+    "following": 1014,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 24 12:35:47 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18080,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 208,
+    "statusesCount": 3751,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951715251692392949"
+    ],
+    "profile_bio": {
+      "description": "Onchain degen 📡 | AI Agents & Virtuals | Early Signals, Clean Threads | Threadoor @amplifi_now | Artist 🎨 | OG @AlphaNeural | Amb @bracket_fi @Alphamind_labs",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                82,
+                94
+              ],
+              "name": "",
+              "screen_name": "amplifi_now"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                111,
+                123
+              ],
+              "name": "",
+              "screen_name": "AlphaNeural"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                130,
+                141
+              ],
+              "name": "",
+              "screen_name": "bracket_fi"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                142,
+                157
+              ],
+              "name": "",
+              "screen_name": "Alphamind_labs"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/PlutoniumzSpace",
+              "expanded_url": "https://t.me/PlutoniumzSpace",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/c4Qz9PfWbT"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1878778522291814401",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "NMW MUSIC",
+        "screen_name": "NMW_ranger"
+      },
+      {
+        "id_str": "1572179093008912385",
+        "indices": [
+          12,
+          22
+        ],
+        "name": "Almanak",
+        "screen_name": "Almanak__"
+      },
+      {
+        "id_str": "1329515694493462529",
+        "indices": [
+          23,
+          36
+        ],
+        "name": "BOB",
+        "screen_name": "build_on_bob"
+      },
+      {
+        "id_str": "1762471547485184000",
+        "indices": [
+          37,
+          50
+        ],
+        "name": "Cookie DAO 🍪",
+        "screen_name": "cookiedotfun"
+      },
+      {
+        "id_str": "1458007981031833608",
+        "indices": [
+          51,
+          63
+        ],
+        "name": "Elympics",
+        "screen_name": "elympics_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

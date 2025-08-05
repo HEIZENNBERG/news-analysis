@@ -1,0 +1,75 @@
+{
+  "type": "tweet",
+  "id": "1952747094743068928",
+  "url": "https://x.com/reidosfaunos/status/1952747094743068928",
+  "twitterUrl": "https://twitter.com/reidosfaunos/status/1952747094743068928",
+  "text": "ai tô lembrando das coisas e rachando o bico puta que pariu como eu posso ser tao imbecil",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:42 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747094743068928",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "reidosfaunos",
+    "url": "https://x.com/reidosfaunos",
+    "twitterUrl": "https://twitter.com/reidosfaunos",
+    "id": "1869153385800237056",
+    "name": "colt rei das xexecas",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952470877225836544/bkOF91Uh_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1869153385800237056/1738880802",
+    "description": "",
+    "location": "New York ",
+    "followers": 268,
+    "following": 279,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Dec 17 22:51:17 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6955,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 526,
+    "statusesCount": 5969,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1941344837086872059"
+    ],
+    "profile_bio": {
+      "description": "três gurizinhos no shopping shopping shopping eles estão no shopping o dia inteiro",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,511 @@
+{
+  "type": "tweet",
+  "id": "1952754622772154714",
+  "url": "https://x.com/RyderCupUSA/status/1952754622772154714",
+  "twitterUrl": "https://twitter.com/RyderCupUSA/status/1952754622772154714",
+  "text": "The next generation of U.S. stars will compete in the @JuniorRyderCup at Nassau Country Club and Bethpage Black Sept. 23-25 🏆\n\n#GoUSA 🇺🇸\n\nhttps://t.co/au9sSwyLwJ",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:32:37 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952754622772154714",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "RyderCupUSA",
+    "url": "https://x.com/RyderCupUSA",
+    "twitterUrl": "https://twitter.com/RyderCupUSA",
+    "id": "237822256",
+    "name": "Ryder Cup USA",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1750696576350355456/duKm3lDg_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/237822256/1735851840",
+    "description": "",
+    "location": "USA",
+    "followers": 329487,
+    "following": 414,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 13 18:25:32 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2392,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4438,
+    "statusesCount": 9608,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Official account of the United States @RyderCup Team. #GoUSA",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                54,
+                60
+              ],
+              "text": "GoUSA"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                38,
+                47
+              ],
+              "name": "",
+              "screen_name": "RyderCup"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rydercup.com",
+              "expanded_url": "http://www.rydercup.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/n6eDZ4MIFd"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 150,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=280x150",
+            "width": 267
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "Miles Russell, Asterisk Talley Lead U.S. Team into 2025 Junior Ryder Cup"
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "www.rydercup.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 320,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=800x320_1",
+            "width": 569
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 1080,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=orig",
+            "width": 1920
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 81,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=144x144",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 1080,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=png&name=2048x2048_2_exp",
+            "width": 1920
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 1080,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=orig",
+            "width": 1920
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_alt_text",
+        "value": {
+          "string_value": "article image"
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "rydercup.com"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_alt_text",
+        "value": {
+          "string_value": "article image"
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 69.25,
+                "rgb": {
+                  "blue": 56,
+                  "green": 94,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 12.34,
+                "rgb": {
+                  "blue": 48,
+                  "green": 63,
+                  "red": 55
+                }
+              },
+              {
+                "percentage": 5.84,
+                "rgb": {
+                  "blue": 63,
+                  "green": 133,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 3.09,
+                "rgb": {
+                  "blue": 198,
+                  "green": 209,
+                  "red": 220
+                }
+              },
+              {
+                "percentage": 1.95,
+                "rgb": {
+                  "blue": 99,
+                  "green": 125,
+                  "red": 215
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Miles Russell, Asterisk Talley Lead US Team into 2025 Junior Ryder Cup"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 69.25,
+                "rgb": {
+                  "blue": 56,
+                  "green": 94,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 12.34,
+                "rgb": {
+                  "blue": 48,
+                  "green": 63,
+                  "red": 55
+                }
+              },
+              {
+                "percentage": 5.84,
+                "rgb": {
+                  "blue": 63,
+                  "green": 133,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 3.09,
+                "rgb": {
+                  "blue": 198,
+                  "green": 209,
+                  "red": 220
+                }
+              },
+              {
+                "percentage": 1.95,
+                "rgb": {
+                  "blue": 99,
+                  "green": 125,
+                  "red": 215
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 1080,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=png&name=2048x2048_2_exp",
+            "width": 1920
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 69.25,
+                "rgb": {
+                  "blue": 56,
+                  "green": 94,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 12.34,
+                "rgb": {
+                  "blue": 48,
+                  "green": 63,
+                  "red": 55
+                }
+              },
+              {
+                "percentage": 5.84,
+                "rgb": {
+                  "blue": 63,
+                  "green": 133,
+                  "red": 113
+                }
+              },
+              {
+                "percentage": 3.09,
+                "rgb": {
+                  "blue": 198,
+                  "green": 209,
+                  "red": 220
+                }
+              },
+              {
+                "percentage": 1.95,
+                "rgb": {
+                  "blue": 99,
+                  "green": 125,
+                  "red": 215
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 1080,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=png&name=2048x2048_2_exp",
+            "width": 1920
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/au9sSwyLwJ"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "alt": "article image",
+            "height": 1080,
+            "url": "https://pbs.twimg.com/card_img/1952754394262278144/S57JXiFX?format=jpg&name=orig",
+            "width": 1920
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/au9sSwyLwJ"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          127,
+          133
+        ],
+        "text": "GoUSA"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "rydercup.com/news-media/mil…",
+        "expanded_url": "https://www.rydercup.com/news-media/miles-russell,-asterisk-talley-lead-us-team-into-2025-junior-ryder-cup",
+        "indices": [
+          138,
+          161
+        ],
+        "url": "https://t.co/au9sSwyLwJ"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "2359710194",
+        "indices": [
+          54,
+          69
+        ],
+        "name": "Junior Ryder Cup",
+        "screen_name": "JuniorRyderCup"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

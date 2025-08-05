@@ -1,0 +1,108 @@
+{
+  "type": "tweet",
+  "id": "1952747467570614410",
+  "url": "https://x.com/DeweesMilo8889/status/1952747467570614410",
+  "twitterUrl": "https://twitter.com/DeweesMilo8889/status/1952747467570614410",
+  "text": "@Hyperware_ai #HYPR #Hypergrid #Hyperware nice",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:11 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747467570614410",
+  "inReplyToUserId": "1889885459213336576",
+  "inReplyToUsername": "Hyperware_ai",
+  "author": {
+    "type": "user",
+    "userName": "DeweesMilo8889",
+    "url": "https://x.com/DeweesMilo8889",
+    "twitterUrl": "https://twitter.com/DeweesMilo8889",
+    "id": "1917511645573832704",
+    "name": "Milo Dewees",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1917511722405093380/IWxEb0GT_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 37,
+    "following": 120,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 30 09:29:47 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 0,
+    "statusesCount": 30,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          14,
+          19
+        ],
+        "text": "HYPR"
+      },
+      {
+        "indices": [
+          20,
+          30
+        ],
+        "text": "Hypergrid"
+      },
+      {
+        "indices": [
+          31,
+          41
+        ],
+        "text": "Hyperware"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1889885459213336576",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Hyperware",
+        "screen_name": "Hyperware_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

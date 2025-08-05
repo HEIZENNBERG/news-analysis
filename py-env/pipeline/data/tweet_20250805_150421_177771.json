@@ -1,0 +1,103 @@
+{
+  "type": "tweet",
+  "id": "1952747497975058688",
+  "url": "https://x.com/AliHassan43172/status/1952747497975058688",
+  "twitterUrl": "https://twitter.com/AliHassan43172/status/1952747497975058688",
+  "text": "@Manlikejim_ @FractionAI_xyz yeah bro you can make ai agents with just a promt @FractionAI_xyz",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:18 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952695233587605565",
+  "conversationId": "1952695233587605565",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "AliHassan43172",
+    "url": "https://x.com/AliHassan43172",
+    "twitterUrl": "https://twitter.com/AliHassan43172",
+    "id": "1835919337799954432",
+    "name": "Ali Hassan(Ø,G)Anomage🧙‍♂️,🛠️⛺🧙‍♂️, 𝔽rAI🦭/acc",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1950892970611269633/0oR71JVm_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1835919337799954432/1753964515",
+    "description": "",
+    "location": "pakistan",
+    "followers": 201,
+    "following": 0,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 17 05:51:06 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 74,
+    "statusesCount": 3526,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "my name is Ali hassan and I am a web3 explorer and crypto crypto enthusiast",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1873867004957913088",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "jimjim | 𝔽rAI",
+        "screen_name": "Manlikejim_"
+      },
+      {
+        "id_str": "1737049734668238848",
+        "indices": [
+          13,
+          28
+        ],
+        "name": "Fraction AI",
+        "screen_name": "FractionAI_xyz"
+      },
+      {
+        "id_str": "1737049734668238848",
+        "indices": [
+          79,
+          94
+        ],
+        "name": "Fraction AI",
+        "screen_name": "FractionAI_xyz"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

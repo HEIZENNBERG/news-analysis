@@ -1,0 +1,116 @@
+{
+  "type": "tweet",
+  "id": "1952747956580262247",
+  "url": "https://x.com/kaushikb9/status/1952747956580262247",
+  "twitterUrl": "https://twitter.com/kaushikb9/status/1952747956580262247",
+  "text": "Wrote a 5-page doc in 2 hrs with zero AI. Feels like I am capable of doing anything now. AMA",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:07 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747956580262247",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "kaushikb9",
+    "url": "https://x.com/kaushikb9",
+    "twitterUrl": "https://twitter.com/kaushikb9",
+    "id": "75550198",
+    "name": "Kaushik Bhat",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1074855295925420032/Bcrm8y7P_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/75550198/1599462455",
+    "description": "",
+    "location": "Bengaluru, India",
+    "followers": 1361,
+    "following": 162,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 19 13:38:52 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5248,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 112,
+    "statusesCount": 4159,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Chelsea 💙 | Making AI earn its paycheck @razorpay 💸 | Ex-@zestmoney @artootrills | All my emotions converge into sarcasm",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                40,
+                49
+              ],
+              "name": "",
+              "screen_name": "razorpay"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                57,
+                67
+              ],
+              "name": "",
+              "screen_name": "zestmoney"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                68,
+                80
+              ],
+              "name": "",
+              "screen_name": "artootrills"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "kaushikbhat.com",
+              "expanded_url": "http://kaushikbhat.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eeS5X0lvM2"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,107 @@
+{
+  "type": "tweet",
+  "id": "1952747983935529140",
+  "url": "https://x.com/trevizera/status/1952747983935529140",
+  "twitterUrl": "https://twitter.com/trevizera/status/1952747983935529140",
+  "text": "@Suts_Effez @grassinhaaaaaa Quero apenas reforçar o seguinte ponto não é porque existem 57689bilhões de substancias ruins que maconha dentro de um MAU USO não vai ser uma delas!!!!!!E quando contamos a mentira para nós mesmo de que é algo tranquilo de se manter pra sempre na vida aí é que mora o problema",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:14 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747574517010446",
+  "conversationId": "1952564995377463737",
+  "inReplyToUserId": "3669021376",
+  "inReplyToUsername": "trevizera",
+  "author": {
+    "type": "user",
+    "userName": "trevizera",
+    "url": "https://x.com/trevizera",
+    "twitterUrl": "https://twitter.com/trevizera",
+    "id": "3669021376",
+    "name": "✨amandita✨",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1950272177132969984/bVZarXqk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3669021376/1748478040",
+    "description": "",
+    "location": "Floripa",
+    "followers": 2297,
+    "following": 528,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Sep 15 23:47:11 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27804,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 121,
+    "statusesCount": 11878,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "🎀mundinho amanda trevisan🎀",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "vs.co/jj1esm7o",
+              "expanded_url": "https://vs.co/jj1esm7o",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VgRMxspPnG"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1728653746706509824",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Zeff ☕ 🇵🇸",
+        "screen_name": "Suts_Effez"
+      },
+      {
+        "id_str": "804025999415459840",
+        "indices": [
+          12,
+          27
+        ],
+        "name": "𝖌𝖗𝖆𝖘𝖘𝖎𝖓𝖍𝖆",
+        "screen_name": "grassinhaaaaaa"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

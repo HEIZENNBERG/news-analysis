@@ -1,0 +1,436 @@
+{
+  "type": "tweet",
+  "id": "1952747963601584368",
+  "url": "https://x.com/rachidlegenie/status/1952747963601584368",
+  "twitterUrl": "https://twitter.com/rachidlegenie/status/1952747963601584368",
+  "text": "Surveillance Camera Trends AI, Cloud, and Cybersecurity\nhttps://t.co/Z7fRmfwSaZ",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:09 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747963601584368",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "rachidlegenie",
+    "url": "https://x.com/rachidlegenie",
+    "twitterUrl": "https://twitter.com/rachidlegenie",
+    "id": "3318940108",
+    "name": "Genie Surveillance",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1660607965206904832/uGB5OGC3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3318940108/1701677751",
+    "description": "",
+    "location": "",
+    "followers": 85,
+    "following": 755,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 11 12:39:16 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 387,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 69,
+    "statusesCount": 96,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "genie surveilllance spécialité pour camera de surveillance installation est maintenance.\nhttps://t.co/NGhtTSEUtH",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "youtube.com/c/GenieSurveil…",
+              "expanded_url": "https://www.youtube.com/c/GenieSurveillance",
+              "indices": [
+                89,
+                112
+              ],
+              "url": "https://t.co/NGhtTSEUtH"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 156,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=800x419",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 150,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=280x150",
+            "width": 262
+          }
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "technologenies.blogspot.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 627,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=1200x627",
+            "width": 1200
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 155,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=600x314",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 170,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=orig",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 155,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=600x314",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 156,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=800x419",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 57,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=100x100",
+            "width": 100
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 170,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=2048x2048_2_exp",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 170,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=orig",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "technologenies.blogspot.com"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 156,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=800x419",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 63.85,
+                "rgb": {
+                  "blue": 50,
+                  "green": 48,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 26.83,
+                "rgb": {
+                  "blue": 139,
+                  "green": 127,
+                  "red": 105
+                }
+              },
+              {
+                "percentage": 3.49,
+                "rgb": {
+                  "blue": 216,
+                  "green": 207,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 2.54,
+                "rgb": {
+                  "blue": 111,
+                  "green": 118,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 1.1,
+                "rgb": {
+                  "blue": 105,
+                  "green": 82,
+                  "red": 50
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Surveillance Camera Trends AI, Cloud, and Cybersecurity"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 63.85,
+                "rgb": {
+                  "blue": 50,
+                  "green": 48,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 26.83,
+                "rgb": {
+                  "blue": 139,
+                  "green": 127,
+                  "red": 105
+                }
+              },
+              {
+                "percentage": 3.49,
+                "rgb": {
+                  "blue": 216,
+                  "green": 207,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 2.54,
+                "rgb": {
+                  "blue": 111,
+                  "green": 118,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 1.1,
+                "rgb": {
+                  "blue": 105,
+                  "green": 82,
+                  "red": 50
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 170,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=2048x2048_2_exp",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 156,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=800x419",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 63.85,
+                "rgb": {
+                  "blue": 50,
+                  "green": 48,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 26.83,
+                "rgb": {
+                  "blue": 139,
+                  "green": 127,
+                  "red": 105
+                }
+              },
+              {
+                "percentage": 3.49,
+                "rgb": {
+                  "blue": 216,
+                  "green": 207,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 2.54,
+                "rgb": {
+                  "blue": 111,
+                  "green": 118,
+                  "red": 117
+                }
+              },
+              {
+                "percentage": 1.1,
+                "rgb": {
+                  "blue": 105,
+                  "green": 82,
+                  "red": 50
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 170,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=2048x2048_2_exp",
+            "width": 297
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/Z7fRmfwSaZ"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 170,
+            "url": "https://pbs.twimg.com/card_img/1952747916877053954/nM0F1jfF?format=png&name=orig",
+            "width": 297
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/Z7fRmfwSaZ"
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "technologenies.blogspot.com/p/2025-surveil…",
+        "expanded_url": "https://technologenies.blogspot.com/p/2025-surveillance-camera-trends-ai.html",
+        "indices": [
+          56,
+          79
+        ],
+        "url": "https://t.co/Z7fRmfwSaZ"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

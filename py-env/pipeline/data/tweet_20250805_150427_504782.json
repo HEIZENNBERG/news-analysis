@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747522373349808",
+  "url": "https://x.com/oxhyro/status/1952747522373349808",
+  "twitterUrl": "https://twitter.com/oxhyro/status/1952747522373349808",
+  "text": "@machxni ai sim aff",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:24 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747010907414621",
+  "conversationId": "1952747010907414621",
+  "inReplyToUserId": "1512061836887269377",
+  "inReplyToUsername": "machxni",
+  "author": {
+    "type": "user",
+    "userName": "oxhyro",
+    "url": "https://x.com/oxhyro",
+    "twitterUrl": "https://twitter.com/oxhyro",
+    "id": "1433193873292075013",
+    "name": "mari",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1913003341136683008/5EtnFRhN_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1433193873292075013/1754271347",
+    "description": "",
+    "location": "",
+    "followers": 3,
+    "following": 4,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 01 22:25:28 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 88,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 14,
+    "statusesCount": 78,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1938744348851532089"
+    ],
+    "profile_bio": {
+      "description": "🙁\n\nmasturbe o cérebro e goze idéias.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1512061836887269377",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "mch.",
+        "screen_name": "machxni"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

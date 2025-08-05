@@ -1,0 +1,190 @@
+{
+  "type": "tweet",
+  "id": "1952747599905067411",
+  "url": "https://x.com/iampeeu/status/1952747599905067411",
+  "twitterUrl": "https://twitter.com/iampeeu/status/1952747599905067411",
+  "text": "@macaquigia Ainda bem que não moro em são Paulo e não rodo por aí https://t.co/BsLCH5a3El",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:42 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952745997488071041",
+  "conversationId": "1952713804963336219",
+  "inReplyToUserId": "972637092462387200",
+  "inReplyToUsername": "macaquigia",
+  "author": {
+    "type": "user",
+    "userName": "iampeeu",
+    "url": "https://x.com/iampeeu",
+    "twitterUrl": "https://twitter.com/iampeeu",
+    "id": "1496683258330992640",
+    "name": "Arthie",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1939786676739641344/8rB7ntCo_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1496683258330992640/1751316169",
+    "description": "",
+    "location": "Salvador, Brasil",
+    "followers": 80,
+    "following": 139,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Feb 24 03:09:25 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17817,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1968,
+    "statusesCount": 12133,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1917026988704792637"
+    ],
+    "profile_bio": {
+      "description": "Fucked up, anxious, too much..\nBut I'll love you like you need me to...\nImperfect for you 🫧\nhttps://t.co/qF2deb2LC9",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "last.fm/pt/user/Arthie_",
+              "expanded_url": "https://www.last.fm/pt/user/Arthie_",
+              "indices": [
+                92,
+                115
+              ],
+              "url": "https://t.co/qF2deb2LC9"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/BsLCH5a3El",
+        "expanded_url": "https://twitter.com/iampeeu/status/1952747599905067411/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 111,
+                "w": 111,
+                "x": 777,
+                "y": 943
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 111,
+                "w": 111,
+                "x": 777,
+                "y": 943
+              }
+            ]
+          }
+        },
+        "id_str": "1952747590908329984",
+        "indices": [
+          66,
+          89
+        ],
+        "media_key": "3_1952747590908329984",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjZZ8F0AACgACGxmNmJRWkZMAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNlnwXQAAKAAIbGY2YlFaRkwAA",
+            "media_key": "3_1952747590908329984"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNlnwXQAALyIR.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 530
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1536,
+              "w": 1347,
+              "x": 189,
+              "y": 0
+            },
+            {
+              "h": 1536,
+              "w": 768,
+              "x": 768,
+              "y": 0
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1536,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 1536,
+            "w": 1536
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/BsLCH5a3El"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "972637092462387200",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "ٍ",
+        "screen_name": "macaquigia"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

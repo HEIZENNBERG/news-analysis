@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747601800901027",
+  "url": "https://x.com/otistherealweed/status/1952747601800901027",
+  "twitterUrl": "https://twitter.com/otistherealweed/status/1952747601800901027",
+  "text": "@notasmadmax tu ai cauzat moartea lui Iliescu cu postarea asta",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:43 +0000 2025",
+  "lang": "ro",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952739561441788364",
+  "conversationId": "1952739561441788364",
+  "inReplyToUserId": "1736361008019517440",
+  "inReplyToUsername": "notasmadmax",
+  "author": {
+    "type": "user",
+    "userName": "otistherealweed",
+    "url": "https://x.com/otistherealweed",
+    "twitterUrl": "https://twitter.com/otistherealweed",
+    "id": "1340302036294897665",
+    "name": "otis | 🇷🇴🔛🔝",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1944701489483558912/7tZtUzLU_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1340302036294897665/1753777701",
+    "description": "",
+    "location": "Tulcea, România",
+    "followers": 191,
+    "following": 303,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Dec 19 14:24:48 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3321,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 951,
+    "statusesCount": 5216,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1950155426890121468"
+    ],
+    "profile_bio": {
+      "description": "18|🍵\nprogressive | 🍵\nle wokisme🍵💲💲💲💲⁉️⁉️⁉️⁉️⁉️\nhim",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1736361008019517440",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "i ate a glass marble when i was 6 🥞⃤",
+        "screen_name": "notasmadmax"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

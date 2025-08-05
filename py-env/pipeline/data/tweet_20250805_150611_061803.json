@@ -1,0 +1,131 @@
+{
+  "type": "tweet",
+  "id": "1952747957432029540",
+  "url": "https://x.com/thonguyeneth/status/1952747957432029540",
+  "twitterUrl": "https://twitter.com/thonguyeneth/status/1952747957432029540",
+  "text": "@yayaextre @recallnet Interesting idea connecting user play to AI learning with web3 incentives.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:08 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1945108971750121676",
+  "conversationId": "1945108971750121676",
+  "inReplyToUserId": "994043604",
+  "inReplyToUsername": "yayaextre",
+  "author": {
+    "type": "user",
+    "userName": "thonguyeneth",
+    "url": "https://x.com/thonguyeneth",
+    "twitterUrl": "https://twitter.com/thonguyeneth",
+    "id": "1677999692096086016",
+    "name": "N-V-T",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1850659100478332928/nwESYmN3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1677999692096086016/1730020936",
+    "description": "",
+    "location": "Hà Nội, Việt Nam",
+    "followers": 1907,
+    "following": 1847,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 09 11:14:56 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11499,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 248,
+    "statusesCount": 10249,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "#Builder Cryto-Web3 Gaming & NFT.     #Memecoin & Lowcap.                        #Airdrop.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                8
+              ],
+              "text": "Builder"
+            },
+            {
+              "indices": [
+                38,
+                47
+              ],
+              "text": "Memecoin"
+            },
+            {
+              "indices": [
+                81,
+                89
+              ],
+              "text": "Airdrop"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/thonguyen891",
+              "expanded_url": "https://t.me/thonguyen891",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ezekaSAcY0"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "994043604",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "yayaextre",
+        "screen_name": "yayaextre"
+      },
+      {
+        "id_str": "1201627105085329411",
+        "indices": [
+          11,
+          21
+        ],
+        "name": "Recall",
+        "screen_name": "recallnet"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

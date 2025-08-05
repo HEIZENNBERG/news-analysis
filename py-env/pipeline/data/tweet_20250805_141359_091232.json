@@ -1,0 +1,83 @@
+{
+  "type": "tweet",
+  "id": "1952734826475520066",
+  "url": "https://x.com/TradingPulseX/status/1952734826475520066",
+  "twitterUrl": "https://twitter.com/TradingPulseX/status/1952734826475520066",
+  "text": "$IT down (30%) at the open.\nThey don’t even know if their AI agent is going to have any returns.\n\"AI is the top demand area for clients, with Gartner rolling out \"Ask Gartner,\" an AI-powered tool for client insights, and implementing over 50 internal AI applications to drive efficiency; however, the long-term impact on cost structure is still too early to quantify.\"",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:13:57 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952734826475520066",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "TradingPulseX",
+    "url": "https://x.com/TradingPulseX",
+    "twitterUrl": "https://twitter.com/TradingPulseX",
+    "id": "1946903149996081153",
+    "name": "TradingPulse X",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952647582263721984/iqYFsn4b_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1946903149996081153/1754382438",
+    "description": "",
+    "location": "",
+    "followers": 104,
+    "following": 287,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 20 12:01:16 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 37,
+    "statusesCount": 328,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "L/S Equity Options. Momentum, Catalyst and Event driven",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "symbols": [
+      {
+        "indices": [
+          0,
+          3
+        ],
+        "text": "IT"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

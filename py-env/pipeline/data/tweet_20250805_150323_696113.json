@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747251207479572",
+  "url": "https://x.com/SeiyaKnightToei/status/1952747251207479572",
+  "twitterUrl": "https://twitter.com/SeiyaKnightToei/status/1952747251207479572",
+  "text": "@renner_pt @tb_gdrive Ai que está, não da.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:19 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1951333441158463883",
+  "conversationId": "1951289589236150730",
+  "inReplyToUserId": "1433530782719504388",
+  "inReplyToUsername": "renner_pt",
+  "author": {
+    "type": "user",
+    "userName": "SeiyaKnightToei",
+    "url": "https://x.com/SeiyaKnightToei",
+    "twitterUrl": "https://twitter.com/SeiyaKnightToei",
+    "id": "1941130608450633728",
+    "name": "SeiyaKnight",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1941131327081717760/aYggMQQE_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1941130608450633728/1751646876",
+    "description": "",
+    "location": "",
+    "followers": 6,
+    "following": 37,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 04 13:43:13 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 864,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 52,
+    "statusesCount": 171,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1433530782719504388",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Renner | 5 sƃuıɥʇ ɹǝƃuɐɹʇs",
+        "screen_name": "renner_pt"
+      },
+      {
+        "id_str": "1921679153872490496",
+        "indices": [
+          11,
+          21
+        ],
+        "name": "TB 📂 | Filmes e séries",
+        "screen_name": "tb_gdrive"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

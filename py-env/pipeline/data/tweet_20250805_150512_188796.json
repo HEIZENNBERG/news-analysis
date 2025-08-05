@@ -1,0 +1,88 @@
+{
+  "type": "tweet",
+  "id": "1952747710685274197",
+  "url": "https://x.com/hmikisato/status/1952747710685274197",
+  "twitterUrl": "https://twitter.com/hmikisato/status/1952747710685274197",
+  "text": "「AIイラストを見分けられずリポストしてTLに流してくるやつをフォロー外すかリポスト非表示にする」で解決するべき問題だと思うんだよ。見分けられない奴は自分のTLに不要だと発想を逆転させるべき",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:09 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747710685274197",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "hmikisato",
+    "url": "https://x.com/hmikisato",
+    "twitterUrl": "https://twitter.com/hmikisato",
+    "id": "81145187",
+    "name": "三木里秀予@おいしいものを食べる",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1358625911835226114/o-L-qTPv_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/81145187/1652359465",
+    "description": "",
+    "location": "秘密の部屋 @hmikisato@fedibird.com ",
+    "followers": 751,
+    "following": 506,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Oct 09 16:24:34 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15015,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 712,
+    "statusesCount": 190228,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1675393024833241088"
+    ],
+    "profile_bio": {
+      "description": "AIの……おしごと？で、ぷろぐらむ？書いてるんですけど！な人\nシステムアーキテクト＆闇セキュスペ\n技術サークルCrypticCommandの組版やってる方 幻オサケ\nIS34期\n我爱台湾茶、云南白茶、武夷岩茶etc。\nツイートは一個人の見解だしRTは必ずしも賛同ではないよ（テロップ）",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "bsky.app/profile/hmikis…",
+              "expanded_url": "https://bsky.app/profile/hmikisato.bsky.social",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Tan3ENLLXJ"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

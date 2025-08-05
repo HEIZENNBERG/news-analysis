@@ -1,0 +1,103 @@
+{
+  "type": "tweet",
+  "id": "1952747309361475910",
+  "url": "https://x.com/AngeloAS0/status/1952747309361475910",
+  "twitterUrl": "https://twitter.com/AngeloAS0/status/1952747309361475910",
+  "text": "@neyncsp @AdinandeSouza @republiqueBRA Me mostra aí a perseguição e as torturas",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:33 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952687558216839295",
+  "conversationId": "1952520106057363862",
+  "inReplyToUserId": "1247525349983846401",
+  "inReplyToUsername": "neyncsp",
+  "author": {
+    "type": "user",
+    "userName": "AngeloAS0",
+    "url": "https://x.com/AngeloAS0",
+    "twitterUrl": "https://twitter.com/AngeloAS0",
+    "id": "1172723045280227329",
+    "name": "Jejê ☭ (o de verdade)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1906825407145340928/JGp9Nuct_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "Belo Horizonte, Brasil",
+    "followers": 181,
+    "following": 182,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Sep 14 04:06:00 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 86948,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 247,
+    "statusesCount": 24579,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "\"Pai, perdoa-lhes, porque eles não sabem o que estão fazendo\"",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1247525349983846401",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "NEYESEAGLE",
+        "screen_name": "neyncsp"
+      },
+      {
+        "id_str": "1597332938504404992",
+        "indices": [
+          9,
+          23
+        ],
+        "name": "Adinan de Souza",
+        "screen_name": "AdinandeSouza"
+      },
+      {
+        "id_str": "1623114468459786241",
+        "indices": [
+          24,
+          38
+        ],
+        "name": "République",
+        "screen_name": "republiqueBRA"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

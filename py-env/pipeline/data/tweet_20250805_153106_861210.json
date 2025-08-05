@@ -1,0 +1,664 @@
+{
+  "type": "tweet",
+  "id": "1952754227492585979",
+  "url": "https://x.com/Anime2You/status/1952754227492585979",
+  "twitterUrl": "https://twitter.com/Anime2You/status/1952754227492585979",
+  "text": "Das japanische Anime-Studio Gaina heißt jetzt BENTEN Film: https://t.co/ff7u3WVMAm",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:31:02 +0000 2025",
+  "lang": "de",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952754227492585979",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Anime2You",
+    "url": "https://x.com/Anime2You",
+    "twitterUrl": "https://twitter.com/Anime2You",
+    "id": "1332689772",
+    "name": "ANIME2YOU.DE",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1570943093825802241/N3n6OItJ_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1332689772/1663368144",
+    "description": "",
+    "location": "",
+    "followers": 28877,
+    "following": 64,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 06 23:28:07 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 52,
+    "hasCustomTimelines": true,
+    "isTranslator": true,
+    "mediaCount": 2630,
+    "statusesCount": 39263,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Täglich aktuelle Anime-News aus Deutschland und Japan! | Impressum: https://t.co/vJZD3UpXNo",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "anime2you.de/impressum/",
+              "expanded_url": "http://anime2you.de/impressum/",
+              "indices": [
+                68,
+                91
+              ],
+              "url": "https://t.co/vJZD3UpXNo"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "anime2you.de",
+              "expanded_url": "https://www.anime2you.de",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Y43h5Oh0o0"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 200,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=400x400",
+            "width": 400
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "Das Anime-Studio Gaina wurde nach Übernahme durch Creator’s X in BENTEN Film umbenannt – benannt nach der Kunstgöttin Benzaiten."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "www.anime2you.de"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=600x600",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 534,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=orig",
+            "width": 1068
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "1332689772"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 72,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=144x144",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "creator",
+        "value": {
+          "user_value": {
+            "id_str": "1332689772"
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 534,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=png&name=2048x2048_2_exp",
+            "width": 1068
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 534,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=orig",
+            "width": 1068
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "anime2you.de"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 27.84,
+                "rgb": {
+                  "blue": 226,
+                  "green": 228,
+                  "red": 216
+                }
+              },
+              {
+                "percentage": 20.89,
+                "rgb": {
+                  "blue": 62,
+                  "green": 26,
+                  "red": 4
+                }
+              },
+              {
+                "percentage": 12.19,
+                "rgb": {
+                  "blue": 236,
+                  "green": 247,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 5.68,
+                "rgb": {
+                  "blue": 94,
+                  "green": 25,
+                  "red": 7
+                }
+              },
+              {
+                "percentage": 3.94,
+                "rgb": {
+                  "blue": 28,
+                  "green": 6,
+                  "red": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Rebranding unter KI-Regie: Aus Studio Gaina wird BENTEN Film | Anime2You"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 27.84,
+                "rgb": {
+                  "blue": 226,
+                  "green": 228,
+                  "red": 216
+                }
+              },
+              {
+                "percentage": 20.89,
+                "rgb": {
+                  "blue": 62,
+                  "green": 26,
+                  "red": 4
+                }
+              },
+              {
+                "percentage": 12.19,
+                "rgb": {
+                  "blue": 236,
+                  "green": 247,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 5.68,
+                "rgb": {
+                  "blue": 94,
+                  "green": 25,
+                  "red": 7
+                }
+              },
+              {
+                "percentage": 3.94,
+                "rgb": {
+                  "blue": 28,
+                  "green": 6,
+                  "red": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 534,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=png&name=2048x2048_2_exp",
+            "width": 1068
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 27.84,
+                "rgb": {
+                  "blue": 226,
+                  "green": 228,
+                  "red": 216
+                }
+              },
+              {
+                "percentage": 20.89,
+                "rgb": {
+                  "blue": 62,
+                  "green": 26,
+                  "red": 4
+                }
+              },
+              {
+                "percentage": 12.19,
+                "rgb": {
+                  "blue": 236,
+                  "green": 247,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 5.68,
+                "rgb": {
+                  "blue": 94,
+                  "green": 25,
+                  "red": 7
+                }
+              },
+              {
+                "percentage": 3.94,
+                "rgb": {
+                  "blue": 28,
+                  "green": 6,
+                  "red": 0
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 534,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=png&name=2048x2048_2_exp",
+            "width": 1068
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/ff7u3WVMAm"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 534,
+            "url": "https://pbs.twimg.com/card_img/1952754231158464512/xpaOW5Bv?format=jpg&name=orig",
+            "width": 1068
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/ff7u3WVMAm",
+    "user_refs_results": [
+      {
+        "rest_id": "1332689772",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 52
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1570943093825802241/N3n6OItJ_normal.png"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/1332689772/1663368144"
+          },
+          "core": {
+            "created_at": "Sat Apr 06 23:28:07 +0000 2013",
+            "name": "ANIME2YOU.DE",
+            "screen_name": "Anime2You"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Täglich aktuelle Anime-News aus Deutschland und Japan! | Impressum: https://t.co/vJZD3UpXNo",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "anime2you.de/impressum/",
+                    "expanded_url": "http://anime2you.de/impressum/",
+                    "indices": [
+                      68,
+                      91
+                    ],
+                    "url": "https://t.co/vJZD3UpXNo"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "anime2you.de",
+                    "expanded_url": "https://www.anime2you.de",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Y43h5Oh0o0"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "242424"
+          },
+          "profile_translation": {
+            "translator_type_enum": "Regular"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 28877,
+            "following": 64
+          },
+          "relationship_perspectives": {},
+          "rest_id": "1332689772",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 2630,
+            "tweets": 39263
+          },
+          "website": {
+            "url": "https://t.co/Y43h5Oh0o0"
+          },
+          "verification": {
+            "is_blue_verified": true
+          }
+        }
+      },
+      {
+        "rest_id": "1332689772",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 52
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1570943093825802241/N3n6OItJ_normal.png"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/1332689772/1663368144"
+          },
+          "core": {
+            "created_at": "Sat Apr 06 23:28:07 +0000 2013",
+            "name": "ANIME2YOU.DE",
+            "screen_name": "Anime2You"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Täglich aktuelle Anime-News aus Deutschland und Japan! | Impressum: https://t.co/vJZD3UpXNo",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "anime2you.de/impressum/",
+                    "expanded_url": "http://anime2you.de/impressum/",
+                    "indices": [
+                      68,
+                      91
+                    ],
+                    "url": "https://t.co/vJZD3UpXNo"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "anime2you.de",
+                    "expanded_url": "https://www.anime2you.de",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/Y43h5Oh0o0"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "242424"
+          },
+          "profile_translation": {
+            "translator_type_enum": "Regular"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 28877,
+            "following": 64
+          },
+          "relationship_perspectives": {},
+          "rest_id": "1332689772",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 2630,
+            "tweets": 39263
+          },
+          "website": {
+            "url": "https://t.co/Y43h5Oh0o0"
+          },
+          "verification": {
+            "is_blue_verified": true
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "anime2you.de/news/924323/au…",
+        "expanded_url": "https://www.anime2you.de/news/924323/aus-studio-gaina-wird-benten-film/",
+        "indices": [
+          59,
+          82
+        ],
+        "url": "https://t.co/ff7u3WVMAm"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

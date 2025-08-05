@@ -1,0 +1,265 @@
+{
+  "type": "tweet",
+  "id": "1952747177094136135",
+  "url": "https://x.com/KINGX9_/status/1952747177094136135",
+  "twitterUrl": "https://twitter.com/KINGX9_/status/1952747177094136135",
+  "text": "@100xAltcoinGems AI + AR + Web3 = @metacces  🔥\nThis project isn’t playing around.\nDive in and connect with the squad.\n#Blacxes #Metacces #Access https://t.co/Hpi8nM6WKt",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952744654132109555",
+  "conversationId": "1952744654132109555",
+  "inReplyToUserId": "1517796456949817347",
+  "inReplyToUsername": "100xAltcoinGems",
+  "author": {
+    "type": "user",
+    "userName": "KINGX9_",
+    "url": "https://x.com/KINGX9_",
+    "twitterUrl": "https://twitter.com/KINGX9_",
+    "id": "1511241916716916737",
+    "name": "BIG 𝕸",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1933068424571183104/MHEokEHh_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1511241916716916737/1747957790",
+    "description": "",
+    "location": "The Matrix",
+    "followers": 1474,
+    "following": 830,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 05 07:19:50 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5866,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 227,
+    "statusesCount": 2837,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1949216774433759658"
+    ],
+    "profile_bio": {
+      "description": "Marketing Strategist » Helping Web3 projects scale to greater heights | Content writer ✍🏽| CM,\nCo-founder  @S_B_Nexus AMB. @cheferikosol || Agent @TacBuild",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                107,
+                117
+              ],
+              "name": "",
+              "screen_name": "S_B_Nexus"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                123,
+                136
+              ],
+              "name": "",
+              "screen_name": "cheferikosol"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                146,
+                155
+              ],
+              "name": "",
+              "screen_name": "TacBuild"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/KINGX9X",
+              "expanded_url": "http://t.me/KINGX9X",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rJrVOkvhFP"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Hpi8nM6WKt",
+        "expanded_url": "https://twitter.com/KINGX9_/status/1952747177094136135/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 463,
+                "y": 217
+              },
+              {
+                "h": 301,
+                "w": 301,
+                "x": 204,
+                "y": 211
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 55,
+                "w": 55,
+                "x": 463,
+                "y": 217
+              },
+              {
+                "h": 301,
+                "w": 301,
+                "x": 204,
+                "y": 211
+              }
+            ]
+          }
+        },
+        "id_str": "1952747174065811456",
+        "indices": [
+          145,
+          168
+        ],
+        "media_key": "3_1952747174065811456",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjTVuVzAACgACGxmNNiLXwUcAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNNW5XMAAKAAIbGY02ItfBRwAA",
+            "media_key": "3_1952747174065811456"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNNW5XMAAYfxI.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 538,
+              "w": 961,
+              "x": 0,
+              "y": 43
+            },
+            {
+              "h": 640,
+              "w": 640,
+              "x": 321,
+              "y": 0
+            },
+            {
+              "h": 640,
+              "w": 561,
+              "x": 368,
+              "y": 0
+            },
+            {
+              "h": 640,
+              "w": 320,
+              "x": 488,
+              "y": 0
+            },
+            {
+              "h": 640,
+              "w": 961,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 640,
+          "width": 961
+        },
+        "sizes": {
+          "large": {
+            "h": 640,
+            "w": 961
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Hpi8nM6WKt"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          118,
+          126
+        ],
+        "text": "Blacxes"
+      },
+      {
+        "indices": [
+          127,
+          136
+        ],
+        "text": "Metacces"
+      },
+      {
+        "indices": [
+          137,
+          144
+        ],
+        "text": "Access"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1517796456949817347",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "100x Altcoin Gems",
+        "screen_name": "100xAltcoinGems"
+      },
+      {
+        "id_str": "1523059026594078721",
+        "indices": [
+          34,
+          43
+        ],
+        "name": "Metacces",
+        "screen_name": "metacces"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

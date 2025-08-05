@@ -1,0 +1,470 @@
+{
+  "type": "tweet",
+  "id": "1952747876909543525",
+  "url": "https://x.com/Chtybou/status/1952747876909543525",
+  "twitterUrl": "https://twitter.com/Chtybou/status/1952747876909543525",
+  "text": "\"Ça va il passe le 280? Ouai par contre les frites sont pas cuites et j ai pas eu ma mayo\" https://t.co/525laaiohr",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:48 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747876909543525",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Chtybou",
+    "url": "https://x.com/Chtybou",
+    "twitterUrl": "https://twitter.com/Chtybou",
+    "id": "468529776",
+    "name": "Ybz 😎",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1832501686805438464/4h_R-leV_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/468529776/1607814851",
+    "description": "",
+    "location": "",
+    "followers": 477,
+    "following": 1026,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jan 19 16:53:17 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 63093,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4910,
+    "statusesCount": 55549,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1057018398046085120"
+    ],
+    "profile_bio": {
+      "description": "#LOSC, #CINE , #SérieTV, #BD #retrogaming #running #Marathon",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                5
+              ],
+              "text": "LOSC"
+            },
+            {
+              "indices": [
+                7,
+                12
+              ],
+              "text": "CINE"
+            },
+            {
+              "indices": [
+                15,
+                23
+              ],
+              "text": "SérieTV"
+            },
+            {
+              "indices": [
+                25,
+                28
+              ],
+              "text": "BD"
+            },
+            {
+              "indices": [
+                29,
+                41
+              ],
+              "text": "retrogaming"
+            },
+            {
+              "indices": [
+                42,
+                50
+              ],
+              "text": "running"
+            },
+            {
+              "indices": [
+                51,
+                60
+              ],
+              "text": "Marathon"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ngl.link/chtybou1",
+              "expanded_url": "https://ngl.link/chtybou1",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/0d4k0jmrJp"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/525laaiohr",
+        "expanded_url": "https://twitter.com/Chtybou/status/1952747876909543525/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 844,
+                "y": 255
+              },
+              {
+                "h": 57,
+                "w": 57,
+                "x": 396,
+                "y": 236
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 56,
+                "w": 56,
+                "x": 844,
+                "y": 255
+              },
+              {
+                "h": 57,
+                "w": 57,
+                "x": 396,
+                "y": 236
+              }
+            ]
+          }
+        },
+        "id_str": "1952747873663115264",
+        "indices": [
+          91,
+          114
+        ],
+        "media_key": "3_1952747873663115264",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjdhRluAACgACGxmN2RMXcGUAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmN2FGW4AAKAAIbGY3ZExdwZQAA",
+            "media_key": "3_1952747873663115264"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmN2FGW4AA7p65.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 604,
+              "w": 1078,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 810,
+              "w": 810,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 810,
+              "w": 711,
+              "x": 49,
+              "y": 0
+            },
+            {
+              "h": 810,
+              "w": 405,
+              "x": 202,
+              "y": 0
+            },
+            {
+              "h": 810,
+              "w": 1078,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 810,
+          "width": 1078
+        },
+        "sizes": {
+          "large": {
+            "h": 810,
+            "w": 1078
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/525laaiohr"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1951725440848338951",
+    "url": "https://x.com/PouletCurry47/status/1951725440848338951",
+    "twitterUrl": "https://twitter.com/PouletCurry47/status/1951725440848338951",
+    "text": "Les oomfs, on vient de retourner le McDo ✊🇵🇸 https://t.co/PX7r9232Vz",
+    "source": "Twitter for iPhone",
+    "retweetCount": 21,
+    "replyCount": 408,
+    "likeCount": 464,
+    "quoteCount": 502,
+    "viewCount": 1805295,
+    "createdAt": "Sat Aug 02 19:23:01 +0000 2025",
+    "lang": "fr",
+    "bookmarkCount": 72,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1951725440848338951",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "PouletCurry47",
+      "url": "https://x.com/PouletCurry47",
+      "twitterUrl": "https://twitter.com/PouletCurry47",
+      "id": "1679757501481250816",
+      "name": "Poulet Curry 47 🇵🇸",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1707151881703735296/a6VUvMAN_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1679757501481250816/1754161263",
+      "description": "",
+      "location": "",
+      "followers": 2364,
+      "following": 7390,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Fri Jul 14 07:40:08 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 62907,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 692,
+      "statusesCount": 22712,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Communisme Marxisme bolchévik-léniniste Écologie militant NPA-A CGT\npv @CurryVege48",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  71,
+                  83
+                ],
+                "name": "",
+                "screen_name": "CurryVege48"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PX7r9232Vz",
+          "expanded_url": "https://twitter.com/PouletCurry47/status/1951725440848338951/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 847,
+                  "y": 260
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 398,
+                  "y": 238
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 630,
+                  "y": 261
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 847,
+                  "y": 260
+                },
+                {
+                  "h": 54,
+                  "w": 54,
+                  "x": 398,
+                  "y": 238
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 630,
+                  "y": 261
+                }
+              ]
+            }
+          },
+          "id_str": "1951725433956835330",
+          "indices": [
+            45,
+            68
+          ],
+          "media_key": "3_1951725433956835330",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsV6/EGF6ACCgACGxXr8qDboAcAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxXr8QYXoAIKAAIbFevyoNugBwAA",
+              "media_key": "3_1951725433956835330"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxXr8QYXoAIQ83w.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 604,
+                "w": 1079,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 811,
+                "w": 811,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 811,
+                "w": 711,
+                "x": 48,
+                "y": 0
+              },
+              {
+                "h": 811,
+                "w": 406,
+                "x": 200,
+                "y": 0
+              },
+              {
+                "h": 811,
+                "w": 1079,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 811,
+            "width": 1079
+          },
+          "sizes": {
+            "large": {
+              "h": 811,
+              "w": 1079
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PX7r9232Vz"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": {
+      "type": "tweet",
+      "id": "1951678578686345274",
+      "url": "",
+      "twitterUrl": "",
+      "text": "",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "",
+      "lang": "",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {},
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

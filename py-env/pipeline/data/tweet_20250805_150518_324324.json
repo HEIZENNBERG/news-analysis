@@ -1,0 +1,151 @@
+{
+  "type": "tweet",
+  "id": "1952747741307683044",
+  "url": "https://x.com/razumikh1n/status/1952747741307683044",
+  "twitterUrl": "https://twitter.com/razumikh1n/status/1952747741307683044",
+  "text": "ai q foda https://t.co/MGbzWLcKSN",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:16 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747741307683044",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "razumikh1n",
+    "url": "https://x.com/razumikh1n",
+    "twitterUrl": "https://twitter.com/razumikh1n",
+    "id": "1252308983353925647",
+    "name": "Raz",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1941203158149079040/OCDe8QJJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1252308983353925647/1742950873",
+    "description": "",
+    "location": "",
+    "followers": 424,
+    "following": 1012,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Apr 20 18:51:51 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 256142,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4078,
+    "statusesCount": 80769,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951699014052991433"
+    ],
+    "profile_bio": {
+      "description": "20 | cursando filosofia | ela/dela 🏳️‍⚧️ | odeio reaça | pfp by @/fagfurhire",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/MGbzWLcKSN",
+        "expanded_url": "https://twitter.com/razumikh1n/status/1952747741307683044/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747709229596673",
+        "indices": [
+          10,
+          33
+        ],
+        "media_key": "3_1952747709229596673",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjbIIloABCgACGxmNuYCXQOQAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNsgiWgAEKAAIbGY25gJdA5AAA",
+            "media_key": "3_1952747709229596673"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNsgiWgAEtj1U.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 165,
+              "w": 294,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 242,
+              "w": 242,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 242,
+              "w": 212,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 242,
+              "w": 121,
+              "x": 6,
+              "y": 0
+            },
+            {
+              "h": 242,
+              "w": 294,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 242,
+          "width": 294
+        },
+        "sizes": {
+          "large": {
+            "h": 242,
+            "w": 294
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/MGbzWLcKSN"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

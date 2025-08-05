@@ -1,0 +1,127 @@
+{
+  "type": "tweet",
+  "id": "1952747363916734932",
+  "url": "https://x.com/zainerotc/status/1952747363916734932",
+  "twitterUrl": "https://twitter.com/zainerotc/status/1952747363916734932",
+  "text": "@f_Iissa @saywonderland @renatooliveir71 @Douglas_Frank_ ai pensei que era direcionado pra mim kkkkkk, eu tambem estranhei pq geralmente quem tem problemas mais graves e crônicos precisa de um acompanhamento mais pontual",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:46 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952746154313105582",
+  "conversationId": "1952392612566147215",
+  "inReplyToUserId": "1477491618110492672",
+  "inReplyToUsername": "f_Iissa",
+  "author": {
+    "type": "user",
+    "userName": "zainerotc",
+    "url": "https://x.com/zainerotc",
+    "twitterUrl": "https://twitter.com/zainerotc",
+    "id": "1557158121939910657",
+    "name": "︎︎ ︎ ִֶָ",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1943811997985837056/K4Ve9gC1_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1557158121939910657/1752275880",
+    "description": "",
+    "location": "",
+    "followers": 260,
+    "following": 265,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 10 00:13:41 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 36918,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 111,
+    "statusesCount": 9633,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1569055075368333314"
+    ],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "inzayn.com",
+              "expanded_url": "https://www.inzayn.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Zgr0Kou3R5"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1477491618110492672",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "– ᥣı᥉᥉",
+        "screen_name": "f_Iissa"
+      },
+      {
+        "id_str": "1588582817704861699",
+        "indices": [
+          9,
+          23
+        ],
+        "name": "bya",
+        "screen_name": "saywonderland"
+      },
+      {
+        "id_str": "470539260",
+        "indices": [
+          24,
+          40
+        ],
+        "name": "pensólogo e cirurgião plástico da Alma🧜🏿‍♀️",
+        "screen_name": "renatooliveir71"
+      },
+      {
+        "id_str": "1844806758642188288",
+        "indices": [
+          41,
+          56
+        ],
+        "name": "Douglas Barros Franklin Oliveira",
+        "screen_name": "Douglas_Frank_"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

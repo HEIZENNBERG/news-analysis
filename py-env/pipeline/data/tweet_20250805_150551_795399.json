@@ -1,0 +1,103 @@
+{
+  "type": "tweet",
+  "id": "1952747881540026459",
+  "url": "https://x.com/Jiggaman_0/status/1952747881540026459",
+  "twitterUrl": "https://twitter.com/Jiggaman_0/status/1952747881540026459",
+  "text": "@luisvae @wardenprotocol Institutions move slow, users adapt fast. With AI agents like @wardenprotocol offers, retail gets the edge back.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:49 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747423979249750",
+  "conversationId": "1952747423979249750",
+  "inReplyToUserId": "78387023",
+  "inReplyToUsername": "luisvae",
+  "author": {
+    "type": "user",
+    "userName": "Jiggaman_0",
+    "url": "https://x.com/Jiggaman_0",
+    "twitterUrl": "https://twitter.com/Jiggaman_0",
+    "id": "1161308143290388481",
+    "name": "J!ggaMan",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1800839734945542144/mCTh9Lb2_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1161308143290388481/1706303952",
+    "description": "",
+    "location": "NoWhere ",
+    "followers": 3142,
+    "following": 4895,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 13 16:06:52 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 51326,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 488,
+    "statusesCount": 20925,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "‘Full-time’ crypto explorer ⛺",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "78387023",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Luis 👾",
+        "screen_name": "luisvae"
+      },
+      {
+        "id_str": "1748006726010310657",
+        "indices": [
+          9,
+          24
+        ],
+        "name": "Warden",
+        "screen_name": "wardenprotocol"
+      },
+      {
+        "id_str": "1748006726010310657",
+        "indices": [
+          87,
+          102
+        ],
+        "name": "Warden",
+        "screen_name": "wardenprotocol"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

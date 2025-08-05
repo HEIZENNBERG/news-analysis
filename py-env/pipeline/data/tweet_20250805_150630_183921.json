@@ -1,0 +1,220 @@
+{
+  "type": "tweet",
+  "id": "1952748040428626211",
+  "url": "https://x.com/FrdriqueGa62110/status/1952748040428626211",
+  "twitterUrl": "https://twitter.com/FrdriqueGa62110/status/1952748040428626211",
+  "text": "@GregSigebert @phil062025 @Cosette68053953 @louloudemamina @fr_liard @mdx63 @cosette @chatounerebelle @onthreroadagain @Ritalbine @laurentdelhomm1 @Souvenir_fr @Didpoy72 @Paddy6913 @denisem75854043 @Pascal44n 😂😂😂 j'ai vu que les gares!  c'était déjà pas mal 👍🏻",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:27 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747141010464911",
+  "conversationId": "1952652068662972666",
+  "inReplyToUserId": "1523350178773753856",
+  "inReplyToUsername": "GregSigebert",
+  "author": {
+    "type": "user",
+    "userName": "FrdriqueGa62110",
+    "url": "https://x.com/FrdriqueGa62110",
+    "twitterUrl": "https://twitter.com/FrdriqueGa62110",
+    "id": "1639849511311880193",
+    "name": "Tanguy21998144🇨🇵⚜️🇨🇵✝️🇮🇱🕯️🎗️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1885859423790186496/8AMdNhIg_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1639849511311880193/1709770493",
+    "description": "",
+    "location": "Var, Provence-Alpes-Côte d'Azu",
+    "followers": 2472,
+    "following": 3341,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 26 04:40:42 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 115794,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5865,
+    "statusesCount": 23698,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "infirmière qui aime plus les animaux et la nature que les humains, bizarre non ?? antiwoke 🤬antigauchiasse 💩, à tribord toute !!!💙🤍❤️🚫mp svp",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1523350178773753856",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Capitaine H",
+        "screen_name": "GregSigebert"
+      },
+      {
+        "id_str": "1803874900492365824",
+        "indices": [
+          14,
+          25
+        ],
+        "name": "Un Niçois qui pense bien 🇫🇷",
+        "screen_name": "phil062025"
+      },
+      {
+        "id_str": "1223154954837352449",
+        "indices": [
+          26,
+          42
+        ],
+        "name": "Cosette farouche",
+        "screen_name": "Cosette68053953"
+      },
+      {
+        "id_str": "841958146574827521",
+        "indices": [
+          43,
+          58
+        ],
+        "name": "Kiassa",
+        "screen_name": "louloudemamina"
+      },
+      {
+        "id_str": "1561004098471747584",
+        "indices": [
+          59,
+          68
+        ],
+        "name": "liard François",
+        "screen_name": "fr_liard"
+      },
+      {
+        "id_str": "272017703",
+        "indices": [
+          69,
+          75
+        ],
+        "name": "Mad🗡️Max⚜️✝️🇨🇵",
+        "screen_name": "mdx63"
+      },
+      {
+        "id_str": "1105523741952401408",
+        "indices": [
+          76,
+          84
+        ],
+        "name": "Cosette",
+        "screen_name": "cosette"
+      },
+      {
+        "id_str": "1039915667720482817",
+        "indices": [
+          85,
+          101
+        ],
+        "name": "Camille",
+        "screen_name": "chatounerebelle"
+      },
+      {
+        "id_str": "1559561800122875904",
+        "indices": [
+          102,
+          118
+        ],
+        "name": "Connard le Barbant",
+        "screen_name": "onthreroadagain"
+      },
+      {
+        "id_str": "1668669543168847876",
+        "indices": [
+          119,
+          129
+        ],
+        "name": "Ritalbine🇫🇷❤️🇫🇷✝️🇮🇱🎗️",
+        "screen_name": "Ritalbine"
+      },
+      {
+        "id_str": "1222878780219363330",
+        "indices": [
+          130,
+          146
+        ],
+        "name": "laurent delhomme",
+        "screen_name": "laurentdelhomm1"
+      },
+      {
+        "id_str": "1838912235751510016",
+        "indices": [
+          147,
+          159
+        ],
+        "name": "Clara SOUVENIRS FRANÇAIS 🇨🇵",
+        "screen_name": "Souvenir_fr"
+      },
+      {
+        "id_str": "705824227",
+        "indices": [
+          160,
+          169
+        ],
+        "name": "🅱🅸🅳🅾🆄🅸🅻🅻🅴",
+        "screen_name": "Didpoy72"
+      },
+      {
+        "id_str": "1454859537857515521",
+        "indices": [
+          170,
+          180
+        ],
+        "name": "🇨🇵Paddy69🇨🇵✝️",
+        "screen_name": "Paddy6913"
+      },
+      {
+        "id_str": "1875267058088210432",
+        "indices": [
+          181,
+          197
+        ],
+        "name": "dede31 \" ( denise petit bouchon )",
+        "screen_name": "denisem75854043"
+      },
+      {
+        "id_str": "1800706520532836354",
+        "indices": [
+          198,
+          208
+        ],
+        "name": "Pascal44N ⚜️✝️",
+        "screen_name": "Pascal44n"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

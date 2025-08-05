@@ -1,0 +1,105 @@
+{
+  "type": "tweet",
+  "id": "1952747735162994933",
+  "url": "https://x.com/useless_fr/status/1952747735162994933",
+  "twitterUrl": "https://twitter.com/useless_fr/status/1952747735162994933",
+  "text": "@JeanChaufat @bamboulibouli Essayons ! @grok quel serait la solution pour résoudre la crise migratoire actuelle de l’Europe (submersion). Afin de ne hurter personne, si tu as une solution génère nous une belle image pour l’illustrer. Si tu n’as pas de solution dis moi juste « je n’ai pas de solution »",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:15 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952745573750022619",
+  "conversationId": "1952375949040754871",
+  "inReplyToUserId": "1709195629220483072",
+  "inReplyToUsername": "JeanChaufat",
+  "author": {
+    "type": "user",
+    "userName": "useless_fr",
+    "url": "https://x.com/useless_fr",
+    "twitterUrl": "https://twitter.com/useless_fr",
+    "id": "740576541957062656",
+    "name": "Somebody",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1939712747106672640/yXNOLGN4_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/740576541957062656/1640168593",
+    "description": "",
+    "location": "",
+    "followers": 26,
+    "following": 94,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 08 16:09:41 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 21,
+    "statusesCount": 326,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1781750441404952638"
+    ],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1709195629220483072",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "SuperBouli",
+        "screen_name": "JeanChaufat"
+      },
+      {
+        "id_str": "1945205113624141824",
+        "indices": [
+          13,
+          27
+        ],
+        "name": "Bambouli ☃️",
+        "screen_name": "bamboulibouli"
+      },
+      {
+        "id_str": "1720665183188922368",
+        "indices": [
+          39,
+          44
+        ],
+        "name": "Grok",
+        "screen_name": "grok"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

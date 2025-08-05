@@ -1,0 +1,121 @@
+{
+  "type": "tweet",
+  "id": "1952747576903487665",
+  "url": "https://x.com/abir_web3/status/1952747576903487665",
+  "twitterUrl": "https://twitter.com/abir_web3/status/1952747576903487665",
+  "text": "@slmndNFT @cultverse_ai Gslmmd",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:37 +0000 2025",
+  "lang": "tr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952716233331425535",
+  "conversationId": "1952716233331425535",
+  "inReplyToUserId": "1875624372993716225",
+  "inReplyToUsername": "slmndNFT",
+  "author": {
+    "type": "user",
+    "userName": "abir_web3",
+    "url": "https://x.com/abir_web3",
+    "twitterUrl": "https://twitter.com/abir_web3",
+    "id": "1830869411353501696",
+    "name": "ABIR ⨀〽",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1950407851815686145/oE-QJBvy_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1830869411353501696/1748698618",
+    "description": "",
+    "location": "",
+    "followers": 1519,
+    "following": 2359,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 03 07:24:28 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5459,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 255,
+    "statusesCount": 3355,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952243786983375105"
+    ],
+    "profile_bio": {
+      "description": "Contributor  of @monad_xyz |\n\n2D ARTIST\n\ndc: abir_55178\ntg: abirog1",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                16,
+                26
+              ],
+              "name": "",
+              "screen_name": "monad_xyz"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/rajabir",
+              "expanded_url": "https://linktr.ee/rajabir",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RnuP6PN6tC"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1875624372993716225",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "SLMND",
+        "screen_name": "slmndNFT"
+      },
+      {
+        "id_str": "1567677999436234752",
+        "indices": [
+          10,
+          23
+        ],
+        "name": "Cultverse (formerly Cult Markets)⨀",
+        "screen_name": "cultverse_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

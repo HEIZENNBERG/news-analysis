@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952758513068859555",
+  "url": "https://x.com/NoPrivacy16/status/1952758513068859555",
+  "twitterUrl": "https://twitter.com/NoPrivacy16/status/1952758513068859555",
+  "text": "@AlphaNewsMN This is great news. The federal government should sue all employers who refused to grant the religious exemption.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:48:04 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952748969366266307",
+  "conversationId": "1952748969366266307",
+  "inReplyToUserId": "3041775900",
+  "inReplyToUsername": "AlphaNewsMN",
+  "author": {
+    "type": "user",
+    "userName": "NoPrivacy16",
+    "url": "https://x.com/NoPrivacy16",
+    "twitterUrl": "https://twitter.com/NoPrivacy16",
+    "id": "1597616166834524160",
+    "name": "No Privacy",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1914794317014507520/6n1Q8LiK_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "Tampon Tim's State",
+    "followers": 11490,
+    "following": 8190,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 29 15:40:36 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 115356,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1602,
+    "statusesCount": 54372,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1897441411454148888"
+    ],
+    "profile_bio": {
+      "description": "Call me Marie. Former lurker, IT professional, MAGA, and now MAHA. We live in a Constitutional Republic. 🚫 DMs",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "3041775900",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Alpha News",
+        "screen_name": "AlphaNewsMN"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

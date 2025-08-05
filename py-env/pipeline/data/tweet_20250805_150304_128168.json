@@ -1,0 +1,124 @@
+{
+  "type": "tweet",
+  "id": "1952747174950805926",
+  "url": "https://x.com/yemos123/status/1952747174950805926",
+  "twitterUrl": "https://twitter.com/yemos123/status/1952747174950805926",
+  "text": "@tgexchange222 @gaib_ai @KRNL_xyz You're welcome",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952744804099502475",
+  "conversationId": "1952719703153012783",
+  "inReplyToUserId": "1499545787839262728",
+  "inReplyToUsername": "tgexchange222",
+  "author": {
+    "type": "user",
+    "userName": "yemos123",
+    "url": "https://x.com/yemos123",
+    "twitterUrl": "https://twitter.com/yemos123",
+    "id": "1692445774204874752",
+    "name": "yemisi",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1906295941117739008/PVpIaNWw_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "kogi",
+    "followers": 90,
+    "following": 231,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 18 07:58:18 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 965,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 15,
+    "statusesCount": 740,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "@hemibros | OGs of the @hemi_xyz NFT ecosystem.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                9
+              ],
+              "name": "",
+              "screen_name": "hemibros"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                23,
+                32
+              ],
+              "name": "",
+              "screen_name": "hemi_xyz"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1499545787839262728",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "ThankGod Ogbonna | (Ø,G) (🧙‍♂️,🧙‍♂️) 🍚 ⛓",
+        "screen_name": "tgexchange222"
+      },
+      {
+        "id_str": "1805656710360842246",
+        "indices": [
+          15,
+          23
+        ],
+        "name": "GAIB 🟠 | RWAiFi",
+        "screen_name": "gaib_ai"
+      },
+      {
+        "id_str": "1764634043176345600",
+        "indices": [
+          24,
+          33
+        ],
+        "name": "KRNL Labs",
+        "screen_name": "KRNL_xyz"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

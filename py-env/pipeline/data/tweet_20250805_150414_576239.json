@@ -1,0 +1,126 @@
+{
+  "type": "tweet",
+  "id": "1952747469919432850",
+  "url": "https://x.com/Utpalrabhaaa/status/1952747469919432850",
+  "twitterUrl": "https://twitter.com/Utpalrabhaaa/status/1952747469919432850",
+  "text": "@cuttereth @tenprotocol @cookiedotfun ten is carving out a real niche with confidential rollups scalable private compute plus ai native infra is a powerful combo",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:11 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952744711782908146",
+  "conversationId": "1952744711782908146",
+  "inReplyToUserId": "484777204",
+  "inReplyToUsername": "cuttereth",
+  "author": {
+    "type": "user",
+    "userName": "Utpalrabhaaa",
+    "url": "https://x.com/Utpalrabhaaa",
+    "twitterUrl": "https://twitter.com/Utpalrabhaaa",
+    "id": "1653719715741863936",
+    "name": "Utpal (✧ᴗ✧)",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948028054678487040/fMipKM_y_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1653719715741863936/1745494960",
+    "description": "",
+    "location": "",
+    "followers": 2624,
+    "following": 2594,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed May 03 11:15:02 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 59124,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1388,
+    "statusesCount": 45368,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1948256951697338413"
+    ],
+    "profile_bio": {
+      "description": "| Talking DeFi & blockchain | Crypto vibes | Content Creator | #Web3 | @SunriseLayer  ambassador |",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                63,
+                68
+              ],
+              "text": "Web3"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                71,
+                84
+              ],
+              "name": "",
+              "screen_name": "SunriseLayer"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "484777204",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "CutteR",
+        "screen_name": "cuttereth"
+      },
+      {
+        "id_str": "1441687917932384266",
+        "indices": [
+          11,
+          23
+        ],
+        "name": "TEN (🔟/🔟)",
+        "screen_name": "tenprotocol"
+      },
+      {
+        "id_str": "1762471547485184000",
+        "indices": [
+          24,
+          37
+        ],
+        "name": "Cookie DAO 🍪",
+        "screen_name": "cookiedotfun"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

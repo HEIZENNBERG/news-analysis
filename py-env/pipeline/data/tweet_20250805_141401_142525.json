@@ -1,0 +1,122 @@
+{
+  "type": "tweet",
+  "id": "1952734824633864458",
+  "url": "https://x.com/Kylian_29_08/status/1952734824633864458",
+  "twitterUrl": "https://twitter.com/Kylian_29_08/status/1952734824633864458",
+  "text": "@DesDoueJr @29dls_ @VibesFoot @JacobsBen J’ai regardé t’es tweet a tt casser tu as 14/15 ans aucune connaissance foot et a commencer a suivre le psg après la venu de Mbappé en 2018 ou dans les environs mdrrr + tu parle mal alors que t’es sûrement une ptite bltringue au lycée",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:13:56 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952730135188107316",
+  "conversationId": "1952685965211770975",
+  "inReplyToUserId": "1901311258789347328",
+  "inReplyToUsername": "DesDoueJr",
+  "author": {
+    "type": "user",
+    "userName": "Kylian_29_08",
+    "url": "https://x.com/Kylian_29_08",
+    "twitterUrl": "https://twitter.com/Kylian_29_08",
+    "id": "1205010702945132544",
+    "name": "Kylian",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1902810511726743556/E3o5PQVy_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1205010702945132544/1680670918",
+    "description": "",
+    "location": "",
+    "followers": 464,
+    "following": 1051,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 12 06:25:27 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 210182,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 332,
+    "statusesCount": 75917,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "#TEAMOM 💙",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                7
+              ],
+              "text": "TEAMOM"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1901311258789347328",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "DésDoué ❤️💙🇵🇸",
+        "screen_name": "DesDoueJr"
+      },
+      {
+        "id_str": "1691868698032676864",
+        "indices": [
+          11,
+          18
+        ],
+        "name": "29’",
+        "screen_name": "29dls_"
+      },
+      {
+        "id_str": "2370161756",
+        "indices": [
+          19,
+          29
+        ],
+        "name": "Vibes Foot",
+        "screen_name": "VibesFoot"
+      },
+      {
+        "id_str": "19709816",
+        "indices": [
+          30,
+          40
+        ],
+        "name": "Ben Jacobs",
+        "screen_name": "JacobsBen"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,555 @@
+{
+  "type": "tweet",
+  "id": "1952755572232921594",
+  "url": "https://x.com/AzspNews/status/1952755572232921594",
+  "twitterUrl": "https://twitter.com/AzspNews/status/1952755572232921594",
+  "text": "NFL news roundup: Bengals QB Joe Burrow to play in preseason opener vs. Eagles https://t.co/XoRRxvSd2w",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:36:23 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952755572232921594",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "AzspNews",
+    "url": "https://x.com/AzspNews",
+    "twitterUrl": "https://twitter.com/AzspNews",
+    "id": "1320904428489109504",
+    "name": "AZSP Sports News",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1320909756869980162/Yo3ZEBFG_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1320904428489109504/1603764237",
+    "description": "",
+    "location": "",
+    "followers": 74,
+    "following": 32,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 27 01:46:37 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 119,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1162,
+    "statusesCount": 56613,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "AZSP Sports News by AZ Sportivo Performance @AZSPerformance",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                44,
+                59
+              ],
+              "name": "",
+              "screen_name": "AZSPerformance"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bit.ly/AZSP-SportsNews",
+              "expanded_url": "https://bit.ly/AZSP-SportsNews",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fFu2CtU1F3"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 150,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=280x150",
+            "width": 267
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "NFL.com keeps you up to date with all of the latest league news from around the NFL. Visit NFL.com's transaction hub for a daily breakdown."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "www.nfl.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 320,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=800x320_1",
+            "width": 569
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 720,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=orig",
+            "width": 1280
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "19426551"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 81,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=144x144",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 720,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=png&name=2048x2048_2_exp",
+            "width": 1280
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 720,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=orig",
+            "width": 1280
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "nfl.com"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 37.36,
+                "rgb": {
+                  "blue": 251,
+                  "green": 249,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 22.33,
+                "rgb": {
+                  "blue": 86,
+                  "green": 132,
+                  "red": 118
+                }
+              },
+              {
+                "percentage": 11.9,
+                "rgb": {
+                  "blue": 19,
+                  "green": 38,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 6.76,
+                "rgb": {
+                  "blue": 45,
+                  "green": 52,
+                  "red": 65
+                }
+              },
+              {
+                "percentage": 5.37,
+                "rgb": {
+                  "blue": 66,
+                  "green": 88,
+                  "red": 133
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "NFL news roundup: Bengals QB Joe Burrow to play in preseason opener vs. Eagles"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 37.36,
+                "rgb": {
+                  "blue": 251,
+                  "green": 249,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 22.33,
+                "rgb": {
+                  "blue": 86,
+                  "green": 132,
+                  "red": 118
+                }
+              },
+              {
+                "percentage": 11.9,
+                "rgb": {
+                  "blue": 19,
+                  "green": 38,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 6.76,
+                "rgb": {
+                  "blue": 45,
+                  "green": 52,
+                  "red": 65
+                }
+              },
+              {
+                "percentage": 5.37,
+                "rgb": {
+                  "blue": 66,
+                  "green": 88,
+                  "red": 133
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 720,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=png&name=2048x2048_2_exp",
+            "width": 1280
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 37.36,
+                "rgb": {
+                  "blue": 251,
+                  "green": 249,
+                  "red": 248
+                }
+              },
+              {
+                "percentage": 22.33,
+                "rgb": {
+                  "blue": 86,
+                  "green": 132,
+                  "red": 118
+                }
+              },
+              {
+                "percentage": 11.9,
+                "rgb": {
+                  "blue": 19,
+                  "green": 38,
+                  "red": 135
+                }
+              },
+              {
+                "percentage": 6.76,
+                "rgb": {
+                  "blue": 45,
+                  "green": 52,
+                  "red": 65
+                }
+              },
+              {
+                "percentage": 5.37,
+                "rgb": {
+                  "blue": 66,
+                  "green": 88,
+                  "red": 133
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 720,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=png&name=2048x2048_2_exp",
+            "width": 1280
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/XoRRxvSd2w"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 720,
+            "url": "https://pbs.twimg.com/card_img/1952735148346388480/_aGe0VjF?format=jpg&name=orig",
+            "width": 1280
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/XoRRxvSd2w",
+    "user_refs_results": [
+      {
+        "rest_id": "19426551",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 4582
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/19426551/1754174280"
+          },
+          "core": {
+            "created_at": "Sat Jan 24 01:28:06 +0000 2009",
+            "name": "NFL",
+            "screen_name": "NFL"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {
+            "tweet_ids_str": [
+              "1952364433809846394"
+            ]
+          },
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "offseason progress bar ████████▒▒83%",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/nfl",
+                    "expanded_url": "https://linktr.ee/nfl",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/5ianypFq7J"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "0084B4"
+          },
+          "profile_translation": {
+            "translator_type_enum": "Regular"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 37834452,
+            "following": 2811
+          },
+          "relationship_perspectives": {},
+          "rest_id": "19426551",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 141589,
+            "tweets": 287765
+          },
+          "website": {
+            "url": "https://t.co/5ianypFq7J"
+          },
+          "verification": {
+            "is_blue_verified": true,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "nfl.com/news/nfl-news-…",
+        "expanded_url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-tuesday-aug-5",
+        "indices": [
+          79,
+          102
+        ],
+        "url": "https://t.co/XoRRxvSd2w"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,208 @@
+{
+  "type": "tweet",
+  "id": "1952754858517217438",
+  "url": "https://x.com/MVancemedia/status/1952754858517217438",
+  "twitterUrl": "https://twitter.com/MVancemedia/status/1952754858517217438",
+  "text": "As alluded to earlier. News breaking of Tyler Dibling failing to train with @SouthamptonFC today. #Saintsfc",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:33:33 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952754858517217438",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "MVancemedia",
+    "url": "https://x.com/MVancemedia",
+    "twitterUrl": "https://twitter.com/MVancemedia",
+    "id": "1190668079614828544",
+    "name": "Murray Vance",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952672545238347776/2j7VjCCW_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1190668079614828544/1754388404",
+    "description": "",
+    "location": "Here, there and everywhere!",
+    "followers": 651,
+    "following": 1116,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 02 16:32:52 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 36718,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 7173,
+    "statusesCount": 119209,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "A proud unbiased sporting investigative journalist. Truth over takes. Coffee over sleep! Frank Sinatra enthusiast.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          98,
+          107
+        ],
+        "text": "Saintsfc"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "46143892",
+        "indices": [
+          76,
+          90
+        ],
+        "name": "Southampton FC",
+        "screen_name": "SouthamptonFC"
+      }
+    ]
+  },
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952678596935332110",
+    "url": "https://x.com/MVancemedia/status/1952678596935332110",
+    "twitterUrl": "https://twitter.com/MVancemedia/status/1952678596935332110",
+    "text": "💣 developing news from championship club @SouthamptonFC 19 year old winger, Tyler Dibling has handed in a transfer request this morning. Sees his career elsewhere. #EFC #FFC are encouraged by latest developments. Will break elsewhere shortly. #SFC #Southampton",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 684,
+    "createdAt": "Tue Aug 05 10:30:31 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952678596935332110",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "MVancemedia",
+      "url": "https://x.com/MVancemedia",
+      "twitterUrl": "https://twitter.com/MVancemedia",
+      "id": "1190668079614828544",
+      "name": "Murray Vance",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1952672545238347776/2j7VjCCW_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1190668079614828544/1754388404",
+      "description": "",
+      "location": "Here, there and everywhere!",
+      "followers": 651,
+      "following": 1116,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Sat Nov 02 16:32:52 +0000 2019",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 36718,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 7173,
+      "statusesCount": 119209,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "A proud unbiased sporting investigative journalist. Truth over takes. Coffee over sleep! Frank Sinatra enthusiast.",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            164,
+            168
+          ],
+          "text": "EFC"
+        },
+        {
+          "indices": [
+            169,
+            173
+          ],
+          "text": "FFC"
+        },
+        {
+          "indices": [
+            243,
+            247
+          ],
+          "text": "SFC"
+        },
+        {
+          "indices": [
+            248,
+            260
+          ],
+          "text": "Southampton"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "46143892",
+          "indices": [
+            41,
+            55
+          ],
+          "name": "Southampton FC",
+          "screen_name": "SouthamptonFC"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

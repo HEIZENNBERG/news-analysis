@@ -1,0 +1,267 @@
+{
+  "type": "tweet",
+  "id": "1952747603105382897",
+  "url": "https://x.com/ilyjawreguis/status/1952747603105382897",
+  "twitterUrl": "https://twitter.com/ilyjawreguis/status/1952747603105382897",
+  "text": "finalmente veio aí",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:43 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747603105382897",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "ilyjawreguis",
+    "url": "https://x.com/ilyjawreguis",
+    "twitterUrl": "https://twitter.com/ilyjawreguis",
+    "id": "1128620118844628992",
+    "name": "thay⁷, my oxford year 🇬🇧 💌 🏒 🎭 ៹",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952693131025010688/djuqmfjr_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1128620118844628992/1754140241",
+    "description": "",
+    "location": "i wonder 🧸",
+    "followers": 27592,
+    "following": 13074,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed May 15 11:16:19 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 222500,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 11468,
+    "statusesCount": 161774,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1714042194665914819"
+    ],
+    "profile_bio": {
+      "description": "algumas coisas, infelizmente, são inevitáveis.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "boxd.it/3GzFl",
+              "expanded_url": "https://boxd.it/3GzFl",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/j1PJ4vq0CW"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952746428784160809",
+    "url": "https://x.com/NetflixBrasil/status/1952746428784160809",
+    "twitterUrl": "https://twitter.com/NetflixBrasil/status/1952746428784160809",
+    "text": "OS MENINOS WALTER ESTÃO VOLTANDO.\n\nTodos os episódios da 2ª temporada de Minha Vida com a Família Walter chegam no dia 28 de agosto! https://t.co/e3Pa0ilfen",
+    "source": "Twitter for iPhone",
+    "retweetCount": 3,
+    "replyCount": 9,
+    "likeCount": 34,
+    "quoteCount": 3,
+    "viewCount": 2616,
+    "createdAt": "Tue Aug 05 15:00:03 +0000 2025",
+    "lang": "pt",
+    "bookmarkCount": 5,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952746428784160809",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "NetflixBrasil",
+      "url": "https://x.com/NetflixBrasil",
+      "twitterUrl": "https://twitter.com/NetflixBrasil",
+      "id": "231579149",
+      "name": "netflixbrasil",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": "Business",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1872624161576603648/OOlKjAu9_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/231579149/1753373921",
+      "description": "",
+      "location": "",
+      "followers": 35492297,
+      "following": 505,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Dec 28 22:43:40 +0000 2010",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 13378,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 18467,
+      "statusesCount": 96445,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {
+        "label": {
+          "badge": {
+            "url": "https://pbs.twimg.com/profile_images/1872671711700582400/6WLZxYpq_bigger.jpg"
+          },
+          "description": "Netflix",
+          "url": {
+            "url": "https://twitter.com/netflix",
+            "url_type": "DeepLink"
+          },
+          "user_label_type": "BusinessLabel",
+          "user_label_display_type": "Badge"
+        }
+      },
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1951290153936286083"
+      ],
+      "profile_bio": {
+        "description": "Mais exausta que a Kuromi.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "netflix.com",
+                "expanded_url": "https://netflix.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/uYnrvZFNSh"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "monetizable": false,
+            "title": ""
+          },
+          "allow_download_status": {
+            "allow_download": false
+          },
+          "display_url": "pic.twitter.com/e3Pa0ilfen",
+          "expanded_url": "https://twitter.com/NetflixBrasil/status/1952746428784160809/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1952733501825884160",
+          "indices": [
+            133,
+            156
+          ],
+          "media_key": "13_1952733501825884160",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZgMYdViAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGxmAxh1WIAAAAA==",
+              "media_key": "13_1952733501825884160"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxmBL2tWMAAqDUt.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 720,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 720,
+              "w": 1280
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/e3Pa0ilfen",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 101101,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video-s.twimg.com/amplify_video/1952733501825884160/pl/Badn-TgphLfmmL_I.m3u8?tag=21"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952733501825884160/vid/avc1/480x270/s577UwbJ4fMRw1XI.mp4?tag=21"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952733501825884160/vid/avc1/640x360/GDxx7tpYZ1UoPpZk.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952733501825884160/vid/avc1/1280x720/yrd4Ev7LalUYh43v.mp4?tag=21"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952733501825884160/vid/avc1/1920x1080/DRLCO0X2aI6FagFX.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

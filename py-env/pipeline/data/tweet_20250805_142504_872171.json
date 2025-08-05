@@ -1,0 +1,138 @@
+{
+  "type": "tweet",
+  "id": "1952737606380200394",
+  "url": "https://x.com/CptDylDozer/status/1952737606380200394",
+  "twitterUrl": "https://twitter.com/CptDylDozer/status/1952737606380200394",
+  "text": "@pnwguerrilla Highly doubt an ai would be continuously throwing a subscription on X at you, man.\nAnyone that thinks I'm an ai is welcome to pucker up and kiss BOTh cheeks, because clearly i've got Alex jones syndrome https://t.co/s14sVQPizU",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:25:00 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952708788852515275",
+  "conversationId": "1952707582893932778",
+  "inReplyToUserId": "1557088964938309632",
+  "inReplyToUsername": "pnwguerrilla",
+  "author": {
+    "type": "user",
+    "userName": "CptDylDozer",
+    "url": "https://x.com/CptDylDozer",
+    "twitterUrl": "https://twitter.com/CptDylDozer",
+    "id": "1747815310634160128",
+    "name": "Christopher Brown",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1906464755436380160/m6hZJT6Z_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1747815310634160128/1736038535",
+    "description": "",
+    "location": "montgomery county ohio",
+    "followers": 668,
+    "following": 1124,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 18 02:57:18 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5921,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1947,
+    "statusesCount": 6508,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1935407903638450328"
+    ],
+    "profile_bio": {
+      "description": "Cpt. Dyl | Dildozer’s Diktators | Dictating freedom and liberty, one thrust at a time | Here to make connections, play with cool guns, and shitpost in replies",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/s14sVQPizU",
+        "expanded_url": "https://twitter.com/CptDylDozer/status/1952737606380200394/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952737599837134848",
+        "indices": [
+          217,
+          240
+        ],
+        "media_key": "16_1952737599837134848",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZhIBB12AACgACGxmEgcfWocoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmEgEHXYAAKAAIbGYSBx9ahygAA",
+            "media_key": "16_1952737599837134848"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmEgEHXYAAKQbZ.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 126,
+          "width": 224
+        },
+        "sizes": {
+          "large": {
+            "h": 126,
+            "w": 224
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/s14sVQPizU",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmEgEHXYAAKQbZ.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1557088964938309632",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "PNWGUERRILLA",
+        "screen_name": "pnwguerrilla"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

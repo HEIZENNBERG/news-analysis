@@ -1,0 +1,214 @@
+{
+  "type": "tweet",
+  "id": "1952734821429526584",
+  "url": "https://x.com/hykagem/status/1952734821429526584",
+  "twitterUrl": "https://twitter.com/hykagem/status/1952734821429526584",
+  "text": "o maior erro da comunidade de wuwa foi ter aceitado esse aí KKKKKKKKKKKKK espalhou a pior fama possível pro jogo e agr jogou eles pra merda",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:13:56 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952734821429526584",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "hykagem",
+    "url": "https://x.com/hykagem",
+    "twitterUrl": "https://twitter.com/hykagem",
+    "id": "1296237384078708737",
+    "name": "Hykagem",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1307128197503479808/GVSsaOf1_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1296237384078708737/1607727799",
+    "description": "",
+    "location": "",
+    "followers": 56,
+    "following": 150,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 20 00:07:37 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7189,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 824,
+    "statusesCount": 6322,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Emily was here :3",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952039657044402652",
+    "url": "https://x.com/SharkyzHaz/status/1952039657044402652",
+    "twitterUrl": "https://twitter.com/SharkyzHaz/status/1952039657044402652",
+    "text": "Tectone did a 180 on wuwa community is both expected and hilarious 🤣 https://t.co/48dyJT5hC6",
+    "source": "Twitter for iPhone",
+    "retweetCount": 74,
+    "replyCount": 277,
+    "likeCount": 1423,
+    "quoteCount": 363,
+    "viewCount": 2369338,
+    "createdAt": "Sun Aug 03 16:11:36 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 593,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952039657044402652",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "SharkyzHaz",
+      "url": "https://x.com/SharkyzHaz",
+      "twitterUrl": "https://twitter.com/SharkyzHaz",
+      "id": "1764963151207100417",
+      "name": "Sharkyz",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1952076088383070208/16KMTxc1_normal.jpg",
+      "coverPicture": "",
+      "description": "",
+      "location": "",
+      "followers": 20,
+      "following": 23,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Mar 05 10:36:30 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 445,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 21,
+      "statusesCount": 80,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/48dyJT5hC6",
+          "expanded_url": "https://twitter.com/SharkyzHaz/status/1952039657044402652/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1952039305440030720",
+          "indices": [
+            69,
+            92
+          ],
+          "media_key": "13_1952039305440030720",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsXCWfsWnAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGxcJZ+xacAAAAA==",
+              "media_key": "13_1952039305440030720"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952039305440030720/img/q2NOMZ3M_Bp8_L6K.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1080,
+            "width": 1920
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1920
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/48dyJT5hC6",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 35817,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video-s.twimg.com/amplify_video/1952039305440030720/pl/0scIghFU9tgBFMNZ.m3u8?tag=14&v=2c1"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952039305440030720/vid/avc1/480x270/hxTQfjrHLt-lufjQ.mp4?tag=14"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952039305440030720/vid/avc1/640x360/1pPv1_3p6Ghliw4C.mp4?tag=14"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1952039305440030720/vid/avc1/1280x720/0DWNA3dncX8-n7DK.mp4?tag=14"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,73 @@
+{
+  "type": "tweet",
+  "id": "1952747826800173541",
+  "url": "https://x.com/sharkwm0/status/1952747826800173541",
+  "twitterUrl": "https://twitter.com/sharkwm0/status/1952747826800173541",
+  "text": "eu qnd fico ansiosa pra ir em tal lugar mesmo sabendo que qnd chegar lá vai ser de boa \naí um dia passa, outro começa é isso acontece dnv",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:36 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747826800173541",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "sharkwm0",
+    "url": "https://x.com/sharkwm0",
+    "twitterUrl": "https://twitter.com/sharkwm0",
+    "id": "1512210778253844486",
+    "name": "😾",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948433585305690112/45i0AW4H_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1512210778253844486/1753377665",
+    "description": "",
+    "location": "beacon hills",
+    "followers": 10,
+    "following": 20,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Apr 07 23:28:56 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1868,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 70,
+    "statusesCount": 802,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

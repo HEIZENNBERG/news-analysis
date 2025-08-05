@@ -1,0 +1,111 @@
+{
+  "type": "tweet",
+  "id": "1952756619797766174",
+  "url": "https://x.com/ahmadmsani3902/status/1952756619797766174",
+  "twitterUrl": "https://twitter.com/ahmadmsani3902/status/1952756619797766174",
+  "text": "@Muhammad___mk @arbdouul Any news on Baleba/Donnaruma idolo???",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:40:33 +0000 2025",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952746624033161236",
+  "conversationId": "1952725045672833370",
+  "inReplyToUserId": "4653413024",
+  "inReplyToUsername": "Muhammad___mk",
+  "author": {
+    "type": "user",
+    "userName": "ahmadmsani3902",
+    "url": "https://x.com/ahmadmsani3902",
+    "twitterUrl": "https://twitter.com/ahmadmsani3902",
+    "id": "819011672773890048",
+    "name": "Ahmad MS",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1675599781639462913/FWb22STf_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/819011672773890048/1598380186",
+    "description": "",
+    "location": "",
+    "followers": 837,
+    "following": 632,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 11 02:42:54 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 43267,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 330,
+    "statusesCount": 13240,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "#we_can_always_do_better💥👊 #GGMU",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                24
+              ],
+              "text": "we_can_always_do_better"
+            },
+            {
+              "indices": [
+                27,
+                32
+              ],
+              "text": "GGMU"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "4653413024",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Daddy🍂🍂",
+        "screen_name": "Muhammad___mk"
+      },
+      {
+        "id_str": "968482629371744256",
+        "indices": [
+          15,
+          24
+        ],
+        "name": "14",
+        "screen_name": "arbdouul"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

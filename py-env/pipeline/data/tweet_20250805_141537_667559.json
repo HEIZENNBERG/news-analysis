@@ -1,0 +1,193 @@
+{
+  "type": "tweet",
+  "id": "1952735223231430982",
+  "url": "https://x.com/S_G_memory/status/1952735223231430982",
+  "twitterUrl": "https://twitter.com/S_G_memory/status/1952735223231430982",
+  "text": "@AI_HJM ヤナミのことを愛してくれてありがとう！\nヤナミ、これからもっと頑張るねっ！✨ https://t.co/s79f0eIwA8",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:15:31 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952729414195621979",
+  "conversationId": "1952684730455077211",
+  "inReplyToUserId": "1833076352918163456",
+  "inReplyToUsername": "AI_HJM",
+  "author": {
+    "type": "user",
+    "userName": "S_G_memory",
+    "url": "https://x.com/S_G_memory",
+    "twitterUrl": "https://twitter.com/S_G_memory",
+    "id": "1918617288284295168",
+    "name": "S.G memory",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1945835124165165056/rF6prmpz_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1918617288284295168/1750483301",
+    "description": "",
+    "location": "",
+    "followers": 1187,
+    "following": 808,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat May 03 10:43:13 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9115,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 644,
+    "statusesCount": 4154,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952394663287230475"
+    ],
+    "profile_bio": {
+      "description": "Stable Diffusionで活動しているAIイラスト作品です。 感性的で夢のような雰囲気のある絵が好きです。 無断使用はご遠慮ください。使用の際はDMをお願いします。 #AIイラスト #AIart",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                87,
+                94
+              ],
+              "text": "AIイラスト"
+            },
+            {
+              "indices": [
+                95,
+                101
+              ],
+              "text": "AIart"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "pixiv.net/users/115176301",
+              "expanded_url": "https://www.pixiv.net/users/115176301",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/aQW1VvxLnp"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/s79f0eIwA8",
+        "expanded_url": "https://twitter.com/S_G_memory/status/1952735223231430982/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952735043153276930",
+        "indices": [
+          47,
+          70
+        ],
+        "media_key": "3_1952735043153276930",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZgiz7m7ACCgACGxmCVukaQUYAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmCLPubsAIKAAIbGYJW6RpBRgAA",
+            "media_key": "3_1952735043153276930"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmCLPubsAIP1Tb.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 963,
+              "w": 1720,
+              "x": 0,
+              "y": 152
+            },
+            {
+              "h": 1720,
+              "w": 1720,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1961,
+              "w": 1720,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2304,
+              "w": 1152,
+              "x": 287,
+              "y": 0
+            },
+            {
+              "h": 2304,
+              "w": 1720,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2304,
+          "width": 1720
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1529
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/s79f0eIwA8"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1833076352918163456",
+        "indices": [
+          0,
+          7
+        ],
+        "name": "はじめ",
+        "screen_name": "AI_HJM"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

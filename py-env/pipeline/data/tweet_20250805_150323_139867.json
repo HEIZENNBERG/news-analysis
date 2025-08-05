@@ -1,0 +1,176 @@
+{
+  "type": "tweet",
+  "id": "1952747257054343322",
+  "url": "https://x.com/forestbeforeus/status/1952747257054343322",
+  "twitterUrl": "https://twitter.com/forestbeforeus/status/1952747257054343322",
+  "text": "Germander Speedwell(Veronica chamaedrys) is a low-growing, creeping perennial herb in the Plantaginaceae family. Native to Europe, it is now widespread as an introduced species. Historically, it was used as medicine, and in 18th-century Britain, it was popular for tea #ai #nature https://t.co/6KXThICRh3",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:21 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747257054343322",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "forestbeforeus",
+    "url": "https://x.com/forestbeforeus",
+    "twitterUrl": "https://twitter.com/forestbeforeus",
+    "id": "1821183214968299520",
+    "name": "The Forest Before Us",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1909449797590814720/yjkJxFwb_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1821183214968299520/1744084506",
+    "description": "",
+    "location": "Pennsylvania, USA",
+    "followers": 293,
+    "following": 991,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 07 13:55:16 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19272,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 311,
+    "statusesCount": 335,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Cultivating 🌿Awareness of the World🌎 through Synthography 🤖 \nMade with 💚 Generative AI\nhttps://t.co/K9XtchoVAw",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "trilliontrees.org/donate",
+              "expanded_url": "https://trilliontrees.org/donate",
+              "indices": [
+                87,
+                110
+              ],
+              "url": "https://t.co/K9XtchoVAw"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/6KXThICRh3",
+        "expanded_url": "https://twitter.com/forestbeforeus/status/1952747257054343322/photo/1",
+        "ext_alt_text": "An illustration of plants with purple flowers by a stream",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747253505851393",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "3_1952747253505851393",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjUftVgABCgACGxmNSMDXsJoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNR+1WAAEKAAIbGY1IwNewmgAA",
+            "media_key": "3_1952747253505851393"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNR-1WAAEZNZ1.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 200
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 37,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 230,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 1024
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/6KXThICRh3"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          269,
+          272
+        ],
+        "text": "ai"
+      },
+      {
+        "indices": [
+          273,
+          280
+        ],
+        "text": "nature"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

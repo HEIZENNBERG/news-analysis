@@ -1,0 +1,162 @@
+{
+  "type": "tweet",
+  "id": "1952747090561425817",
+  "url": "https://x.com/Looki_ai/status/1952747090561425817",
+  "twitterUrl": "https://twitter.com/Looki_ai/status/1952747090561425817",
+  "text": "📍 Looki L1\n🕒 Launching AUGUST 19 https://t.co/9SuZLel1ei",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:41 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747090561425817",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Looki_ai",
+    "url": "https://x.com/Looki_ai",
+    "twitterUrl": "https://twitter.com/Looki_ai",
+    "id": "1830449777441697792",
+    "name": "Looki",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1911973001945354240/2-5oe0dN_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1830449777441697792/1753433046",
+    "description": "",
+    "location": "Canada",
+    "followers": 25,
+    "following": 1,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 02 03:37:01 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3,
+    "statusesCount": 3,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Create the first AI lifelogging camera that allows all-day capture plus an integrated AI assistant.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "looki.ai",
+              "expanded_url": "https://looki.ai/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/A49RRrOBkM"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/9SuZLel1ei",
+        "expanded_url": "https://twitter.com/Looki_ai/status/1952747090561425817/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952745839128186880",
+        "indices": [
+          33,
+          56
+        ],
+        "media_key": "3_1952745839128186880",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZi/6d25AACgACGxmNIf0XYZkAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmL/p3bkAAKAAIbGY0h/RdhmQAA",
+            "media_key": "3_1952745839128186880"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmL_p3bkAAoh9t.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 448,
+              "w": 800,
+              "x": 0,
+              "y": 16
+            },
+            {
+              "h": 800,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 912,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1067,
+              "w": 534,
+              "x": 133,
+              "y": 0
+            },
+            {
+              "h": 1067,
+              "w": 800,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1067,
+          "width": 800
+        },
+        "sizes": {
+          "large": {
+            "h": 1067,
+            "w": 800
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/9SuZLel1ei"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

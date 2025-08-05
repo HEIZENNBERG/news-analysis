@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747307381743985",
+  "url": "https://x.com/questforbliss/status/1952747307381743985",
+  "twitterUrl": "https://twitter.com/questforbliss/status/1952747307381743985",
+  "text": "@majdouce Je t'ai sélectionné pour ton âme pure, ton ambition et ta présence sur le terrain (oui)",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:33 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747022479421556",
+  "conversationId": "1952736980132827258",
+  "inReplyToUserId": "1302553440602726400",
+  "inReplyToUsername": "majdouce",
+  "author": {
+    "type": "user",
+    "userName": "questforbliss",
+    "url": "https://x.com/questforbliss",
+    "twitterUrl": "https://twitter.com/questforbliss",
+    "id": "1094807114831331328",
+    "name": "Guillaume",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1554319901124345856/mst200_V_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1094807114831331328/1655723361",
+    "description": "",
+    "location": "24",
+    "followers": 146,
+    "following": 431,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Feb 11 03:55:31 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 135510,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 439,
+    "statusesCount": 29694,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1442497726026035207"
+    ],
+    "profile_bio": {
+      "description": "Imbécile heureux, cst",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1302553440602726400",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "ᴍᴜɴᴇᴋɪᴛᴀ",
+        "screen_name": "majdouce"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

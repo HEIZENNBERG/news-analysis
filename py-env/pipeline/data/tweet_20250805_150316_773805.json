@@ -1,0 +1,520 @@
+{
+  "type": "tweet",
+  "id": "1952747231095767483",
+  "url": "https://x.com/Roddy_Abreu/status/1952747231095767483",
+  "twitterUrl": "https://twitter.com/Roddy_Abreu/status/1952747231095767483",
+  "text": "@EthelMaciel Comenta aí, \"doutora\". \n\nhttps://t.co/bk8yJLxkMA",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:14 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952502554535035294",
+  "conversationId": "1952502554535035294",
+  "inReplyToUserId": "2761075536",
+  "inReplyToUsername": "EthelMaciel",
+  "author": {
+    "type": "user",
+    "userName": "Roddy_Abreu",
+    "url": "https://x.com/Roddy_Abreu",
+    "twitterUrl": "https://twitter.com/Roddy_Abreu",
+    "id": "1590490167760064513",
+    "name": "Rodrigo Abreu 🇧🇷🇨🇳🇨🇺🇮🇷🇰🇵🇵🇸🇷🇺🇻🇪🇾🇪",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1593605142053527552/dIq8G5HU_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1590490167760064513/1723221530",
+    "description": "",
+    "location": "",
+    "followers": 361,
+    "following": 181,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 09 23:43:55 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10248,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1449,
+    "statusesCount": 9404,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=600x314",
+            "width": 573
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 195,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=400x400",
+            "width": 400
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "Tuíte do deputado Arthur do Val tem informações corretas sobre países que usam cloroquina ..."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "noticias.uol.com.br"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 293,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=600x600",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=orig",
+            "width": 615
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "14594698"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=600x314",
+            "width": 573
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 70,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=144x144",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=png&name=2048x2048_2_exp",
+            "width": 615
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=orig",
+            "width": 615
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "noticias.uol.com.br"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=600x314",
+            "width": 573
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 58.43,
+                "rgb": {
+                  "blue": 169,
+                  "green": 171,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 18.09,
+                "rgb": {
+                  "blue": 48,
+                  "green": 69,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 6.35,
+                "rgb": {
+                  "blue": 181,
+                  "green": 181,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 6.31,
+                "rgb": {
+                  "blue": 97,
+                  "green": 103,
+                  "red": 119
+                }
+              },
+              {
+                "percentage": 4.98,
+                "rgb": {
+                  "blue": 30,
+                  "green": 115,
+                  "red": 94
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "É verdade que China, Venezuela e Cuba têm protocolos para cloroquina"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 58.43,
+                "rgb": {
+                  "blue": 169,
+                  "green": 171,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 18.09,
+                "rgb": {
+                  "blue": 48,
+                  "green": 69,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 6.35,
+                "rgb": {
+                  "blue": 181,
+                  "green": 181,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 6.31,
+                "rgb": {
+                  "blue": 97,
+                  "green": 103,
+                  "red": 119
+                }
+              },
+              {
+                "percentage": 4.98,
+                "rgb": {
+                  "blue": 30,
+                  "green": 115,
+                  "red": 94
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=png&name=2048x2048_2_exp",
+            "width": 615
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=600x314",
+            "width": 573
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 58.43,
+                "rgb": {
+                  "blue": 169,
+                  "green": 171,
+                  "red": 184
+                }
+              },
+              {
+                "percentage": 18.09,
+                "rgb": {
+                  "blue": 48,
+                  "green": 69,
+                  "red": 47
+                }
+              },
+              {
+                "percentage": 6.35,
+                "rgb": {
+                  "blue": 181,
+                  "green": 181,
+                  "red": 227
+                }
+              },
+              {
+                "percentage": 6.31,
+                "rgb": {
+                  "blue": 97,
+                  "green": 103,
+                  "red": 119
+                }
+              },
+              {
+                "percentage": 4.98,
+                "rgb": {
+                  "blue": 30,
+                  "green": 115,
+                  "red": 94
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=png&name=2048x2048_2_exp",
+            "width": 615
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/bk8yJLxkMA"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952747227232747520/zsGaD3xC?format=jpg&name=orig",
+            "width": 615
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/bk8yJLxkMA",
+    "user_refs_results": [
+      {
+        "rest_id": "14594698",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 2822
+          },
+          "avatar": {
+            "image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
+          },
+          "banner": {},
+          "core": {
+            "created_at": "Wed Apr 30 02:24:00 +0000 2008",
+            "name": "UOL Notícias",
+            "screen_name": "UOLNoticias"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "",
+            "entities": {
+              "description": {}
+            }
+          },
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "1DA1F2"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": true
+          },
+          "relationship_counts": {
+            "followers": 5422775,
+            "following": 181
+          },
+          "relationship_perspectives": {},
+          "rest_id": "14594698",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 75748,
+            "tweets": 639725
+          },
+          "website": {
+            "url": ""
+          },
+          "verification": {
+            "is_blue_verified": true
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "noticias.uol.com.br/comprova/ultim…",
+        "expanded_url": "https://noticias.uol.com.br/comprova/ultimas-noticias/2021/06/01/e-verdade-que-china-venezuela-e-cuba-tem-protocolos-para-cloroquina.htm",
+        "indices": [
+          38,
+          61
+        ],
+        "url": "https://t.co/bk8yJLxkMA"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "2761075536",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Ethel Maciel, PhD",
+        "screen_name": "EthelMaciel"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

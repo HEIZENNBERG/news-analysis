@@ -1,0 +1,219 @@
+{
+  "type": "tweet",
+  "id": "1952734825669947447",
+  "url": "https://x.com/LameMelancoliq/status/1952734825669947447",
+  "twitterUrl": "https://twitter.com/LameMelancoliq/status/1952734825669947447",
+  "text": "j’en ai vu des choses",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:13:57 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952734825669947447",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "LameMelancoliq",
+    "url": "https://x.com/LameMelancoliq",
+    "twitterUrl": "https://twitter.com/LameMelancoliq",
+    "id": "1859288783587328000",
+    "name": "🔆",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952512255712534528/PZXh-ky7_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1859288783587328000/1754349343",
+    "description": "",
+    "location": "🇺🇳",
+    "followers": 37,
+    "following": 28,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Nov 20 17:33:13 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2656,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 11,
+    "statusesCount": 833,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1951345102191993268",
+    "url": "https://x.com/medandcats/status/1951345102191993268",
+    "twitterUrl": "https://twitter.com/medandcats/status/1951345102191993268",
+    "text": "Attendez faillait que j vous montre ça https://t.co/FiaOEkqdPv",
+    "source": "Twitter for iPhone",
+    "retweetCount": 138,
+    "replyCount": 535,
+    "likeCount": 1361,
+    "quoteCount": 344,
+    "viewCount": 969673,
+    "createdAt": "Fri Aug 01 18:11:41 +0000 2025",
+    "lang": "fr",
+    "bookmarkCount": 561,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1951345102191993268",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "medandcats",
+      "url": "https://x.com/medandcats",
+      "twitterUrl": "https://twitter.com/medandcats",
+      "id": "1657679405831925761",
+      "name": "Sunshine",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1952349318196686850/7zJsT8R0_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1657679405831925761/1742819191",
+      "description": "",
+      "location": "France",
+      "followers": 6576,
+      "following": 2656,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Sun May 14 09:29:20 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 66266,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3601,
+      "statusesCount": 32679,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1936031482029522950"
+      ],
+      "profile_bio": {
+        "description": "MD, folle aux chats.",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/FiaOEkqdPv",
+          "expanded_url": "https://twitter.com/medandcats/status/1951345102191993268/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1951344970675154944",
+          "indices": [
+            39,
+            62
+          ],
+          "media_key": "13_1951344970675154944",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsUkemDVnAAAAA=",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAAECgABGxSR6YNWcAAAAA==",
+              "media_key": "13_1951344970675154944"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1951344970675154944/img/PmM4y9_CTFOh1sgr.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 1280,
+            "width": 720
+          },
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "w": 720
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/FiaOEkqdPv",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 63779,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video-s.twimg.com/amplify_video/1951344970675154944/pl/Bk0gqJ1jiMol6r7p.m3u8?tag=21&v=cfc"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1951344970675154944/vid/avc1/320x568/wu0NnKvK_TkY7IVD.mp4?tag=21"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1951344970675154944/vid/avc1/480x852/uAsRocssYQHU9TU1.mp4?tag=21"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/amplify_video/1951344970675154944/vid/avc1/720x1280/aks0w4aFGcw_C71i.mp4?tag=21"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

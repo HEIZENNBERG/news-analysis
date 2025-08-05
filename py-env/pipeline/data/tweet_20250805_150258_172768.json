@@ -1,0 +1,96 @@
+{
+  "type": "tweet",
+  "id": "1952747144697225550",
+  "url": "https://x.com/aderinsoyea/status/1952747144697225550",
+  "twitterUrl": "https://twitter.com/aderinsoyea/status/1952747144697225550",
+  "text": "@10ofw3 @JoinSapien Sapien turns micro tasks into meaningful impact.\nLabel data. Validate AI outputs",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:54 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952730322497319384",
+  "conversationId": "1952730322497319384",
+  "inReplyToUserId": "1796213884585496576",
+  "inReplyToUsername": "10ofw3",
+  "author": {
+    "type": "user",
+    "userName": "aderinsoyea",
+    "url": "https://x.com/aderinsoyea",
+    "twitterUrl": "https://twitter.com/aderinsoyea",
+    "id": "1591706445497737216",
+    "name": "Elnino (Ø,G)",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1927571943059845120/i1c0SlU3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1591706445497737216/1753976331",
+    "description": "",
+    "location": "Ibada, Nigeria",
+    "followers": 1150,
+    "following": 1965,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 13 08:16:17 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9633,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 431,
+    "statusesCount": 14281,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951703526683357326"
+    ],
+    "profile_bio": {
+      "description": "Exploring the edges of Web3,  where code meets community 🤝\nPassionate about decentralization 🛡️, real-world use cases 🌍, and building things that last",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1796213884585496576",
+        "indices": [
+          0,
+          7
+        ],
+        "name": "10",
+        "screen_name": "10ofw3"
+      },
+      {
+        "id_str": "1786019543220948992",
+        "indices": [
+          8,
+          19
+        ],
+        "name": "Sapien",
+        "screen_name": "JoinSapien"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

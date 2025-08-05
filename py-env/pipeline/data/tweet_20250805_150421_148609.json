@@ -1,0 +1,236 @@
+{
+  "type": "tweet",
+  "id": "1952747498621022292",
+  "url": "https://x.com/tuxoche/status/1952747498621022292",
+  "twitterUrl": "https://twitter.com/tuxoche/status/1952747498621022292",
+  "text": "RapidRAW noch kein Lightroom Klone\n#petermarbaise #tuxoche #rapidraw #github #lightroom #klone #rawconverter #masking #ai\nhttps://t.co/Yt4QrAlGOS https://t.co/TwFrVbbu1G",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:18 +0000 2025",
+  "lang": "de",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747498621022292",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "tuxoche",
+    "url": "https://x.com/tuxoche",
+    "twitterUrl": "https://twitter.com/tuxoche",
+    "id": "2334178309",
+    "name": "Peter Marbaise",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/683966162238070784/68FeICRU_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2334178309/1451905236",
+    "description": "",
+    "location": "Aachen",
+    "followers": 211,
+    "following": 193,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 08 22:37:23 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 582,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 165428,
+    "statusesCount": 170912,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Photoenthusiast Panoramen EDV Datenschutz",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "tuxoche.de",
+              "expanded_url": "https://www.tuxoche.de",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fd3KduREBE"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/TwFrVbbu1G",
+        "expanded_url": "https://twitter.com/tuxoche/status/1952747498621022292/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747494070226944",
+        "indices": [
+          146,
+          169
+        ],
+        "media_key": "3_1952747494070226944",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjX/wFxAACgACGxmNgP9WsFQAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNf/AXEAAKAAIbGY2A/1awVAAA",
+            "media_key": "3_1952747494070226944"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNf_AXEAAD-DI.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1075,
+              "w": 1920,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 564,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 631,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 834,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1920,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1920
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/TwFrVbbu1G"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          35,
+          49
+        ],
+        "text": "petermarbaise"
+      },
+      {
+        "indices": [
+          50,
+          58
+        ],
+        "text": "tuxoche"
+      },
+      {
+        "indices": [
+          59,
+          68
+        ],
+        "text": "rapidraw"
+      },
+      {
+        "indices": [
+          69,
+          76
+        ],
+        "text": "github"
+      },
+      {
+        "indices": [
+          77,
+          87
+        ],
+        "text": "lightroom"
+      },
+      {
+        "indices": [
+          88,
+          94
+        ],
+        "text": "klone"
+      },
+      {
+        "indices": [
+          95,
+          108
+        ],
+        "text": "rawconverter"
+      },
+      {
+        "indices": [
+          109,
+          117
+        ],
+        "text": "masking"
+      },
+      {
+        "indices": [
+          118,
+          121
+        ],
+        "text": "ai"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "youtu.be/O2lku1OcOIA",
+        "expanded_url": "https://youtu.be/O2lku1OcOIA",
+        "indices": [
+          122,
+          145
+        ],
+        "url": "https://t.co/Yt4QrAlGOS"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,466 @@
+{
+  "type": "tweet",
+  "id": "1952747174158057872",
+  "url": "https://x.com/xmen73671238/status/1952747174158057872",
+  "twitterUrl": "https://twitter.com/xmen73671238/status/1952747174158057872",
+  "text": "Smart WIFI Camera with 2.8 Inch Screen 1080P Two way Audio AI Video Call Baby Monitor CCTV Surveillance Security Wireless dual Camera .  preference link( xxxxxxx)\n::-Model c31 FOR MORE INFO CLICK LINK BELOW  https://t.co/obX8N68ObL via\n@Pinterest",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747174158057872",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "xmen73671238",
+    "url": "https://x.com/xmen73671238",
+    "twitterUrl": "https://twitter.com/xmen73671238",
+    "id": "1515588754266030083",
+    "name": "letsgooooo #Travel #Food #Beauty",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1874120501964267581/f-UjPi10_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1515588754266030083/1675326663",
+    "description": "",
+    "location": "",
+    "followers": 150,
+    "following": 404,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 17 07:12:28 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2985,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 113458,
+    "statusesCount": 255396,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Join me to promote any brand /company  like shopee,airasia and many more with generate unique link so that you can get Commission. https://t.co/nPiU4onkYe",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "invol.co/clghmsq",
+              "expanded_url": "http://invol.co/clghmsq",
+              "indices": [
+                131,
+                154
+              ],
+              "url": "https://t.co/nPiU4onkYe"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "invol.co/clghmsq",
+              "expanded_url": "https://invol.co/clghmsq",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CpySlKz7Mj"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 385,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=800x419",
+            "width": 735
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 150,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=280x150",
+            "width": 160
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "Smart WIFI camera"
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "www.pinterest.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 320,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=800x320_1",
+            "width": 340
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 691,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=orig",
+            "width": 735
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 385,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=800x419",
+            "width": 735
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 94,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=100x100",
+            "width": 100
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 691,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=png&name=2048x2048_2_exp",
+            "width": 735
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 691,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=orig",
+            "width": 735
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "pinterest.com"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 78.17,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 11.26,
+                "rgb": {
+                  "blue": 43,
+                  "green": 45,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 3.3,
+                "rgb": {
+                  "blue": 247,
+                  "green": 166,
+                  "red": 71
+                }
+              },
+              {
+                "percentage": 1.54,
+                "rgb": {
+                  "blue": 231,
+                  "green": 172,
+                  "red": 107
+                }
+              },
+              {
+                "percentage": 0.72,
+                "rgb": {
+                  "blue": 172,
+                  "green": 185,
+                  "red": 204
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Found this on Pinterest"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 78.17,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 11.26,
+                "rgb": {
+                  "blue": 43,
+                  "green": 45,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 3.3,
+                "rgb": {
+                  "blue": 247,
+                  "green": 166,
+                  "red": 71
+                }
+              },
+              {
+                "percentage": 1.54,
+                "rgb": {
+                  "blue": 231,
+                  "green": 172,
+                  "red": 107
+                }
+              },
+              {
+                "percentage": 0.72,
+                "rgb": {
+                  "blue": 172,
+                  "green": 185,
+                  "red": 204
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 691,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=png&name=2048x2048_2_exp",
+            "width": 735
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 78.17,
+                "rgb": {
+                  "blue": 254,
+                  "green": 254,
+                  "red": 254
+                }
+              },
+              {
+                "percentage": 11.26,
+                "rgb": {
+                  "blue": 43,
+                  "green": 45,
+                  "red": 42
+                }
+              },
+              {
+                "percentage": 3.3,
+                "rgb": {
+                  "blue": 247,
+                  "green": 166,
+                  "red": 71
+                }
+              },
+              {
+                "percentage": 1.54,
+                "rgb": {
+                  "blue": 231,
+                  "green": 172,
+                  "red": 107
+                }
+              },
+              {
+                "percentage": 0.72,
+                "rgb": {
+                  "blue": 172,
+                  "green": 185,
+                  "red": 204
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 691,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=png&name=2048x2048_2_exp",
+            "width": 735
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/obX8N68ObL"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 691,
+            "url": "https://pbs.twimg.com/card_img/1951913810773917696/UeWqgr-E?format=jpg&name=orig",
+            "width": 735
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/obX8N68ObL"
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "pin.it/5yO0VCcFI",
+        "expanded_url": "https://pin.it/5yO0VCcFI",
+        "indices": [
+          208,
+          231
+        ],
+        "url": "https://t.co/obX8N68ObL"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "106837463",
+        "indices": [
+          236,
+          246
+        ],
+        "name": "Pinterest",
+        "screen_name": "Pinterest"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

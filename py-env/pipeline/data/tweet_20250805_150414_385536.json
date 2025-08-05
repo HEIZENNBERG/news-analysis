@@ -1,0 +1,105 @@
+{
+  "type": "tweet",
+  "id": "1952747470787592464",
+  "url": "https://x.com/ArunikaBial/status/1952747470787592464",
+  "twitterUrl": "https://twitter.com/ArunikaBial/status/1952747470787592464",
+  "text": "@uniquecil @gaib_ai @gaib_fremen Yeahh very awesome right",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:11 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952739659336888559",
+  "conversationId": "1952734062742778174",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "ArunikaBial",
+    "url": "https://x.com/ArunikaBial",
+    "twitterUrl": "https://twitter.com/ArunikaBial",
+    "id": "1517610817621213185",
+    "name": "Bial",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517610921384083456/ufsCun-8_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 147,
+    "following": 720,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 22 21:06:53 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1993,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 71,
+    "statusesCount": 2007,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1938936922895970377"
+    ],
+    "profile_bio": {
+      "description": "Praxis Nomad",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1495375587179110403",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Skywalker .ink Sapien 🟠 GAIB",
+        "screen_name": "uniquecil"
+      },
+      {
+        "id_str": "1805656710360842246",
+        "indices": [
+          11,
+          19
+        ],
+        "name": "GAIB 🟠 | RWAiFi",
+        "screen_name": "gaib_ai"
+      },
+      {
+        "id_str": "1841288514039959552",
+        "indices": [
+          20,
+          32
+        ],
+        "name": "GAIB Fremen",
+        "screen_name": "gaib_fremen"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

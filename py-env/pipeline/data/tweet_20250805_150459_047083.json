@@ -1,0 +1,136 @@
+{
+  "type": "tweet",
+  "id": "1952747662874206442",
+  "url": "https://x.com/Dano_crypt/status/1952747662874206442",
+  "twitterUrl": "https://twitter.com/Dano_crypt/status/1952747662874206442",
+  "text": "@Jaxon0x @Infinit_Labs @KaitoAI @Infinit_Labs is transforming DeFi by letting creators monetize strategies through AI agents that compile and execute multi-step flows with one click, unlocking programmable value for all—no coding needed, just ideas and $IN.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:57 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952717549168160992",
+  "conversationId": "1952717549168160992",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Dano_crypt",
+    "url": "https://x.com/Dano_crypt",
+    "twitterUrl": "https://twitter.com/Dano_crypt",
+    "id": "1633908473686573090",
+    "name": "ĐANØ",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1932874992229699584/ZoiQdbhB_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1633908473686573090/1748398503",
+    "description": "",
+    "location": "",
+    "followers": 3824,
+    "following": 975,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 09 19:12:19 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32700,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1292,
+    "statusesCount": 21787,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1942824063182700775"
+    ],
+    "profile_bio": {
+      "description": "A curious mind exploring blockchain technology. Just wanna look at lines of code and not get confused",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/vexa50",
+              "expanded_url": "http://t.me/vexa50",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dtuv38xPWZ"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "symbols": [
+      {
+        "indices": [
+          253,
+          256
+        ],
+        "text": "IN"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1496972690191794176",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Jaxon",
+        "screen_name": "Jaxon0x"
+      },
+      {
+        "id_str": "1815660590008025088",
+        "indices": [
+          9,
+          22
+        ],
+        "name": "INFINIT",
+        "screen_name": "Infinit_Labs"
+      },
+      {
+        "id_str": "1522696492791869445",
+        "indices": [
+          23,
+          31
+        ],
+        "name": "Kaito AI 🌊",
+        "screen_name": "KaitoAI"
+      },
+      {
+        "id_str": "1815660590008025088",
+        "indices": [
+          32,
+          45
+        ],
+        "name": "INFINIT",
+        "screen_name": "Infinit_Labs"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

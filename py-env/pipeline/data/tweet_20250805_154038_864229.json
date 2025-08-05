@@ -1,0 +1,698 @@
+{
+  "type": "tweet",
+  "id": "1952756631240065311",
+  "url": "https://x.com/News18Punjab/status/1952756631240065311",
+  "twitterUrl": "https://twitter.com/News18Punjab/status/1952756631240065311",
+  "text": "ਸਿੰਧ ਦਾ ਪਾਣੀ ਆਉਣ ਵਾਲੀਆਂ ਪੀੜ੍ਹੀਆਂ ਲਈ ਪੰਜਾਬ ਦੇ ਧਰਤੀ ਹੇਠਲੇ ਪਾਣੀ ਨੂੰ ਬਚਾਉਣ ਵਿੱਚGet the latest news anytime, anywhere. Install News18 app for free! https://t.co/dqi8rYeCrQ https://t.co/iWKYcqjPPQ",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:40:36 +0000 2025",
+  "lang": "und",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952756631240065311",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "News18Punjab",
+    "url": "https://x.com/News18Punjab",
+    "twitterUrl": "https://twitter.com/News18Punjab",
+    "id": "844203799304683521",
+    "name": "News18Punjab",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/851451723256299521/RHLWV72-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/844203799304683521/1743497151",
+    "description": "",
+    "location": "",
+    "followers": 104178,
+    "following": 12,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 21 15:07:25 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 130,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 14620,
+    "statusesCount": 102494,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "News18Punjab, website of Network18 Group caters to News & information to Punjab viewers. Network18 Group is presently the largest Television Network in India.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "punjab.news18.com",
+              "expanded_url": "http://www.punjab.news18.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/k1IxQ4ZO2j"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 393,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=800x419",
+            "width": 750
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 147,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=280x150",
+            "width": 280
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "Stay Updated with Latest News on News18: Catch Breaking News, Top News Headlines from India and Around the World. Explore Today's Updates in Sports, Cricket, Entertainment, Business, Politics,..."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "www.news18.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 315,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=600x600",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 394,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=orig",
+            "width": 750
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "6509832"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 393,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=800x419",
+            "width": 750
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 76,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=144x144",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "creator",
+        "value": {
+          "user_value": {
+            "id_str": "6509832"
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 394,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=png&name=2048x2048_2_exp",
+            "width": 750
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 394,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=orig",
+            "width": 750
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "news18.com"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 35.47,
+                "rgb": {
+                  "blue": 108,
+                  "green": 143,
+                  "red": 158
+                }
+              },
+              {
+                "percentage": 20.08,
+                "rgb": {
+                  "blue": 41,
+                  "green": 41,
+                  "red": 41
+                }
+              },
+              {
+                "percentage": 18.02,
+                "rgb": {
+                  "blue": 128,
+                  "green": 74,
+                  "red": 50
+                }
+              },
+              {
+                "percentage": 7.77,
+                "rgb": {
+                  "blue": 197,
+                  "green": 134,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 3.36,
+                "rgb": {
+                  "blue": 223,
+                  "green": 228,
+                  "red": 226
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "News: Get Latest News Today, Breaking News, Top News Headlines, India and World News | News18"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 35.47,
+                "rgb": {
+                  "blue": 108,
+                  "green": 143,
+                  "red": 158
+                }
+              },
+              {
+                "percentage": 20.08,
+                "rgb": {
+                  "blue": 41,
+                  "green": 41,
+                  "red": 41
+                }
+              },
+              {
+                "percentage": 18.02,
+                "rgb": {
+                  "blue": 128,
+                  "green": 74,
+                  "red": 50
+                }
+              },
+              {
+                "percentage": 7.77,
+                "rgb": {
+                  "blue": 197,
+                  "green": 134,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 3.36,
+                "rgb": {
+                  "blue": 223,
+                  "green": 228,
+                  "red": 226
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 394,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=png&name=2048x2048_2_exp",
+            "width": 750
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 35.47,
+                "rgb": {
+                  "blue": 108,
+                  "green": 143,
+                  "red": 158
+                }
+              },
+              {
+                "percentage": 20.08,
+                "rgb": {
+                  "blue": 41,
+                  "green": 41,
+                  "red": 41
+                }
+              },
+              {
+                "percentage": 18.02,
+                "rgb": {
+                  "blue": 128,
+                  "green": 74,
+                  "red": 50
+                }
+              },
+              {
+                "percentage": 7.77,
+                "rgb": {
+                  "blue": 197,
+                  "green": 134,
+                  "red": 83
+                }
+              },
+              {
+                "percentage": 3.36,
+                "rgb": {
+                  "blue": 223,
+                  "green": 228,
+                  "red": 226
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 394,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=png&name=2048x2048_2_exp",
+            "width": 750
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/dqi8rYeCrQ"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "alt": "",
+            "height": 394,
+            "url": "https://pbs.twimg.com/card_img/1950947025853296641/OLjXo5yD?format=jpg&name=orig",
+            "width": 750
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/dqi8rYeCrQ",
+    "user_refs_results": [
+      {
+        "rest_id": "6509832",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 233
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1559788694709473280/j1s3zm5m_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/6509832/1753364105"
+          },
+          "core": {
+            "created_at": "Fri Jun 01 20:31:01 +0000 2007",
+            "name": "News18",
+            "screen_name": "CNNnews18"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "India"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Official X (formerly known as Twitter) account of CNN-News18. Lightning fast alerts, #BreakingNews from India and the world.\n\nhttps://t.co/lyUC6JRBpm",
+            "entities": {
+              "description": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      85,
+                      98
+                    ],
+                    "text": "BreakingNews"
+                  }
+                ],
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@cnnnews18",
+                    "expanded_url": "http://youtube.com/@cnnnews18",
+                    "indices": [
+                      126,
+                      149
+                    ],
+                    "url": "https://t.co/lyUC6JRBpm"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "News18.com",
+                    "expanded_url": "http://www.News18.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/pQMY3ylHRG"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "E81C4F"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 4658492,
+            "following": 398
+          },
+          "relationship_perspectives": {},
+          "rest_id": "6509832",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 556011,
+            "tweets": 1256209
+          },
+          "website": {
+            "url": "https://t.co/pQMY3ylHRG"
+          },
+          "verification": {
+            "is_blue_verified": true,
+            "verified_type": "Business"
+          }
+        }
+      },
+      {
+        "rest_id": "6509832",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 233
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1559788694709473280/j1s3zm5m_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/6509832/1753364105"
+          },
+          "core": {
+            "created_at": "Fri Jun 01 20:31:01 +0000 2007",
+            "name": "News18",
+            "screen_name": "CNNnews18"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "India"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Official X (formerly known as Twitter) account of CNN-News18. Lightning fast alerts, #BreakingNews from India and the world.\n\nhttps://t.co/lyUC6JRBpm",
+            "entities": {
+              "description": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      85,
+                      98
+                    ],
+                    "text": "BreakingNews"
+                  }
+                ],
+                "urls": [
+                  {
+                    "display_url": "youtube.com/@cnnnews18",
+                    "expanded_url": "http://youtube.com/@cnnnews18",
+                    "indices": [
+                      126,
+                      149
+                    ],
+                    "url": "https://t.co/lyUC6JRBpm"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "News18.com",
+                    "expanded_url": "http://www.News18.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/pQMY3ylHRG"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "E81C4F"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 4658492,
+            "following": 398
+          },
+          "relationship_perspectives": {},
+          "rest_id": "6509832",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 556011,
+            "tweets": 1256209
+          },
+          "website": {
+            "url": "https://t.co/pQMY3ylHRG"
+          },
+          "verification": {
+            "is_blue_verified": true,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "onelink.to/website-share-…",
+        "expanded_url": "https://onelink.to/website-share-pjb",
+        "indices": [
+          143,
+          166
+        ],
+        "url": "https://t.co/dqi8rYeCrQ"
+      },
+      {
+        "display_url": "punjab.news18.com/news/punjab/ch…",
+        "expanded_url": "https://punjab.news18.com/news/punjab/chief-minister-punjab-bhagwant-mann-said-indus-water-can-help-save-punjab-s-groundwater-for-future-generations-ak-847321.html",
+        "indices": [
+          167,
+          190
+        ],
+        "url": "https://t.co/iWKYcqjPPQ"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

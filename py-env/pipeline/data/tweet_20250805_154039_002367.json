@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952756629650243778",
+  "url": "https://x.com/busierbath/status/1952756629650243778",
+  "twitterUrl": "https://twitter.com/busierbath/status/1952756629650243778",
+  "text": "@WeTheMemeingful @CharlieK_news I oscillate between disgust and pity for you lost souls who think 'we've got him now!'\n\nyou aren't going to make it through the great reveal\n\nyour 'heroes' are evil and it's just a matter of time now before the whole world sees",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:40:35 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952740589557997721",
+  "conversationId": "1952738959081041925",
+  "inReplyToUserId": "1531729114650095623",
+  "inReplyToUsername": "WeTheMemeingful",
+  "author": {
+    "type": "user",
+    "userName": "busierbath",
+    "url": "https://x.com/busierbath",
+    "twitterUrl": "https://twitter.com/busierbath",
+    "id": "36342533",
+    "name": "Queue like everyone else",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1259465487924240384/cMiBI1tV_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/36342533/1589115143",
+    "description": "",
+    "location": "",
+    "followers": 298,
+    "following": 501,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 29 12:12:04 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9622,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1310,
+    "statusesCount": 6945,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "discombobulator and father of angels\n\nI don't have a microphone\n\nor a camera\n\nI consider myself lucky",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1531729114650095623",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Make It Memeingful",
+        "screen_name": "WeTheMemeingful"
+      },
+      {
+        "id_str": "1866611419283869696",
+        "indices": [
+          17,
+          31
+        ],
+        "name": "ᶠᵃⁿ Charlie Kirk",
+        "screen_name": "CharlieK_news"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

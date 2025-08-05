@@ -1,0 +1,172 @@
+{
+  "type": "tweet",
+  "id": "1952747657178337648",
+  "url": "https://x.com/bandmenyaoi/status/1952747657178337648",
+  "twitterUrl": "https://twitter.com/bandmenyaoi/status/1952747657178337648",
+  "text": "@lomdesea gente eu nem chequei seu perfil KMKKKM sim! ai tem um povo aq mto esquisito racista me da nojo https://t.co/fTdBoD45kT",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:56 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747423819788477",
+  "conversationId": "1952745998456963156",
+  "inReplyToUserId": "1935690577464766465",
+  "inReplyToUsername": "lomdesea",
+  "author": {
+    "type": "user",
+    "userName": "bandmenyaoi",
+    "url": "https://x.com/bandmenyaoi",
+    "twitterUrl": "https://twitter.com/bandmenyaoi",
+    "id": "1657745477872365573",
+    "name": "pie ✩ hizaki lover and professional yapper",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1941537408689864704/CkPywOMn_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1657745477872365573/1751733660",
+    "description": "",
+    "location": "free palestine",
+    "followers": 1520,
+    "following": 2142,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun May 14 13:52:08 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23097,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1081,
+    "statusesCount": 26536,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1901321128645144841"
+    ],
+    "profile_bio": {
+      "description": "any pronouns || DNI: basic, cultofyuriko, zionists and loli/shotacon || hizaki ♡ || fb vktwt || sometimes I disappear || @hizakidailyy || priv @juholesbian",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                121,
+                134
+              ],
+              "name": "",
+              "screen_name": "hizakidailyy"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                143,
+                155
+              ],
+              "name": "",
+              "screen_name": "juholesbian"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "arab.org",
+              "expanded_url": "http://arab.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9VclnH6972"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/fTdBoD45kT",
+        "expanded_url": "https://twitter.com/bandmenyaoi/status/1952747657178337648/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747645178376192",
+        "indices": [
+          105,
+          128
+        ],
+        "media_key": "16_1952747645178376192",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZjaMe1nAACgACGxmNpeoXUXAAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmNox7WcAAKAAIbGY2l6hdRcAAA",
+            "media_key": "16_1952747645178376192"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmNox7WcAAadlO.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 498,
+          "width": 498
+        },
+        "sizes": {
+          "large": {
+            "h": 498,
+            "w": 498
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/fTdBoD45kT",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmNox7WcAAadlO.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1935690577464766465",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "ᵐᵉˡ",
+        "screen_name": "lomdesea"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

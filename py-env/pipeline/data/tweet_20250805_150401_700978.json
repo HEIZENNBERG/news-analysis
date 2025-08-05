@@ -1,0 +1,150 @@
+{
+  "type": "tweet",
+  "id": "1952747418803671160",
+  "url": "https://x.com/Four0905/status/1952747418803671160",
+  "twitterUrl": "https://twitter.com/Four0905/status/1952747418803671160",
+  "text": "@0xWagg @OpenledgerHQ time for bullish AI \nkeep building bro \nopenledger top1 kaito mindshare soon",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:59 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952729155088564304",
+  "conversationId": "1952541055896981861",
+  "inReplyToUserId": "1924698544734404611",
+  "inReplyToUsername": "0xWagg",
+  "author": {
+    "type": "user",
+    "userName": "Four0905",
+    "url": "https://x.com/Four0905",
+    "twitterUrl": "https://twitter.com/Four0905",
+    "id": "1431822523331530752",
+    "name": "Four $M | 🐜",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1945773077343948800/dAIbmKig_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1431822523331530752/1751269003",
+    "description": "",
+    "location": "Earth",
+    "followers": 4007,
+    "following": 386,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Aug 29 03:34:57 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11498,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3038,
+    "statusesCount": 16092,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1934222596054438035"
+    ],
+    "profile_bio": {
+      "description": "Alpha @KaitoAI - #Researcher Ambassador @UseUniversalX Co-founder: GoldenRainAidrop https://t.co/RW19s6kwWv | Challenge work to earn 10k$ end 15/10/2025",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                17,
+                28
+              ],
+              "text": "Researcher"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.me/GoldenRainAird…",
+              "expanded_url": "http://t.me/GoldenRainAirdrop01",
+              "indices": [
+                84,
+                107
+              ],
+              "url": "https://t.co/RW19s6kwWv"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                6,
+                14
+              ],
+              "name": "",
+              "screen_name": "KaitoAI"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                40,
+                54
+              ],
+              "name": "",
+              "screen_name": "UseUniversalX"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tiktok.com/@four_0905?_t=…",
+              "expanded_url": "https://www.tiktok.com/@four_0905?_t=ZS-8xE3yKeRjRi&_r=1",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OBrLEhR725"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1924698544734404611",
+        "indices": [
+          0,
+          7
+        ],
+        "name": "0xWAG",
+        "screen_name": "0xWagg"
+      },
+      {
+        "id_str": "1755624156731768833",
+        "indices": [
+          8,
+          21
+        ],
+        "name": "Openledger",
+        "screen_name": "OpenledgerHQ"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

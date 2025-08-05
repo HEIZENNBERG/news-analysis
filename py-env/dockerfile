@@ -1,0 +1,13 @@
+# py-env/Dockerfile
+
+FROM python:3.10-slim
+
+WORKDIR /app
+
+COPY py-env/pipeline/requirements.txt .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY py-env/pipeline /app/pipeline
+
+CMD ["sleep", "infinity"]

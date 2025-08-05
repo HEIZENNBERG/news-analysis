@@ -1,0 +1,277 @@
+{
+  "type": "tweet",
+  "id": "1952747176250998895",
+  "url": "https://x.com/S0l3n34422/status/1952747176250998895",
+  "twitterUrl": "https://twitter.com/S0l3n34422/status/1952747176250998895",
+  "text": "Au concert j’ai câblé https://t.co/eCffKay8qE",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:01 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747176250998895",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "S0l3n34422",
+    "url": "https://x.com/S0l3n34422",
+    "twitterUrl": "https://twitter.com/S0l3n34422",
+    "id": "4846706549",
+    "name": "SARAH’S SON",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1822368962849501185/b20Y5QHH_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/4846706549/1741814447",
+    "description": "",
+    "location": "Wendland",
+    "followers": 120,
+    "following": 137,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Jan 25 20:11:09 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 255973,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2391,
+    "statusesCount": 29266,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1878120873372086562"
+    ],
+    "profile_bio": {
+      "description": "I 7 I turn the Ritz into a poor house || 070 Solange en reconversion",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "boxd.it/2VPNr",
+              "expanded_url": "https://boxd.it/2VPNr",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9DcLJtnece"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/eCffKay8qE",
+        "expanded_url": "https://twitter.com/S0l3n34422/status/1952747176250998895/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747168843866112",
+        "indices": [
+          22,
+          45
+        ],
+        "media_key": "16_1952747168843866112",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZjTQ3FqAACgACGxmNNfCWgG8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmNNDcWoAAKAAIbGY018JaAbwAA",
+            "media_key": "16_1952747168843866112"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmNNDcWoAAaH7M.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 320,
+          "width": 254
+        },
+        "sizes": {
+          "large": {
+            "h": 320,
+            "w": 254
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/eCffKay8qE",
+        "video_info": {
+          "aspect_ratio": [
+            127,
+            160
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmNNDcWoAAaH7M.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952353215300931979",
+    "url": "https://x.com/LuvXmaiko/status/1952353215300931979",
+    "twitterUrl": "https://twitter.com/LuvXmaiko/status/1952353215300931979",
+    "text": "7 years and 6 months ago, Kendrick Lamar &amp; SZA released 'All the Stars' https://t.co/TQy8ROJsZ5",
+    "source": "Twitter for iPhone",
+    "retweetCount": 900,
+    "replyCount": 28,
+    "likeCount": 6259,
+    "quoteCount": 338,
+    "viewCount": 3945045,
+    "createdAt": "Mon Aug 04 12:57:34 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 680,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952353215300931979",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "LuvXmaiko",
+      "url": "https://x.com/LuvXmaiko",
+      "twitterUrl": "https://twitter.com/LuvXmaiko",
+      "id": "1683098319747424260",
+      "name": "Maiko",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1948714141532770304/Q9OlKP7h_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1683098319747424260/1736010523",
+      "description": "",
+      "location": "乂O | 𝐃𝐌 𝐅𝐨𝐫 𝐏𝐫𝐨𝐦𝐨",
+      "followers": 8259,
+      "following": 960,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Sun Jul 23 12:55:04 +0000 2023",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 63996,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 252,
+      "statusesCount": 28048,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1952727358005186712"
+      ],
+      "profile_bio": {
+        "description": "𝙅𝙪𝙨𝙩 𝗩𝙞𝙗𝙞𝙣𝙜 & 𝗧𝙮𝙥𝙞𝙣𝙜 —⛥",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/TQy8ROJsZ5",
+          "expanded_url": "https://twitter.com/LuvXmaiko/status/1952353215300931979/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "1952353066600288256",
+          "indices": [
+            76,
+            99
+          ],
+          "media_key": "7_1952353066600288256",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsYJsUi2tAACgACGxgm58IakYsAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAADCgABGxgmxSLa0AAKAAIbGCbnwhqRiwAA",
+              "media_key": "7_1952353066600288256"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1952353066600288256/pu/img/KzZpUzxJ46rUxk7Y.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 478,
+            "width": 848
+          },
+          "sizes": {
+            "large": {
+              "h": 478,
+              "w": 848
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/TQy8ROJsZ5",
+          "video_info": {
+            "aspect_ratio": [
+              424,
+              239
+            ],
+            "duration_millis": 137996,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video-s.twimg.com/ext_tw_video/1952353066600288256/pu/pl/LruAkTGUBcxXTciq.m3u8?tag=12"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/ext_tw_video/1952353066600288256/pu/vid/avc1/478x270/0A4xcUb5zTQcODl5.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video-s.twimg.com/ext_tw_video/1952353066600288256/pu/vid/avc1/848x478/A4fnerxcFAK414Sg.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

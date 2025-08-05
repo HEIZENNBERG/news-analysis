@@ -1,0 +1,121 @@
+{
+  "type": "tweet",
+  "id": "1952747177765224676",
+  "url": "https://x.com/Denfer1000/status/1952747177765224676",
+  "twitterUrl": "https://twitter.com/Denfer1000/status/1952747177765224676",
+  "text": "@Pierrepaul67786 @ComploploWatch @YaelBRAUNPIVET @_LesPatriotes @JoelPigois J’ai cru comprendre qu’il y a eu un signalement… une vraie pourriture !",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:02 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952717378275487776",
+  "conversationId": "1952664800003010928",
+  "inReplyToUserId": "1798343245124022272",
+  "inReplyToUsername": "Pierrepaul67786",
+  "author": {
+    "type": "user",
+    "userName": "Denfer1000",
+    "url": "https://x.com/Denfer1000",
+    "twitterUrl": "https://twitter.com/Denfer1000",
+    "id": "1448695003681787905",
+    "name": "DenFer 🇫🇷🇺🇦🎗️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1834319165919752192/e8JGmRI8_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1448695003681787905/1726170731",
+    "description": "",
+    "location": "France",
+    "followers": 242,
+    "following": 411,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 14 16:59:59 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18358,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 205,
+    "statusesCount": 5849,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1798343245124022272",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Pierre paul jacques",
+        "screen_name": "Pierrepaul67786"
+      },
+      {
+        "id_str": "1668545674399346688",
+        "indices": [
+          17,
+          32
+        ],
+        "name": "Comploplo Watch (...in the blue sky too)🦋",
+        "screen_name": "ComploploWatch"
+      },
+      {
+        "id_str": "389644606",
+        "indices": [
+          33,
+          48
+        ],
+        "name": "Yaël Braun-Pivet",
+        "screen_name": "YaelBRAUNPIVET"
+      },
+      {
+        "id_str": "864138756068134912",
+        "indices": [
+          49,
+          63
+        ],
+        "name": "Les Patriotes",
+        "screen_name": "_LesPatriotes"
+      },
+      {
+        "id_str": "1499790037310922757",
+        "indices": [
+          64,
+          75
+        ],
+        "name": "Pigois Joel",
+        "screen_name": "JoelPigois"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

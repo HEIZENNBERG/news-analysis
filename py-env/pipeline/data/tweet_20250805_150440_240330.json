@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747572654649536",
+  "url": "https://x.com/PulseDiabolo/status/1952747572654649536",
+  "twitterUrl": "https://twitter.com/PulseDiabolo/status/1952747572654649536",
+  "text": "@r_paramed @RigauxNature Je fais de la chasse sous-marine et j'ai toujours un poignard sur moi pour finir le poisson si j'ai mal tiré.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:36 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747304374370662",
+  "conversationId": "1952711578739937570",
+  "inReplyToUserId": "471327346",
+  "inReplyToUsername": "r_paramed",
+  "author": {
+    "type": "user",
+    "userName": "PulseDiabolo",
+    "url": "https://x.com/PulseDiabolo",
+    "twitterUrl": "https://twitter.com/PulseDiabolo",
+    "id": "850130801882800129",
+    "name": "Diabolo",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1241100901789700097/rDi2Lxby_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/850130801882800129/1728794965",
+    "description": "",
+    "location": "Issou, France",
+    "followers": 499,
+    "following": 2133,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 06 23:39:12 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 99399,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 932,
+    "statusesCount": 11594,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Ancien Infirmier Argentologue Diplômé d'état, Gérant d'une entreprise d'installation d'alarme et caméra, Chasseur en mer,K1 🥊.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "471327346",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Tparamed",
+        "screen_name": "r_paramed"
+      },
+      {
+        "id_str": "1045754325635674113",
+        "indices": [
+          11,
+          24
+        ],
+        "name": "Pierre Rigaux",
+        "screen_name": "RigauxNature"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

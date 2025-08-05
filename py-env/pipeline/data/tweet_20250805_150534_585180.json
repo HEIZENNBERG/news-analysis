@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747799495246329",
+  "url": "https://x.com/Rlvg9/status/1952747799495246329",
+  "twitterUrl": "https://twitter.com/Rlvg9/status/1952747799495246329",
+  "text": "@hamzatouchdown C’est la plus grande combinaison de l’histoire des mangas je suis pas ouvert au débat dans l’anime j’ai crié à ce moment là",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:30 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952740874212745324",
+  "conversationId": "1952740874212745324",
+  "inReplyToUserId": "1512228335417540609",
+  "inReplyToUsername": "hamzatouchdown",
+  "author": {
+    "type": "user",
+    "userName": "Rlvg9",
+    "url": "https://x.com/Rlvg9",
+    "twitterUrl": "https://twitter.com/Rlvg9",
+    "id": "1146285350605733889",
+    "name": "ET OUSMANE BALLON D’OR❤️💙",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1943101442337751040/8Q8bvGug_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1146285350605733889/1752106503",
+    "description": "",
+    "location": "",
+    "followers": 24,
+    "following": 76,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Jul 03 05:11:39 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7198,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 328,
+    "statusesCount": 2859,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1512228335417540609",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "nouvo",
+        "screen_name": "hamzatouchdown"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,653 @@
+{
+  "type": "tweet",
+  "id": "1952747467876827498",
+  "url": "https://x.com/EpicPlain/status/1952747467876827498",
+  "twitterUrl": "https://twitter.com/EpicPlain/status/1952747467876827498",
+  "text": "Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval https://t.co/9a37gGU4JF #CyberSecurity",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:11 +0000 2025",
+  "lang": "ca",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747467876827498",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "EpicPlain",
+    "url": "https://x.com/EpicPlain",
+    "twitterUrl": "https://twitter.com/EpicPlain",
+    "id": "1724183495122079744",
+    "name": "Epic Plain",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1773374255020830720/czz0zja9_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1724183495122079744/1700151954",
+    "description": "",
+    "location": "USA",
+    "followers": 501,
+    "following": 2568,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Nov 13 21:52:42 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2085,
+    "statusesCount": 115860,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1884633745132544397"
+    ],
+    "profile_bio": {
+      "description": "#AgenticAI #GenerativeAI #GenAI #AI #ResponsibleAI #CyberSecurity #QuantumComputing #MachineLearning #LLMs #PQC #QuantumInternet #QuantumNetworking",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                10
+              ],
+              "text": "AgenticAI"
+            },
+            {
+              "indices": [
+                11,
+                24
+              ],
+              "text": "GenerativeAI"
+            },
+            {
+              "indices": [
+                25,
+                31
+              ],
+              "text": "GenAI"
+            },
+            {
+              "indices": [
+                32,
+                35
+              ],
+              "text": "AI"
+            },
+            {
+              "indices": [
+                36,
+                50
+              ],
+              "text": "ResponsibleAI"
+            },
+            {
+              "indices": [
+                51,
+                65
+              ],
+              "text": "CyberSecurity"
+            },
+            {
+              "indices": [
+                66,
+                83
+              ],
+              "text": "QuantumComputing"
+            },
+            {
+              "indices": [
+                84,
+                100
+              ],
+              "text": "MachineLearning"
+            },
+            {
+              "indices": [
+                101,
+                106
+              ],
+              "text": "LLMs"
+            },
+            {
+              "indices": [
+                107,
+                111
+              ],
+              "text": "PQC"
+            },
+            {
+              "indices": [
+                112,
+                128
+              ],
+              "text": "QuantumInternet"
+            },
+            {
+              "indices": [
+                129,
+                147
+              ],
+              "text": "QuantumNetworking"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 380,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=800x419",
+            "width": 726
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 146,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=280x150",
+            "width": 280
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "Cursor patched a critical RCE flaw in its AI code editor that exposed devs to silent attacks."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "thehackernews.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 313,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=600x600",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 380,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=orig",
+            "width": 728
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "209811713"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 380,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=800x419",
+            "width": 726
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 75,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=144x144",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "creator",
+        "value": {
+          "user_value": {
+            "id_str": "209811713"
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 380,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=png&name=2048x2048_2_exp",
+            "width": 728
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 380,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=orig",
+            "width": 728
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "thehackernews.com"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 96.43,
+                "rgb": {
+                  "blue": 26,
+                  "green": 29,
+                  "red": 29
+                }
+              },
+              {
+                "percentage": 2.29,
+                "rgb": {
+                  "blue": 200,
+                  "green": 201,
+                  "red": 201
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Cursor AI Code Editor Vulnerability Enables RCE via Malicious MCP File Swaps Post Approval"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 96.43,
+                "rgb": {
+                  "blue": 26,
+                  "green": 29,
+                  "red": 29
+                }
+              },
+              {
+                "percentage": 2.29,
+                "rgb": {
+                  "blue": 200,
+                  "green": 201,
+                  "red": 201
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 380,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=png&name=2048x2048_2_exp",
+            "width": 728
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 96.43,
+                "rgb": {
+                  "blue": 26,
+                  "green": 29,
+                  "red": 29
+                }
+              },
+              {
+                "percentage": 2.29,
+                "rgb": {
+                  "blue": 200,
+                  "green": 201,
+                  "red": 201
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 380,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=png&name=2048x2048_2_exp",
+            "width": 728
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/9a37gGU4JF"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 380,
+            "url": "https://pbs.twimg.com/card_img/1952716571178053632/oehAuO81?format=jpg&name=orig",
+            "width": 728
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/9a37gGU4JF",
+    "user_refs_results": [
+      {
+        "rest_id": "209811713",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 7940
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1597647879811657728/FLgHrLHy_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/209811713/1669744480"
+          },
+          "core": {
+            "created_at": "Fri Oct 29 23:55:25 +0000 2010",
+            "name": "The Hacker News",
+            "screen_name": "TheHackersNews"
+          },
+          "dm_permissions": {
+            "can_dm": true
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "The Internet"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "notifications_settings": {},
+          "pinned_items": {
+            "tweet_ids_str": [
+              "1952716878737973459"
+            ]
+          },
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "The #1 trusted source for cybersecurity news, insights, and analysis — built for defenders and trusted by decision-makers.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "thehackernews.com",
+                    "expanded_url": "https://thehackernews.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/dKwe9yNDMj"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "395697"
+          },
+          "profile_translation": {
+            "translator_type_enum": "Regular"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 927381,
+            "following": 2009
+          },
+          "relationship_perspectives": {},
+          "rest_id": "209811713",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 7719,
+            "tweets": 41772
+          },
+          "website": {
+            "url": "https://t.co/dKwe9yNDMj"
+          },
+          "verification": {
+            "is_blue_verified": false,
+            "verified_type": "Business"
+          }
+        }
+      },
+      {
+        "rest_id": "209811713",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 7940
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1597647879811657728/FLgHrLHy_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/209811713/1669744480"
+          },
+          "core": {
+            "created_at": "Fri Oct 29 23:55:25 +0000 2010",
+            "name": "The Hacker News",
+            "screen_name": "TheHackersNews"
+          },
+          "dm_permissions": {
+            "can_dm": true
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "The Internet"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "notifications_settings": {},
+          "pinned_items": {
+            "tweet_ids_str": [
+              "1952716878737973459"
+            ]
+          },
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "The #1 trusted source for cybersecurity news, insights, and analysis — built for defenders and trusted by decision-makers.",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "thehackernews.com",
+                    "expanded_url": "https://thehackernews.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/dKwe9yNDMj"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "395697"
+          },
+          "profile_translation": {
+            "translator_type_enum": "Regular"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 927381,
+            "following": 2009
+          },
+          "relationship_perspectives": {},
+          "rest_id": "209811713",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 7719,
+            "tweets": 41772
+          },
+          "website": {
+            "url": "https://t.co/dKwe9yNDMj"
+          },
+          "verification": {
+            "is_blue_verified": false,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          115,
+          129
+        ],
+        "text": "CyberSecurity"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "thehackernews.com/2025/08/cursor…",
+        "expanded_url": "https://thehackernews.com/2025/08/cursor-ai-code-editor-vulnerability.html",
+        "indices": [
+          91,
+          114
+        ],
+        "url": "https://t.co/9a37gGU4JF"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

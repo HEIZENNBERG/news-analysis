@@ -1,0 +1,198 @@
+{
+  "type": "tweet",
+  "id": "1952747740183593366",
+  "url": "https://x.com/fastweb247/status/1952747740183593366",
+  "twitterUrl": "https://twitter.com/fastweb247/status/1952747740183593366",
+  "text": "AI Mobile App Design\n#software #iosdesign #MobileApp https://t.co/VcrmVj2IRD",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:16 +0000 2025",
+  "lang": "it",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747740183593366",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "fastweb247",
+    "url": "https://x.com/fastweb247",
+    "twitterUrl": "https://twitter.com/fastweb247",
+    "id": "1899476919969812480",
+    "name": "Fast Web Studio",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1899477051897479168/6g6ojak2_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1899476919969812480/1741706833",
+    "description": "",
+    "location": "",
+    "followers": 505,
+    "following": 2942,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 11 15:06:34 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4502,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 845,
+    "statusesCount": 1391,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "We are a website, web app, mobile app design focused agency.\nBook a Call - https://t.co/g8RkC2E1TG",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "cal.com/fastwebstudio",
+              "expanded_url": "https://cal.com/fastwebstudio",
+              "indices": [
+                75,
+                98
+              ],
+              "url": "https://t.co/g8RkC2E1TG"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fastweb.studio",
+              "expanded_url": "http://www.fastweb.studio",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/6xQrUDNYX3"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/VcrmVj2IRD",
+        "expanded_url": "https://twitter.com/fastweb247/status/1952747740183593366/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747729744224256",
+        "indices": [
+          53,
+          76
+        ],
+        "media_key": "3_1952747729744224256",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjbbPWuAACgACGxmNuT2XAZYAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNts9a4AAKAAIbGY25PZcBlgAA",
+            "media_key": "3_1952747729744224256"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNts9a4AAPdoj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 768,
+              "w": 768,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 768,
+              "w": 674,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 768,
+              "w": 384,
+              "x": 38,
+              "y": 0
+            },
+            {
+              "h": 768,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 768,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 768,
+            "w": 1024
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/VcrmVj2IRD"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          21,
+          30
+        ],
+        "text": "software"
+      },
+      {
+        "indices": [
+          31,
+          41
+        ],
+        "text": "iosdesign"
+      },
+      {
+        "indices": [
+          42,
+          52
+        ],
+        "text": "MobileApp"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,98 @@
+{
+  "type": "tweet",
+  "id": "1952747090926358676",
+  "url": "https://x.com/grtescorpiao/status/1952747090926358676",
+  "twitterUrl": "https://twitter.com/grtescorpiao/status/1952747090926358676",
+  "text": "@infojadebr ai info, vcs sabem que eles não ligam pra artistas do uk",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:41 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952739175758749837",
+  "conversationId": "1952739175758749837",
+  "inReplyToUserId": "3251518167",
+  "inReplyToUsername": "infojadebr",
+  "author": {
+    "type": "user",
+    "userName": "grtescorpiao",
+    "url": "https://x.com/grtescorpiao",
+    "twitterUrl": "https://twitter.com/grtescorpiao",
+    "id": "879698746724020224",
+    "name": "🇯",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1919522184164171777/WdB50SXS_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/879698746724020224/1735357348",
+    "description": "",
+    "location": "Rio de Janeiro, Brasil",
+    "followers": 521,
+    "following": 104,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 27 13:51:40 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 186581,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 9870,
+    "statusesCount": 82941,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "um nerd de pop com erros gramáticos",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/grtescorpiao",
+              "expanded_url": "http://instagram.com/grtescorpiao",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5i2OCjezRP"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "3251518167",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Info Jade Brasil",
+        "screen_name": "infojadebr"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

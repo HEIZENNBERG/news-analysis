@@ -1,0 +1,117 @@
+{
+  "type": "tweet",
+  "id": "1952747198946349342",
+  "url": "https://x.com/siamahmed0s/status/1952747198946349342",
+  "twitterUrl": "https://twitter.com/siamahmed0s/status/1952747198946349342",
+  "text": "@rahman_sai95372 @recallnet Can RecallNet’s AI testing platform revolutionize crowdsourced predictions?",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:07 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952695150817214753",
+  "conversationId": "1952695150817214753",
+  "inReplyToUserId": "1731515950493728768",
+  "inReplyToUsername": "rahman_sai95372",
+  "author": {
+    "type": "user",
+    "userName": "siamahmed0s",
+    "url": "https://x.com/siamahmed0s",
+    "twitterUrl": "https://twitter.com/siamahmed0s",
+    "id": "1750112910829871105",
+    "name": "Siam Ahmed🐐",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1934981317256679425/OrW37rRf_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1750112910829871105/1749957457",
+    "description": "",
+    "location": "",
+    "followers": 1478,
+    "following": 2480,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 24 11:07:04 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2454,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 57,
+    "statusesCount": 2883,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952679278165856457"
+    ],
+    "profile_bio": {
+      "description": "Crypto degen with a purpose 🧠 | Riding waves with @cookiedotfun & @KaitoAI 🍪 | Threads, alpha, vibes only 🚀",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                50,
+                63
+              ],
+              "name": "",
+              "screen_name": "cookiedotfun"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                66,
+                74
+              ],
+              "name": "",
+              "screen_name": "KaitoAI"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1731515950493728768",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "I'M 𝐄𝐌𝐎𝐍",
+        "screen_name": "rahman_sai95372"
+      },
+      {
+        "id_str": "1201627105085329411",
+        "indices": [
+          17,
+          27
+        ],
+        "name": "Recall",
+        "screen_name": "recallnet"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

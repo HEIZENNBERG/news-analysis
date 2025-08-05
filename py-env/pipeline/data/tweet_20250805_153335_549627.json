@@ -1,0 +1,636 @@
+{
+  "type": "tweet",
+  "id": "1952754856164561293",
+  "url": "https://x.com/NttEastJapanR18/status/1952754856164561293",
+  "twitterUrl": "https://twitter.com/NttEastJapanR18/status/1952754856164561293",
+  "text": "イサクの件は面白い展開になってくれればどちらでもいいが、それとは別にニューカッスルは凄いね\nCL圏に入ったのにことごとく移籍市場で敗北している\n尊敬に値する\n\n#シェシュコ #マンU #ニューカッスル #ライプツィヒ #マンチェスターユナイテッド #リバプール #イサク https://t.co/itaZwUcDKs",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:33:32 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952754856164561293",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "NttEastJapanR18",
+    "url": "https://x.com/NttEastJapanR18",
+    "twitterUrl": "https://twitter.com/NttEastJapanR18",
+    "id": "1243484013706104832",
+    "name": "池田万作",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1407569866345705473/dnXdJXUj_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1243484013706104832/1601572761",
+    "description": "",
+    "location": "",
+    "followers": 21,
+    "following": 0,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 27 10:24:35 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 121,
+    "statusesCount": 1704,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "アブダビに買収されてからマンチェスター・シティファンになった元中学生です。石油化する前とか興味ないです。",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 262,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=600x314",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "app_star_rating",
+        "value": {
+          "string_value": "4.08112"
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 150,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=280x150",
+            "width": 225
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "　ライプツィヒは、スロベニア代表FWベンヤミン・シェシュコに対するニューカッスルとマンチェスター・ユナイテッドからの届いたオファーについてクラブ内で議論しているようだ。5日、イギリス『スカイスポーツ"
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "news.yahoo.co.jp"
+        }
+      },
+      {
+        "key": "app_is_free",
+        "value": {
+          "string_value": "true"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 320,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=800x320_1",
+            "width": 480
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 333,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=orig",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "88846085"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "app_url_resolved",
+        "value": {
+          "string_value": "yjtrend://d/hdl/20250805-02047259-soccerk-socc"
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 262,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=600x314",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 67,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=100x100",
+            "width": 100
+          }
+        }
+      },
+      {
+        "key": "app_num_ratings",
+        "value": {
+          "string_value": "53,388"
+        }
+      },
+      {
+        "key": "app_price_amount",
+        "value": {
+          "string_value": "0.0"
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 333,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=png&name=2048x2048_2_exp",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 333,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=orig",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "news.yahoo.co.jp"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 262,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=600x314",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "app_name",
+        "value": {
+          "string_value": "Yahoo!ニュース -最新ニュースや地震・天気・コメントも"
+        }
+      },
+      {
+        "key": "app_id",
+        "value": {
+          "scribe_key": "publisher_app_id",
+          "string_value": "407906756"
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 60.74,
+                "rgb": {
+                  "blue": 214,
+                  "green": 220,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 13.26,
+                "rgb": {
+                  "blue": 124,
+                  "green": 119,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 7.99,
+                "rgb": {
+                  "blue": 200,
+                  "green": 177,
+                  "red": 204
+                }
+              },
+              {
+                "percentage": 6.86,
+                "rgb": {
+                  "blue": 148,
+                  "green": 132,
+                  "red": 190
+                }
+              },
+              {
+                "percentage": 6.3,
+                "rgb": {
+                  "blue": 214,
+                  "green": 228,
+                  "red": 181
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "app_country",
+        "value": {
+          "string_value": "jp"
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "今夏注目のFWシェシュコ獲得を巡り争奪戦…マンU＆ニューカッスルが巨額オファー、ライプツィヒの決断次第に？（サッカーキング） - Yahoo!ニュース"
+        }
+      },
+      {
+        "key": "app_price_currency",
+        "value": {
+          "string_value": "JPY"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 60.74,
+                "rgb": {
+                  "blue": 214,
+                  "green": 220,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 13.26,
+                "rgb": {
+                  "blue": 124,
+                  "green": 119,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 7.99,
+                "rgb": {
+                  "blue": 200,
+                  "green": 177,
+                  "red": 204
+                }
+              },
+              {
+                "percentage": 6.86,
+                "rgb": {
+                  "blue": 148,
+                  "green": 132,
+                  "red": 190
+                }
+              },
+              {
+                "percentage": 6.3,
+                "rgb": {
+                  "blue": 214,
+                  "green": 228,
+                  "red": 181
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "app_url",
+        "value": {
+          "string_value": "https://t.co/redirect?url=yjtrend%3A%2F%2Fd%2Fhdl%2F20250805-02047259-soccerk-socc&sig=10b90e47561cba804ff7878b529ed0fb04d93b05&ssr=true&slug=itaZwUcDKs"
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 333,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=png&name=2048x2048_2_exp",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 262,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=600x314",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 60.74,
+                "rgb": {
+                  "blue": 214,
+                  "green": 220,
+                  "red": 231
+                }
+              },
+              {
+                "percentage": 13.26,
+                "rgb": {
+                  "blue": 124,
+                  "green": 119,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 7.99,
+                "rgb": {
+                  "blue": 200,
+                  "green": 177,
+                  "red": 204
+                }
+              },
+              {
+                "percentage": 6.86,
+                "rgb": {
+                  "blue": 148,
+                  "green": 132,
+                  "red": 190
+                }
+              },
+              {
+                "percentage": 6.3,
+                "rgb": {
+                  "blue": 214,
+                  "green": 228,
+                  "red": 181
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 333,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=png&name=2048x2048_2_exp",
+            "width": 500
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/itaZwUcDKs"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 333,
+            "url": "https://pbs.twimg.com/card_img/1952753716064657409/vVEwV8qt?format=jpg&name=orig",
+            "width": 500
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/itaZwUcDKs",
+    "user_refs_results": [
+      {
+        "rest_id": "88846085",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 0
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/88846085/1557715365"
+          },
+          "core": {
+            "created_at": "Tue Nov 10 03:59:51 +0000 2009",
+            "name": "Yahoo!ニュース",
+            "screen_name": "YahooNewsTopics"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "news.yahoo.co.jp",
+                    "expanded_url": "https://news.yahoo.co.jp/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/PORT0VCtyG"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "0084B4"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 1908579,
+            "following": 8
+          },
+          "relationship_perspectives": {},
+          "rest_id": "88846085",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 3914,
+            "tweets": 559589
+          },
+          "website": {
+            "url": "https://t.co/PORT0VCtyG"
+          },
+          "verification": {
+            "is_blue_verified": true
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          80,
+          86
+        ],
+        "text": "シェシュコ"
+      },
+      {
+        "indices": [
+          87,
+          91
+        ],
+        "text": "マンU"
+      },
+      {
+        "indices": [
+          92,
+          100
+        ],
+        "text": "ニューカッスル"
+      },
+      {
+        "indices": [
+          101,
+          108
+        ],
+        "text": "ライプツィヒ"
+      },
+      {
+        "indices": [
+          109,
+          123
+        ],
+        "text": "マンチェスターユナイテッド"
+      },
+      {
+        "indices": [
+          124,
+          130
+        ],
+        "text": "リバプール"
+      },
+      {
+        "indices": [
+          131,
+          135
+        ],
+        "text": "イサク"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "news.yahoo.co.jp/articles/2f589…",
+        "expanded_url": "https://news.yahoo.co.jp/articles/2f589788e6895f609ea7f82fc33317c839c7316e",
+        "indices": [
+          136,
+          159
+        ],
+        "url": "https://t.co/itaZwUcDKs"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

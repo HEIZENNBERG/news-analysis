@@ -1,0 +1,112 @@
+{
+  "type": "tweet",
+  "id": "1952747877660274905",
+  "url": "https://x.com/jermrs/status/1952747877660274905",
+  "twitterUrl": "https://twitter.com/jermrs/status/1952747877660274905",
+  "text": "@coin2kfan @LeviBeaty1 @beauwatson @flowrmeadow You want everything to be a plastic jingle without authentic emotion and intent? \n\nOnly two groups/folks I think would believe that. Those who require AI for their \"art\" and the advertising and entertainment industry who build audiences thru algorithms. \n\nWhich one are you?",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:48 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952590501615485348",
+  "conversationId": "1952449193739735042",
+  "inReplyToUserId": "1195720126605213696",
+  "inReplyToUsername": "coin2kfan",
+  "author": {
+    "type": "user",
+    "userName": "jermrs",
+    "url": "https://x.com/jermrs",
+    "twitterUrl": "https://twitter.com/jermrs",
+    "id": "95719648",
+    "name": "AFoolInTheRain",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1882682904498634752/9UZxzgdc_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/95719648/1729002692",
+    "description": "",
+    "location": "",
+    "followers": 110,
+    "following": 580,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Dec 09 19:59:04 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11757,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 142,
+    "statusesCount": 7579,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "A fool in the rain. The beatings will continue until morale improves.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1195720126605213696",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "coin (the suburbanist) 2k fan CPA",
+        "screen_name": "coin2kfan"
+      },
+      {
+        "id_str": "946640795938930689",
+        "indices": [
+          11,
+          22
+        ],
+        "name": "Big Papa L",
+        "screen_name": "LeviBeaty1"
+      },
+      {
+        "id_str": "17139291",
+        "indices": [
+          23,
+          34
+        ],
+        "name": "Beau Watson",
+        "screen_name": "beauwatson"
+      },
+      {
+        "id_str": "1486668234",
+        "indices": [
+          35,
+          47
+        ],
+        "name": "reëlect my buddy eric",
+        "screen_name": "flowrmeadow"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

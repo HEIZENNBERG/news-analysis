@@ -1,0 +1,468 @@
+{
+  "type": "tweet",
+  "id": "1952747802930429968",
+  "url": "https://x.com/Bansh333/status/1952747802930429968",
+  "twitterUrl": "https://twitter.com/Bansh333/status/1952747802930429968",
+  "text": "é incrível como a pelúcia das garotas super poderosas aposentou essas pelúcias aí",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:31 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747802930429968",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Bansh333",
+    "url": "https://x.com/Bansh333",
+    "twitterUrl": "https://twitter.com/Bansh333",
+    "id": "1799870565911576576",
+    "name": "banshee ({ NJZ })",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1915592000885182465/d9fI3BH2_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1799870565911576576/1746199728",
+    "description": "",
+    "location": "",
+    "followers": 134,
+    "following": 393,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jun 09 18:26:05 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 108315,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1805,
+    "statusesCount": 50121,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1812253100134019206"
+    ],
+    "profile_bio": {
+      "description": ".⁷²²",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1734030918334194034",
+    "url": "https://x.com/newjeans_loop/status/1734030918334194034",
+    "twitterUrl": "https://twitter.com/newjeans_loop/status/1734030918334194034",
+    "text": "Coming Soon\n\n#NEWJEANS #뉴진스 #bunini #버니니 https://t.co/0EhdPPUfkE",
+    "source": "Twitter for iPhone",
+    "retweetCount": 365,
+    "replyCount": 12,
+    "likeCount": 3171,
+    "quoteCount": 149,
+    "viewCount": 128389,
+    "createdAt": "Mon Dec 11 02:02:42 +0000 2023",
+    "lang": "en",
+    "bookmarkCount": 82,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1734030918334194034",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "newjeans_loop",
+      "url": "https://x.com/newjeans_loop",
+      "twitterUrl": "https://twitter.com/newjeans_loop",
+      "id": "1559527150197555200",
+      "name": "MHDHH Loops 🧸🦦🐶🐱🐹",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1950963540954849281/ehMdAUH__normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1559527150197555200/1753981132",
+      "description": "",
+      "location": "",
+      "followers": 474970,
+      "following": 4,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Aug 16 13:07:10 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 22558,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 32535,
+      "statusesCount": 58040,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "#NJZ #엔제이지 #뉴진스 #NewJeans #ニュージーンズ fan account",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  0,
+                  4
+                ],
+                "text": "NJZ"
+              },
+              {
+                "indices": [
+                  5,
+                  10
+                ],
+                "text": "엔제이지"
+              },
+              {
+                "indices": [
+                  11,
+                  15
+                ],
+                "text": "뉴진스"
+              },
+              {
+                "indices": [
+                  16,
+                  25
+                ],
+                "text": "NewJeans"
+              },
+              {
+                "indices": [
+                  26,
+                  34
+                ],
+                "text": "ニュージーンズ"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/0EhdPPUfkE",
+          "expanded_url": "https://twitter.com/newjeans_loop/status/1734030918334194034/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 171,
+                  "w": 171,
+                  "x": 638,
+                  "y": 750
+                },
+                {
+                  "h": 202,
+                  "w": 202,
+                  "x": 628,
+                  "y": 802
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 171,
+                  "w": 171,
+                  "x": 638,
+                  "y": 750
+                },
+                {
+                  "h": 202,
+                  "w": 202,
+                  "x": 628,
+                  "y": 802
+                }
+              ]
+            }
+          },
+          "id_str": "1734030907819143169",
+          "indices": [
+            41,
+            64
+          ],
+          "media_key": "3_1734030907819143169",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARgQg+xiG7ABCgACGBCD7tTaoXIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGBCD7GIbsAEKAAIYEIPu1NqhcgAA",
+              "media_key": "3_1734030907819143169"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GBCD7GIbsAEnPxu.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 475
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 947,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 540,
+                "x": 81,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1080,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0EhdPPUfkE"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/0EhdPPUfkE",
+          "expanded_url": "https://twitter.com/newjeans_loop/status/1734030918334194034/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1734030907827486720",
+          "indices": [
+            41,
+            64
+          ],
+          "media_key": "3_1734030907827486720",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARgQg+ximwAACgACGBCD7tTaoXIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGBCD7GKbAAAKAAIYEIPu1NqhcgAA",
+              "media_key": "3_1734030907827486720"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GBCD7GKbAAAlbMY.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 427
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 947,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 540,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1080,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0EhdPPUfkE"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/0EhdPPUfkE",
+          "expanded_url": "https://twitter.com/newjeans_loop/status/1734030918334194034/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1734030907810664448",
+          "indices": [
+            41,
+            64
+          ],
+          "media_key": "3_1734030907810664448",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARgQg+xhmlAACgACGBCD7tTaoXIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGBCD7GGaUAAKAAIYEIPu1NqhcgAA",
+              "media_key": "3_1734030907810664448"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GBCD7GGaUAAzv_c.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 265
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 947,
+                "x": 133,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 540,
+                "x": 459,
+                "y": 0
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1080,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0EhdPPUfkE"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            13,
+            22
+          ],
+          "text": "NEWJEANS"
+        },
+        {
+          "indices": [
+            23,
+            27
+          ],
+          "text": "뉴진스"
+        },
+        {
+          "indices": [
+            28,
+            35
+          ],
+          "text": "bunini"
+        },
+        {
+          "indices": [
+            36,
+            40
+          ],
+          "text": "버니니"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

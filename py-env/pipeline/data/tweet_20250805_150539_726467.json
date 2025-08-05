@@ -1,0 +1,83 @@
+{
+  "type": "tweet",
+  "id": "1952747830281421199",
+  "url": "https://x.com/lgndawson/status/1952747830281421199",
+  "twitterUrl": "https://twitter.com/lgndawson/status/1952747830281421199",
+  "text": "j’ai cru voir un fan art de Piche sur insta, turns out it was Jesus, j’ai pas les mêmes bases apparemment #DragRaceFrance",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:37 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747830281421199",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "lgndawson",
+    "url": "https://x.com/lgndawson",
+    "twitterUrl": "https://twitter.com/lgndawson",
+    "id": "1273760557313789952",
+    "name": "Logan",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948830792039194624/VW4kuhL2_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1273760557313789952/1753472491",
+    "description": "",
+    "location": "",
+    "followers": 160,
+    "following": 20,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Jun 18 23:32:47 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40839,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4075,
+    "statusesCount": 19244,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "woke & proud",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          106,
+          121
+        ],
+        "text": "DragRaceFrance"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

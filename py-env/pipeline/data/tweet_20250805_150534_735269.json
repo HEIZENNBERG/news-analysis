@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747796496285730",
+  "url": "https://x.com/allan_amorelli/status/1952747796496285730",
+  "twitterUrl": "https://twitter.com/allan_amorelli/status/1952747796496285730",
+  "text": "@TheIncorrupt_ Se liga hei @SBTonline. Vai fazer merda em contratar isso ai",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:29 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952704873863979514",
+  "conversationId": "1952704873863979514",
+  "inReplyToUserId": "1545463913977942022",
+  "inReplyToUsername": "TheIncorrupt_",
+  "author": {
+    "type": "user",
+    "userName": "allan_amorelli",
+    "url": "https://x.com/allan_amorelli",
+    "twitterUrl": "https://twitter.com/allan_amorelli",
+    "id": "847300153379704837",
+    "name": "Allan Amorelli",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/854299130298073088/6XWsc08k_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/847300153379704837/1638476764",
+    "description": "",
+    "location": "RJ",
+    "followers": 63,
+    "following": 329,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 30 04:11:13 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6471,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 36,
+    "statusesCount": 1068,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Designer | Motion Designer | Flamenguista | Bodyboarder | Pai da Laura",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1545463913977942022",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "The Incorrupt",
+        "screen_name": "TheIncorrupt_"
+      },
+      {
+        "id_str": "20600456",
+        "indices": [
+          27,
+          37
+        ],
+        "name": "SBT",
+        "screen_name": "SBTonline"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747604191941032",
+  "url": "https://x.com/sandeepAADHF_/status/1952747604191941032",
+  "twitterUrl": "https://twitter.com/sandeepAADHF_/status/1952747604191941032",
+  "text": "@SIFATH_AI Cv",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:43 +0000 2025",
+  "lang": "und",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952391212595642850",
+  "conversationId": "1952391212595642850",
+  "inReplyToUserId": "1934995169004457984",
+  "inReplyToUsername": "SIFATH_AI",
+  "author": {
+    "type": "user",
+    "userName": "sandeepAADHF_",
+    "url": "https://x.com/sandeepAADHF_",
+    "twitterUrl": "https://twitter.com/sandeepAADHF_",
+    "id": "1848936982564794368",
+    "name": "🐉🗡️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1935682519933886464/AWAdKOxF_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1848936982564794368/1733242114",
+    "description": "",
+    "location": "",
+    "followers": 273,
+    "following": 334,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Oct 23 03:58:43 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 55290,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 239,
+    "statusesCount": 13021,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1934995169004457984",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "kazi isteyak Sifath",
+        "screen_name": "SIFATH_AI"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

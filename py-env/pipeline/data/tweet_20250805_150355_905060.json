@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747386301714935",
+  "url": "https://x.com/Anonimo663423/status/1952747386301714935",
+  "twitterUrl": "https://twitter.com/Anonimo663423/status/1952747386301714935",
+  "text": "@lorynerazzurra Allora? Ci vediamo \"al faro\" e ti offro tanta roba da bere e ingoiare come ai vecchi tempi?",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:51 +0000 2025",
+  "lang": "it",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952715247954833558",
+  "conversationId": "1952707001294721288",
+  "inReplyToUserId": "1910975193947975680",
+  "inReplyToUsername": "Anonimo663423",
+  "author": {
+    "type": "user",
+    "userName": "Anonimo663423",
+    "url": "https://x.com/Anonimo663423",
+    "twitterUrl": "https://twitter.com/Anonimo663423",
+    "id": "1910975193947975680",
+    "name": "Anonimo",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1910981895799578624/GC_h8GLH_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 8,
+    "following": 4,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Apr 12 08:36:39 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 212,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 6,
+    "statusesCount": 144,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "966395895150514176",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Loredana",
+        "screen_name": "lorynerazzurra"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

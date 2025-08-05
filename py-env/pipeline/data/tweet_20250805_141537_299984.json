@@ -1,0 +1,103 @@
+{
+  "type": "tweet",
+  "id": "1952735230714065191",
+  "url": "https://x.com/zerofranz567/status/1952735230714065191",
+  "twitterUrl": "https://twitter.com/zerofranz567/status/1952735230714065191",
+  "text": "@GG3_xyz @GenTok_AI @Gideon_GG3 lfg",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:15:33 +0000 2025",
+  "lang": "und",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952716722059772068",
+  "conversationId": "1952716722059772068",
+  "inReplyToUserId": "1663875692138733571",
+  "inReplyToUsername": "GG3_xyz",
+  "author": {
+    "type": "user",
+    "userName": "zerofranz567",
+    "url": "https://x.com/zerofranz567",
+    "twitterUrl": "https://twitter.com/zerofranz567",
+    "id": "1923279909021155329",
+    "name": "zerofrans 「☄️G☄️」⌘🛠️ \"WIZO\" 🍊,💊(🧙‍♂️,🧙‍♂️)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1923280391605190660/CwO69qRg_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 11,
+    "following": 320,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri May 16 07:30:45 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 583,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 28,
+    "statusesCount": 1101,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "gnoma",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1663875692138733571",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "GG3",
+        "screen_name": "GG3_xyz"
+      },
+      {
+        "id_str": "1895100939390066691",
+        "indices": [
+          9,
+          19
+        ],
+        "name": "GenTok AI",
+        "screen_name": "GenTok_AI"
+      },
+      {
+        "id_str": "1896855695452196864",
+        "indices": [
+          20,
+          31
+        ],
+        "name": "Gideon Greylock",
+        "screen_name": "Gideon_GG3"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

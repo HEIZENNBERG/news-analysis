@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747442471932303",
+  "url": "https://x.com/cursors464996/status/1952747442471932303",
+  "twitterUrl": "https://twitter.com/cursors464996/status/1952747442471932303",
+  "text": "LLM入門：しくみから学ぶ生成AIの基礎: “使うだけ”から卒業するための、易しいけど深く言語モデルを探求する本 LLMマスターシリーズ\n\n▼Amazon\nhttps://t.co/dB3YExhHxQ\n#PR",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:05 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747442471932303",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "cursors464996",
+    "url": "https://x.com/cursors464996",
+    "twitterUrl": "https://twitter.com/cursors464996",
+    "id": "1899707695403577344",
+    "name": "カーソル",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 33,
+    "following": 2,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 12 06:23:28 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 0,
+    "statusesCount": 15188,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          102,
+          105
+        ],
+        "text": "PR"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "amzn.to/43M59Sl",
+        "expanded_url": "https://amzn.to/43M59Sl",
+        "indices": [
+          78,
+          101
+        ],
+        "url": "https://t.co/dB3YExhHxQ"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

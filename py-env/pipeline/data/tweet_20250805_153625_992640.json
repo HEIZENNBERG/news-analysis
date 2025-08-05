@@ -1,0 +1,123 @@
+{
+  "type": "tweet",
+  "id": "1952755570659746204",
+  "url": "https://x.com/telanganatribun/status/1952755570659746204",
+  "twitterUrl": "https://twitter.com/telanganatribun/status/1952755570659746204",
+  "text": "Official Makes Unannounced Visit to Child Center, Stresses Importance of Nutrition and Child Care  https://t.co/ILFsCCCYEs\n\n#Telangana #Hyderabad #News",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:36:23 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952755570659746204",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "telanganatribun",
+    "url": "https://x.com/telanganatribun",
+    "twitterUrl": "https://twitter.com/telanganatribun",
+    "id": "1278075956956028928",
+    "name": "Telangana Tribune",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1728845872908394496/jHw--Ucp_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1278075956956028928/1712317956",
+    "description": "",
+    "location": "Hyderabad",
+    "followers": 357,
+    "following": 73,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 30 21:20:33 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 81,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 8203,
+    "statusesCount": 44600,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1829951612749848610"
+    ],
+    "profile_bio": {
+      "description": "Latest News from Telangana",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "telanganatribune.com",
+              "expanded_url": "https://www.telanganatribune.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/WjBo9kI6wM"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          124,
+          134
+        ],
+        "text": "Telangana"
+      },
+      {
+        "indices": [
+          135,
+          145
+        ],
+        "text": "Hyderabad"
+      },
+      {
+        "indices": [
+          146,
+          151
+        ],
+        "text": "News"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "telanganatribune.com/official-makes…",
+        "expanded_url": "https://www.telanganatribune.com/official-makes-unannounced-visit-to-child-center-stresses-importance-of-nutrition-and-child-care/",
+        "indices": [
+          99,
+          122
+        ],
+        "url": "https://t.co/ILFsCCCYEs"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

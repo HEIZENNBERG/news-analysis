@@ -1,0 +1,192 @@
+{
+  "type": "tweet",
+  "id": "1952747856093413550",
+  "url": "https://x.com/HyperSharkk/status/1952747856093413550",
+  "twitterUrl": "https://twitter.com/HyperSharkk/status/1952747856093413550",
+  "text": "$PLTR พุ่ง +8% เพราะงบโหดกว่าที่คาด\n\n– รายได้ทะลุ $1B โต 48% YoY\n– EPS $0.16 &gt; คาดการณ์ $0.14\n– ปรับเป้ารายได้ปี 2025 ขึ้น\n\nAI ยังเป็นพระเอกของตลาดในตอนนี้ และ Palantir ก็เป็นหนึ่งในตัวจริงของอุตสาหกรรม Ai https://t.co/KlmMt3tbM4",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:43 +0000 2025",
+  "lang": "th",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747856093413550",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "HyperSharkk",
+    "url": "https://x.com/HyperSharkk",
+    "twitterUrl": "https://twitter.com/HyperSharkk",
+    "id": "1516752437419589634",
+    "name": "Hyper Shark!",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1651095575281139712/iJNnhosP_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1516752437419589634/1681443511",
+    "description": "",
+    "location": "Not Financial Advice",
+    "followers": 9066,
+    "following": 331,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Apr 20 12:15:42 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4635,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 944,
+    "statusesCount": 3950,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1937907601532141823"
+    ],
+    "profile_bio": {
+      "description": "Let's grow rich in knowledge together! \"Earn with mind, not time\" ผมแชร์ทุกข้อมูลที่ไม่มีในนี้ ไว้ใน Ko-fi ลองเข้าไปส่องกันได้ 👇🏻",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ko-fi.com/hypershark",
+              "expanded_url": "http://ko-fi.com/hypershark",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7V9Jrpp0IR"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/KlmMt3tbM4",
+        "expanded_url": "https://twitter.com/HyperSharkk/status/1952747856093413550/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 143,
+                "w": 143,
+                "x": 328,
+                "y": 155
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 143,
+                "w": 143,
+                "x": 328,
+                "y": 155
+              }
+            ]
+          }
+        },
+        "id_str": "1952747844575879168",
+        "indices": [
+          209,
+          232
+        ],
+        "media_key": "3_1952747844575879168",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjdGL2uAACgACGxmN1DpagK4AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmN0Yva4AAKAAIbGY3UOlqArgAA",
+            "media_key": "3_1952747844575879168"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmN0Yva4AAzi4j.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 330,
+              "w": 589,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 330,
+              "w": 330,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 330,
+              "w": 289,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 330,
+              "w": 165,
+              "x": 62,
+              "y": 0
+            },
+            {
+              "h": 330,
+              "w": 828,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 330,
+          "width": 828
+        },
+        "sizes": {
+          "large": {
+            "h": 330,
+            "w": 828
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/KlmMt3tbM4"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "symbols": [
+      {
+        "indices": [
+          0,
+          5
+        ],
+        "text": "PLTR"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

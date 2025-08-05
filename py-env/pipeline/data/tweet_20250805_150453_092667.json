@@ -1,0 +1,114 @@
+{
+  "type": "tweet",
+  "id": "1952747633639825482",
+  "url": "https://x.com/CallMeZeus26/status/1952747633639825482",
+  "twitterUrl": "https://twitter.com/CallMeZeus26/status/1952747633639825482",
+  "text": "@lilSkeezors @HeyYaNow143 @DrLurker6223 @JackKennedy unfortunately the ai guy is right",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:50 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952745699977711974",
+  "conversationId": "1952458863103389799",
+  "inReplyToUserId": "1447767996525682688",
+  "inReplyToUsername": "lilSkeezors",
+  "author": {
+    "type": "user",
+    "userName": "CallMeZeus26",
+    "url": "https://x.com/CallMeZeus26",
+    "twitterUrl": "https://twitter.com/CallMeZeus26",
+    "id": "1036372942630920192",
+    "name": "zeus :*)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1410207380537851906/b39Kxhh3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1036372942630920192/1714192701",
+    "description": "",
+    "location": "👍👍👍",
+    "followers": 280,
+    "following": 1638,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 02 21:58:59 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 343605,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1250,
+    "statusesCount": 18921,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1753180882687475971"
+    ],
+    "profile_bio": {
+      "description": "scroll demon",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1447767996525682688",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "PZA",
+        "screen_name": "lilSkeezors"
+      },
+      {
+        "id_str": "1846548724375343104",
+        "indices": [
+          13,
+          25
+        ],
+        "name": "HeyYaNow",
+        "screen_name": "HeyYaNow143"
+      },
+      {
+        "id_str": "1744114455380656128",
+        "indices": [
+          26,
+          39
+        ],
+        "name": "Siir Loin",
+        "screen_name": "DrLurker6223"
+      },
+      {
+        "id_str": "1075135057285779456",
+        "indices": [
+          40,
+          52
+        ],
+        "name": "Kenjac",
+        "screen_name": "JackKennedy"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

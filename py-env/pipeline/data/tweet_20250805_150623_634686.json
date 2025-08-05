@@ -1,0 +1,224 @@
+{
+  "type": "tweet",
+  "id": "1952748013463449646",
+  "url": "https://x.com/LelaDizi07/status/1952748013463449646",
+  "twitterUrl": "https://twitter.com/LelaDizi07/status/1952748013463449646",
+  "text": "o que eu mais gosto no mundo bl desde que eu comecei a assistir é que eu sempre acho que já vi o melhor couple, o melhor bl, aí muda o ano e eu vou ser surpreendida mais uma vez... em 2025 esse lugar vai ser do Peter e do Pond e essa foto diz tudo\n\n@JSuibian https://t.co/IjvPe1fGVE",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:21 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952748013463449646",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "LelaDizi07",
+    "url": "https://x.com/LelaDizi07",
+    "twitterUrl": "https://twitter.com/LelaDizi07",
+    "id": "1337078135276318721",
+    "name": "denise 🪐",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1949197485664075776/TouhJfPx_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1337078135276318721/1751330232",
+    "description": "",
+    "location": "My safe place",
+    "followers": 541,
+    "following": 880,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Dec 10 16:54:21 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 344688,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1276,
+    "statusesCount": 26135,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1421721041706049537"
+    ],
+    "profile_bio": {
+      "description": "assistindo #ResetTheSeries,  #RevengedLove, #ABODesire  #MyMagicalProphecy",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                11,
+                26
+              ],
+              "text": "ResetTheSeries"
+            },
+            {
+              "indices": [
+                29,
+                42
+              ],
+              "text": "RevengedLove"
+            },
+            {
+              "indices": [
+                44,
+                54
+              ],
+              "text": "ABODesire"
+            },
+            {
+              "indices": [
+                56,
+                74
+              ],
+              "text": "MyMagicalProphecy"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/IjvPe1fGVE",
+        "expanded_url": "https://twitter.com/LelaDizi07/status/1952748013463449646/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 320,
+                "w": 320,
+                "x": 486,
+                "y": 730
+              },
+              {
+                "h": 344,
+                "w": 344,
+                "x": 736,
+                "y": 748
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 320,
+                "w": 320,
+                "x": 486,
+                "y": 730
+              },
+              {
+                "h": 344,
+                "w": 344,
+                "x": 736,
+                "y": 748
+              }
+            ]
+          }
+        },
+        "id_str": "1952747991275655168",
+        "indices": [
+          259,
+          282
+        ],
+        "media_key": "3_1952747991275655168",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjfOz19AACgACGxmN+N5WsC4AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmN87PX0AAKAAIbGY343lawLgAA",
+            "media_key": "3_1952747991275655168"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmN87PX0AAIBZn.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 542
+            },
+            {
+              "h": 1536,
+              "w": 1536,
+              "x": 0,
+              "y": 204
+            },
+            {
+              "h": 1751,
+              "w": 1536,
+              "x": 0,
+              "y": 97
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 358,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1536
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/IjvPe1fGVE"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1103353290593583104",
+        "indices": [
+          249,
+          258
+        ],
+        "name": "Jana brotinho do Baekhyun 🌱",
+        "screen_name": "JSuibian"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747628233359389",
+  "url": "https://x.com/GumbressT/status/1952747628233359389",
+  "twitterUrl": "https://twitter.com/GumbressT/status/1952747628233359389",
+  "text": "@Arrobakkkkkkk @PeterPorker97 Isso ai tem cara de ser fake",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:49 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952544335544856977",
+  "conversationId": "1952391331743158414",
+  "inReplyToUserId": "1630032889411715073",
+  "inReplyToUsername": "Arrobakkkkkkk",
+  "author": {
+    "type": "user",
+    "userName": "GumbressT",
+    "url": "https://x.com/GumbressT",
+    "twitterUrl": "https://twitter.com/GumbressT",
+    "id": "1648717769372835844",
+    "name": "Gabriel Macedo",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1648758378833797124/ntjNy-tS_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 38,
+    "following": 207,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 19 16:11:50 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 43986,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 56,
+    "statusesCount": 2138,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1630032889411715073",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "BØOTLEG",
+        "screen_name": "Arrobakkkkkkk"
+      },
+      {
+        "id_str": "1427725967544537098",
+        "indices": [
+          15,
+          29
+        ],
+        "name": "PeterPorker97",
+        "screen_name": "PeterPorker97"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

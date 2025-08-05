@@ -1,0 +1,174 @@
+{
+  "type": "tweet",
+  "id": "1952758513467597180",
+  "url": "https://x.com/allhawaiinews/status/1952758513467597180",
+  "twitterUrl": "https://twitter.com/allhawaiinews/status/1952758513467597180",
+  "text": "Blangiardi attends Hiroshima bombing 80th anniversary ceremonies, Honolulu cancels empty homes tax study, school starts today, more news from all the Hawaiian Islands https://t.co/IzlMjzM87g https://t.co/O8fk6dtBvp",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:48:04 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952758513467597180",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "allhawaiinews",
+    "url": "https://x.com/allhawaiinews",
+    "twitterUrl": "https://twitter.com/allhawaiinews",
+    "id": "24553889",
+    "name": "All Hawaii News",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1939780335484678144/xo63V8D8_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/24553889/1545066587",
+    "description": "",
+    "location": "Honolulu, HI",
+    "followers": 5214,
+    "following": 1929,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 15 17:29:09 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 42,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1772,
+    "statusesCount": 7075,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Top government and political news from all the Hawaiian Islands. Proud to be SPJ-Hawaii #1 news blogger Be sure to like All Hawaii News on Facebook!",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "allhawaiinews.com",
+              "expanded_url": "http://www.allhawaiinews.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TQMo0gxKvV"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/O8fk6dtBvp",
+        "expanded_url": "https://twitter.com/allhawaiinews/status/1952758513467597180/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952758486053584897",
+        "indices": [
+          191,
+          214
+        ],
+        "media_key": "3_1952758486053584897",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZl381WoABCgACGxmXhZdbIXwAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmXfzVagAEKAAIbGZeFl1shfAAA",
+            "media_key": "3_1952758486053584897"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmXfzVagAEvqfs.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 426,
+              "w": 761,
+              "x": 12,
+              "y": 0
+            },
+            {
+              "h": 426,
+              "w": 426,
+              "x": 192,
+              "y": 0
+            },
+            {
+              "h": 426,
+              "w": 374,
+              "x": 218,
+              "y": 0
+            },
+            {
+              "h": 426,
+              "w": 213,
+              "x": 299,
+              "y": 0
+            },
+            {
+              "h": 426,
+              "w": 773,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 426,
+          "width": 773
+        },
+        "sizes": {
+          "large": {
+            "h": 426,
+            "w": 773
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/O8fk6dtBvp"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "allhawaiinews.com/2025/08/blangi…",
+        "expanded_url": "https://www.allhawaiinews.com/2025/08/blangiardi-attends-hiroshima-bombing.html",
+        "indices": [
+          167,
+          190
+        ],
+        "url": "https://t.co/IzlMjzM87g"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

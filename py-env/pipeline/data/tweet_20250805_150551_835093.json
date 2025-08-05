@@ -1,0 +1,96 @@
+{
+  "type": "tweet",
+  "id": "1952747880583762064",
+  "url": "https://x.com/mchazeleni_gama/status/1952747880583762064",
+  "twitterUrl": "https://twitter.com/mchazeleni_gama/status/1952747880583762064",
+  "text": "@FARPostZA @dube_mthoko Ai ai ngathi iyadina ke manje indaba Tim, always he want our DDC players n ayikhona",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:49 +0000 2025",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952721286292984214",
+  "conversationId": "1952721286292984214",
+  "inReplyToUserId": "1125726719795781633",
+  "inReplyToUsername": "FARPostZA",
+  "author": {
+    "type": "user",
+    "userName": "mchazeleni_gama",
+    "url": "https://x.com/mchazeleni_gama",
+    "twitterUrl": "https://twitter.com/mchazeleni_gama",
+    "id": "858657788691611648",
+    "name": "SIHLE",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1823374810971353090/vMi5vlUp_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/858657788691611648/1632193977",
+    "description": "",
+    "location": "Johannesburg,Soweto ",
+    "followers": 1514,
+    "following": 7491,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 30 12:22:24 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 55772,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 89,
+    "statusesCount": 2527,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1393614086232068097"
+    ],
+    "profile_bio": {
+      "description": "Maths, Life Sciences and Natural Science tutor📖📚💻 // Grade 9-12\n.... Kaizer Chiefs Fan❤️✌️",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1125726719795781633",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "FARPost_ZA",
+        "screen_name": "FARPostZA"
+      },
+      {
+        "id_str": "423308402",
+        "indices": [
+          11,
+          23
+        ],
+        "name": "Mthokozisi Dube",
+        "screen_name": "dube_mthoko"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

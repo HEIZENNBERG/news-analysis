@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747604669837817",
+  "url": "https://x.com/Rhayshine/status/1952747604669837817",
+  "twitterUrl": "https://twitter.com/Rhayshine/status/1952747604669837817",
+  "text": "@LpLeaksNews Ai deitei",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:43 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952732559751712774",
+  "conversationId": "1952732559751712774",
+  "inReplyToUserId": "925523995134439424",
+  "inReplyToUsername": "LpLeaksNews",
+  "author": {
+    "type": "user",
+    "userName": "Rhayshine",
+    "url": "https://x.com/Rhayshine",
+    "twitterUrl": "https://twitter.com/Rhayshine",
+    "id": "1490715485478039554",
+    "name": "Akkemi",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1866523632106700800/Bc7aWtSc_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1490715485478039554/1713714822",
+    "description": "",
+    "location": "",
+    "followers": 73,
+    "following": 147,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 07 15:54:12 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4434,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 317,
+    "statusesCount": 2026,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "It's me, hi!",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "925523995134439424",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "LP | Fortnite News",
+        "screen_name": "LpLeaksNews"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

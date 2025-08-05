@@ -1,0 +1,96 @@
+{
+  "type": "tweet",
+  "id": "1952747661414527338",
+  "url": "https://x.com/bynsilva01/status/1952747661414527338",
+  "twitterUrl": "https://twitter.com/bynsilva01/status/1952747661414527338",
+  "text": "@iluminad0__ @MTips01 Link aí mano",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:57 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952717752730529893",
+  "conversationId": "1952714437929914791",
+  "inReplyToUserId": "1737895971927777280",
+  "inReplyToUsername": "iluminad0__",
+  "author": {
+    "type": "user",
+    "userName": "bynsilva01",
+    "url": "https://x.com/bynsilva01",
+    "twitterUrl": "https://twitter.com/bynsilva01",
+    "id": "1244786455081345031",
+    "name": "Brayon Silva",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1946677527679750144/iQ_Q-m3K_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1244786455081345031/1639487795",
+    "description": "",
+    "location": "Rio de Janeiro, Brasil",
+    "followers": 457,
+    "following": 425,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 31 00:40:00 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 47346,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 887,
+    "statusesCount": 9235,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1488904968778170377"
+    ],
+    "profile_bio": {
+      "description": "Temos nosso próprio tempo.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1737895971927777280",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Erick Rodriguez",
+        "screen_name": "iluminad0__"
+      },
+      {
+        "id_str": "1569008895347015680",
+        "indices": [
+          13,
+          21
+        ],
+        "name": "M. Tips",
+        "screen_name": "MTips01"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

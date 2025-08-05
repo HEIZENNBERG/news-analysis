@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747799759438088",
+  "url": "https://x.com/DulciraD/status/1952747799759438088",
+  "twitterUrl": "https://twitter.com/DulciraD/status/1952747799759438088",
+  "text": "@paulodetarsog Lixo esse aí",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:30 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952726072191045712",
+  "conversationId": "1952726072191045712",
+  "inReplyToUserId": "730958208752361472",
+  "inReplyToUsername": "paulodetarsog",
+  "author": {
+    "type": "user",
+    "userName": "DulciraD",
+    "url": "https://x.com/DulciraD",
+    "twitterUrl": "https://twitter.com/DulciraD",
+    "id": "4691905518",
+    "name": "Dulcira Domingues",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 14,
+    "following": 91,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 01 21:58:18 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 930,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10,
+    "statusesCount": 3156,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "730958208752361472",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Paulo de Tarso",
+        "screen_name": "paulodetarsog"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

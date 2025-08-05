@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747117593625052",
+  "url": "https://x.com/gigissca/status/1952747117593625052",
+  "twitterUrl": "https://twitter.com/gigissca/status/1952747117593625052",
+  "text": "@mari_pjm uns tiktoker aí q faziam conteúdo de trolagem e os caralhos de casal",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:47 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952571294417109432",
+  "conversationId": "1952465366783029711",
+  "inReplyToUserId": "1554251347066855426",
+  "inReplyToUsername": "mari_pjm",
+  "author": {
+    "type": "user",
+    "userName": "gigissca",
+    "url": "https://x.com/gigissca",
+    "twitterUrl": "https://twitter.com/gigissca",
+    "id": "1721707536879919104",
+    "name": "𝗀𝗂𝗀𝗂𝖼𝖺 ✿",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1928605169970757633/9Z9EGKIX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1721707536879919104/1748652891",
+    "description": "",
+    "location": "bangtan ✶ ariana grande ",
+    "followers": 35,
+    "following": 41,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Nov 07 01:54:47 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12741,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 154,
+    "statusesCount": 2782,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1920964703229976960"
+    ],
+    "profile_bio": {
+      "description": "pensamentos não lúcidos de uma estudante de psicologia",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1554251347066855426",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "mari",
+        "screen_name": "mari_pjm"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

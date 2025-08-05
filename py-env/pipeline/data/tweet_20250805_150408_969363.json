@@ -1,0 +1,170 @@
+{
+  "type": "tweet",
+  "id": "1952747440408592814",
+  "url": "https://x.com/tatsu_no_ryu/status/1952747440408592814",
+  "twitterUrl": "https://twitter.com/tatsu_no_ryu/status/1952747440408592814",
+  "text": "これいいね \n問診票代わりに対話系のAIアプリ使って定型の問診とってS欄まとめておいてもらうとか、私が初期研修医の時より遥かに上手く出来そうな気がする",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:04 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747440408592814",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "tatsu_no_ryu",
+    "url": "https://x.com/tatsu_no_ryu",
+    "twitterUrl": "https://twitter.com/tatsu_no_ryu",
+    "id": "942984078",
+    "name": "たつのすけ@皮膚科専攻医",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1271771874934939648/BOFcae2m_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/942984078/1703285379",
+    "description": "",
+    "location": "",
+    "followers": 2256,
+    "following": 3585,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Nov 12 07:20:51 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 160543,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 175,
+    "statusesCount": 7327,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "皮膚科専攻医。広くゆるくVTuberファン。LAD&中日ファン。ミスチル＆奥田民生ファン。野球垢→@karino_tatsu",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                49,
+                62
+              ],
+              "name": "",
+              "screen_name": "karino_tatsu"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952644259083145448",
+    "url": "https://x.com/AMApsymed/status/1952644259083145448",
+    "twitterUrl": "https://twitter.com/AMApsymed/status/1952644259083145448",
+    "text": "最近病院で\n「自分の症状をAIに要約させて持参する人」\nが増えたんだけど、正直すごく助かってる。\n\nAIの日本語力は上位20％には入ると思う。逆に言えば\n\n『8割の人は、AIに要約させた方が相手に伝わりやすい日本語になる』\n\nので、変に意地張らずどんどん活用して欲しい。",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2484,
+    "replyCount": 42,
+    "likeCount": 11138,
+    "quoteCount": 204,
+    "viewCount": 665809,
+    "createdAt": "Tue Aug 05 08:14:04 +0000 2025",
+    "lang": "ja",
+    "bookmarkCount": 1050,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952644259083145448",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "AMApsymed",
+      "url": "https://x.com/AMApsymed",
+      "twitterUrl": "https://twitter.com/AMApsymed",
+      "id": "728508278116777984",
+      "name": "AMAPSYMED",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/728509013839609856/xPgYG_fB_normal.jpg",
+      "coverPicture": "",
+      "description": "",
+      "location": "",
+      "followers": 5061,
+      "following": 26,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Fri May 06 08:54:43 +0000 2016",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 8823,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 82,
+      "statusesCount": 7713,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "自分を精神科医だと思い込んでいる一般人です。",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "amapsymed.hatenablog.com",
+                "expanded_url": "http://amapsymed.hatenablog.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/NP48jfdX5i"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

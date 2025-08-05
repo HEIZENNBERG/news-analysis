@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952754850250305678",
+  "url": "https://x.com/Canadapisspot/status/1952754850250305678",
+  "twitterUrl": "https://twitter.com/Canadapisspot/status/1952754850250305678",
+  "text": "@CharlieK_news This is absolutely so true!!",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:33:31 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952485964141539815",
+  "conversationId": "1952485964141539815",
+  "inReplyToUserId": "1866611419283869696",
+  "inReplyToUsername": "CharlieK_news",
+  "author": {
+    "type": "user",
+    "userName": "Canadapisspot",
+    "url": "https://x.com/Canadapisspot",
+    "twitterUrl": "https://twitter.com/Canadapisspot",
+    "id": "1487827823632863235",
+    "name": "Canada 🇨🇦@Canadasgoingunder",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1944019831831113735/o1fVQ35M_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 724,
+    "following": 710,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 30 16:40:22 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17016,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 227,
+    "statusesCount": 15650,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Canadians are leaving in droves. Canada will permanently be ruined if Trudeau is re-elected",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1866611419283869696",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "ᶠᵃⁿ Charlie Kirk",
+        "screen_name": "CharlieK_news"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

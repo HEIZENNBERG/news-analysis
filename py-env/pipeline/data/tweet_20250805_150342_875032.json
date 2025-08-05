@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747339250102304",
+  "url": "https://x.com/kevindayqueen/status/1952747339250102304",
+  "twitterUrl": "https://twitter.com/kevindayqueen/status/1952747339250102304",
+  "text": "@vance_eli12616 de fapt ai vorbit degeaba ca mie chiar nu imi pasa.\ndoamne abia astept sincer, macar atunci nu mai dau de prosti ca tine 😜",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:40 +0000 2025",
+  "lang": "ro",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952362915882738003",
+  "conversationId": "1952001252847505727",
+  "inReplyToUserId": "1841100760680910855",
+  "inReplyToUsername": "vance_eli12616",
+  "author": {
+    "type": "user",
+    "userName": "kevindayqueen",
+    "url": "https://x.com/kevindayqueen",
+    "twitterUrl": "https://twitter.com/kevindayqueen",
+    "id": "1156284026254180352",
+    "name": "noms ✮",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1924541177434427392/518WoFhG_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1156284026254180352/1746651063",
+    "description": "",
+    "location": "she/them | bi | 25 | 🔞",
+    "followers": 190,
+    "following": 123,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Jul 30 19:22:49 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6288,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1240,
+    "statusesCount": 6690,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1929230405699289362"
+    ],
+    "profile_bio": {
+      "description": "my one and only… | personal journal |FREE PALESTINE 🇵🇸",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1841100760680910855",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Eli Vance",
+        "screen_name": "vance_eli12616"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

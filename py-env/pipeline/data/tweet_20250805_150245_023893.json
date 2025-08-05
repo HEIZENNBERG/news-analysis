@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747088346796035",
+  "url": "https://x.com/KorewaMaki_/status/1952747088346796035",
+  "twitterUrl": "https://twitter.com/KorewaMaki_/status/1952747088346796035",
+  "text": "@ErrantSun7 Yep, twitter is really stupid, bet it's some AI determining what is and isn't nsfw because it's incredibly inconsistent",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:40 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952416062332649512",
+  "conversationId": "1952416062332649512",
+  "inReplyToUserId": "1856706824415698944",
+  "inReplyToUsername": "ErrantSun7",
+  "author": {
+    "type": "user",
+    "userName": "KorewaMaki_",
+    "url": "https://x.com/KorewaMaki_",
+    "twitterUrl": "https://twitter.com/KorewaMaki_",
+    "id": "1056342697",
+    "name": "Maki",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1882346620576043008/NBgWofm9_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1056342697/1737621356",
+    "description": "",
+    "location": "",
+    "followers": 96,
+    "following": 1981,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Jan 02 23:05:09 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 52079,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 46,
+    "statusesCount": 1282,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1388508506127540227"
+    ],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1856706824415698944",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "ErrantSol",
+        "screen_name": "ErrantSun7"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

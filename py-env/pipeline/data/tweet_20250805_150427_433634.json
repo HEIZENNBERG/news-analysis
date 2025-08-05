@@ -1,0 +1,115 @@
+{
+  "type": "tweet",
+  "id": "1952747522943779150",
+  "url": "https://x.com/Rouph17/status/1952747522943779150",
+  "twitterUrl": "https://twitter.com/Rouph17/status/1952747522943779150",
+  "text": "@AlexandreFlav13 @LaMiseAuVert_ Comment tu sais ? J'avoue j'ai pas compris",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:24 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747307578912938",
+  "conversationId": "1952746860986179889",
+  "inReplyToUserId": "1105788852092973056",
+  "inReplyToUsername": "AlexandreFlav13",
+  "author": {
+    "type": "user",
+    "userName": "Rouph17",
+    "url": "https://x.com/Rouph17",
+    "twitterUrl": "https://twitter.com/Rouph17",
+    "id": "1440664262402199560",
+    "name": "Rouph17",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1875633135485870080/tR_ne-D8_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1440664262402199560/1736061848",
+    "description": "",
+    "location": "",
+    "followers": 65,
+    "following": 341,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 22 13:08:53 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 76804,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13,
+    "statusesCount": 13518,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "ASSE 💚🤍\nM8 💚🩷\nRL player\n🇫🇷/🇧🇪\nhttps://t.co/zEv58CLn9i\nhttps://t.co/h9JBpbxh1Z",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "x.com/i/communities/…",
+              "expanded_url": "https://x.com/i/communities/1856382187186073985",
+              "indices": [
+                30,
+                53
+              ],
+              "url": "https://t.co/zEv58CLn9i"
+            },
+            {
+              "display_url": "twitter.com/i/communities/…",
+              "expanded_url": "https://twitter.com/i/communities/1669256546453278720",
+              "indices": [
+                54,
+                77
+              ],
+              "url": "https://t.co/h9JBpbxh1Z"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1105788852092973056",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Flav 🇨🇦🇳🇴🔱💚🖤",
+        "screen_name": "AlexandreFlav13"
+      },
+      {
+        "id_str": "1803453203943505920",
+        "indices": [
+          17,
+          31
+        ],
+        "name": "La Mise Au Vert",
+        "screen_name": "LaMiseAuVert_"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,96 @@
+{
+  "type": "tweet",
+  "id": "1952747447366582668",
+  "url": "https://x.com/SadassPineapple/status/1952747447366582668",
+  "twitterUrl": "https://twitter.com/SadassPineapple/status/1952747447366582668",
+  "text": "@Flimmzyytt @Spoc_0 Yall have no idea what ai even looks like this is some of their best animation in awhile its just desaturated",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:06 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952742750912184442",
+  "conversationId": "1952739098008953332",
+  "inReplyToUserId": "1538328720414584833",
+  "inReplyToUsername": "Flimmzyytt",
+  "author": {
+    "type": "user",
+    "userName": "SadassPineapple",
+    "url": "https://x.com/SadassPineapple",
+    "twitterUrl": "https://twitter.com/SadassPineapple",
+    "id": "1367490517269958659",
+    "name": "Pinez 🍍",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1818687465105821701/kHVfeV1a_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1367490517269958659/1744147156",
+    "description": "",
+    "location": "",
+    "followers": 214,
+    "following": 1102,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 04 15:02:14 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 113240,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 868,
+    "statusesCount": 9110,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1896305986702643448"
+    ],
+    "profile_bio": {
+      "description": "I have opinions \nAspiring filmmaker\nCharacter made by me ^\nSuspended at 1K",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1538328720414584833",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "flimmzy",
+        "screen_name": "Flimmzyytt"
+      },
+      {
+        "id_str": "1659745798643384320",
+        "indices": [
+          12,
+          19
+        ],
+        "name": "Spoc",
+        "screen_name": "Spoc_0"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

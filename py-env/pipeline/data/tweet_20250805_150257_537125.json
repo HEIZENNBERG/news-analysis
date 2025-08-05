@@ -1,0 +1,73 @@
+{
+  "type": "tweet",
+  "id": "1952747147494908365",
+  "url": "https://x.com/maia20231228/status/1952747147494908365",
+  "twitterUrl": "https://twitter.com/maia20231228/status/1952747147494908365",
+  "text": "私はツールとして生成AIは面白いと思っているが、生成AIユーザが、有名イラストレーターさんたちに絡んでるのを見ると辟易する。\n絵の独創性は足元にも及ばないし、生成AIはそれをベースしているに過ぎない（学習に限らず）。彼らと敵対しても未来はないのになぜ勘違いしてしまうのだろう。",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:54 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747147494908365",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "maia20231228",
+    "url": "https://x.com/maia20231228",
+    "twitterUrl": "https://twitter.com/maia20231228",
+    "id": "1740180229505929216",
+    "name": "𝓜𝓪𝓲𝓪 まやのお遊びアカウント",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1747518246805217280/GdOB_R9u_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1740180229505929216/1704182976",
+    "description": "",
+    "location": "日本 京都",
+    "followers": 42,
+    "following": 515,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 28 01:18:44 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17706,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 27,
+    "statusesCount": 890,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "競馬🐎/ウマ娘/推し活用アカウント",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

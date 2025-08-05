@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747658063351835",
+  "url": "https://x.com/potins101/status/1952747658063351835",
+  "twitterUrl": "https://twitter.com/potins101/status/1952747658063351835",
+  "text": "@VeilleuxFranci3 Lui, je l’ai a is comme humoriste. \nUn humour intelligent ! 👌",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:56 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952720721005682752",
+  "conversationId": "1952720721005682752",
+  "inReplyToUserId": "1264707913970524167",
+  "inReplyToUsername": "VeilleuxFranci3",
+  "author": {
+    "type": "user",
+    "userName": "potins101",
+    "url": "https://x.com/potins101",
+    "twitterUrl": "https://twitter.com/potins101",
+    "id": "1286553865",
+    "name": "Hélène Tremblay",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1940545304333303808/aE2p1MIg_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1286553865/1735780224",
+    "description": "",
+    "location": "Saguenay, Québec",
+    "followers": 3377,
+    "following": 575,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 21 17:42:09 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 37138,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4005,
+    "statusesCount": 24092,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1584153025416876033"
+    ],
+    "profile_bio": {
+      "description": "Enseignante au primaire qui aime les voyages, la lecture, les randonnées pédestres et les nouvelles découvertes. Je vis pour apprendre, rire et partager. 💕",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1264707913970524167",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Veilleux Francine 🎤🎬🎼🎺🎷🎥💽",
+        "screen_name": "VeilleuxFranci3"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

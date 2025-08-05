@@ -1,0 +1,397 @@
+{
+  "type": "tweet",
+  "id": "1952756631818682450",
+  "url": "https://x.com/safetyjjkmin/status/1952756631818682450",
+  "twitterUrl": "https://twitter.com/safetyjjkmin/status/1952756631818682450",
+  "text": "NOOOOO CAI EN UNA FAKE NEWS 😭😭",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:40:36 +0000 2025",
+  "lang": "it",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952756631818682450",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "safetyjjkmin",
+    "url": "https://x.com/safetyjjkmin",
+    "twitterUrl": "https://twitter.com/safetyjjkmin",
+    "id": "1044083251822972928",
+    "name": "𝑓𝑎𝑛𝑖𝑎 🌸🇵🇸📚",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1674640025059721216/TOUnYtpr_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1044083251822972928/1649483361",
+    "description": "",
+    "location": "chile, tengo hambre",
+    "followers": 1387,
+    "following": 917,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Sep 24 04:37:00 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 42530,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 6734,
+    "statusesCount": 65917,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1502058479250550797"
+    ],
+    "profile_bio": {
+      "description": "~ 어떻게 생각해?\n\naquí solo se llora por coreanos y se habla de libros ~ fan de bts, no army",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952574272335233169",
+    "url": "https://x.com/bts_bighit/status/1952574272335233169",
+    "twitterUrl": "https://twitter.com/bts_bighit/status/1952574272335233169",
+    "text": "[공지] ‘방탄소년단의 마이클 잭슨 헌정 앨범 참여’ 관련 안내 (+ENG) https://t.co/3jdsWtd41t",
+    "source": "Twitter for iPhone",
+    "retweetCount": 36917,
+    "replyCount": 6186,
+    "likeCount": 120327,
+    "quoteCount": 18674,
+    "viewCount": 8506242,
+    "createdAt": "Tue Aug 05 03:35:58 +0000 2025",
+    "lang": "ko",
+    "bookmarkCount": 4547,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952574272335233169",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "bts_bighit",
+      "url": "https://x.com/bts_bighit",
+      "twitterUrl": "https://twitter.com/bts_bighit",
+      "id": "1409798257",
+      "name": "BTS_official",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": "Business",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1946057710882963458/THQeeOjX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1409798257/1752811290",
+      "description": "",
+      "location": "",
+      "followers": 45339715,
+      "following": 27,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": false,
+      "createdAt": "Tue May 07 09:13:05 +0000 2013",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 99,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 5784,
+      "statusesCount": 13697,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "#방탄소년단 공식 X 입니다\nThis is the Official X for #BTS\n\n‘PERMISSION TO DANCE ON STAGE - LIVE’\n💜Listen now: https://t.co/k3IpYBqubc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  0,
+                  6
+                ],
+                "text": "방탄소년단"
+              },
+              {
+                "indices": [
+                  43,
+                  47
+                ],
+                "text": "BTS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bts.lnk.to/PTD-LIVE",
+                "expanded_url": "https://bts.lnk.to/PTD-LIVE",
+                "indices": [
+                  100,
+                  123
+                ],
+                "url": "https://t.co/k3IpYBqubc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ibighit.com/bts/eng/",
+                "expanded_url": "https://ibighit.com/bts/eng/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/qLORLE5AQI"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/3jdsWtd41t",
+          "expanded_url": "https://twitter.com/bts_bighit/status/1952574272335233169/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 205,
+                  "w": 205,
+                  "x": 1039,
+                  "y": 429
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 226,
+                  "w": 226,
+                  "x": 1142,
+                  "y": 472
+                }
+              ]
+            }
+          },
+          "id_str": "1952574208346832896",
+          "indices": [
+            43,
+            66
+          ],
+          "media_key": "3_1952574208346832896",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsY7+W2GkAACgACGxjv9JwbwJEAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxjv5bYaQAAKAAIbGO/0nBvAkQAA",
+              "media_key": "3_1952574208346832896"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/Gxjv5bYaQAAgdGh.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1260,
+                "w": 2250,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2250,
+                "w": 2250,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2250,
+                "w": 1974,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2250,
+                "w": 1125,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2250,
+                "w": 2250,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2250,
+            "width": 2250
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3jdsWtd41t"
+        },
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/3jdsWtd41t",
+          "expanded_url": "https://twitter.com/bts_bighit/status/1952574272335233169/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 227,
+                  "w": 227,
+                  "x": 495,
+                  "y": 371
+                },
+                {
+                  "h": 235,
+                  "w": 235,
+                  "x": 131,
+                  "y": 659
+                },
+                {
+                  "h": 261,
+                  "w": 261,
+                  "x": 151,
+                  "y": 363
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 250,
+                  "w": 250,
+                  "x": 544,
+                  "y": 408
+                },
+                {
+                  "h": 259,
+                  "w": 259,
+                  "x": 145,
+                  "y": 725
+                },
+                {
+                  "h": 287,
+                  "w": 287,
+                  "x": 166,
+                  "y": 399
+                }
+              ]
+            }
+          },
+          "id_str": "1952574258481369088",
+          "indices": [
+            43,
+            66
+          ],
+          "media_key": "3_1952574258481369088",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsY7/FiWpAACgACGxjv9JwbwJEAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxjv8WJakAAKAAIbGO/0nBvAkQAA",
+              "media_key": "3_1952574258481369088"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/Gxjv8WJakAAfuoX.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1260,
+                "w": 2250,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2250,
+                "w": 2250,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2250,
+                "w": 1974,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2250,
+                "w": 1125,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2250,
+                "w": 2250,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2250,
+            "width": 2250
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3jdsWtd41t"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747686555173034",
+  "url": "https://x.com/DanTalks254782/status/1952747686555173034",
+  "twitterUrl": "https://twitter.com/DanTalks254782/status/1952747686555173034",
+  "text": "@bigcatalex00 @Revenant300 You use AI and you dare call others heretics?",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:03 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952261825434718538",
+  "conversationId": "1952126534166417521",
+  "inReplyToUserId": "1472316226495995906",
+  "inReplyToUsername": "bigcatalex00",
+  "author": {
+    "type": "user",
+    "userName": "DanTalks254782",
+    "url": "https://x.com/DanTalks254782",
+    "twitterUrl": "https://twitter.com/DanTalks254782",
+    "id": "1652319881482625026",
+    "name": "Dan Talks",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1874589079729250304/O4-3UrYg_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1652319881482625026/1715530075",
+    "description": "",
+    "location": "",
+    "followers": 46,
+    "following": 418,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 29 14:32:24 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4085,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 508,
+    "statusesCount": 6658,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Most of my 'followers' are bots. Thank god the Muskrat saved us from the bots 🤡",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1472316226495995906",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "L DIABLO 🇮🇹",
+        "screen_name": "bigcatalex00"
+      },
+      {
+        "id_str": "1262117904612376577",
+        "indices": [
+          14,
+          26
+        ],
+        "name": "Talos Valcoran",
+        "screen_name": "Revenant300"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

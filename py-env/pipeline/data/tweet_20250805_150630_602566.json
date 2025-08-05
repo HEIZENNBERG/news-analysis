@@ -1,0 +1,188 @@
+{
+  "type": "tweet",
+  "id": "1952748034929930687",
+  "url": "https://x.com/ai_diep7355/status/1952748034929930687",
+  "twitterUrl": "https://twitter.com/ai_diep7355/status/1952748034929930687",
+  "text": "Massage in\n\nriyadh 24/24\n\nhttps://t.co/2YVyk6Ccpo\n\n#riyadh\n🚌🎚️8126🚻🇧🇫 https://t.co/BPf61YWlUX",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:26 +0000 2025",
+  "lang": "hi",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952748034929930687",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "ai_diep7355",
+    "url": "https://x.com/ai_diep7355",
+    "twitterUrl": "https://twitter.com/ai_diep7355",
+    "id": "1915993184796315648",
+    "name": "Lagan Moses",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1944794692451008513/kyjThjmp_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 27,
+    "following": 19,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 26 04:55:51 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 36,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4184,
+    "statusesCount": 4240,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/BPf61YWlUX",
+        "expanded_url": "https://twitter.com/ai_diep7355/status/1952748034929930687/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 270,
+                "w": 270,
+                "x": 134,
+                "y": 38
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 270,
+                "w": 270,
+                "x": 134,
+                "y": 38
+              }
+            ]
+          }
+        },
+        "id_str": "1952747983826812928",
+        "indices": [
+          70,
+          93
+        ],
+        "media_key": "3_1952747983826812928",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjfH324AACgACGxmN/d3XMb8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmN8ffbgAAKAAIbGY393dcxvwAA",
+            "media_key": "3_1952747983826812928"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmN8ffbgAAbS9Y.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 305,
+              "w": 545,
+              "x": 0,
+              "y": 35
+            },
+            {
+              "h": 545,
+              "w": 545,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 621,
+              "w": 545,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 680,
+              "w": 340,
+              "x": 119,
+              "y": 0
+            },
+            {
+              "h": 680,
+              "w": 545,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 680,
+          "width": 545
+        },
+        "sizes": {
+          "large": {
+            "h": 680,
+            "w": 545
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/BPf61YWlUX"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          51,
+          58
+        ],
+        "text": "riyadh"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "Wa.me/966546094637",
+        "expanded_url": "http://Wa.me/966546094637",
+        "indices": [
+          26,
+          49
+        ],
+        "url": "https://t.co/2YVyk6Ccpo"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

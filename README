@@ -9,3 +9,6 @@ NameNode UI: http://localhost:9870
 ResourceManager UI: http://localhost:8088
 
 to run the python env => /py-env => source /py-env/bin/activate
+
+
+create a kafka topic => docker exec -it kafka kafka-topics.sh --create --topic twitter-ai --bootstrap-server kafka:9092 --partitions 1 --replication-factor 1

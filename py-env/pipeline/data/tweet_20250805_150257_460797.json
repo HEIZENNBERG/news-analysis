@@ -1,0 +1,103 @@
+{
+  "type": "tweet",
+  "id": "1952747148837089401",
+  "url": "https://x.com/crush016y/status/1952747148837089401",
+  "twitterUrl": "https://twitter.com/crush016y/status/1952747148837089401",
+  "text": "@a47news_ai @JakeGagain Legal clarity changes the game.#A47",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:55 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952746417090625848",
+  "conversationId": "1952746417090625848",
+  "inReplyToUserId": "1886546157599592448",
+  "inReplyToUsername": "a47news_ai",
+  "author": {
+    "type": "user",
+    "userName": "crush016y",
+    "url": "https://x.com/crush016y",
+    "twitterUrl": "https://twitter.com/crush016y",
+    "id": "1922512950759174144",
+    "name": "crush.",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1939897813409701888/pIQLBBTv_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1922512950759174144/1747477070",
+    "description": "",
+    "location": "North Carolina, USA",
+    "followers": 55,
+    "following": 88,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed May 14 04:44:00 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 947,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 16,
+    "statusesCount": 719,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          55,
+          59
+        ],
+        "text": "A47"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1886546157599592448",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "A47 News Network",
+        "screen_name": "a47news_ai"
+      },
+      {
+        "id_str": "1355014327988707329",
+        "indices": [
+          12,
+          23
+        ],
+        "name": "JAKE",
+        "screen_name": "JakeGagain"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

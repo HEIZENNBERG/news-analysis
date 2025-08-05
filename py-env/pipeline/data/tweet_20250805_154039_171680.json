@@ -1,0 +1,631 @@
+{
+  "type": "tweet",
+  "id": "1952756624361173346",
+  "url": "https://x.com/AttorneyFresno/status/1952756624361173346",
+  "twitterUrl": "https://twitter.com/AttorneyFresno/status/1952756624361173346",
+  "text": "26 new bills were just signed into California law.\n\nhttps://t.co/0zTPm7Ve9n\n\n#CaliforniaLaw #LawNews #NewLaws #CriminalLaw #CriminalDefenseLawyer #DefenseAttorney",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:40:34 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952756624361173346",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "AttorneyFresno",
+    "url": "https://x.com/AttorneyFresno",
+    "twitterUrl": "https://twitter.com/AttorneyFresno",
+    "id": "2155556012",
+    "name": "Michael Mitchell",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/378800000660366924/9217ed7fc04cc3856f0e25ead010f33c_normal.jpeg",
+    "coverPicture": "",
+    "description": "",
+    "location": "Fresno, California",
+    "followers": 1239,
+    "following": 978,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 25 20:07:46 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 567,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1247,
+    "statusesCount": 7344,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "California DUI and Criminal Attorney Serving: \n\nCentral Valley • Fresno • Merced • Madera • Tulare • Visalia • Hanford",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "duicentralvalley.com",
+              "expanded_url": "http://www.duicentralvalley.com/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ITsHyRUloU"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 150,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=280x150",
+            "width": 267
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "From high living costs and housing to access to health care, the new legislation aims to address statewide issues."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "www.sacbee.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 320,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=800x320_1",
+            "width": 569
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 641,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=orig",
+            "width": 1140
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "14411304"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 81,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=144x144",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 641,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=png&name=2048x2048_2_exp",
+            "width": 1140
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 641,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=orig",
+            "width": 1140
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_alt_text",
+        "value": {
+          "string_value": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS"
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "sacbee.com"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_alt_text",
+        "value": {
+          "string_value": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS"
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 32.56,
+                "rgb": {
+                  "blue": 209,
+                  "green": 156,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 30.28,
+                "rgb": {
+                  "blue": 174,
+                  "green": 178,
+                  "red": 181
+                }
+              },
+              {
+                "percentage": 20.04,
+                "rgb": {
+                  "blue": 13,
+                  "green": 31,
+                  "red": 26
+                }
+              },
+              {
+                "percentage": 4.72,
+                "rgb": {
+                  "blue": 18,
+                  "green": 56,
+                  "red": 48
+                }
+              },
+              {
+                "percentage": 3.37,
+                "rgb": {
+                  "blue": 88,
+                  "green": 108,
+                  "red": 115
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Gavin Newsom just signed 26 new bills into California law. Here’s what they do"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 32.56,
+                "rgb": {
+                  "blue": 209,
+                  "green": 156,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 30.28,
+                "rgb": {
+                  "blue": 174,
+                  "green": 178,
+                  "red": 181
+                }
+              },
+              {
+                "percentage": 20.04,
+                "rgb": {
+                  "blue": 13,
+                  "green": 31,
+                  "red": 26
+                }
+              },
+              {
+                "percentage": 4.72,
+                "rgb": {
+                  "blue": 18,
+                  "green": 56,
+                  "red": 48
+                }
+              },
+              {
+                "percentage": 3.37,
+                "rgb": {
+                  "blue": 88,
+                  "green": 108,
+                  "red": 115
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 641,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=png&name=2048x2048_2_exp",
+            "width": 1140
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 32.56,
+                "rgb": {
+                  "blue": 209,
+                  "green": 156,
+                  "red": 130
+                }
+              },
+              {
+                "percentage": 30.28,
+                "rgb": {
+                  "blue": 174,
+                  "green": 178,
+                  "red": 181
+                }
+              },
+              {
+                "percentage": 20.04,
+                "rgb": {
+                  "blue": 13,
+                  "green": 31,
+                  "red": 26
+                }
+              },
+              {
+                "percentage": 4.72,
+                "rgb": {
+                  "blue": 18,
+                  "green": 56,
+                  "red": 48
+                }
+              },
+              {
+                "percentage": 3.37,
+                "rgb": {
+                  "blue": 88,
+                  "green": 108,
+                  "red": 115
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 641,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=png&name=2048x2048_2_exp",
+            "width": 1140
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/0zTPm7Ve9n"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "alt": "A view of the Capitol Building in Sacramento, California. BRANDON BOURDAGES TNS",
+            "height": 641,
+            "url": "https://pbs.twimg.com/card_img/1952744278243053568/kNEtGjUq?format=jpg&name=orig",
+            "width": 1140
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/0zTPm7Ve9n",
+    "user_refs_results": [
+      {
+        "rest_id": "14411304",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 1092
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1421538328021721089/oMTaYh9R_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/14411304/1478682740"
+          },
+          "core": {
+            "created_at": "Wed Apr 16 18:44:06 +0000 2008",
+            "name": "The Sacramento Bee",
+            "screen_name": "sacbee_news"
+          },
+          "dm_permissions": {
+            "can_dm": true
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "Sacramento, CA"
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Official account of The Sacramento Bee in California. News, sports, entertainment, politics & more. #ReadLocal\n\nSubscribe today: https://t.co/segasrFnvG",
+            "entities": {
+              "description": {
+                "hashtags": [
+                  {
+                    "indices": [
+                      100,
+                      110
+                    ],
+                    "text": "ReadLocal"
+                  }
+                ],
+                "urls": [
+                  {
+                    "display_url": "sacbee.com/subscribe",
+                    "expanded_url": "http://sacbee.com/subscribe",
+                    "indices": [
+                      129,
+                      152
+                    ],
+                    "url": "https://t.co/segasrFnvG"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "sacbee.com",
+                    "expanded_url": "http://www.sacbee.com",
+                    "indices": [
+                      0,
+                      22
+                    ],
+                    "url": "http://t.co/UZLsyykb0p"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "024A82"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 258090,
+            "following": 78
+          },
+          "relationship_perspectives": {},
+          "rest_id": "14411304",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 20406,
+            "tweets": 409598
+          },
+          "website": {
+            "url": "http://t.co/UZLsyykb0p"
+          },
+          "verification": {
+            "is_blue_verified": false,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          77,
+          91
+        ],
+        "text": "CaliforniaLaw"
+      },
+      {
+        "indices": [
+          92,
+          100
+        ],
+        "text": "LawNews"
+      },
+      {
+        "indices": [
+          101,
+          109
+        ],
+        "text": "NewLaws"
+      },
+      {
+        "indices": [
+          110,
+          122
+        ],
+        "text": "CriminalLaw"
+      },
+      {
+        "indices": [
+          123,
+          145
+        ],
+        "text": "CriminalDefenseLawyer"
+      },
+      {
+        "indices": [
+          146,
+          162
+        ],
+        "text": "DefenseAttorney"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "sacbee.com/news/californi…",
+        "expanded_url": "https://www.sacbee.com/news/california/article311555683.html",
+        "indices": [
+          52,
+          75
+        ],
+        "url": "https://t.co/0zTPm7Ve9n"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

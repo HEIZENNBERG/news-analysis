@@ -1,0 +1,258 @@
+{
+  "type": "tweet",
+  "id": "1952747412239372367",
+  "url": "https://x.com/Z0MBIFI3DFL3SH/status/1952747412239372367",
+  "twitterUrl": "https://twitter.com/Z0MBIFI3DFL3SH/status/1952747412239372367",
+  "text": "sinto q tem coisa mal contada ai",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:58 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747412239372367",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Z0MBIFI3DFL3SH",
+    "url": "https://x.com/Z0MBIFI3DFL3SH",
+    "twitterUrl": "https://twitter.com/Z0MBIFI3DFL3SH",
+    "id": "1907110377185320960",
+    "name": "Phoenix xixico",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1917672681089929216/wBk4YYE3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1907110377185320960/1747147733",
+    "description": "",
+    "location": "",
+    "followers": 47,
+    "following": 357,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Apr 01 16:39:44 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 53230,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 120,
+    "statusesCount": 3509,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1936572999898976566"
+    ],
+    "profile_bio": {
+      "description": "Gosto de cachorro, música e homem peludo bombado mas isso não vem ao caso",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "last.fm/user/chinchill…",
+              "expanded_url": "http://last.fm/user/chinchillophone",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Sgn611pOxO"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952549901143052794",
+    "url": "https://x.com/jkkcarol/status/1952549901143052794",
+    "twitterUrl": "https://twitter.com/jkkcarol/status/1952549901143052794",
+    "text": "🚨 ESTOU DESESPERADA com o descaso da @LATAM_BRA\nTenho um golden retriever de 3 anos e uma passagem comprada de Salvador para SP nesta quarta (06/08).\nSegui todas as regras, me informei antes, fui pessoalmente ao aeroporto. E agora a LATAM me negou o embarque do meu cachorro. (+) https://t.co/KUW1IYqjfz",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1218,
+    "replyCount": 565,
+    "likeCount": 19490,
+    "quoteCount": 309,
+    "viewCount": 1218522,
+    "createdAt": "Tue Aug 05 01:59:07 +0000 2025",
+    "lang": "pt",
+    "bookmarkCount": 834,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952549901143052794",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "jkkcarol",
+      "url": "https://x.com/jkkcarol",
+      "twitterUrl": "https://twitter.com/jkkcarol",
+      "id": "1244645071477186562",
+      "name": "carol",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1667196304894701570/qrzxLHBv_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1244645071477186562/1672205488",
+      "description": "",
+      "location": "são paulo",
+      "followers": 555,
+      "following": 558,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": false,
+      "createdAt": "Mon Mar 30 15:18:12 +0000 2020",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 49280,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 1564,
+      "statusesCount": 19609,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "para-raio de problema",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/carol-ca",
+                "expanded_url": "https://www.last.fm/user/carol-ca",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/91Q52rFtuN"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/KUW1IYqjfz",
+          "expanded_url": "https://twitter.com/jkkcarol/status/1952549901143052794/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1952549892745773056",
+          "indices": [
+            280,
+            303
+          ],
+          "media_key": "3_1952549892745773056",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsY2chLVsAACgACGxjZyj/bEfoAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxjZyEtWwAAKAAIbGNnKP9sR+gAA",
+              "media_key": "3_1952549892745773056"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxjZyEtWwAA_mUy.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 645,
+                "w": 1152,
+                "x": 0,
+                "y": 548
+              },
+              {
+                "h": 1152,
+                "w": 1152,
+                "x": 0,
+                "y": 294
+              },
+              {
+                "h": 1313,
+                "w": 1152,
+                "x": 0,
+                "y": 214
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 128,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1152,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 1152
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 1152
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/KUW1IYqjfz"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "20584172",
+          "indices": [
+            37,
+            47
+          ],
+          "name": "LATAM Airlines Brasil",
+          "screen_name": "LATAM_BRA"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747713486811280",
+  "url": "https://x.com/livia38723014/status/1952747713486811280",
+  "twitterUrl": "https://twitter.com/livia38723014/status/1952747713486811280",
+  "text": "@Gonaga1Mc @rickbitch Mas aí então tem q colocar q n é um remake e sim uma inspiração na original pq houve uma descaracterização de todos personagens Mudou a personalidade N é qtao de ser boa ou ruim É q é outra personagem inspirara na de 88",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:09 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952668020007977193",
+  "conversationId": "1952555557765681240",
+  "inReplyToUserId": "1433300564150992896",
+  "inReplyToUsername": "Gonaga1Mc",
+  "author": {
+    "type": "user",
+    "userName": "livia38723014",
+    "url": "https://x.com/livia38723014",
+    "twitterUrl": "https://twitter.com/livia38723014",
+    "id": "1117048911779254273",
+    "name": "FridaExplica",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1519493803681406976/W2fAmxUd_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1117048911779254273/1723337013",
+    "description": "",
+    "location": "",
+    "followers": 577,
+    "following": 1223,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Apr 13 12:56:29 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9300,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3075,
+    "statusesCount": 26626,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "@LíviaBulhões",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1433300564150992896",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Caneta esferográfica azul",
+        "screen_name": "Gonaga1Mc"
+      },
+      {
+        "id_str": "32925792",
+        "indices": [
+          11,
+          21
+        ],
+        "name": "Rick B. 🏳️‍🌈",
+        "screen_name": "rickbitch"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

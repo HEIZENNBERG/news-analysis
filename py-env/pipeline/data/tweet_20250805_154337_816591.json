@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952757370284540160",
+  "url": "https://x.com/Benclark1426389/status/1952757370284540160",
+  "twitterUrl": "https://twitter.com/Benclark1426389/status/1952757370284540160",
+  "text": "@ImmortanZit @DOGE__news Dear black people fo",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:43:32 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952177922565177719",
+  "conversationId": "1952069454847738139",
+  "inReplyToUserId": "796216874627305472",
+  "inReplyToUsername": "ImmortanZit",
+  "author": {
+    "type": "user",
+    "userName": "Benclark1426389",
+    "url": "https://x.com/Benclark1426389",
+    "twitterUrl": "https://twitter.com/Benclark1426389",
+    "id": "1765890331445166081",
+    "name": "Ben clark",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1765890456326488066/yiyFL7YY_normal.png",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 52,
+    "following": 50,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 08 00:01:07 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8958,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 14,
+    "statusesCount": 1014,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "796216874627305472",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Immor Tanzit (She/Her/Yeye)",
+        "screen_name": "ImmortanZit"
+      },
+      {
+        "id_str": "1476449188770729984",
+        "indices": [
+          13,
+          24
+        ],
+        "name": "(news) DOGE",
+        "screen_name": "DOGE__news"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

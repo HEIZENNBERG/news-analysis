@@ -1,0 +1,187 @@
+{
+  "type": "tweet",
+  "id": "1952754225081106517",
+  "url": "https://x.com/KarlContrarian/status/1952754225081106517",
+  "twitterUrl": "https://twitter.com/KarlContrarian/status/1952754225081106517",
+  "text": "That's how it's done in MSM to distort the news.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:31:02 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952754225081106517",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "KarlContrarian",
+    "url": "https://x.com/KarlContrarian",
+    "twitterUrl": "https://twitter.com/KarlContrarian",
+    "id": "1599488026752606208",
+    "name": "Karl Holtz",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1599488137230573568/MzaooaDk_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1599488026752606208/1732386973",
+    "description": "",
+    "location": "",
+    "followers": 766,
+    "following": 594,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 04 19:37:43 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2830,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1118,
+    "statusesCount": 10191,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952723984774004795",
+    "url": "https://x.com/bexalalala/status/1952723984774004795",
+    "twitterUrl": "https://twitter.com/bexalalala/status/1952723984774004795",
+    "text": "@RealSLokhova This video goes hand in hand with all left wing media reporting. LISTEN to the words they use when reporting. 🔊",
+    "source": "Twitter for iPhone",
+    "retweetCount": 26,
+    "replyCount": 2,
+    "likeCount": 95,
+    "quoteCount": 3,
+    "viewCount": 2198,
+    "createdAt": "Tue Aug 05 13:30:52 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 8,
+    "isReply": true,
+    "inReplyToId": "1952575795630940340",
+    "conversationId": "1952575795630940340",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "bexalalala",
+      "url": "https://x.com/bexalalala",
+      "twitterUrl": "https://twitter.com/bexalalala",
+      "id": "1170414410164244481",
+      "name": "Bexalalala",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1653793652940972032/GUGYDouf_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1170414410164244481/1737610445",
+      "description": "",
+      "location": "Virginia, USA",
+      "followers": 1638,
+      "following": 2036,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Sep 07 19:12:07 +0000 2019",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 366427,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 802,
+      "statusesCount": 75893,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1895353731799220557"
+      ],
+      "profile_bio": {
+        "description": "Hard working, goal oriented, successful business woman, Mom and friend 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸I’m back! been banned since the great Twitter purge of 2021.",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "860751908943917056",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "Svetlana Lokhova",
+          "screen_name": "RealSLokhova"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "type": "tweet",
+      "id": "1952701025841762647",
+      "url": "",
+      "twitterUrl": "",
+      "text": "",
+      "source": "Twitter for iPhone",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "createdAt": "",
+      "lang": "",
+      "bookmarkCount": 0,
+      "isReply": false,
+      "inReplyToId": null,
+      "conversationId": "",
+      "inReplyToUserId": null,
+      "inReplyToUsername": null,
+      "author": {},
+      "extendedEntities": {},
+      "card": null,
+      "place": {},
+      "entities": {},
+      "quoted_tweet": null,
+      "retweeted_tweet": null,
+      "article": null
+    },
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

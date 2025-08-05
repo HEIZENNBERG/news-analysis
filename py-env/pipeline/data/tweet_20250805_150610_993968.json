@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747957909881252",
+  "url": "https://x.com/AlarmesJay/status/1952747957909881252",
+  "twitterUrl": "https://twitter.com/AlarmesJay/status/1952747957909881252",
+  "text": "@xutonagramatica @PartidoCHEGA Esse celular aí deve ser de algum amante da sua mãe lá da zona que ela frequenta, manezão 🤣🤣🤣",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:08 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747388034056331",
+  "conversationId": "1952428093659844697",
+  "inReplyToUserId": "1849441633739083776",
+  "inReplyToUsername": "xutonagramatica",
+  "author": {
+    "type": "user",
+    "userName": "AlarmesJay",
+    "url": "https://x.com/AlarmesJay",
+    "twitterUrl": "https://twitter.com/AlarmesJay",
+    "id": "1132690534315827200",
+    "name": "Jay-Síntese Alarmes",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1651522911209922563/8leWmch0_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1132690534315827200/1559404190",
+    "description": "",
+    "location": "",
+    "followers": 63,
+    "following": 160,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun May 26 16:50:42 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13104,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 772,
+    "statusesCount": 5131,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Alarmes Look-Out",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1849441633739083776",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Corrector Ortopédico",
+        "screen_name": "xutonagramatica"
+      },
+      {
+        "id_str": "1070088307894349825",
+        "indices": [
+          17,
+          30
+        ],
+        "name": "Partido CHEGA 🇵🇹",
+        "screen_name": "PartidoCHEGA"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,73 @@
+{
+  "type": "tweet",
+  "id": "1952747962095853829",
+  "url": "https://x.com/AmalS1426785/status/1952747962095853829",
+  "twitterUrl": "https://twitter.com/AmalS1426785/status/1952747962095853829",
+  "text": "🚀 Fraction AI is rewriting the rules of AI x Web3\nWhy just use AI when you can build it, train it, and profit from it? 🧠💸\nFraction AI lets you launch your own AI agents, compete in decentralized arenas, and earn rewards.\nEarly adopters aren't just users — they're pioneers.🔥",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:09 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747962095853829",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "AmalS1426785",
+    "url": "https://x.com/AmalS1426785",
+    "twitterUrl": "https://twitter.com/AmalS1426785",
+    "id": "1877984417656012800",
+    "name": "Amal | 𝔽rAI",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1918694848108126208/rtJGLb5H_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1877984417656012800/1739329095",
+    "description": "",
+    "location": "",
+    "followers": 258,
+    "following": 366,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 11 07:42:48 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 298,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1,
+    "statusesCount": 291,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

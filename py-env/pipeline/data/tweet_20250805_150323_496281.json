@@ -1,0 +1,100 @@
+{
+  "type": "tweet",
+  "id": "1952747253585633703",
+  "url": "https://x.com/Bala_ibb/status/1952747253585633703",
+  "twitterUrl": "https://twitter.com/Bala_ibb/status/1952747253585633703",
+  "text": "@Yarm_AI gMoney",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:20 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952611462901584272",
+  "conversationId": "1952611462901584272",
+  "inReplyToUserId": "1935777349553053696",
+  "inReplyToUsername": "Yarm_AI",
+  "author": {
+    "type": "user",
+    "userName": "Bala_ibb",
+    "url": "https://x.com/Bala_ibb",
+    "twitterUrl": "https://twitter.com/Bala_ibb",
+    "id": "1054090139893407744",
+    "name": "Bala 👽",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1930148433630810112/xDjJHTeX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1054090139893407744/1747550349",
+    "description": "",
+    "location": "Santorini, Greece",
+    "followers": 14090,
+    "following": 1010,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Oct 21 19:20:48 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 105494,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3673,
+    "statusesCount": 54784,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1829852408513483084"
+    ],
+    "profile_bio": {
+      "description": "All I do is show up and talk about crypto ◇ Bala.ton",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/Tonfrica",
+              "expanded_url": "https://t.me/Tonfrica",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2K4Cvicztv"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1935777349553053696",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Yarm",
+        "screen_name": "Yarm_AI"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

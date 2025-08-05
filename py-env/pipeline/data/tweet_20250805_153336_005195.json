@@ -1,0 +1,666 @@
+{
+  "type": "tweet",
+  "id": "1952754847364817113",
+  "url": "https://x.com/sr_ktd/status/1952754847364817113",
+  "twitterUrl": "https://twitter.com/sr_ktd/status/1952754847364817113",
+  "text": "過去20年で熱中症死亡者数が約5倍に増加　温暖化で日本の“暑さ”に変化 - ウェザーニュース https://t.co/VTBuUusacz\n\n“緩和策が目標通りに進んだとしても、 猛暑のリスクは今よりも深刻化する可能性が高いですので、 緩和策と適応策の両輪で臨むことが重要です。”",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:33:30 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952754847364817113",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "sr_ktd",
+    "url": "https://x.com/sr_ktd",
+    "twitterUrl": "https://twitter.com/sr_ktd",
+    "id": "2428348369",
+    "name": "北出栞 siori kitade",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1495742936759562245/nybOtwsZ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2428348369/1711842631",
+    "description": "",
+    "location": "",
+    "followers": 3591,
+    "following": 641,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Apr 05 05:16:34 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1100,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4391,
+    "statusesCount": 102965,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1947304549045158388"
+    ],
+    "profile_bio": {
+      "description": "作家・インタビュアー・編集者｜著書『「世界の終わり」を紡ぐあなたへ』（太田出版）｜仕事歴 https://t.co/fK98Fiubl0｜📧 siori.kitade@gmail.com｜🏠 https://t.co/106GlCq63U｜icon: @uuko_realie",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "foriio.com/srktd",
+              "expanded_url": "https://www.foriio.com/srktd",
+              "indices": [
+                45,
+                68
+              ],
+              "url": "https://t.co/fK98Fiubl0"
+            },
+            {
+              "display_url": "ferne-web.com",
+              "expanded_url": "https://ferne-web.com",
+              "indices": [
+                96,
+                119
+              ],
+              "url": "https://t.co/106GlCq63U"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                126,
+                138
+              ],
+              "name": "",
+              "screen_name": "uuko_realie"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "note.com/sr_ktd",
+              "expanded_url": "https://note.com/sr_ktd",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/v9NSZEHZso"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 150,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=280x150",
+            "width": 200
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "今年の6月は梅雨らしくない暑さが続きましたが、この高温は地球温暖化による気温の底上げがなければ起こり得なかったことだと指摘されています。変化する\"暑さ\"は熱中症をはじめ、さまざまな健康リスクを引き起こす可能性があります。"
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "weathernews.jp"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 300,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=400x400",
+            "width": 400
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 600,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=orig",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "712914636203433984"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 75,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=100x100",
+            "width": 100
+          }
+        }
+      },
+      {
+        "key": "creator",
+        "value": {
+          "user_value": {
+            "id_str": "712914636203433984"
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 600,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=png&name=2048x2048_2_exp",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 600,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=orig",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "weathernews.jp"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 41.09,
+                "rgb": {
+                  "blue": 41,
+                  "green": 38,
+                  "red": 37
+                }
+              },
+              {
+                "percentage": 40.53,
+                "rgb": {
+                  "blue": 154,
+                  "green": 145,
+                  "red": 144
+                }
+              },
+              {
+                "percentage": 4.02,
+                "rgb": {
+                  "blue": 111,
+                  "green": 84,
+                  "red": 62
+                }
+              },
+              {
+                "percentage": 3.46,
+                "rgb": {
+                  "blue": 108,
+                  "green": 115,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 1.61,
+                "rgb": {
+                  "blue": 228,
+                  "green": 224,
+                  "red": 225
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "過去20年で熱中症死亡者数が約5倍に増加　温暖化で日本の“暑さ”に変化 - ウェザーニュース"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 41.09,
+                "rgb": {
+                  "blue": 41,
+                  "green": 38,
+                  "red": 37
+                }
+              },
+              {
+                "percentage": 40.53,
+                "rgb": {
+                  "blue": 154,
+                  "green": 145,
+                  "red": 144
+                }
+              },
+              {
+                "percentage": 4.02,
+                "rgb": {
+                  "blue": 111,
+                  "green": 84,
+                  "red": 62
+                }
+              },
+              {
+                "percentage": 3.46,
+                "rgb": {
+                  "blue": 108,
+                  "green": 115,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 1.61,
+                "rgb": {
+                  "blue": 228,
+                  "green": 224,
+                  "red": 225
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 600,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=png&name=2048x2048_2_exp",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 41.09,
+                "rgb": {
+                  "blue": 41,
+                  "green": 38,
+                  "red": 37
+                }
+              },
+              {
+                "percentage": 40.53,
+                "rgb": {
+                  "blue": 154,
+                  "green": 145,
+                  "red": 144
+                }
+              },
+              {
+                "percentage": 4.02,
+                "rgb": {
+                  "blue": 111,
+                  "green": 84,
+                  "red": 62
+                }
+              },
+              {
+                "percentage": 3.46,
+                "rgb": {
+                  "blue": 108,
+                  "green": 115,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 1.61,
+                "rgb": {
+                  "blue": 228,
+                  "green": 224,
+                  "red": 225
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 600,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=png&name=2048x2048_2_exp",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/VTBuUusacz"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 600,
+            "url": "https://pbs.twimg.com/card_img/1952461977386958848/cNlTrFV1?format=jpg&name=orig",
+            "width": 800
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/VTBuUusacz",
+    "user_refs_results": [
+      {
+        "rest_id": "712914636203433984",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 663
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1605340045442879488/q96-KnC-_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/712914636203433984/1717828463"
+          },
+          "core": {
+            "created_at": "Thu Mar 24 08:11:09 +0000 2016",
+            "name": "ウェザーニュース",
+            "screen_name": "wni_jp"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "気象情報会社ウェザーニューズ(WNI)公式アカウント　\n▼ウェザーニュースは予報精度No1！熟練の気象予報士&先端技術が作る高精度な天気予報を最速でお届けします！　\n▼天気アプリ「ウェザーニュース」は台風や地震速報通知など防災情報も充実（↓リンクから無料DL）",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "weathernews.jp/s/download/wea…",
+                    "expanded_url": "https://weathernews.jp/s/download/weathernewstouch.html?fm=twitter_w",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/iuL0eRmgSg"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "0C419A"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 804074,
+            "following": 279
+          },
+          "relationship_perspectives": {},
+          "rest_id": "712914636203433984",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 59909,
+            "tweets": 70122
+          },
+          "website": {
+            "url": "https://t.co/iuL0eRmgSg"
+          },
+          "verification": {
+            "is_blue_verified": false,
+            "verified_type": "Business"
+          }
+        }
+      },
+      {
+        "rest_id": "712914636203433984",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 663
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1605340045442879488/q96-KnC-_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/712914636203433984/1717828463"
+          },
+          "core": {
+            "created_at": "Thu Mar 24 08:11:09 +0000 2016",
+            "name": "ウェザーニュース",
+            "screen_name": "wni_jp"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": ""
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "気象情報会社ウェザーニューズ(WNI)公式アカウント　\n▼ウェザーニュースは予報精度No1！熟練の気象予報士&先端技術が作る高精度な天気予報を最速でお届けします！　\n▼天気アプリ「ウェザーニュース」は台風や地震速報通知など防災情報も充実（↓リンクから無料DL）",
+            "entities": {
+              "description": {},
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "weathernews.jp/s/download/wea…",
+                    "expanded_url": "https://weathernews.jp/s/download/weathernewstouch.html?fm=twitter_w",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/iuL0eRmgSg"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "0C419A"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 804074,
+            "following": 279
+          },
+          "relationship_perspectives": {},
+          "rest_id": "712914636203433984",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 59909,
+            "tweets": 70122
+          },
+          "website": {
+            "url": "https://t.co/iuL0eRmgSg"
+          },
+          "verification": {
+            "is_blue_verified": false,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "weathernews.jp/news/202507/25…",
+        "expanded_url": "https://weathernews.jp/news/202507/250166/",
+        "indices": [
+          47,
+          70
+        ],
+        "url": "https://t.co/VTBuUusacz"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

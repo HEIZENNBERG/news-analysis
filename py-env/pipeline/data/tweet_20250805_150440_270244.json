@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747572247814244",
+  "url": "https://x.com/duckpheantom/status/1952747572247814244",
+  "twitterUrl": "https://twitter.com/duckpheantom/status/1952747572247814244",
+  "text": "@ForscherWeb @AgentXYZ_ai Mind-blowing tech right here.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:36 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952576494280053200",
+  "conversationId": "1952576494280053200",
+  "inReplyToUserId": "1653029963866468353",
+  "inReplyToUsername": "ForscherWeb",
+  "author": {
+    "type": "user",
+    "userName": "duckpheantom",
+    "url": "https://x.com/duckpheantom",
+    "twitterUrl": "https://twitter.com/duckpheantom",
+    "id": "1908606706319306754",
+    "name": "Eland Vesh",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1908606834182615040/gSatwS1T_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1908606706319306754/1746879315",
+    "description": "",
+    "location": "",
+    "followers": 30,
+    "following": 89,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 05 19:44:40 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 382,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4,
+    "statusesCount": 530,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "From mint to moon 🌕 | NFT & crypto marketing 🖼️🪙",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1653029963866468353",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Forscher",
+        "screen_name": "ForscherWeb"
+      },
+      {
+        "id_str": "1503340984058458113",
+        "indices": [
+          13,
+          25
+        ],
+        "name": "AgentXYZ | Trading Terminal 🔺",
+        "screen_name": "AgentXYZ_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

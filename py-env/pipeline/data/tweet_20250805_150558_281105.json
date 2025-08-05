@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747904885477721",
+  "url": "https://x.com/Konori_orih/status/1952747904885477721",
+  "twitterUrl": "https://twitter.com/Konori_orih/status/1952747904885477721",
+  "text": "@XiEStarGuardian Aí quando voltaram  e a gente cobrou, eles devolveram o valor pago a mais pra todo mundo que pediu o ressarcimentokkkkk, inclusive usei esses wc pra ajudar a comprar as skins do Settkkkk",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:55 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747548478722397",
+  "conversationId": "1952703613966643300",
+  "inReplyToUserId": "1362540865785372677",
+  "inReplyToUsername": "Konori_orih",
+  "author": {
+    "type": "user",
+    "userName": "Konori_orih",
+    "url": "https://x.com/Konori_orih",
+    "twitterUrl": "https://twitter.com/Konori_orih",
+    "id": "1362540865785372677",
+    "name": "Konorih🐻‍❄️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1896602929785643008/WrkqxHS-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1362540865785372677/1735816706",
+    "description": "",
+    "location": "Belém, Brasil",
+    "followers": 24,
+    "following": 78,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 18 23:14:41 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9374,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 177,
+    "statusesCount": 2296,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "•Biomediciner 🔬 •Fã DC Comics (principalmente Jason Todd) 🦇 •Amante de bichinhos 🐱 •24y F cis • VOLTA PRA MIM CAPITANOOOO 😭🖤",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1142926043558420482",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "謝傲揚",
+        "screen_name": "XiEStarGuardian"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,184 @@
+{
+  "type": "tweet",
+  "id": "1952747771926110271",
+  "url": "https://x.com/Ibrahim52365241/status/1952747771926110271",
+  "twitterUrl": "https://twitter.com/Ibrahim52365241/status/1952747771926110271",
+  "text": "Developer DM him if you interested we want Allora AI to be built differently",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:23 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747771926110271",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Ibrahim52365241",
+    "url": "https://x.com/Ibrahim52365241",
+    "twitterUrl": "https://twitter.com/Ibrahim52365241",
+    "id": "1677445535119073281",
+    "name": "Freedom (Ø,G)꧁IP꧂",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1849946308783558656/n3C-FkC1_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1677445535119073281/1729896657",
+    "description": "",
+    "location": "",
+    "followers": 336,
+    "following": 1924,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 07 22:32:49 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3023,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 219,
+    "statusesCount": 9421,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1948663962968482150"
+    ],
+    "profile_bio": {
+      "description": "community moderator/ use my free time to farm airdrop and do researcher ❤️students @ngnarewaweb3  ⌘ UP7EMB4U",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                83,
+                96
+              ],
+              "name": "",
+              "screen_name": "ngnarewaweb3"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952715026751488293",
+    "url": "https://x.com/roshpatel_/status/1952715026751488293",
+    "twitterUrl": "https://twitter.com/roshpatel_/status/1952715026751488293",
+    "text": "developers are the backbone to any crypto community, if you’re building or interested in building AI agents for financial applications, hit me up or tag people below",
+    "source": "Twitter for iPhone",
+    "retweetCount": 6,
+    "replyCount": 30,
+    "likeCount": 52,
+    "quoteCount": 1,
+    "viewCount": 1018,
+    "createdAt": "Tue Aug 05 12:55:16 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 1,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952715026751488293",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "roshpatel_",
+      "url": "https://x.com/roshpatel_",
+      "twitterUrl": "https://twitter.com/roshpatel_",
+      "id": "1505981080565919749",
+      "name": "rosh",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1952269515225788416/xK98zR4l_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1505981080565919749/1746024490",
+      "description": "",
+      "location": "england",
+      "followers": 1670,
+      "following": 410,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Mon Mar 21 18:54:13 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 14990,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 72,
+      "statusesCount": 898,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {
+        "label": {
+          "badge": {
+            "url": "https://pbs.twimg.com/profile_images/1793726657783812096/sDRnXVCd_bigger.jpg"
+          },
+          "description": "Allora",
+          "url": {
+            "url": "https://twitter.com/AlloraNetwork",
+            "url_type": "DeepLink"
+          },
+          "user_label_type": "BusinessLabel",
+          "user_label_display_type": "Badge"
+        }
+      },
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "building @alloranetwork | decentralized maxi | opinions are my own",
+        "entities": {
+          "description": {
+            "user_mentions": [
+              {
+                "id_str": "0",
+                "indices": [
+                  9,
+                  23
+                ],
+                "name": "",
+                "screen_name": "alloranetwork"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

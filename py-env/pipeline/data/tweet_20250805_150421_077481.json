@@ -1,0 +1,148 @@
+{
+  "type": "tweet",
+  "id": "1952747499506069901",
+  "url": "https://x.com/ruledout_/status/1952747499506069901",
+  "twitterUrl": "https://twitter.com/ruledout_/status/1952747499506069901",
+  "text": "@farmercist_eth @cysic_xyz @boundless_xyz Cysic is positioning itself strong, being the hardware powerhouse but also integrating AI and memes. \n\nthey wanna do it all.\n\nwhile boundless offers a lot even from its ZK marketplace.\n\nboth will impact my life for sure",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:18 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952741864802603518",
+  "conversationId": "1952741864802603518",
+  "inReplyToUserId": "814264532419969026",
+  "inReplyToUsername": "farmercist_eth",
+  "author": {
+    "type": "user",
+    "userName": "ruledout_",
+    "url": "https://x.com/ruledout_",
+    "twitterUrl": "https://twitter.com/ruledout_",
+    "id": "414908989",
+    "name": "RuledOut xD",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1895015515304669184/Zchvk0Qd_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/414908989/1736109680",
+    "description": "",
+    "location": "United Kingdom",
+    "followers": 17856,
+    "following": 3794,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Nov 17 17:03:35 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 55428,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2448,
+    "statusesCount": 48371,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1900319901253791816"
+    ],
+    "profile_bio": {
+      "description": "Gamer | Co-founder: @hangoutdao_ | i do web3 contents & TA | connect, learn & grow | @ChimpersNFT | @0xAlphagems",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                20,
+                32
+              ],
+              "name": "",
+              "screen_name": "hangoutdao_"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                85,
+                97
+              ],
+              "name": "",
+              "screen_name": "ChimpersNFT"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                100,
+                112
+              ],
+              "name": "",
+              "screen_name": "0xAlphagems"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "twitch.tv/ruledout_",
+              "expanded_url": "https://www.twitch.tv/ruledout_",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/81AhnJtulx"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "814264532419969026",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Farmercist 👨‍🌾",
+        "screen_name": "farmercist_eth"
+      },
+      {
+        "id_str": "1539312810458370048",
+        "indices": [
+          16,
+          26
+        ],
+        "name": "Cysic",
+        "screen_name": "cysic_xyz"
+      },
+      {
+        "id_str": "1828125622750646272",
+        "indices": [
+          27,
+          41
+        ],
+        "name": "Boundless",
+        "screen_name": "boundless_xyz"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

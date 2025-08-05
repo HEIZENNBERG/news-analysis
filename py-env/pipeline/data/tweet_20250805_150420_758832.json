@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747501494100168",
+  "url": "https://x.com/MsilvaAD/status/1952747501494100168",
+  "twitterUrl": "https://twitter.com/MsilvaAD/status/1952747501494100168",
+  "text": "@bchartsnet Tem 4 clipes ai que so jesus na causa",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:19 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952738445580730748",
+  "conversationId": "1952738445580730748",
+  "inReplyToUserId": "788794760764985344",
+  "inReplyToUsername": "bchartsnet",
+  "author": {
+    "type": "user",
+    "userName": "MsilvaAD",
+    "url": "https://x.com/MsilvaAD",
+    "twitterUrl": "https://twitter.com/MsilvaAD",
+    "id": "1149136928756916225",
+    "name": "mathias",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1851616411006763008/DpGpK25l_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1149136928756916225/1705084154",
+    "description": "",
+    "location": "",
+    "followers": 2623,
+    "following": 2624,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Jul 11 02:02:48 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 46674,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3008,
+    "statusesCount": 58968,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1656331492123877377"
+    ],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "788794760764985344",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "BCharts",
+        "screen_name": "bchartsnet"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

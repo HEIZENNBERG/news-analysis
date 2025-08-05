@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747228444930117",
+  "url": "https://x.com/luizfernandoeu/status/1952747228444930117",
+  "twitterUrl": "https://twitter.com/luizfernandoeu/status/1952747228444930117",
+  "text": "@antoniotabet Quando é de estimação aí as coisas mudam kkk",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:14 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952740329364328949",
+  "conversationId": "1952740329364328949",
+  "inReplyToUserId": "9722452",
+  "inReplyToUsername": "antoniotabet",
+  "author": {
+    "type": "user",
+    "userName": "luizfernandoeu",
+    "url": "https://x.com/luizfernandoeu",
+    "twitterUrl": "https://twitter.com/luizfernandoeu",
+    "id": "566837894",
+    "name": "Luiz Fernando 🔴⚫️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1575298488539254784/UrltU70u_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/566837894/1573318943",
+    "description": "",
+    "location": "Rio de Janeiro, Brasil",
+    "followers": 131,
+    "following": 171,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 30 02:20:31 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 149974,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 101,
+    "statusesCount": 8270,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Um eterno aprendiz das escolhas que eu fiz",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "9722452",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Antonio Tabet",
+        "screen_name": "antoniotabet"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

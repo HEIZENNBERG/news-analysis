@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747249391251933",
+  "url": "https://x.com/Marcus013840/status/1952747249391251933",
+  "twitterUrl": "https://twitter.com/Marcus013840/status/1952747249391251933",
+  "text": "@MagnoSilvaMend1 @fplopez50 O PIB dos EUA é 14 vezes maior q o do Brasil, ou seja a dívida pode ser maior, o q tem q ser visto é a dívida em relação ao PIB, não é o Trump q tem medo de abandono do Dólar, QQ presidente vai defender sua moeda,aí é cada um q defenda seus interesses e arque com as consequências",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:19 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952729050897625333",
+  "conversationId": "1952412739722186850",
+  "inReplyToUserId": "1575599629118631936",
+  "inReplyToUsername": "MagnoSilvaMend1",
+  "author": {
+    "type": "user",
+    "userName": "Marcus013840",
+    "url": "https://x.com/Marcus013840",
+    "twitterUrl": "https://twitter.com/Marcus013840",
+    "id": "1823716914889166848",
+    "name": "Marcus",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1858156594501992448/rOsh1GIz_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "Belo Horizonte, Brasil",
+    "followers": 185,
+    "following": 250,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 14 13:43:05 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20491,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 8,
+    "statusesCount": 6077,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "'A espera de um milagre...",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1575599629118631936",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "mayor",
+        "screen_name": "MagnoSilvaMend1"
+      },
+      {
+        "id_str": "895070234977210368",
+        "indices": [
+          17,
+          27
+        ],
+        "name": "Fernando Lopez 🇧🇷🇨🇳🇷🇺🇨🇴 🇿🇦 🇵🇸🇮🇷🇻🇪",
+        "screen_name": "fplopez50"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747688161595642",
+  "url": "https://x.com/GuoloClaud37687/status/1952747688161595642",
+  "twitterUrl": "https://twitter.com/GuoloClaud37687/status/1952747688161595642",
+  "text": "@chwrrybIossom Não consegue vender para os EUA ai o preço cai mesmo, aguarde mais uns dias.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:03 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952406039665799194",
+  "conversationId": "1952406039665799194",
+  "inReplyToUserId": "725105805977112576",
+  "inReplyToUsername": "chwrrybIossom",
+  "author": {
+    "type": "user",
+    "userName": "GuoloClaud37687",
+    "url": "https://x.com/GuoloClaud37687",
+    "twitterUrl": "https://twitter.com/GuoloClaud37687",
+    "id": "1777034637589585920",
+    "name": "RedMontilla",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1790886541780262912/IcjK41fO_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "MT-Brazyl",
+    "followers": 13,
+    "following": 78,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 07 18:04:35 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1010,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 40,
+    "statusesCount": 2554,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "725105805977112576",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "victor",
+        "screen_name": "chwrrybIossom"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

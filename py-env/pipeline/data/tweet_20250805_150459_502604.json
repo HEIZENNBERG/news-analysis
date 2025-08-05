@@ -1,0 +1,115 @@
+{
+  "type": "tweet",
+  "id": "1952747658415685701",
+  "url": "https://x.com/pierrecommien/status/1952747658415685701",
+  "twitterUrl": "https://twitter.com/pierrecommien/status/1952747658415685701",
+  "text": "@mtwit75 J'ai cru à une satire, mais non, c'est du sérieux !😱\n\nComme pour les restos, une critique \"aménagée\"...😏",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:56 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952384074862993602",
+  "conversationId": "1952384074862993602",
+  "inReplyToUserId": "1396347558",
+  "inReplyToUsername": "mtwit75",
+  "author": {
+    "type": "user",
+    "userName": "pierrecommien",
+    "url": "https://x.com/pierrecommien",
+    "twitterUrl": "https://twitter.com/pierrecommien",
+    "id": "2292526962",
+    "name": "Pierre Commien",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1926228363980472320/jZtpIyAN_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2292526962/1647273316",
+    "description": "",
+    "location": "Paris, France",
+    "followers": 365,
+    "following": 489,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 15 10:52:16 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 55338,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 842,
+    "statusesCount": 55539,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1934081955986899411"
+    ],
+    "profile_bio": {
+      "description": "Modéré & anti escrologie 😉 \nBoomer & proud of it\nSocialo jusqu'en 2017\nNON aux ZFE, PPE3, DPE\n#saccageparis🏛🪵🚘🏍\n#SlavaUkraini🇺🇦🙏\n@medias_citoyens📻📺🗞",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                94,
+                107
+              ],
+              "text": "saccageparis"
+            },
+            {
+              "indices": [
+                112,
+                125
+              ],
+              "text": "SlavaUkraini"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                129,
+                145
+              ],
+              "name": "",
+              "screen_name": "medias_citoyens"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1396347558",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Enzo Morel",
+        "screen_name": "mtwit75"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

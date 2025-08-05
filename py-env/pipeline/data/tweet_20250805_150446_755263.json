@@ -1,0 +1,100 @@
+{
+  "type": "tweet",
+  "id": "1952747601524080895",
+  "url": "https://x.com/ruanantoniiio/status/1952747601524080895",
+  "twitterUrl": "https://twitter.com/ruanantoniiio/status/1952747601524080895",
+  "text": "@fonteanittabr e ela nao ta nem ai pra isso, ela odeia premiações",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:43 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952732159027892259",
+  "conversationId": "1952732159027892259",
+  "inReplyToUserId": "970019910326865920",
+  "inReplyToUsername": "fonteanittabr",
+  "author": {
+    "type": "user",
+    "userName": "ruanantoniiio",
+    "url": "https://x.com/ruanantoniiio",
+    "twitterUrl": "https://twitter.com/ruanantoniiio",
+    "id": "2971107760",
+    "name": "LAFUFUCK",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948592280933191680/1Og6K_hj_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2971107760/1728953155",
+    "description": "",
+    "location": "Brazil",
+    "followers": 1852,
+    "following": 510,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Jan 10 08:33:05 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13834,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 739,
+    "statusesCount": 12655,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1911969163368698329"
+    ],
+    "profile_bio": {
+      "description": "🪩 DJ desde 2013 e outras 1001 utilidades.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/ruanantoniio?i…",
+              "expanded_url": "https://www.instagram.com/ruanantoniio?igsh=dzQ5ZW5nYm92NTMz&utm_source=qr",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/l7PO6rvcoM"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "970019910326865920",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Fonte Anitta",
+        "screen_name": "fonteanittabr"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

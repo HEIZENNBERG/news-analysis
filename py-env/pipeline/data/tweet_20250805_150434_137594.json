@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747550823387348",
+  "url": "https://x.com/Matheus018Sccp/status/1952747550823387348",
+  "twitterUrl": "https://twitter.com/Matheus018Sccp/status/1952747550823387348",
+  "text": "@_paulo_andrade_ É de um protagonista que  time do povo precisa ? Ta ai. Yuri Alberto!",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:31 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952420854161449288",
+  "conversationId": "1952420854161449288",
+  "inReplyToUserId": "83693724",
+  "inReplyToUsername": "_paulo_andrade_",
+  "author": {
+    "type": "user",
+    "userName": "Matheus018Sccp",
+    "url": "https://x.com/Matheus018Sccp",
+    "twitterUrl": "https://twitter.com/Matheus018Sccp",
+    "id": "1586878404523073548",
+    "name": "Matheus Sccp",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1875274557612810240/-526Ks1X_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 2,
+    "following": 133,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 31 00:31:57 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 655,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5,
+    "statusesCount": 219,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "83693724",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Paulo Andrade",
+        "screen_name": "_paulo_andrade_"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

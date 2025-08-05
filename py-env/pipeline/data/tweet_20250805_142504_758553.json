@@ -1,0 +1,112 @@
+{
+  "type": "tweet",
+  "id": "1952737607978262693",
+  "url": "https://x.com/RepaVictoria/status/1952737607978262693",
+  "twitterUrl": "https://twitter.com/RepaVictoria/status/1952737607978262693",
+  "text": "@thejustinmecham Absolutely love this! 🔥\nAI isn’t just the future — it’s now. These free courses are an incredible opportunity to skill up without excuses.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:25:00 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952702299761262748",
+  "conversationId": "1952702299761262748",
+  "inReplyToUserId": "764589240621543424",
+  "inReplyToUsername": "thejustinmecham",
+  "author": {
+    "type": "user",
+    "userName": "RepaVictoria",
+    "url": "https://x.com/RepaVictoria",
+    "twitterUrl": "https://twitter.com/RepaVictoria",
+    "id": "1048270788359606272",
+    "name": "Victoria Repa",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1767170720696549376/6lwOZcK3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1048270788359606272/1710161308",
+    "description": "",
+    "location": "Ukraine ",
+    "followers": 16502,
+    "following": 401,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 05 17:56:46 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6084,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 652,
+    "statusesCount": 3745,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1860331438446411948"
+    ],
+    "profile_bio": {
+      "description": "CEO & Founder @betterme (+150M app downloads). Forbes 30 Under 30. Health Coach. Harvard Guest Speaker\n📩 vrepa@betterme.world",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                14,
+                23
+              ],
+              "name": "",
+              "screen_name": "betterme"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "betterme.world",
+              "expanded_url": "https://betterme.world",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/99WRtijrZ7"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "764589240621543424",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Justin Mecham",
+        "screen_name": "thejustinmecham"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

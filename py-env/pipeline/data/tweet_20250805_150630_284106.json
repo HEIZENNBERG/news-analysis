@@ -1,0 +1,75 @@
+{
+  "type": "tweet",
+  "id": "1952748039569125437",
+  "url": "https://x.com/JohnKim_24/status/1952748039569125437",
+  "twitterUrl": "https://twitter.com/JohnKim_24/status/1952748039569125437",
+  "text": "No CEO really cares all that much about maximum employment. \n\nIt’s about maximum profit.\n\nSo if incomes are 50% of your revenue and you see this bright shiny thing called AI that can perform the same duties at 5%, it will head that way. Path of least resistance.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:27 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952748039569125437",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "JohnKim_24",
+    "url": "https://x.com/JohnKim_24",
+    "twitterUrl": "https://twitter.com/JohnKim_24",
+    "id": "1295850640661311488",
+    "name": "John Kim",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1942259196298133511/d46_UWQ1_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1295850640661311488/1730478387",
+    "description": "",
+    "location": "Triangle Offense",
+    "followers": 200,
+    "following": 81,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Aug 18 22:30:50 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 91387,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 626,
+    "statusesCount": 51484,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1354141348975153153"
+    ],
+    "profile_bio": {
+      "description": "AA, FC, UCI, ASU², SWE, KOBE, AI, robotics, space, finance, sports, arts, sumo.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

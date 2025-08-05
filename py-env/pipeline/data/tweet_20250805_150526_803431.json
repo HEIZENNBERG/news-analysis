@@ -1,0 +1,124 @@
+{
+  "type": "tweet",
+  "id": "1952747776049357264",
+  "url": "https://x.com/quochieu51/status/1952747776049357264",
+  "twitterUrl": "https://twitter.com/quochieu51/status/1952747776049357264",
+  "text": "@Thaiduy1706 @elympics_ai Great breakdown! The diverse range of projects and community engagement is really encouraging for the ecosystem.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:24 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952579303453098445",
+  "conversationId": "1952579303453098445",
+  "inReplyToUserId": "1513495542168715274",
+  "inReplyToUsername": "Thaiduy1706",
+  "author": {
+    "type": "user",
+    "userName": "quochieu51",
+    "url": "https://x.com/quochieu51",
+    "twitterUrl": "https://twitter.com/quochieu51",
+    "id": "4323243798",
+    "name": "Asher | Astreux",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1942250305023799296/jSdZ-19a_normal.png",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 7244,
+    "following": 1575,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 22 13:14:40 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8064,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 380,
+    "statusesCount": 9436,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "CM AZCoinvest: https://t.co/o75bMkhsDw\nMore infor: https://t.co/Vs81rBuoVs\n$SUI Maxi  💧💧",
+      "entities": {
+        "description": {
+          "symbols": [
+            {
+              "indices": [
+                75,
+                79
+              ],
+              "text": "SUI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.me/azcoinvestsign…",
+              "expanded_url": "https://t.me/azcoinvestsignal",
+              "indices": [
+                15,
+                38
+              ],
+              "url": "https://t.co/o75bMkhsDw"
+            },
+            {
+              "display_url": "linktr.ee/azcoinvest",
+              "expanded_url": "http://linktr.ee/azcoinvest",
+              "indices": [
+                51,
+                74
+              ],
+              "url": "https://t.co/Vs81rBuoVs"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1513495542168715274",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "范泰维(0-0)🇻🇳",
+        "screen_name": "Thaiduy1706"
+      },
+      {
+        "id_str": "1458007981031833608",
+        "indices": [
+          13,
+          25
+        ],
+        "name": "Elympics",
+        "screen_name": "elympics_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

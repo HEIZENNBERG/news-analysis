@@ -1,0 +1,139 @@
+{
+  "type": "tweet",
+  "id": "1952747775277281379",
+  "url": "https://x.com/aseulsthics/status/1952747775277281379",
+  "twitterUrl": "https://twitter.com/aseulsthics/status/1952747775277281379",
+  "text": "how many times do yall have to be told not to use ai on enha omfg are yall dumb fr https://t.co/WBFXfJ6Ylx",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:24 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747775277281379",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "aseulsthics",
+    "url": "https://x.com/aseulsthics",
+    "twitterUrl": "https://twitter.com/aseulsthics",
+    "id": "946047469443518464",
+    "name": "lucky mari⁷",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1933439935278727168/LYr27s8k_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/946047469443518464/1749802978",
+    "description": "",
+    "location": "she|her|21|one big rage bait",
+    "followers": 1259,
+    "following": 2313,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Dec 27 15:57:48 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 158130,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13785,
+    "statusesCount": 159242,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1947645534120087978"
+    ],
+    "profile_bio": {
+      "description": "sometimes you gotta be bold just rock the world booya",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "open.spotify.com/track/5OOGWXB0…",
+              "expanded_url": "https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc?si=4trf6XatTgCws07EbULZwg",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jxTMbM0wmG"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/WBFXfJ6Ylx",
+        "expanded_url": "https://twitter.com/aseulsthics/status/1952747775277281379/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747767593349120",
+        "indices": [
+          83,
+          106
+        ],
+        "media_key": "16_1952747767593349120",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZjb+fVrAACgACGxmNwWlWMGMAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmNv59WsAAKAAIbGY3BaVYwYwAA",
+            "media_key": "16_1952747767593349120"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmNv59WsAA3R4e.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 164,
+          "width": 164
+        },
+        "sizes": {
+          "large": {
+            "h": 164,
+            "w": 164
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/WBFXfJ6Ylx",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmNv59WsAA3R4e.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

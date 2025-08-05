@@ -1,0 +1,143 @@
+{
+  "type": "tweet",
+  "id": "1952747360422858900",
+  "url": "https://x.com/bitexiaohu/status/1952747360422858900",
+  "twitterUrl": "https://twitter.com/bitexiaohu/status/1952747360422858900",
+  "text": "@R5Z5G @0G_labs AI民主化真的要来了",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:45 +0000 2025",
+  "lang": "zh",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952633387036160397",
+  "conversationId": "1952633387036160397",
+  "inReplyToUserId": "1382276514905935873",
+  "inReplyToUsername": "R5Z5G",
+  "author": {
+    "type": "user",
+    "userName": "bitexiaohu",
+    "url": "https://x.com/bitexiaohu",
+    "twitterUrl": "https://twitter.com/bitexiaohu",
+    "id": "1456623862314340352",
+    "name": "比特币小虎",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1651182605260443648/TAhRa-k__normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1456623862314340352/1751448576",
+    "description": "",
+    "location": "合作DM",
+    "followers": 128193,
+    "following": 1805,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 05 14:06:20 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3408,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 405,
+    "statusesCount": 8340,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "｜资源对接｜合作私信｜#Bitcoin｜#ETH ｜#Web3 ｜ #NFT ｜#DAO｜区块链资讯分享｜项目分析｜\n\nTG：https://t.co/NlOqSWkJth",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                11,
+                19
+              ],
+              "text": "Bitcoin"
+            },
+            {
+              "indices": [
+                20,
+                24
+              ],
+              "text": "ETH"
+            },
+            {
+              "indices": [
+                26,
+                31
+              ],
+              "text": "Web3"
+            },
+            {
+              "indices": [
+                34,
+                38
+              ],
+              "text": "NFT"
+            },
+            {
+              "indices": [
+                40,
+                44
+              ],
+              "text": "DAO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.me/bitexiaohu2",
+              "expanded_url": "http://t.me/bitexiaohu2",
+              "indices": [
+                63,
+                86
+              ],
+              "url": "https://t.co/NlOqSWkJth"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1382276514905935873",
+        "indices": [
+          0,
+          6
+        ],
+        "name": "茶哥",
+        "screen_name": "R5Z5G"
+      },
+      {
+        "id_str": "1722248937564983296",
+        "indices": [
+          7,
+          15
+        ],
+        "name": "0G Labs (Ø,G) - AI L1",
+        "screen_name": "0G_labs"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

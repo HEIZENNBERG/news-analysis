@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747710202720513",
+  "url": "https://x.com/Fussbudget18/status/1952747710202720513",
+  "twitterUrl": "https://twitter.com/Fussbudget18/status/1952747710202720513",
+  "text": "@BradleyKellard Aw man AI misgendered him",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:09 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952715979445989388",
+  "conversationId": "1952715979445989388",
+  "inReplyToUserId": "2353744901",
+  "inReplyToUsername": "BradleyKellard",
+  "author": {
+    "type": "user",
+    "userName": "Fussbudget18",
+    "url": "https://x.com/Fussbudget18",
+    "twitterUrl": "https://twitter.com/Fussbudget18",
+    "id": "1398907504206266369",
+    "name": "Chaddington Bear",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1785659564785860608/e0sbPr4P_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1398907504206266369/1714571970",
+    "description": "",
+    "location": "UK",
+    "followers": 45,
+    "following": 104,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun May 30 07:42:08 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11858,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 259,
+    "statusesCount": 2546,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "I enjoy trivial arguments over things that don't really matter to people who think they do. What else is social media for?",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "2353744901",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Brad",
+        "screen_name": "BradleyKellard"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,124 @@
+{
+  "type": "tweet",
+  "id": "1952748010493940043",
+  "url": "https://x.com/_henool/status/1952748010493940043",
+  "twitterUrl": "https://twitter.com/_henool/status/1952748010493940043",
+  "text": "@pileinutil @alkemistha @mariadf_12 @larasmed Aaah tá, pods cre\n\nÉ, eu discordo kkkkk\nTanto que muita gente foi nessa, justamente pelo contexto. É natural associar uma foto de religiões de matriz africanas a liberdade religiosa, acredito que foi por aí. Mas bom ponto",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:20 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952740772832276495",
+  "conversationId": "1952385736872771858",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "_henool",
+    "url": "https://x.com/_henool",
+    "twitterUrl": "https://twitter.com/_henool",
+    "id": "998898682333409280",
+    "name": "turista",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/999606632488230915/MdrjEXaT_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/998898682333409280/1527159822",
+    "description": "",
+    "location": "Disney",
+    "followers": 34,
+    "following": 52,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue May 22 12:09:39 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 84245,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 982,
+    "statusesCount": 13179,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Fotógrafo oficial\n\nhttps://t.co/g7QySeIBuJ",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "last.fm/user/HenoolMad",
+              "expanded_url": "http://last.fm/user/HenoolMad",
+              "indices": [
+                19,
+                42
+              ],
+              "url": "https://t.co/g7QySeIBuJ"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1891807000973258752",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Flamineiro_13",
+        "screen_name": "pileinutil"
+      },
+      {
+        "id_str": "1376515136815558656",
+        "indices": [
+          12,
+          23
+        ],
+        "name": "डब्ल्यू.",
+        "screen_name": "alkemistha"
+      },
+      {
+        "id_str": "2537891816",
+        "indices": [
+          24,
+          35
+        ],
+        "name": "Ma 🇧🇷",
+        "screen_name": "mariadf_12"
+      },
+      {
+        "id_str": "1443191642715000837",
+        "indices": [
+          36,
+          45
+        ],
+        "name": "Lara 🦁",
+        "screen_name": "larasmed"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952758508908367979",
+  "url": "https://x.com/mirjapahlevi/status/1952758508908367979",
+  "twitterUrl": "https://twitter.com/mirjapahlevi/status/1952758508908367979",
+  "text": "@SoSoValueCrypto @SaharaLabsAI Does it include sentiment analysis or just raw news headlines? 🧠📊",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:48:03 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952736356125352366",
+  "conversationId": "1952736356125352366",
+  "inReplyToUserId": "1515307799672410115",
+  "inReplyToUsername": "SoSoValueCrypto",
+  "author": {
+    "type": "user",
+    "userName": "mirjapahlevi",
+    "url": "https://x.com/mirjapahlevi",
+    "twitterUrl": "https://twitter.com/mirjapahlevi",
+    "id": "559877000",
+    "name": "biasaaja",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1681268152595017730/tJ1iL7Fp_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/559877000/1580494280",
+    "description": "",
+    "location": "Indonesia Bagian Barat",
+    "followers": 415,
+    "following": 1471,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 21 21:31:35 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1966,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 7,
+    "statusesCount": 2812,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "R5JMFKG2",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1515307799672410115",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "SoSoValue",
+        "screen_name": "SoSoValueCrypto"
+      },
+      {
+        "id_str": "1416402399384662021",
+        "indices": [
+          17,
+          30
+        ],
+        "name": "Sahara AI 🔆",
+        "screen_name": "SaharaLabsAI"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

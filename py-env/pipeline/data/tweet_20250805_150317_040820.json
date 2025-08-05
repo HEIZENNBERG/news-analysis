@@ -1,0 +1,75 @@
+{
+  "type": "tweet",
+  "id": "1952747229350887506",
+  "url": "https://x.com/PierreMarcelDM/status/1952747229350887506",
+  "twitterUrl": "https://twitter.com/PierreMarcelDM/status/1952747229350887506",
+  "text": "This is why choosing ethical AI companies matters.\n\nSome respect the web's foundational principles, others treat consent as an obstacle to route around.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:14 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747227824218447",
+  "conversationId": "1952747226234499389",
+  "inReplyToUserId": "2613887545",
+  "inReplyToUsername": "PierreMarcelDM",
+  "author": {
+    "type": "user",
+    "userName": "PierreMarcelDM",
+    "url": "https://x.com/PierreMarcelDM",
+    "twitterUrl": "https://twitter.com/PierreMarcelDM",
+    "id": "2613887545",
+    "name": "Pierre-Marcel De Mussac",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1930332102014238720/V3hQE0XA_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2613887545/1747345734",
+    "description": "",
+    "location": "Canada",
+    "followers": 8588,
+    "following": 397,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 09 16:52:06 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 30935,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 469,
+    "statusesCount": 3654,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1942755277872263604"
+    ],
+    "profile_bio": {
+      "description": "Built the internet's backbone. Now I'm building its brain.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

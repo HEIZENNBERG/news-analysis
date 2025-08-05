@@ -1,0 +1,146 @@
+{
+  "type": "tweet",
+  "id": "1952734823279448401",
+  "url": "https://x.com/PhatKhangThinh1/status/1952734823279448401",
+  "twitterUrl": "https://twitter.com/PhatKhangThinh1/status/1952734823279448401",
+  "text": "@CC22zer0 @0G_labs Real talk – 0G isn’t here to flex fake speeds, it’s architecting for the actual AI future. When agents go live, only real modular throughput survives.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:13:56 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952692399513514463",
+  "conversationId": "1952692399513514463",
+  "inReplyToUserId": "1217172472136552448",
+  "inReplyToUsername": "CC22zer0",
+  "author": {
+    "type": "user",
+    "userName": "PhatKhangThinh1",
+    "url": "https://x.com/PhatKhangThinh1",
+    "twitterUrl": "https://twitter.com/PhatKhangThinh1",
+    "id": "1534787551994621957",
+    "name": "DocKhachHanh ꧁IP꧂ (Ø,G)",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1944295208222359554/6RhOlZFb_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1534787551994621957/1753324100",
+    "description": "",
+    "location": "Buôn Ma THuột , DakLak",
+    "followers": 1183,
+    "following": 2786,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 09 06:40:54 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18888,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 812,
+    "statusesCount": 16609,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "(Ø,G)\nhttps://t.co/zvhGGH7jqL\n@QuaiNetwork\n#StoryProtocol\n#HumaFinance",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                43,
+                57
+              ],
+              "text": "StoryProtocol"
+            },
+            {
+              "indices": [
+                58,
+                70
+              ],
+              "text": "HumaFinance"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "qu.ai",
+              "expanded_url": "http://qu.ai",
+              "indices": [
+                6,
+                29
+              ],
+              "url": "https://t.co/zvhGGH7jqL"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                30,
+                42
+              ],
+              "name": "",
+              "screen_name": "QuaiNetwork"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/@dockhachhanh",
+              "expanded_url": "https://www.youtube.com/@dockhachhanh",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rIo9R4MCvS"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1217172472136552448",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "CC22zer0 (Ø,G)",
+        "screen_name": "CC22zer0"
+      },
+      {
+        "id_str": "1722248937564983296",
+        "indices": [
+          10,
+          18
+        ],
+        "name": "0G Labs (Ø,G) - AI L1",
+        "screen_name": "0G_labs"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

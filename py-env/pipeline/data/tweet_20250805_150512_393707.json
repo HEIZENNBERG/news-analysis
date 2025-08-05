@@ -1,0 +1,198 @@
+{
+  "type": "tweet",
+  "id": "1952747708839493740",
+  "url": "https://x.com/lffy_zr/status/1952747708839493740",
+  "twitterUrl": "https://twitter.com/lffy_zr/status/1952747708839493740",
+  "text": "quand j’ai du faire 2j d’aller retour de chez ma mère à mon école pcq ils répondaient pas à mes mails quand je demandais une date pr emménager https://t.co/VJw62LTSuI",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:08 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747708839493740",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "lffy_zr",
+    "url": "https://x.com/lffy_zr",
+    "twitterUrl": "https://twitter.com/lffy_zr",
+    "id": "1300422590524207110",
+    "name": "vendeuse2pouler 𐙚",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1950636467622916096/gfwG14BA_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1300422590524207110/1728607984",
+    "description": "",
+    "location": "",
+    "followers": 800,
+    "following": 174,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Aug 31 13:18:22 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 103565,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3467,
+    "statusesCount": 42509,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1897047512818790843"
+    ],
+    "profile_bio": {
+      "description": "be grateful",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/VJw62LTSuI",
+        "expanded_url": "https://twitter.com/lffy_zr/status/1952747708839493740/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747702170607616",
+        "indices": [
+          143,
+          166
+        ],
+        "media_key": "16_1952747702170607616",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZjbBj1uAACgACGxmNsfFWAGwAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmNsGPW4AAKAAIbGY2x8VYAbAAA",
+            "media_key": "16_1952747702170607616"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmNsGPW4AAuPdD.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 262,
+          "width": 164
+        },
+        "sizes": {
+          "large": {
+            "h": 262,
+            "w": 164
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/VJw62LTSuI",
+        "video_info": {
+          "aspect_ratio": [
+            82,
+            131
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmNsGPW4AAuPdD.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952353183767917021",
+    "url": "https://x.com/tetsu19_/status/1952353183767917021",
+    "twitterUrl": "https://twitter.com/tetsu19_/status/1952353183767917021",
+    "text": "Non mais le CROUS cet été c’est une dinguerie je sais meme pas comment on vas faire la rentrée, aucune réponse aux appels ni aux mails, pas de logement, des problèmes de bourses \nLe service a jamais été aussi défaillant",
+    "source": "Twitter for iPhone",
+    "retweetCount": 144,
+    "replyCount": 24,
+    "likeCount": 2199,
+    "quoteCount": 44,
+    "viewCount": 115445,
+    "createdAt": "Mon Aug 04 12:57:26 +0000 2025",
+    "lang": "fr",
+    "bookmarkCount": 133,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952353183767917021",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "tetsu19_",
+      "url": "https://x.com/tetsu19_",
+      "twitterUrl": "https://twitter.com/tetsu19_",
+      "id": "1768943193716850688",
+      "name": "らま🐞",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1914696420998733824/jtNkrQx__normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1768943193716850688/1751935894",
+      "description": "",
+      "location": "Shibuya",
+      "followers": 122,
+      "following": 162,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Mar 16 10:12:08 +0000 2024",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 5773,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 105,
+      "statusesCount": 1438,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "🇵🇸🇹🇳",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

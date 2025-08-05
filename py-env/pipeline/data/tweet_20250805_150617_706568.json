@@ -1,0 +1,656 @@
+{
+  "type": "tweet",
+  "id": "1952747980051603922",
+  "url": "https://x.com/CointelegraphEE/status/1952747980051603922",
+  "twitterUrl": "https://twitter.com/CointelegraphEE/status/1952747980051603922",
+  "text": "El bot de IA \"Clanker\" acumuló USD 34M en tarifas de swaps con el lanzamiento de memecoins Base\n\nhttps://t.co/r7NI7Bm2s6",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:13 +0000 2025",
+  "lang": "es",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747980051603922",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "CointelegraphEE",
+    "url": "https://x.com/CointelegraphEE",
+    "twitterUrl": "https://twitter.com/CointelegraphEE",
+    "id": "1420005336656842794",
+    "name": "Cointelegraph en Español",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1420023108879138819/nHAPUXuM_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1420005336656842794/1627400760",
+    "description": "",
+    "location": "España y América Latina",
+    "followers": 18336,
+    "following": 3,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 27 12:57:29 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 952,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1620,
+    "statusesCount": 38407,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Sitio de noticias sobre Bitcoin, Blockchain y el ecosistema cripto más grande del mundo hispano.\n\n¡Portal web aquí!👇",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "cointelegraph.es",
+              "expanded_url": "http://www.cointelegraph.es",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Jqmdkq0Uli"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "photo_image_full_size_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 150,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=280x150",
+            "width": 225
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "En medio de un aumento en el uso de agentes de inteligencia artificial cripto, los usuarios de Clanker lanzaron más de 355.000 tokens y ganaron USD 34,4 millones en tarifas acumuladas a través de su..."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "es.cointelegraph.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 320,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=800x320_1",
+            "width": 481
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 799,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=orig",
+            "width": 1200
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "2207129125"
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_small",
+        "value": {
+          "image_value": {
+            "height": 202,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=386x202",
+            "width": 386
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_large",
+        "value": {
+          "image_value": {
+            "height": 419,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=800x419",
+            "width": 800
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 67,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=100x100",
+            "width": 100
+          }
+        }
+      },
+      {
+        "key": "creator",
+        "value": {
+          "user_value": {
+            "id_str": "2207129125"
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 799,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=png&name=2048x2048_2_exp",
+            "width": 1200
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_original",
+        "value": {
+          "image_value": {
+            "height": 799,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=orig",
+            "width": 1200
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "es.cointelegraph.com"
+        }
+      },
+      {
+        "key": "photo_image_full_size",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 26.44,
+                "rgb": {
+                  "blue": 175,
+                  "green": 216,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 20.29,
+                "rgb": {
+                  "blue": 77,
+                  "green": 121,
+                  "red": 168
+                }
+              },
+              {
+                "percentage": 14.8,
+                "rgb": {
+                  "blue": 28,
+                  "green": 37,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 4.63,
+                "rgb": {
+                  "blue": 133,
+                  "green": 180,
+                  "red": 232
+                }
+              },
+              {
+                "percentage": 4.37,
+                "rgb": {
+                  "blue": 211,
+                  "green": 227,
+                  "red": 224
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "El bot de IA \"Clanker\" acumuló USD 34M en tarifas de swaps con el lanzamiento de memecoins Base"
+        }
+      },
+      {
+        "key": "summary_photo_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 26.44,
+                "rgb": {
+                  "blue": 175,
+                  "green": 216,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 20.29,
+                "rgb": {
+                  "blue": 77,
+                  "green": 121,
+                  "red": 168
+                }
+              },
+              {
+                "percentage": 14.8,
+                "rgb": {
+                  "blue": 28,
+                  "green": 37,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 4.63,
+                "rgb": {
+                  "blue": 133,
+                  "green": 180,
+                  "red": 232
+                }
+              },
+              {
+                "percentage": 4.37,
+                "rgb": {
+                  "blue": 211,
+                  "green": 227,
+                  "red": 224
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 799,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=png&name=2048x2048_2_exp",
+            "width": 1200
+          }
+        }
+      },
+      {
+        "key": "summary_photo_image",
+        "value": {
+          "image_value": {
+            "height": 314,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=600x314",
+            "width": 600
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 26.44,
+                "rgb": {
+                  "blue": 175,
+                  "green": 216,
+                  "red": 219
+                }
+              },
+              {
+                "percentage": 20.29,
+                "rgb": {
+                  "blue": 77,
+                  "green": 121,
+                  "red": 168
+                }
+              },
+              {
+                "percentage": 14.8,
+                "rgb": {
+                  "blue": 28,
+                  "green": 37,
+                  "red": 39
+                }
+              },
+              {
+                "percentage": 4.63,
+                "rgb": {
+                  "blue": 133,
+                  "green": 180,
+                  "red": 232
+                }
+              },
+              {
+                "percentage": 4.37,
+                "rgb": {
+                  "blue": 211,
+                  "green": 227,
+                  "red": 224
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "photo_image_full_size_x_large",
+        "value": {
+          "image_value": {
+            "height": 799,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=png&name=2048x2048_2_exp",
+            "width": 1200
+          }
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/r7NI7Bm2s6"
+        }
+      },
+      {
+        "key": "summary_photo_image_original",
+        "value": {
+          "image_value": {
+            "height": 799,
+            "url": "https://pbs.twimg.com/card_img/1952740833905557504/KmcxprCl?format=jpg&name=orig",
+            "width": 1200
+          }
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary_large_image",
+    "url": "https://t.co/r7NI7Bm2s6",
+    "user_refs_results": [
+      {
+        "rest_id": "2207129125",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 13507
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1755983593925378048/kYutau0B_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/2207129125/1724836333"
+          },
+          "core": {
+            "created_at": "Thu Nov 21 12:57:08 +0000 2013",
+            "name": "Cointelegraph",
+            "screen_name": "Cointelegraph"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "New York, New York"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Trusted crypto media since 2013 · News, research, podcasts & more · Explore: https://t.co/6IsiPge7RR",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/cointelegraph_…",
+                    "expanded_url": "https://linktr.ee/cointelegraph_mobile",
+                    "indices": [
+                      77,
+                      100
+                    ],
+                    "url": "https://t.co/6IsiPge7RR"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "cointelegraph.com",
+                    "expanded_url": "https://cointelegraph.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/td5A2zRaxE"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "FAB81E"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": true
+          },
+          "relationship_counts": {
+            "followers": 2803937,
+            "following": 1333
+          },
+          "relationship_perspectives": {},
+          "rest_id": "2207129125",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 37783,
+            "tweets": 163654
+          },
+          "website": {
+            "url": "https://t.co/td5A2zRaxE"
+          },
+          "verification": {
+            "is_blue_verified": true,
+            "verified_type": "Business"
+          }
+        }
+      },
+      {
+        "rest_id": "2207129125",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 13507
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1755983593925378048/kYutau0B_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/2207129125/1724836333"
+          },
+          "core": {
+            "created_at": "Thu Nov 21 12:57:08 +0000 2013",
+            "name": "Cointelegraph",
+            "screen_name": "Cointelegraph"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {},
+          "location": {
+            "location": "New York, New York"
+          },
+          "media_permissions": {
+            "can_media_tag": false
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "Trusted crypto media since 2013 · News, research, podcasts & more · Explore: https://t.co/6IsiPge7RR",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/cointelegraph_…",
+                    "expanded_url": "https://linktr.ee/cointelegraph_mobile",
+                    "indices": [
+                      77,
+                      100
+                    ],
+                    "url": "https://t.co/6IsiPge7RR"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "cointelegraph.com",
+                    "expanded_url": "https://cointelegraph.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/td5A2zRaxE"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "FAB81E"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": true
+          },
+          "relationship_counts": {
+            "followers": 2803937,
+            "following": 1333
+          },
+          "relationship_perspectives": {},
+          "rest_id": "2207129125",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 37783,
+            "tweets": 163654
+          },
+          "website": {
+            "url": "https://t.co/td5A2zRaxE"
+          },
+          "verification": {
+            "is_blue_verified": true,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "es.cointelegraph.com/news/clanker-a…",
+        "expanded_url": "https://es.cointelegraph.com/news/clanker-ai-memecoin-fees-355k-tokens",
+        "indices": [
+          97,
+          120
+        ],
+        "url": "https://t.co/r7NI7Bm2s6"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

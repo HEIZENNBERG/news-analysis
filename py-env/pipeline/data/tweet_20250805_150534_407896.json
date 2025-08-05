@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747799768130037",
+  "url": "https://x.com/DonnaShaw10/status/1952747799768130037",
+  "twitterUrl": "https://twitter.com/DonnaShaw10/status/1952747799768130037",
+  "text": "@ForFunwhoohoo @Nas_tech_AI No, because Trump cancelled all of their student’s visas, so it’s impossible.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:30 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952729314966819217",
+  "conversationId": "1952279319927247252",
+  "inReplyToUserId": "1867718933781893120",
+  "inReplyToUsername": "ForFunwhoohoo",
+  "author": {
+    "type": "user",
+    "userName": "DonnaShaw10",
+    "url": "https://x.com/DonnaShaw10",
+    "twitterUrl": "https://twitter.com/DonnaShaw10",
+    "id": "529560482",
+    "name": "DonnaShaw",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 826,
+    "following": 279,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 19 17:32:27 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10868,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 15,
+    "statusesCount": 15530,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1867718933781893120",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "J",
+        "screen_name": "ForFunwhoohoo"
+      },
+      {
+        "id_str": "1860095764648853506",
+        "indices": [
+          15,
+          27
+        ],
+        "name": "Nas",
+        "screen_name": "Nas_tech_AI"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

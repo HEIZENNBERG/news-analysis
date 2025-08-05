@@ -1,0 +1,279 @@
+{
+  "type": "tweet",
+  "id": "1952747472738005144",
+  "url": "https://x.com/tierzerozero/status/1952747472738005144",
+  "twitterUrl": "https://twitter.com/tierzerozero/status/1952747472738005144",
+  "text": "40k is one of the most creative communities out there yet you choose to soil it with ai",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:12 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747472738005144",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "tierzerozero",
+    "url": "https://x.com/tierzerozero",
+    "twitterUrl": "https://twitter.com/tierzerozero",
+    "id": "1898168078409908225",
+    "name": "Dae/Daecon - EMPEROR ETERNAL",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1940285854687039490/mdFkzFx-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1898168078409908225/1748775416",
+    "description": "",
+    "location": "malcador’s robe closet",
+    "followers": 413,
+    "following": 175,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 08 00:25:25 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1568,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 93,
+    "statusesCount": 853,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1929552322474180852"
+    ],
+    "profile_bio": {
+      "description": "27yo, they/he, ehhh john and big e are pretty cool don’t afraid of anything, wh40k (hopefully soon halo) fanart ye 🤠",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952261825434718538",
+    "url": "https://x.com/bigcatalex00/status/1952261825434718538",
+    "twitterUrl": "https://twitter.com/bigcatalex00/status/1952261825434718538",
+    "text": "@Revenant300 this is what you all deserve violent heretic scums https://t.co/UVvNnfu3wc",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 70,
+    "likeCount": 28,
+    "quoteCount": 32,
+    "viewCount": 103596,
+    "createdAt": "Mon Aug 04 06:54:25 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 6,
+    "isReply": true,
+    "inReplyToId": "1952126534166417521",
+    "conversationId": "1952126534166417521",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "bigcatalex00",
+      "url": "https://x.com/bigcatalex00",
+      "twitterUrl": "https://twitter.com/bigcatalex00",
+      "id": "1472316226495995906",
+      "name": "L DIABLO 🇮🇹",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1927984546156273664/LpBKCbtP_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1472316226495995906/1686081540",
+      "description": "",
+      "location": "",
+      "followers": 39,
+      "following": 91,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Sat Dec 18 21:22:07 +0000 2021",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 34654,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 877,
+      "statusesCount": 6010,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1671894429752492036"
+      ],
+      "profile_bio": {
+        "description": "a space marine, a helldiver, a racer(racist) | ikuzo #GS #RedTogether #ForzaMilan",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "indices": [
+                  53,
+                  56
+                ],
+                "text": "GS"
+              },
+              {
+                "indices": [
+                  57,
+                  69
+                ],
+                "text": "RedTogether"
+              },
+              {
+                "indices": [
+                  70,
+                  81
+                ],
+                "text": "ForzaMilan"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.twitter.com/UVvNnfu3wc",
+          "expanded_url": "https://twitter.com/bigcatalex00/status/1952261825434718538/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 139,
+                  "w": 139,
+                  "x": 859,
+                  "y": 42
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 139,
+                  "w": 139,
+                  "x": 859,
+                  "y": 42
+                }
+              ]
+            }
+          },
+          "id_str": "1952261819424186368",
+          "indices": [
+            64,
+            87
+          ],
+          "media_key": "3_1952261819424186368",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsX08f/ViAACgACGxfTyWWXkUoAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABGxfTx/9WIAAKAAIbF9PJZZeRSgAA",
+              "media_key": "3_1952261819424186368"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/GxfTx_9WIAAaMbo.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 573,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1167,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1536,
+                "w": 768,
+                "x": 256,
+                "y": 0
+              },
+              {
+                "h": 1536,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1536,
+            "width": 1024
+          },
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "w": 1024
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/UVvNnfu3wc"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1262117904612376577",
+          "indices": [
+            0,
+            12
+          ],
+          "name": "Talos Valcoran",
+          "screen_name": "Revenant300"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

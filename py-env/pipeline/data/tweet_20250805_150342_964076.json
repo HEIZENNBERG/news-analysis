@@ -1,0 +1,247 @@
+{
+  "type": "tweet",
+  "id": "1952747338260197749",
+  "url": "https://x.com/PeeterFi/status/1952747338260197749",
+  "twitterUrl": "https://twitter.com/PeeterFi/status/1952747338260197749",
+  "text": "Been snapping daily on @cookiedotfun  lately - not just farming points, but actually getting deeper into the projects.\n\nSome of them? Genuinely interesting. Here’s a few that caught my attention this week: 👇\n→ @JoinSapien 🧠\nAI shouldn’t be trained on junk. Sapien gets it. Tasks are more about reasoning than labeling. You build rep by thinking, not clicking. It actually feels useful — both for the models and for you.\n\n→ @recallnet  📊\nOpen AI benchmarks, finally. Test models, contribute evaluation tasks, and earn based on accuracy. No closed doors, no \"research only\" barrier. Just provable predictions and real data.\n→ @OpenledgerHQ 🧾\nInfini-gram = receipts for content. Every post has a traceable source. Creators get credit, and it’s all enforced onchain. Plus they’re already rewarding contributors with some serious $$.\n\n→ @elympics_ai 🎮\nHumans vs AI, live matches, real stakes. You play to win — and earn. 5M+ games played already and more to come. Web3 gaming done right.\n→ @vooi_io 🎥\nEvery short-form video you post becomes an onchain badge. No fake engagement, no bots — just actual content that builds your identity (and earns you rewards). 1.25% supply going to early creators? Yes please.\n\n→ @tenprotocol 🔐\nEncrypted logic, private inputs, zero-knowledge agents — and it’s already live. TEN makes blockchain feel a little more… secure. Feels like real infrastructure, not just buzzwords.\n→ @build_on_bob 🟧\nNo wrapping, no bridges — just Bitcoin and smart contracts working together. BOB’s building something bold, and they’re rewarding creators big-time. I’ve seen some 🔥 memes from this campaign already.\n\n→ @Almanak__ 📈\nForget vibes - Almanak is simulating real DeFi strategies based on your goals. LPs, staking, risk balancing - the system thinks with you. Plus, clear explainers = rewards.\n Thinking of deploying some USDC soon to become a cSNAPS -feels like it’s worth going deeper here. 💸\n\n🧠 Quick thought:\nWeb3 is often full of noise, but this setup actually rewards contribution - not just hype.\nFeels good to be active in something that promotes long-term value and creativity.\n\nIf you’re snapping this week - which projects are you backing?\n\n👇 Drop your picks, let’s compare.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:40 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747338260197749",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "PeeterFi",
+    "url": "https://x.com/PeeterFi",
+    "twitterUrl": "https://twitter.com/PeeterFi",
+    "id": "1334038931252400128",
+    "name": "PeeterFi | 𝔽rAI",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1923462342769025026/VaIFv5ez_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1334038931252400128/1747429804",
+    "description": "",
+    "location": "",
+    "followers": 1416,
+    "following": 1383,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 02 07:37:29 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7828,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 521,
+    "statusesCount": 5256,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952725451916378527"
+    ],
+    "profile_bio": {
+      "description": "🚀DeFi | AI | Airdrops | Blockchain ✈️ Curious about the world — online & offline 🧑‍💻 Dev with a passion for web3 @CashifyEu - Ambasador",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                113,
+                123
+              ],
+              "name": "",
+              "screen_name": "CashifyEu"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/FqKfsXDoOd",
+        "expanded_url": "https://twitter.com/PeeterFi/status/1952747338260197749/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747286473125888",
+        "indices": [
+          274,
+          297
+        ],
+        "media_key": "3_1952747286473125888",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjU+aVrAACgACGxmNW6kWsXUAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNT5pWsAAKAAIbGY1bqRaxdQAA",
+            "media_key": "3_1952747286473125888"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNT5pWsAA9M4v.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 627,
+              "w": 1120,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 627,
+              "w": 627,
+              "x": 215,
+              "y": 0
+            },
+            {
+              "h": 627,
+              "w": 550,
+              "x": 253,
+              "y": 0
+            },
+            {
+              "h": 627,
+              "w": 314,
+              "x": 371,
+              "y": 0
+            },
+            {
+              "h": 627,
+              "w": 1409,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 627,
+          "width": 1409
+        },
+        "sizes": {
+          "large": {
+            "h": 627,
+            "w": 1409
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/FqKfsXDoOd"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1762471547485184000",
+        "indices": [
+          23,
+          36
+        ],
+        "name": "Cookie DAO 🍪",
+        "screen_name": "cookiedotfun"
+      },
+      {
+        "id_str": "1786019543220948992",
+        "indices": [
+          210,
+          221
+        ],
+        "name": "Sapien",
+        "screen_name": "JoinSapien"
+      },
+      {
+        "id_str": "1201627105085329411",
+        "indices": [
+          423,
+          433
+        ],
+        "name": "Recall",
+        "screen_name": "recallnet"
+      },
+      {
+        "id_str": "1755624156731768833",
+        "indices": [
+          624,
+          637
+        ],
+        "name": "Openledger",
+        "screen_name": "OpenledgerHQ"
+      },
+      {
+        "id_str": "1458007981031833608",
+        "indices": [
+          832,
+          844
+        ],
+        "name": "Elympics",
+        "screen_name": "elympics_ai"
+      },
+      {
+        "id_str": "1678513621264142336",
+        "indices": [
+          985,
+          993
+        ],
+        "name": "vooi",
+        "screen_name": "vooi_io"
+      },
+      {
+        "id_str": "1441687917932384266",
+        "indices": [
+          1208,
+          1220
+        ],
+        "name": "TEN (🔟/🔟)",
+        "screen_name": "tenprotocol"
+      },
+      {
+        "id_str": "1329515694493462529",
+        "indices": [
+          1406,
+          1419
+        ],
+        "name": "BOB",
+        "screen_name": "build_on_bob"
+      },
+      {
+        "id_str": "1572179093008912385",
+        "indices": [
+          1625,
+          1635
+        ],
+        "name": "Almanak",
+        "screen_name": "Almanak__"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747440190193871",
+  "url": "https://x.com/LilGremio/status/1952747440190193871",
+  "twitterUrl": "https://twitter.com/LilGremio/status/1952747440190193871",
+  "text": "@malucoddd21 @CarolCastroReal se fode aí lixo fdp",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:04 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952742476906733569",
+  "conversationId": "1952577190312181953",
+  "inReplyToUserId": "1599988951238021121",
+  "inReplyToUsername": "malucoddd21",
+  "author": {
+    "type": "user",
+    "userName": "LilGremio",
+    "url": "https://x.com/LilGremio",
+    "twitterUrl": "https://twitter.com/LilGremio",
+    "id": "1917185742738239488",
+    "name": "Lil Grêmio",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1917191440553123840/u3VWwnXT_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1917185742738239488/1745930207",
+    "description": "",
+    "location": "",
+    "followers": 10,
+    "following": 21,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 29 11:54:41 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1477,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 9,
+    "statusesCount": 2044,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1599988951238021121",
+        "indices": [
+          0,
+          12
+        ],
+        "name": "ele mesmo",
+        "screen_name": "malucoddd21"
+      },
+      {
+        "id_str": "90052937",
+        "indices": [
+          13,
+          29
+        ],
+        "name": "* Carol Castro *",
+        "screen_name": "CarolCastroReal"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

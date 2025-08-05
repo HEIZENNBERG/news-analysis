@@ -1,0 +1,174 @@
+{
+  "type": "tweet",
+  "id": "1952747306534506602",
+  "url": "https://x.com/Gs_0107/status/1952747306534506602",
+  "twitterUrl": "https://twitter.com/Gs_0107/status/1952747306534506602",
+  "text": "ಈ AI ಬಂದು ಇನ್ನೂ ಏನೇನೂ ನೋಡ್ಬೇಕು ಅಂತ 😂 https://t.co/JzLLRZEuXv",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:32 +0000 2025",
+  "lang": "kn",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747306534506602",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Gs_0107",
+    "url": "https://x.com/Gs_0107",
+    "twitterUrl": "https://twitter.com/Gs_0107",
+    "id": "1583041587105234944",
+    "name": "Goudrusarkar - ಗೌಡ್ರುಸರ್ಕಾರ್",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1917411757745651712/cb6vp1Jb_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1583041587105234944/1685446097",
+    "description": "",
+    "location": "",
+    "followers": 4080,
+    "following": 470,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Oct 20 10:25:16 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 61762,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 12727,
+    "statusesCount": 30358,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1872634355140698373"
+    ],
+    "profile_bio": {
+      "description": "#ಕನ್ನಡಿಗ | ಬಸವ ಪಥ | State Coordinator KPYCC SM || District G.Sec KPCC Comm & SM Belagavi RD ||  #RTs are not endors",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                8
+              ],
+              "text": "ಕನ್ನಡಿಗ"
+            },
+            {
+              "indices": [
+                96,
+                100
+              ],
+              "text": "RTs"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "inc.in",
+              "expanded_url": "http://inc.in",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dSsbJlVU1v"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/JzLLRZEuXv",
+        "expanded_url": "https://twitter.com/Gs_0107/status/1952747306534506602/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747193909342208",
+        "indices": [
+          37,
+          60
+        ],
+        "media_key": "7_1952747193909342208",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsZjToNG3AACgACGxmNVEYXEGoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxmNOg0bcAAKAAIbGY1URhcQagAA",
+            "media_key": "7_1952747193909342208"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1952747193909342208/pu/img/m6K9jqBRRKKIN7MZ.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/JzLLRZEuXv",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 16023,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747193909342208/pu/pl/neD_Ax5Vu-bCjiag.m3u8?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747193909342208/pu/vid/avc1/320x568/eGw6beV7GK7KLfCX.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747193909342208/pu/vid/avc1/480x852/bqdFRGdLhU4wtY76.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747193909342208/pu/vid/avc1/720x1280/6vL-v6PoenmM6UcM.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

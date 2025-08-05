@@ -1,0 +1,177 @@
+{
+  "type": "tweet",
+  "id": "1952748039522648461",
+  "url": "https://x.com/Tanveer_afran/status/1952748039522648461",
+  "twitterUrl": "https://twitter.com/Tanveer_afran/status/1952748039522648461",
+  "text": "Google হঠাৎ এমন একটা টুল আনতে যাচ্ছে, যা জানলে তুমি অবাক হবেন। \n\nভাবো তো, N8n-এর মতো automation আর Lovable-এর মতো simplicity, দুইটাই একসাথে!\nএবার কোডিং না জেনেও AI workflow বানানো, টেক্সট থেকে অ্যাপ তৈরি করা – সবই সম্ভব!\n\nনাম: Opal 🔥\nএকদম ফ্রি, একদম কোড ছাড়াই ইউজ করা যায়। https://t.co/3pzPb7Tyhe",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:27 +0000 2025",
+  "lang": "bn",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952748039522648461",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Tanveer_afran",
+    "url": "https://x.com/Tanveer_afran",
+    "twitterUrl": "https://twitter.com/Tanveer_afran",
+    "id": "1603754831901966337",
+    "name": "Dark_RanX🚩",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1941962833325064192/bq1b4g1f_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1603754831901966337/1750344090",
+    "description": "",
+    "location": "Mirpur, Dhaka, Bangladesh",
+    "followers": 16,
+    "following": 198,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 16 14:13:07 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 113,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 6,
+    "statusesCount": 6,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Be Different.!!🐊",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/share/1FLh3oG3…",
+              "expanded_url": "https://www.facebook.com/share/1FLh3oG3q1/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qmpQyAIjEI"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/3pzPb7Tyhe",
+        "expanded_url": "https://twitter.com/Tanveer_afran/status/1952748039522648461/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 90,
+                "w": 90,
+                "x": 715,
+                "y": 809
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 90,
+                "w": 90,
+                "x": 715,
+                "y": 809
+              }
+            ]
+          }
+        },
+        "id_str": "1952748035525472256",
+        "indices": [
+          275,
+          298
+        ],
+        "media_key": "3_1952748035525472256",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjf4BVnAACgACGxmN/u+WgY0AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmN/gFWcAAKAAIbGY3+75aBjQAA",
+            "media_key": "3_1952748035525472256"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmN_gFWcAA3VQL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 745
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 270
+            },
+            {
+              "h": 1231,
+              "w": 1080,
+              "x": 0,
+              "y": 119
+            },
+            {
+              "h": 1350,
+              "w": 675,
+              "x": 203,
+              "y": 0
+            },
+            {
+              "h": 1350,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1350,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/3pzPb7Tyhe"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

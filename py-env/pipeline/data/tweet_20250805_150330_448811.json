@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952747280508866951",
+  "url": "https://x.com/misandrencolere/status/1952747280508866951",
+  "twitterUrl": "https://twitter.com/misandrencolere/status/1952747280508866951",
+  "text": "jviens de capter que le foulard que j'ai trouvé chez ma grand mère c'est un balmain #bourgeoise",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:26 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747280508866951",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "misandrencolere",
+    "url": "https://x.com/misandrencolere",
+    "twitterUrl": "https://twitter.com/misandrencolere",
+    "id": "1511472189324902404",
+    "name": "tueused'hom no love era",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1951826134217396224/26flnbZ7_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1511472189324902404/1754185646",
+    "description": "",
+    "location": "",
+    "followers": 139,
+    "following": 236,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Apr 05 22:34:26 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27773,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 372,
+    "statusesCount": 9100,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951831257287115069"
+    ],
+    "profile_bio": {
+      "description": "movie lover, gay nerd, and so much more",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          84,
+          95
+        ],
+        "text": "bourgeoise"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

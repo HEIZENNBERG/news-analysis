@@ -1,0 +1,115 @@
+{
+  "type": "tweet",
+  "id": "1952747338243395705",
+  "url": "https://x.com/gpAwesome1/status/1952747338243395705",
+  "twitterUrl": "https://twitter.com/gpAwesome1/status/1952747338243395705",
+  "text": "@TeshaBlys @FractionAI_xyz @0xshai That is fraction Ai",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:40 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952677719793107199",
+  "conversationId": "1952582373922517342",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "gpAwesome1",
+    "url": "https://x.com/gpAwesome1",
+    "twitterUrl": "https://twitter.com/gpAwesome1",
+    "id": "1556352256454402049",
+    "name": "ShadesOfBlue | 𝔽rAI",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1786023975094480896/v9q4h0So_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1556352256454402049/1701284718",
+    "description": "",
+    "location": "",
+    "followers": 1404,
+    "following": 1579,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 07 18:51:26 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12569,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 741,
+    "statusesCount": 14239,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952503357874028769"
+    ],
+    "profile_bio": {
+      "description": "making connections\n#web3",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                19,
+                24
+              ],
+              "text": "web3"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1902186877882658819",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "TeshaBlys",
+        "screen_name": "TeshaBlys"
+      },
+      {
+        "id_str": "1737049734668238848",
+        "indices": [
+          11,
+          26
+        ],
+        "name": "Fraction AI",
+        "screen_name": "FractionAI_xyz"
+      },
+      {
+        "id_str": "1696800662531567616",
+        "indices": [
+          27,
+          34
+        ],
+        "name": "Shashank | 𝔽rAI",
+        "screen_name": "0xshai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

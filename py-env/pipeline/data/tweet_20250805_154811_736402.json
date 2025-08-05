@@ -1,0 +1,136 @@
+{
+  "type": "tweet",
+  "id": "1952758507393970527",
+  "url": "https://x.com/Antonio72112202/status/1952758507393970527",
+  "twitterUrl": "https://twitter.com/Antonio72112202/status/1952758507393970527",
+  "text": "@HJB_News__ https://t.co/49kLx9UokH",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:48:03 +0000 2025",
+  "lang": "qme",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952690742356222064",
+  "conversationId": "1952690742356222064",
+  "inReplyToUserId": "1736048885619974144",
+  "inReplyToUsername": "HJB_News__",
+  "author": {
+    "type": "user",
+    "userName": "Antonio72112202",
+    "url": "https://x.com/Antonio72112202",
+    "twitterUrl": "https://twitter.com/Antonio72112202",
+    "id": "1389221869392433152",
+    "name": "Antonio Iglesias",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1412381567297769479/FH21f4AD_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "",
+    "followers": 12258,
+    "following": 10035,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 03 14:14:46 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 203752,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 51684,
+    "statusesCount": 290717,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "\"El hombre es la medida de todas las cosas; de las que son en cuanto que son y de las que no son en cuanto que no son\".",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/49kLx9UokH",
+        "expanded_url": "https://twitter.com/Antonio72112202/status/1952758507393970527/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952758500125188096",
+        "indices": [
+          12,
+          35
+        ],
+        "media_key": "16_1952758500125188096",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZl4J8FiAACgACGxmXhC1W8V8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmXgnwWIAAKAAIbGZeELVbxXwAA",
+            "media_key": "16_1952758500125188096"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmXgnwWIAAwSE1.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 232,
+          "width": 220
+        },
+        "sizes": {
+          "large": {
+            "h": 232,
+            "w": 220
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/49kLx9UokH",
+        "video_info": {
+          "aspect_ratio": [
+            55,
+            58
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmXgnwWIAAwSE1.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1736048885619974144",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "HJB News",
+        "screen_name": "HJB_News__"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

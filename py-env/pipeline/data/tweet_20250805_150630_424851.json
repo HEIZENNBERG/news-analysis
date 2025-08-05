@@ -1,0 +1,73 @@
+{
+  "type": "tweet",
+  "id": "1952748038763786513",
+  "url": "https://x.com/Overipe_Peach/status/1952748038763786513",
+  "twitterUrl": "https://twitter.com/Overipe_Peach/status/1952748038763786513",
+  "text": "씻고 렌즈끼고 누워서 와 오늘은 진짜 영어 못하겠다 이랬는데 순위 탈락했다고 알람와서 꾸역꾸역 대화 1개 갈림....AI랑 개떡같이 말하기 하는게 무슨 도움이 되는지는 모르겠지만 안하는 것보다 낫겠지",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:27 +0000 2025",
+  "lang": "ko",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952748038763786513",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Overipe_Peach",
+    "url": "https://x.com/Overipe_Peach",
+    "twitterUrl": "https://twitter.com/Overipe_Peach",
+    "id": "3238875864",
+    "name": "어쩔에루✨️",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1669636249228029953/2XyPVmtU_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3238875864/1686753974",
+    "description": "",
+    "location": "",
+    "followers": 111,
+    "following": 189,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Jun 07 14:21:19 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9638,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1987,
+    "statusesCount": 239558,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "RT요정\n신난다",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

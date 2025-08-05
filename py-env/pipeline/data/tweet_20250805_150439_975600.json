@@ -1,0 +1,309 @@
+{
+  "type": "tweet",
+  "id": "1952747576878657834",
+  "url": "https://x.com/PotterLouisas/status/1952747576878657834",
+  "twitterUrl": "https://twitter.com/PotterLouisas/status/1952747576878657834",
+  "text": "🤖 AI Alert: $TSAI 🤖\n\n🌟 393AYQmwJ8gCCfQ7qQYLcVJtiQqkQRijp67Cr8TZbonk\n💵 Average : $990.03\n💰 MC : $87.77K\n🌈 24H Vol ⎼ 4.18K \n🔊 𝗦𝗶𝗴𝗻𝗮𝗹 &amp; 🌪️ 𝗤𝘂𝗶𝗰𝗸 𝗯𝘂𝘆 👉👉 https://t.co/sYeQHYq7Wc💎\n- 30% lower fees than Photon/BullX - https://t.co/rWNqbcBk3K",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:37 +0000 2025",
+  "lang": "nl",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747576878657834",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "PotterLouisas",
+    "url": "https://x.com/PotterLouisas",
+    "twitterUrl": "https://twitter.com/PotterLouisas",
+    "id": "1540805919956557824",
+    "name": "LouisasPotter",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1540806357640568838/BYehHQd3_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1540805919956557824/1656191839",
+    "description": "",
+    "location": "TaiTamReservoirs",
+    "followers": 436,
+    "following": 1227,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jun 25 21:15:39 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 430,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 994,
+    "statusesCount": 3109,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "No promise only said not over of lies #Defi",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                38,
+                43
+              ],
+              "text": "Defi"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/rWNqbcBk3K",
+        "expanded_url": "https://twitter.com/PotterLouisas/status/1952747576878657834/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747540128165888",
+        "indices": [
+          215,
+          238
+        ],
+        "media_key": "7_1952747540128165888",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsZjYqpW3AACgACGxmNkzfbcSoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxmNiqlbcAAKAAIbGY2TN9txKgAA",
+            "media_key": "7_1952747540128165888"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1952747540128165888/pu/img/hyZNxfZ2Cw3gy9NU.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 480,
+          "width": 846
+        },
+        "sizes": {
+          "large": {
+            "h": 480,
+            "w": 846
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/rWNqbcBk3K",
+        "video_info": {
+          "aspect_ratio": [
+            141,
+            80
+          ],
+          "duration_millis": 2345,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747540128165888/pu/pl/Q2aIS0jgtLy5tZDY.m3u8?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747540128165888/pu/vid/avc1/474x270/CvG2ou33QMmJJg5J.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747540128165888/pu/vid/avc1/634x360/z8lvaAciV_NnKIht.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747540128165888/pu/vid/avc1/846x480/1OMbdq74mimJc-Bg.mp4?tag=12"
+            }
+          ]
+        }
+      },
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/rWNqbcBk3K",
+        "expanded_url": "https://twitter.com/PotterLouisas/status/1952747576878657834/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952747557605756928",
+        "indices": [
+          215,
+          238
+        ],
+        "media_key": "7_1952747557605756928",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsZjY67GlAACgACGxmNkzfbcSoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxmNjrsaUAAKAAIbGY2TN9txKgAA",
+            "media_key": "7_1952747557605756928"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1952747557605756928/pu/img/PpVM7HCBOGaql363.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 480,
+          "width": 854
+        },
+        "sizes": {
+          "large": {
+            "h": 480,
+            "w": 854
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/rWNqbcBk3K",
+        "video_info": {
+          "aspect_ratio": [
+            427,
+            240
+          ],
+          "duration_millis": 9102,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747557605756928/pu/pl/B9b_-qUBb99GKRTF.m3u8?tag=12"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747557605756928/pu/vid/avc1/480x270/Yx2krQDWVEspUAld.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747557605756928/pu/vid/avc1/640x360/6dzVzrde2EE2okid.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952747557605756928/pu/vid/avc1/854x480/JKbwNfRj282PbEdT.mp4?tag=12"
+            }
+          ]
+        }
+      },
+      {
+        "display_url": "pic.twitter.com/rWNqbcBk3K",
+        "expanded_url": "https://twitter.com/PotterLouisas/status/1952747576878657834/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747564790620160",
+        "indices": [
+          215,
+          238
+        ],
+        "media_key": "3_1952747564790620160",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjZBnWqAACgACGxmNkzfbcSoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNkGdaoAAKAAIbGY2TN9txKgAA",
+            "media_key": "3_1952747564790620160"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNkGdaoAApnwk.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 81,
+              "w": 145,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 136,
+              "w": 136,
+              "x": 4,
+              "y": 0
+            },
+            {
+              "h": 136,
+              "w": 119,
+              "x": 13,
+              "y": 0
+            },
+            {
+              "h": 136,
+              "w": 68,
+              "x": 38,
+              "y": 0
+            },
+            {
+              "h": 136,
+              "w": 145,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 136,
+          "width": 145
+        },
+        "sizes": {
+          "large": {
+            "h": 136,
+            "w": 145
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/rWNqbcBk3K"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "symbols": [
+      {
+        "indices": [
+          12,
+          17
+        ],
+        "text": "TSAI"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "Gmgn.ai/sol/token/B5A6…",
+        "expanded_url": "https://Gmgn.ai/sol/token/B5A6Y4P5_393AYQmwJ8gCCfQ7qQYLcVJtiQqkQRijp67Cr8TZbonk",
+        "indices": [
+          153,
+          176
+        ],
+        "url": "https://t.co/sYeQHYq7Wc"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

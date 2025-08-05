@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952757384079708497",
+  "url": "https://x.com/i_mamui/status/1952757384079708497",
+  "twitterUrl": "https://twitter.com/i_mamui/status/1952757384079708497",
+  "text": "@Thairath_News บางกระบือร้อนมาก",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:43:35 +0000 2025",
+  "lang": "th",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952753277982146784",
+  "conversationId": "1952753277982146784",
+  "inReplyToUserId": "86899675",
+  "inReplyToUsername": "Thairath_News",
+  "author": {
+    "type": "user",
+    "userName": "i_mamui",
+    "url": "https://x.com/i_mamui",
+    "twitterUrl": "https://twitter.com/i_mamui",
+    "id": "137210796",
+    "name": "I-Mamui",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1683372133387501568/S1vOs0yf_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/137210796/1373529533",
+    "description": "",
+    "location": "",
+    "followers": 282,
+    "following": 144,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Apr 26 03:50:36 +0000 2010",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 897,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1093,
+    "statusesCount": 42155,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "ชีวิตคนเรามันสั้น\rรักให้บอก เกลียดให้ถาม มีปัญหาให้เคลียร์ by โอปอลล์ // ใครโดนเกลียด ใครโดนเคลียร์ บอกไว้เลย ซวย // ฉันคือ...เด็กดื้อ...ของเธอ!!!~",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "86899675",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Thairath_News",
+        "screen_name": "Thairath_News"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

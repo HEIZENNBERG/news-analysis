@@ -1,0 +1,167 @@
+{
+  "type": "tweet",
+  "id": "1952747121536573642",
+  "url": "https://x.com/zihan_kalisma/status/1952747121536573642",
+  "twitterUrl": "https://twitter.com/zihan_kalisma/status/1952747121536573642",
+  "text": "@QuackAI_AI Quack AI isn't just for voting , it's intelligent governance.\nAgents act, you decide, Rewards follow.\nStay in control, shape the outcome.\n#QuackAI #AIQ #Web3",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:02:48 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952303945159741645",
+  "conversationId": "1952303945159741645",
+  "inReplyToUserId": "1550391672676069376",
+  "inReplyToUsername": "QuackAI_AI",
+  "author": {
+    "type": "user",
+    "userName": "zihan_kalisma",
+    "url": "https://x.com/zihan_kalisma",
+    "twitterUrl": "https://twitter.com/zihan_kalisma",
+    "id": "1923288514017607680",
+    "name": "zihan kalisma🍚 ⛓ 𓊈𒆜 🐙 𒆜𓊉 | 𝔽rAI",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948703422724612098/o-7uwWuP_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1923288514017607680/1751105198",
+    "description": "",
+    "location": "",
+    "followers": 245,
+    "following": 574,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri May 16 08:05:10 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 898,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 88,
+    "statusesCount": 1605,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951930631698424125"
+    ],
+    "profile_bio": {
+      "description": "Web 3 | Airdrop Hunter | @Bubu_Verse Ambassador l @kaitoai Yappers & @lumitteragame l Ambbasador  @inter_link | Airdrop Spescialist @volubit |\nCB @QuackAI_AI",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                25,
+                36
+              ],
+              "name": "",
+              "screen_name": "Bubu_Verse"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                50,
+                58
+              ],
+              "name": "",
+              "screen_name": "kaitoai"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                69,
+                83
+              ],
+              "name": "",
+              "screen_name": "lumitteragame"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                98,
+                109
+              ],
+              "name": "",
+              "screen_name": "inter_link"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                132,
+                140
+              ],
+              "name": "",
+              "screen_name": "volubit"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                146,
+                157
+              ],
+              "name": "",
+              "screen_name": "QuackAI_AI"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          150,
+          158
+        ],
+        "text": "QuackAI"
+      },
+      {
+        "indices": [
+          159,
+          163
+        ],
+        "text": "AIQ"
+      },
+      {
+        "indices": [
+          164,
+          169
+        ],
+        "text": "Web3"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1550391672676069376",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Quack AI",
+        "screen_name": "QuackAI_AI"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

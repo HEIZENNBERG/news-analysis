@@ -1,0 +1,73 @@
+{
+  "type": "tweet",
+  "id": "1952747526735446100",
+  "url": "https://x.com/mongrel_hama/status/1952747526735446100",
+  "twitterUrl": "https://twitter.com/mongrel_hama/status/1952747526735446100",
+  "text": "AIにパーストチ狂い色彩感覚終わり落書き絵を食わせてAI絵ユーザーを怖がらせましょう！",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:25 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747526735446100",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "mongrel_hama",
+    "url": "https://x.com/mongrel_hama",
+    "twitterUrl": "https://twitter.com/mongrel_hama",
+    "id": "1787853326777991168",
+    "name": "ダメ犬のハマ",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1861094341277810688/pNKNojPl_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1787853326777991168/1728067659",
+    "description": "",
+    "location": "",
+    "followers": 11,
+    "following": 46,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue May 07 14:34:33 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 49825,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 125,
+    "statusesCount": 2849,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "とても\nうまい",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

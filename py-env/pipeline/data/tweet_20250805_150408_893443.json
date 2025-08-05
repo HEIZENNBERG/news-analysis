@@ -1,0 +1,105 @@
+{
+  "type": "tweet",
+  "id": "1952747441725567288",
+  "url": "https://x.com/wangy112375/status/1952747441725567288",
+  "twitterUrl": "https://twitter.com/wangy112375/status/1952747441725567288",
+  "text": "@0xCarl_ @TheoriqAI @ronbodkin 链上AI确实值得期待啊",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:05 +0000 2025",
+  "lang": "zh",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952690844492083421",
+  "conversationId": "1952690844492083421",
+  "inReplyToUserId": "1464094847187681280",
+  "inReplyToUsername": "0xCarl_",
+  "author": {
+    "type": "user",
+    "userName": "wangy112375",
+    "url": "https://x.com/wangy112375",
+    "twitterUrl": "https://twitter.com/wangy112375",
+    "id": "1404061163621654528",
+    "name": "阿里嘎多美羊羊桑 $M | 🐜",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1945778076924723200/--xz4Eoj_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1404061163621654528/1754029831",
+    "description": "",
+    "location": "",
+    "followers": 8125,
+    "following": 3340,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 13 13:00:52 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 83225,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1061,
+    "statusesCount": 71501,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1941701549715226841"
+    ],
+    "profile_bio": {
+      "description": "从土狗开始，一度浮盈60w，终盈亏同源，反陷负债58w。23年撸毛登顶，STRK撸出百万利润。错信牛熊轮回，山寨埋骨无数，135w化为泡影。如今不再逐梦虚妄—— 携最后20w，投身InfoFi元年，扬帆，启航！",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1464094847187681280",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "0xCarl_",
+        "screen_name": "0xCarl_"
+      },
+      {
+        "id_str": "1549505015655440384",
+        "indices": [
+          9,
+          19
+        ],
+        "name": "Theoriq",
+        "screen_name": "TheoriqAI"
+      },
+      {
+        "id_str": "18084072",
+        "indices": [
+          20,
+          30
+        ],
+        "name": "Ron Bodkin",
+        "screen_name": "ronbodkin"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,105 @@
+{
+  "type": "tweet",
+  "id": "1952747831678169494",
+  "url": "https://x.com/Celzn_11/status/1952747831678169494",
+  "twitterUrl": "https://twitter.com/Celzn_11/status/1952747831678169494",
+  "text": "@PkProno @MohamedTERParis @Ligue1 oui oui c'est pour ça que j'en rigole frérot, je suis très détendu mdrrr\naprès le fait qu'il nous ai mit en bas 4 fois sur les 3 dernières années et HUITIÈME l'année où on a écrasé la Ligue 2 ça doit être un hasard tiens",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:38 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952742740430668265",
+  "conversationId": "1952714339636384127",
+  "inReplyToUserId": "1166330013962199040",
+  "inReplyToUsername": "PkProno",
+  "author": {
+    "type": "user",
+    "userName": "Celzn_11",
+    "url": "https://x.com/Celzn_11",
+    "twitterUrl": "https://twitter.com/Celzn_11",
+    "id": "1283877765989769218",
+    "name": "Clzn",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1896247154689114112/jjHIW5Kv_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1283877765989769218/1699700800",
+    "description": "",
+    "location": "",
+    "followers": 596,
+    "following": 139,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 16 21:35:00 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 351295,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1112,
+    "statusesCount": 29425,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1737544411800633539"
+    ],
+    "profile_bio": {
+      "description": "Yann Gboho a changé ma vie 💜🤍                             (Manu Koné, Bafo Diakité et Amine Adli également)",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1166330013962199040",
+        "indices": [
+          0,
+          8
+        ],
+        "name": "PK prono",
+        "screen_name": "PkProno"
+      },
+      {
+        "id_str": "115060268",
+        "indices": [
+          9,
+          25
+        ],
+        "name": "Mohamed TOUBACHE-TER",
+        "screen_name": "MohamedTERParis"
+      },
+      {
+        "id_str": "3302900980",
+        "indices": [
+          26,
+          33
+        ],
+        "name": "Ligue 1 McDonald's",
+        "screen_name": "Ligue1"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

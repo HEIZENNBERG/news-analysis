@@ -1,0 +1,94 @@
+{
+  "type": "tweet",
+  "id": "1952747177291247930",
+  "url": "https://x.com/sweetaziza/status/1952747177291247930",
+  "twitterUrl": "https://twitter.com/sweetaziza/status/1952747177291247930",
+  "text": "@pattersonselin @recallnet Learnings from each competition round will accelerate AI agent improvement.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:02 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952722909589377167",
+  "conversationId": "1952722909589377167",
+  "inReplyToUserId": "730335421",
+  "inReplyToUsername": "pattersonselin",
+  "author": {
+    "type": "user",
+    "userName": "sweetaziza",
+    "url": "https://x.com/sweetaziza",
+    "twitterUrl": "https://twitter.com/sweetaziza",
+    "id": "414892477",
+    "name": "Claire2001",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1927931612744044544/1OmxAW5h_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/414892477/1748497985",
+    "description": "",
+    "location": "Brighton, UK",
+    "followers": 4,
+    "following": 49,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 17 16:36:56 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 290,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4,
+    "statusesCount": 114,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Coffee breaks are for checking gas fees",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "730335421",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Lam_scl Nimo",
+        "screen_name": "pattersonselin"
+      },
+      {
+        "id_str": "1201627105085329411",
+        "indices": [
+          16,
+          26
+        ],
+        "name": "Recall",
+        "screen_name": "recallnet"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

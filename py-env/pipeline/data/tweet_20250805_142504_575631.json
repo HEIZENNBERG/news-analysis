@@ -1,0 +1,100 @@
+{
+  "type": "tweet",
+  "id": "1952737609962439124",
+  "url": "https://x.com/sipausmerah/status/1952737609962439124",
+  "twitterUrl": "https://twitter.com/sipausmerah/status/1952737609962439124",
+  "text": "@HIJKLMN777 Laki org makinnya ai kd ketaguran😔",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 14:25:00 +0000 2025",
+  "lang": "in",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952723269431271668",
+  "conversationId": "1952717452414226667",
+  "inReplyToUserId": "1654522399839383557",
+  "inReplyToUsername": "HIJKLMN777",
+  "author": {
+    "type": "user",
+    "userName": "sipausmerah",
+    "url": "https://x.com/sipausmerah",
+    "twitterUrl": "https://twitter.com/sipausmerah",
+    "id": "1386067034740379653",
+    "name": "🩷💗",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952610192686002176/vGFmcKXX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1386067034740379653/1752043773",
+    "description": "",
+    "location": "somewhere only we know",
+    "followers": 3970,
+    "following": 1157,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Apr 24 21:18:41 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11813,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2145,
+    "statusesCount": 34994,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1917926271839015334"
+    ],
+    "profile_bio": {
+      "description": "aq cmn bcanda, maffin yh",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ngl.link/sipausmerah",
+              "expanded_url": "https://ngl.link/sipausmerah",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/paQT4Huxdd"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1654522399839383557",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "ABCDEFGH",
+        "screen_name": "HIJKLMN777"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

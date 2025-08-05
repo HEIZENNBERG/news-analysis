@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747798375395415",
+  "url": "https://x.com/FrancisKevi/status/1952747798375395415",
+  "twitterUrl": "https://twitter.com/FrancisKevi/status/1952747798375395415",
+  "text": "@usexara_ai Send me money xara o wan carry os",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:30 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747664199532659",
+  "conversationId": "1952747664199532659",
+  "inReplyToUserId": "1918061387060039680",
+  "inReplyToUsername": "usexara_ai",
+  "author": {
+    "type": "user",
+    "userName": "FrancisKevi",
+    "url": "https://x.com/FrancisKevi",
+    "twitterUrl": "https://twitter.com/FrancisKevi",
+    "id": "1578845582113783809",
+    "name": "Francis Kevin",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1886329513161744384/Qjkzbpdr_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1578845582113783809/1738570990",
+    "description": "",
+    "location": "Panama",
+    "followers": 1404,
+    "following": 960,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Oct 08 20:31:43 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9329,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 459,
+    "statusesCount": 32961,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1828876345461420416"
+    ],
+    "profile_bio": {
+      "description": "to copy your tweet no hard for me",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1918061387060039680",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Xara",
+        "screen_name": "usexara_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

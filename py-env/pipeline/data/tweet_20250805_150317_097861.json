@@ -1,0 +1,135 @@
+{
+  "type": "tweet",
+  "id": "1952747229007032693",
+  "url": "https://x.com/Kevin11t7/status/1952747229007032693",
+  "twitterUrl": "https://twitter.com/Kevin11t7/status/1952747229007032693",
+  "text": "@EMMAS_ON @Mira_Network @KaitoAI @Tractodoteth @karansirdesai MIRA is what open AI should’ve been from the start. No fluff, just freedom.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:14 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952706398673891447",
+  "conversationId": "1952706398673891447",
+  "inReplyToUserId": "1870317026746748928",
+  "inReplyToUsername": "EMMAS_ON",
+  "author": {
+    "type": "user",
+    "userName": "Kevin11t7",
+    "url": "https://x.com/Kevin11t7",
+    "twitterUrl": "https://twitter.com/Kevin11t7",
+    "id": "1454055322134401032",
+    "name": "Xptgamer",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952273160734208001/uuispt6j_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1454055322134401032/1752602388",
+    "description": "",
+    "location": "",
+    "followers": 1251,
+    "following": 1810,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 29 11:59:51 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10256,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 927,
+    "statusesCount": 10994,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952622775970955723"
+    ],
+    "profile_bio": {
+      "description": "Gamer | Moderator | AMB | DC: xptgamer | Hattori Ambassador @hattorigame",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                60,
+                72
+              ],
+              "name": "",
+              "screen_name": "hattorigame"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1870317026746748928",
+        "indices": [
+          0,
+          9
+        ],
+        "name": "EMMASON 埃 (3/3)",
+        "screen_name": "EMMAS_ON"
+      },
+      {
+        "id_str": "1763125712066945025",
+        "indices": [
+          10,
+          23
+        ],
+        "name": "Mira (3/3)",
+        "screen_name": "Mira_Network"
+      },
+      {
+        "id_str": "1522696492791869445",
+        "indices": [
+          24,
+          32
+        ],
+        "name": "Kaito AI 🌊",
+        "screen_name": "KaitoAI"
+      },
+      {
+        "id_str": "1459919443115585537",
+        "indices": [
+          33,
+          46
+        ],
+        "name": "TRACTO 🚜",
+        "screen_name": "Tractodoteth"
+      },
+      {
+        "id_str": "4567488860",
+        "indices": [
+          47,
+          61
+        ],
+        "name": "Karan",
+        "screen_name": "karansirdesai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

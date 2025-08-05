@@ -1,0 +1,187 @@
+{
+  "type": "tweet",
+  "id": "1952747733657272592",
+  "url": "https://x.com/dbtrends/status/1952747733657272592",
+  "twitterUrl": "https://twitter.com/dbtrends/status/1952747733657272592",
+  "text": "Not all AI investments deliver value. Learn how to align strategy, prioritize use cases and avoid hype in our exclusive webinar on enterprise AI ROI. Reserve your seat now! #EnterpriseAI #AIstrategy https://t.co/gXHvXzg6wp https://t.co/XV1XqafNBX",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:14 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747733657272592",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "dbtrends",
+    "url": "https://x.com/dbtrends",
+    "twitterUrl": "https://twitter.com/dbtrends",
+    "id": "239970216",
+    "name": "DBTA Magazine",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/459379181667618816/ho0TMc6i_normal.jpeg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/239970216/1610997613",
+    "description": "",
+    "location": "Medford, NJ",
+    "followers": 3902,
+    "following": 845,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 18 21:27:43 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 201,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3719,
+    "statusesCount": 12725,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Database Trends and Applications reports on big data, analytics, data science, business intelligence and all aspects of data creation, management, and storage.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "dbta.com",
+              "expanded_url": "http://www.dbta.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sHkjySD9Zx"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/XV1XqafNBX",
+        "expanded_url": "https://twitter.com/dbtrends/status/1952747733657272592/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747729597132800",
+        "indices": [
+          223,
+          246
+        ],
+        "media_key": "3_1952747729597132800",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjbbGlnAACgACGxmNt7iXQRAAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNtsaWcAAKAAIbGY23uJdBEAAA",
+            "media_key": "3_1952747729597132800"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNtsaWcAANZIv.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 630,
+              "w": 1125,
+              "x": 68,
+              "y": 0
+            },
+            {
+              "h": 630,
+              "w": 630,
+              "x": 315,
+              "y": 0
+            },
+            {
+              "h": 630,
+              "w": 553,
+              "x": 354,
+              "y": 0
+            },
+            {
+              "h": 630,
+              "w": 315,
+              "x": 473,
+              "y": 0
+            },
+            {
+              "h": 630,
+              "w": 1200,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 630,
+          "width": 1200
+        },
+        "sizes": {
+          "large": {
+            "h": 630,
+            "w": 1200
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XV1XqafNBX"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          173,
+          186
+        ],
+        "text": "EnterpriseAI"
+      },
+      {
+        "indices": [
+          187,
+          198
+        ],
+        "text": "AIstrategy"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "ow.ly/jbHc30sOpO1",
+        "expanded_url": "http://ow.ly/jbHc30sOpO1",
+        "indices": [
+          199,
+          222
+        ],
+        "url": "https://t.co/gXHvXzg6wp"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

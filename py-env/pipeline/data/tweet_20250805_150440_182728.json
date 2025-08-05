@@ -1,0 +1,117 @@
+{
+  "type": "tweet",
+  "id": "1952747573279658480",
+  "url": "https://x.com/JayoCrypto/status/1952747573279658480",
+  "twitterUrl": "https://twitter.com/JayoCrypto/status/1952747573279658480",
+  "text": "@HYPEX Ai ass trailer",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:36 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952731627701817629",
+  "conversationId": "1952731627701817629",
+  "inReplyToUserId": "2210485170",
+  "inReplyToUsername": "HYPEX",
+  "author": {
+    "type": "user",
+    "userName": "JayoCrypto",
+    "url": "https://x.com/JayoCrypto",
+    "twitterUrl": "https://twitter.com/JayoCrypto",
+    "id": "1454679617327992834",
+    "name": "JAYO CRYPTO on Dat MoonSH!T 🚀",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1870951205968449536/QeskO2uY_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1454679617327992834/1734904253",
+    "description": "",
+    "location": "",
+    "followers": 1037,
+    "following": 1196,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 31 05:20:34 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 42476,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 685,
+    "statusesCount": 8949,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1805254100650787292"
+    ],
+    "profile_bio": {
+      "description": "JUST A $BASE $COREUM & XRP MAXI WHO COMMENTS ON LIFE SHIT‼️ 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀",
+      "entities": {
+        "description": {
+          "symbols": [
+            {
+              "indices": [
+                7,
+                12
+              ],
+              "text": "BASE"
+            },
+            {
+              "indices": [
+                13,
+                20
+              ],
+              "text": "COREUM"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/moonboi589",
+              "expanded_url": "https://linktr.ee/moonboi589",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8URVnthxSa"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "2210485170",
+        "indices": [
+          0,
+          6
+        ],
+        "name": "HYPEX",
+        "screen_name": "HYPEX"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

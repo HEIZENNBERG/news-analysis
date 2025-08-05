@@ -1,0 +1,171 @@
+{
+  "type": "tweet",
+  "id": "1952747801223282736",
+  "url": "https://x.com/Surya021292/status/1952747801223282736",
+  "twitterUrl": "https://twitter.com/Surya021292/status/1952747801223282736",
+  "text": "@EndlessProtocol Proud to be part of the Genesis of @EndlessProtocol.\nThe future of decentralized AI starts here.\nTagging fellow builders: @OneSurya17 @Buldozer_1 @PCNode_91\n#Endless #ModularAI #Web3Innovation",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:30 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952338755186208967",
+  "conversationId": "1952338755186208967",
+  "inReplyToUserId": "1847957475741331456",
+  "inReplyToUsername": "EndlessProtocol",
+  "author": {
+    "type": "user",
+    "userName": "Surya021292",
+    "url": "https://x.com/Surya021292",
+    "twitterUrl": "https://twitter.com/Surya021292",
+    "id": "1458022310913327104",
+    "name": "OneNov.g (Ø,G)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1861730154814615552/pJjnlqnk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1458022310913327104/1723160288",
+    "description": "",
+    "location": "",
+    "followers": 71,
+    "following": 1815,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 09 10:43:21 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1848,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 110,
+    "statusesCount": 3506,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1939346402506867041"
+    ],
+    "profile_bio": {
+      "description": "Launch a network in minutes → @TanssiNetwork",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                30,
+                44
+              ],
+              "name": "",
+              "screen_name": "TanssiNetwork"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "onenov.xyz",
+              "expanded_url": "https://www.onenov.xyz",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/IgIas88shF"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          174,
+          182
+        ],
+        "text": "Endless"
+      },
+      {
+        "indices": [
+          183,
+          193
+        ],
+        "text": "ModularAI"
+      },
+      {
+        "indices": [
+          194,
+          209
+        ],
+        "text": "Web3Innovation"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1847957475741331456",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Endless",
+        "screen_name": "EndlessProtocol"
+      },
+      {
+        "id_str": "1847957475741331456",
+        "indices": [
+          52,
+          68
+        ],
+        "name": "Endless",
+        "screen_name": "EndlessProtocol"
+      },
+      {
+        "id_str": "1524159035708116995",
+        "indices": [
+          139,
+          150
+        ],
+        "name": "OneSurya17",
+        "screen_name": "OneSurya17"
+      },
+      {
+        "id_str": "1587497154901598208",
+        "indices": [
+          151,
+          162
+        ],
+        "name": "Velly_09 | ZAP Chain ⚡️",
+        "screen_name": "Buldozer_1"
+      },
+      {
+        "id_str": "1833417132354531328",
+        "indices": [
+          163,
+          173
+        ],
+        "name": "PC Node",
+        "screen_name": "PCNode_91"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

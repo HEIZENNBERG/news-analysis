@@ -1,0 +1,200 @@
+{
+  "type": "tweet",
+  "id": "1952747468782789023",
+  "url": "https://x.com/clausecore_AI/status/1952747468782789023",
+  "twitterUrl": "https://twitter.com/clausecore_AI/status/1952747468782789023",
+  "text": "@clausecore_AI  our contract intelligence is designed with global compliance in mind, including laws like the EU AI Act.\n✔️ Built-in human oversight\n✔️ Transparent AI logic\n✔️ Logging for audits\nYou scale.We help you stay compliant.\nhttps://t.co/oA3AT2j9Pr\n#LegalTech #EUAIAct https://t.co/nLXuQFCh0T",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:11 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952747448650158498",
+  "conversationId": "1952747384632426517",
+  "inReplyToUserId": "1932212558959878144",
+  "inReplyToUsername": "clausecore_AI",
+  "author": {
+    "type": "user",
+    "userName": "clausecore_AI",
+    "url": "https://x.com/clausecore_AI",
+    "twitterUrl": "https://twitter.com/clausecore_AI",
+    "id": "1932212558959878144",
+    "name": "ClauseCore",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1932212844583440384/tKdHwL2q_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1932212558959878144/1752591584",
+    "description": "",
+    "location": "Austin, Texas, United States ",
+    "followers": 16,
+    "following": 28,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 09 23:06:28 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 115,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 69,
+    "statusesCount": 120,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1934615680222924955"
+    ],
+    "profile_bio": {
+      "description": "The Smartest Choice for Contract Intelligence \nFor founders, GRC, Legal & Ops professionals \nUpload| Analyse | improve in second\nJoin 👇the Waitlist",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "tally.so/r/n90d1p",
+              "expanded_url": "https://tally.so/r/n90d1p",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/0HHK3DFtaf"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/nLXuQFCh0T",
+        "expanded_url": "https://twitter.com/clausecore_AI/status/1952747468782789023/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952747465460830208",
+        "indices": [
+          277,
+          300
+        ],
+        "media_key": "3_1952747465460830208",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjXlG1lAACgACGxmNegzXYZ8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNeUbWUAAKAAIbGY16DNdhnwAA",
+            "media_key": "3_1952747465460830208"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNeUbWUAAWGQp.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1210,
+              "w": 2160,
+              "x": 0,
+              "y": 205
+            },
+            {
+              "h": 2160,
+              "w": 2160,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2160,
+              "w": 1895,
+              "x": 265,
+              "y": 0
+            },
+            {
+              "h": 2160,
+              "w": 1080,
+              "x": 1080,
+              "y": 0
+            },
+            {
+              "h": 2160,
+              "w": 2160,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2160,
+          "width": 2160
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 2048
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/nLXuQFCh0T"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          257,
+          267
+        ],
+        "text": "LegalTech"
+      },
+      {
+        "indices": [
+          268,
+          276
+        ],
+        "text": "EUAIAct"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "clausecore.tech",
+        "expanded_url": "http://www.clausecore.tech",
+        "indices": [
+          233,
+          256
+        ],
+        "url": "https://t.co/oA3AT2j9Pr"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1932212558959878144",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "ClauseCore",
+        "screen_name": "clausecore_AI"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

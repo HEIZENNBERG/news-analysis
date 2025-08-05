@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952748011097821202",
+  "url": "https://x.com/xeesoobe/status/1952748011097821202",
+  "twitterUrl": "https://twitter.com/xeesoobe/status/1952748011097821202",
+  "text": "@juli32bit pior que tem áreas com mta árvore fora do eixo kkkkkkkkkkk não sei pq não colocaram mais aí \nTb não sei como que tá HOJE não lembro como tava ano passado quando fui",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:06:20 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952745511523422524",
+  "conversationId": "1952744913566601470",
+  "inReplyToUserId": "1691251730355310592",
+  "inReplyToUsername": "juli32bit",
+  "author": {
+    "type": "user",
+    "userName": "xeesoobe",
+    "url": "https://x.com/xeesoobe",
+    "twitterUrl": "https://twitter.com/xeesoobe",
+    "id": "2437883893",
+    "name": "babi 🇧🇷🇨🇦",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948615678681808897/M06q2qLE_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2437883893/1749009599",
+    "description": "",
+    "location": "Montréal, Québec",
+    "followers": 3149,
+    "following": 2453,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Apr 11 03:34:27 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 197599,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1797,
+    "statusesCount": 48176,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1789128572583514252"
+    ],
+    "profile_bio": {
+      "description": "• dev ♡ 🧬 | bsb → mtl",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1691251730355310592",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "julia not the programming language",
+        "screen_name": "juli32bit"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

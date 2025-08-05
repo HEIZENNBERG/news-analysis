@@ -1,0 +1,199 @@
+{
+  "type": "tweet",
+  "id": "1952747357449175220",
+  "url": "https://x.com/prodip1416989/status/1952747357449175220",
+  "twitterUrl": "https://twitter.com/prodip1416989/status/1952747357449175220",
+  "text": "Big leaps this week at @Almanak__\n\nThe AI Swarm just got smarter\nDashboard Agent builds complete UIs\nQA Agent tests everything before launch\nCoder now blocks faulty imports early\n\nTwo Click Demos coming with mock data\nNew roles introduced Retail Apprentice and Cook\nBacktesting now live inside the UI\nEdit Mode and smart widgets now available\n\nVibecode like a quant without writing code\nBuild deploy and scale with @Almanak__",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:44 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747357449175220",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "prodip1416989",
+    "url": "https://x.com/prodip1416989",
+    "twitterUrl": "https://twitter.com/prodip1416989",
+    "id": "1894130665505030144",
+    "name": "prodip .ink 🔌ADD",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1951671631207632896/PQXFHJEW_normal.jpg",
+    "coverPicture": "",
+    "description": "",
+    "location": "kolkata",
+    "followers": 2430,
+    "following": 3542,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 24 21:02:05 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7749,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 263,
+    "statusesCount": 6897,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952649682015957184"
+    ],
+    "profile_bio": {
+      "description": "Web3 enthusiast | Airdrop researcher | Crypto markets participant\nExploring decentralized ecosystems, tracking opportunities, and trading with purpose.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1572179093008912385",
+        "indices": [
+          23,
+          33
+        ],
+        "name": "Almanak",
+        "screen_name": "Almanak__"
+      },
+      {
+        "id_str": "1572179093008912385",
+        "indices": [
+          415,
+          425
+        ],
+        "name": "Almanak",
+        "screen_name": "Almanak__"
+      }
+    ]
+  },
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952728009804333125",
+    "url": "https://x.com/Almanak__/status/1952728009804333125",
+    "twitterUrl": "https://twitter.com/Almanak__/status/1952728009804333125",
+    "text": "https://t.co/K6WFFTRScz",
+    "source": "Twitter for iPhone",
+    "retweetCount": 11,
+    "replyCount": 44,
+    "likeCount": 83,
+    "quoteCount": 13,
+    "viewCount": 2277,
+    "createdAt": "Tue Aug 05 13:46:52 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 4,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1952728009804333125",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Almanak__",
+      "url": "https://x.com/Almanak__",
+      "twitterUrl": "https://twitter.com/Almanak__",
+      "id": "1572179093008912385",
+      "name": "Almanak",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "verifiedType": "Business",
+      "profilePicture": "https://pbs.twimg.com/profile_images/1933390399005208578/tBlaw9Jj_normal.png",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1572179093008912385/1753358762",
+      "description": "",
+      "location": "discord.gg/almanak",
+      "followers": 31461,
+      "following": 23,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Tue Sep 20 11:01:50 +0000 2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 1515,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 176,
+      "statusesCount": 1138,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "1944778889651208534"
+      ],
+      "profile_bio": {
+        "description": "Vibecode like a quant—without writing code.\n\nAlmanak's AI Swarm helps you build institutional-grade, code-based financial strategies.",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/almanak__",
+                "expanded_url": "https://linktr.ee/almanak__",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/yM33sRa5b6"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/1952…",
+          "expanded_url": "http://x.com/i/article/1952722806438768640",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/K6WFFTRScz"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": {
+      "title": "AI Kitchen Weekly Update | W32-2025",
+      "preview_text": "Cooking up the Ultimate Vibecoding DeFi Framework at lightning speed\n🔥 Fresh From the AI Oven\nOur swarm just leveled up\nThe UI Designer (i.e., Dashboard Agent) now creates amazing dashboards for",
+      "cover_media_img_url": "https://pbs.twimg.com/media/Gxl3FdlXoAAF1g5.jpg"
+    }
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

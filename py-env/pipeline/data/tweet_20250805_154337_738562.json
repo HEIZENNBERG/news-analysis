@@ -1,0 +1,391 @@
+{
+  "type": "tweet",
+  "id": "1952757372583088329",
+  "url": "https://x.com/callum_mos74051/status/1952757372583088329",
+  "twitterUrl": "https://twitter.com/callum_mos74051/status/1952757372583088329",
+  "text": "@DallasAnalytics @mattmfm MAGA killed two Democrats\n\nhttps://t.co/FdTkmc9mlR",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:43:32 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952720141910716634",
+  "conversationId": "1952513023618220224",
+  "inReplyToUserId": "52247328",
+  "inReplyToUsername": "DallasAnalytics",
+  "author": {
+    "type": "user",
+    "userName": "callum_mos74051",
+    "url": "https://x.com/callum_mos74051",
+    "twitterUrl": "https://twitter.com/callum_mos74051",
+    "id": "1762707866165673984",
+    "name": "Callum Moscript",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1853585099255586816/aa_elPgv_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1762707866165673984/1721946251",
+    "description": "",
+    "location": "",
+    "followers": 8,
+    "following": 3,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 28 05:14:48 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 510,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 602,
+    "statusesCount": 3410,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": {
+    "binding_values": [
+      {
+        "key": "thumbnail_image",
+        "value": {
+          "image_value": {
+            "height": 144,
+            "url": "https://pbs.twimg.com/card_img/1951390287206453248/pfHvGmfG?format=png&name=144x144_2",
+            "width": 144
+          }
+        }
+      },
+      {
+        "key": "description",
+        "value": {
+          "string_value": "Vance Luther Boelter, 57, is charged with killing Melissa Hortman, a Minnesota Democrat, and her husband Mark."
+        }
+      },
+      {
+        "key": "domain",
+        "value": {
+          "string_value": "www.bbc.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_large",
+        "value": {
+          "image_value": {
+            "height": 420,
+            "url": "https://pbs.twimg.com/card_img/1951390287206453248/pfHvGmfG?format=png&name=420x420_2",
+            "width": 420
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_original",
+        "value": {
+          "image_value": {
+            "height": 576,
+            "url": "https://pbs.twimg.com/card_img/1951390287206453248/pfHvGmfG?format=png&name=orig",
+            "width": 1024
+          }
+        }
+      },
+      {
+        "key": "site",
+        "value": {
+          "scribe_key": "publisher_id",
+          "user_value": {
+            "id_str": "742143"
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_small",
+        "value": {
+          "image_value": {
+            "height": 100,
+            "url": "https://pbs.twimg.com/card_img/1951390287206453248/pfHvGmfG?format=png&name=100x100_2",
+            "width": 100
+          }
+        }
+      },
+      {
+        "key": "thumbnail_image_x_large",
+        "value": {
+          "image_value": {
+            "height": 576,
+            "url": "https://pbs.twimg.com/card_img/1951390287206453248/pfHvGmfG?format=png&name=2048x2048_2_exp",
+            "width": 1024
+          }
+        }
+      },
+      {
+        "key": "vanity_url",
+        "value": {
+          "scribe_key": "vanity_url",
+          "string_value": "bbc.com"
+        }
+      },
+      {
+        "key": "thumbnail_image_color",
+        "value": {
+          "image_color_value": {
+            "palette": [
+              {
+                "percentage": 95.78,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 0
+                }
+              },
+              {
+                "percentage": 2.08,
+                "rgb": {
+                  "blue": 250,
+                  "green": 250,
+                  "red": 250
+                }
+              },
+              {
+                "percentage": 0.92,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 232
+                }
+              },
+              {
+                "percentage": 0.65,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 133
+                }
+              },
+              {
+                "percentage": 0.36,
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 76
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "key": "title",
+        "value": {
+          "string_value": "Minnesota shooting suspect went to homes of two more politicians, prosecutors say - follow live"
+        }
+      },
+      {
+        "key": "card_url",
+        "value": {
+          "scribe_key": "card_url",
+          "string_value": "https://t.co/FdTkmc9mlR"
+        }
+      }
+    ],
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary",
+    "url": "https://t.co/FdTkmc9mlR",
+    "user_refs_results": [
+      {
+        "rest_id": "742143",
+        "result": {
+          "__typename": "User",
+          "action_counts": {
+            "favorites_count": 1
+          },
+          "avatar": {
+            "image_url": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg"
+          },
+          "banner": {
+            "image_url": "https://pbs.twimg.com/profile_banners/742143/1663658662"
+          },
+          "core": {
+            "created_at": "Thu Feb 01 07:44:29 +0000 2007",
+            "name": "BBC News (World)",
+            "screen_name": "BBCWorld"
+          },
+          "dm_permissions": {
+            "can_dm": false
+          },
+          "exclusive_tweet_following": false,
+          "identity_profile_labels_highlighted_label": {
+            "label": {
+              "badge": {
+                "url": "https://pbs.twimg.com/profile_images/1529107486271225859/03qcVNIk_bigger.jpg"
+              },
+              "description": "BBC News (UK)",
+              "url": {
+                "url": "https://twitter.com/BBCNews",
+                "url_type": "DeepLink"
+              },
+              "user_label_type": "BusinessLabel",
+              "user_label_display_type": "Badge"
+            }
+          },
+          "location": {
+            "location": "London, UK"
+          },
+          "media_permissions": {
+            "can_media_tag": true
+          },
+          "notifications_settings": {},
+          "pinned_items": {},
+          "privacy": {},
+          "private_super_following": false,
+          "profile_bio": {
+            "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+            "entities": {
+              "description": {
+                "user_mentions": [
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      77,
+                      89
+                    ],
+                    "name": "",
+                    "screen_name": "BBCBreaking"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      100,
+                      108
+                    ],
+                    "name": "",
+                    "screen_name": "BBCNews"
+                  },
+                  {
+                    "id_str": "0",
+                    "indices": [
+                      129,
+                      138
+                    ],
+                    "name": "",
+                    "screen_name": "BBCSport"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "bbc.com/news",
+                    "expanded_url": "http://www.bbc.com/news",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/4zUWrLAYqP"
+                  }
+                ]
+              }
+            }
+          },
+          "profile_image_shape": "Square",
+          "profile_metadata": {
+            "profile_interstitial_type": "",
+            "profile_link_color": "1F527B"
+          },
+          "profile_translation": {
+            "translator_type_enum": "None"
+          },
+          "properties": {
+            "has_extended_profile": false
+          },
+          "relationship_counts": {
+            "followers": 41922646,
+            "following": 17
+          },
+          "relationship_perspectives": {},
+          "rest_id": "742143",
+          "super_follow_eligible": false,
+          "super_followed_by": false,
+          "super_following": false,
+          "tweet_counts": {
+            "media_tweets": 27233,
+            "tweets": 399650
+          },
+          "website": {
+            "url": "https://t.co/4zUWrLAYqP"
+          },
+          "verification": {
+            "is_blue_verified": true,
+            "verified_type": "Business"
+          }
+        }
+      }
+    ]
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "bbc.com/news/live/cvgv…",
+        "expanded_url": "https://www.bbc.com/news/live/cvgv4y99n7rt",
+        "indices": [
+          53,
+          76
+        ],
+        "url": "https://t.co/FdTkmc9mlR"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "52247328",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Reason and analytics in Dallas",
+        "screen_name": "DallasAnalytics"
+      },
+      {
+        "id_str": "15418628",
+        "indices": [
+          17,
+          25
+        ],
+        "name": "Matt McDermott",
+        "screen_name": "mattmfm"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

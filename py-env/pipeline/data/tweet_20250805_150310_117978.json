@@ -1,0 +1,193 @@
+{
+  "type": "tweet",
+  "id": "1952747204382199961",
+  "url": "https://x.com/aps7676/status/1952747204382199961",
+  "twitterUrl": "https://twitter.com/aps7676/status/1952747204382199961",
+  "text": "頭の悪い反AIをディスるしかできない、反AIと知能程度が同レベルだから、どんな文脈でもツギハギで知識基盤の問題と返すぐらいしか知らないたぬき君です",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:03:08 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747204382199961",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "aps7676",
+    "url": "https://x.com/aps7676",
+    "twitterUrl": "https://twitter.com/aps7676",
+    "id": "1467867982219345923",
+    "name": "aps",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1930277251716919301/4ww4X429_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1467867982219345923/1671722872",
+    "description": "",
+    "location": "",
+    "followers": 864,
+    "following": 1472,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Dec 06 14:46:22 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 125382,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5576,
+    "statusesCount": 54565,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1943551158616007102"
+    ],
+    "profile_bio": {
+      "description": "同じプロンプトでAI画像を生成し続けてます。反反反AIです。 https://t.co/0DFjWYuzdY ハーメルン https://t.co/An8g1CNosK",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "pixai.art/@opa04/artworks",
+              "expanded_url": "https://pixai.art/@opa04/artworks",
+              "indices": [
+                31,
+                54
+              ],
+              "url": "https://t.co/0DFjWYuzdY"
+            },
+            {
+              "display_url": "syosetu.org/novel/293131/",
+              "expanded_url": "http://syosetu.org/novel/293131/",
+              "indices": [
+                61,
+                84
+              ],
+              "url": "https://t.co/An8g1CNosK"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "pixiv.net/users/23253724",
+              "expanded_url": "https://www.pixiv.net/users/23253724",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Ch55BN4rn8"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": {
+    "type": "tweet",
+    "id": "1952745861198594471",
+    "url": "https://x.com/x4Kt5xYMyP1775/status/1952745861198594471",
+    "twitterUrl": "https://twitter.com/x4Kt5xYMyP1775/status/1952745861198594471",
+    "text": "@aps7676 既存の画風のツギハギだってことが理解できないって構造を理解できてないってことなんだよなあ…\nこれは知能基盤の問題なんだよね。",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 1,
+    "viewCount": 2,
+    "createdAt": "Tue Aug 05 14:57:48 +0000 2025",
+    "lang": "ja",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1952727483339464780",
+    "conversationId": "1952727483339464780",
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "x4Kt5xYMyP1775",
+      "url": "https://x.com/x4Kt5xYMyP1775",
+      "twitterUrl": "https://twitter.com/x4Kt5xYMyP1775",
+      "id": "1931986870294171648",
+      "name": "たぬき",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1931987022803300352/d-mtREDH_normal.jpg",
+      "coverPicture": "",
+      "description": "",
+      "location": "",
+      "followers": 30,
+      "following": 27,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Mon Jun 09 08:09:09 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 771,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 3,
+      "statusesCount": 1556,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "無断閲覧は禁止です。",
+        "entities": {
+          "description": {}
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {},
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1467867982219345923",
+          "indices": [
+            0,
+            8
+          ],
+          "name": "aps",
+          "screen_name": "aps7676"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "article": null
+  },
+  "retweeted_tweet": null,
+  "article": null
+}

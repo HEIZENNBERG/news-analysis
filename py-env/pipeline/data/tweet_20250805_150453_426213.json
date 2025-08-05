@@ -1,0 +1,203 @@
+{
+  "type": "tweet",
+  "id": "1952747628992565495",
+  "url": "https://x.com/JimWHuffman/status/1952747628992565495",
+  "twitterUrl": "https://twitter.com/JimWHuffman/status/1952747628992565495",
+  "text": "How do you build an AI Brand? Part 5 ... \n\nMost founders are sitting on a goldmine… and ignoring it.\n\nI’m talking about your reviews.\n\nInside your reviews are:\n→ Ad hooks that will outperform your agency’s copy\n→ Subject lines your customers will actually open\n→ Insights that can fix a leaky funnel faster than any CRO audit\n\nBut the problem?\nReading through 1,000+ reviews manually isn’t scalable.\n\nThat’s why we built Review Pulse inside GARY — our AI Dashboard.\n\nHere’s what it does:\n\n✅  Sentiment Analysis that actually means something.\nNot just “positive” or “negative” — GARY breaks down emotion intensity so you know what people really feel about your product.\n\n✅  Voice of Customer Summary — minus the manual work.\nIt reads every review, finds the recurring themes, and gives you the insights you’d normally pay a CRO agency for.\n\n✅  Ad Copy & Wireframes built from customer feedback.\nIt takes the words your customers are using and turns them into ad hooks and visual concepts. No more starting from scratch.\n\n✅  Email Subject Lines that actually get clicks.\nGARY pulls the phrases your audience is already resonating with and spits out subject lines that don’t sound like corporate spam.\n\nIt’s like having a copywriter, strategist, and research analyst — built into one dashboard.\n\nWe’re in beta right now — if you’d like to test GARY or share feedback, check the comments for the waitlist link 👇",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:04:49 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747628992565495",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "JimWHuffman",
+    "url": "https://x.com/JimWHuffman",
+    "twitterUrl": "https://twitter.com/JimWHuffman",
+    "id": "28567212",
+    "name": "Jim Huffman",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1479572545678372865/1J10HuXx_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/28567212/1716819177",
+    "description": "",
+    "location": "Seattle, WA",
+    "followers": 3050,
+    "following": 1139,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 03 13:57:26 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12172,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1133,
+    "statusesCount": 4634,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1419756885268303925"
+    ],
+    "profile_bio": {
+      "description": "Growth guy that builds in public | CEO @growthhit & Neat, Sweat-Proof Shirts | Podcast Host \"If I Was Starting Today\"\n\nJoin my email to follow along 👇",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                39,
+                49
+              ],
+              "name": "",
+              "screen_name": "growthhit"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "growthhit.com/resources/star…",
+              "expanded_url": "https://growthhit.com/resources/startup-growth-newsletter/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ycyEBOo6d8"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/rFSuRRbWvx",
+        "expanded_url": "https://twitter.com/JimWHuffman/status/1952747628992565495/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 209,
+                "w": 209,
+                "x": 593,
+                "y": 457
+              },
+              {
+                "h": 203,
+                "w": 203,
+                "x": 593,
+                "y": 737
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 270,
+                "w": 270,
+                "x": 764,
+                "y": 589
+              },
+              {
+                "h": 262,
+                "w": 262,
+                "x": 764,
+                "y": 949
+              }
+            ]
+          }
+        },
+        "id_str": "1952747624898965504",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "3_1952747624898965504",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZjZ5mFzAACgACGxmNn1oWkPcAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmNnmYXMAAKAAIbGY2fWhaQ9wAA",
+            "media_key": "3_1952747624898965504"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmNnmYXMAAawBN.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1476,
+              "w": 2636,
+              "x": 0,
+              "y": 124
+            },
+            {
+              "h": 1600,
+              "w": 1600,
+              "x": 188,
+              "y": 0
+            },
+            {
+              "h": 1600,
+              "w": 1404,
+              "x": 286,
+              "y": 0
+            },
+            {
+              "h": 1600,
+              "w": 800,
+              "x": 588,
+              "y": 0
+            },
+            {
+              "h": 1600,
+              "w": 2636,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1600,
+          "width": 2636
+        },
+        "sizes": {
+          "large": {
+            "h": 1243,
+            "w": 2048
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/rFSuRRbWvx"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

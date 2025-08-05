@@ -1,0 +1,100 @@
+{
+  "type": "tweet",
+  "id": "1952747776598487529",
+  "url": "https://x.com/AbakarAnas2/status/1952747776598487529",
+  "twitterUrl": "https://twitter.com/AbakarAnas2/status/1952747776598487529",
+  "text": "I work with claude code and cursor agents and they start to feel unreal \n\nThe amount of output you get and you can work on different agents for different forlders \n\nThe world is not ready for this change, and ai is only getting better !",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:24 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952747776598487529",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "AbakarAnas2",
+    "url": "https://x.com/AbakarAnas2",
+    "twitterUrl": "https://twitter.com/AbakarAnas2",
+    "id": "1624094468604407840",
+    "name": "Abakar Anas",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1934172119878848512/ozCB7C5-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1624094468604407840/1749977603",
+    "description": "",
+    "location": "",
+    "followers": 210,
+    "following": 510,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Feb 10 17:14:42 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13619,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 42,
+    "statusesCount": 448,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1949402248938701063"
+    ],
+    "profile_bio": {
+      "description": "Truth Over Convenience | Co-Founder & CEO @orbicyn",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                42,
+                50
+              ],
+              "name": "",
+              "screen_name": "orbicyn"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "orbicyn.com",
+              "expanded_url": "https://orbicyn.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/od1BZdY5vl"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,85 @@
+{
+  "type": "tweet",
+  "id": "1952755562694811771",
+  "url": "https://x.com/Frank_J_Idstone/status/1952755562694811771",
+  "twitterUrl": "https://twitter.com/Frank_J_Idstone/status/1952755562694811771",
+  "text": "@apollo_news_de Das muss wieder diese \"Unsere Demokratie\" sein...",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:36:21 +0000 2025",
+  "lang": "de",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952720258260738240",
+  "conversationId": "1952720258260738240",
+  "inReplyToUserId": "830858867789664257",
+  "inReplyToUsername": "apollo_news_de",
+  "author": {
+    "type": "user",
+    "userName": "Frank_J_Idstone",
+    "url": "https://x.com/Frank_J_Idstone",
+    "twitterUrl": "https://twitter.com/Frank_J_Idstone",
+    "id": "1688402457276125184",
+    "name": "Van der knarF Generator🇩🇪",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1935921805392285696/TP6u5Nl-_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1688402457276125184/1703226907",
+    "description": "",
+    "location": "#LautgegenLinks/ Wir sind mehr",
+    "followers": 998,
+    "following": 956,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 07 04:12:36 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 35039,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 326,
+    "statusesCount": 10143,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "One of God’s own prototypes. A high-powered mutant of some kind never even considered for mass production. Too weird to live, and too rare to die.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "830858867789664257",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Apollo News",
+        "screen_name": "apollo_news_de"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

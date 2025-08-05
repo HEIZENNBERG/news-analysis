@@ -1,0 +1,87 @@
+{
+  "type": "tweet",
+  "id": "1952747879367324084",
+  "url": "https://x.com/fes_yappy/status/1952747879367324084",
+  "twitterUrl": "https://twitter.com/fes_yappy/status/1952747879367324084",
+  "text": "@Ai_FESTIVE 髪型可愛かったね",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 0,
+  "createdAt": "Tue Aug 05 15:05:49 +0000 2025",
+  "lang": "ja",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1952702296464224379",
+  "conversationId": "1952702296464224379",
+  "inReplyToUserId": "1683363189365563392",
+  "inReplyToUsername": "Ai_FESTIVE",
+  "author": {
+    "type": "user",
+    "userName": "fes_yappy",
+    "url": "https://x.com/fes_yappy",
+    "twitterUrl": "https://twitter.com/fes_yappy",
+    "id": "1249349095111581696",
+    "name": "やっぴ〜",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1944061160149618688/MnugtOP2_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1249349095111581696/1750147822",
+    "description": "",
+    "location": "神奈川",
+    "followers": 139,
+    "following": 169,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 12 14:50:17 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4311,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 491,
+    "statusesCount": 6280,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1932808023669682396"
+    ],
+    "profile_bio": {
+      "description": "基本的にツインテール好みではないです「例外有」",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1683363189365563392",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "七瀬あい【FES☆TIVE】",
+        "screen_name": "Ai_FESTIVE"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}
