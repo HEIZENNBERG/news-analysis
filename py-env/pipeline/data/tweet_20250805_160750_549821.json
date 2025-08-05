@@ -1,0 +1,233 @@
+{
+  "type": "tweet",
+  "id": "1951997968032452762",
+  "url": "https://x.com/OliLondonTV/status/1951997968032452762",
+  "twitterUrl": "https://twitter.com/OliLondonTV/status/1951997968032452762",
+  "text": "All of these young men and women were slaughtered while attending a music festival on October 7th 2023.  \n\nThis is what started the war in Gaza. \n\nNever forget. \n\n https://t.co/3FkQRCuiJH",
+  "source": "Twitter for iPhone",
+  "retweetCount": 3338,
+  "replyCount": 359,
+  "likeCount": 10117,
+  "quoteCount": 91,
+  "viewCount": 111527,
+  "createdAt": "Sun Aug 03 13:25:56 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 256,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1951997968032452762",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "OliLondonTV",
+    "url": "https://x.com/OliLondonTV",
+    "twitterUrl": "https://twitter.com/OliLondonTV",
+    "id": "91416107",
+    "name": "Oli London",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1887818678088945664/odoCFFaM_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/91416107/1722797314",
+    "description": "",
+    "location": "",
+    "followers": 573345,
+    "following": 2563,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Nov 20 20:14:21 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 84680,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 27718,
+    "statusesCount": 44635,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "📖Author of Gender Madness | 📺 News Contributor |",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/dp/1510778063?…",
+              "expanded_url": "https://www.amazon.com/dp/1510778063?ref_=cm_sw_r_mwn_dp_YNRR7MBX971ZJ6MKX2D2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RXoqXiAAe8"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "user_results": {
+              "rest_id": "1611052494758576129",
+              "result": {
+                "__typename": "User",
+                "action_counts": {
+                  "favorites_count": 48596
+                },
+                "avatar": {
+                  "image_url": "https://pbs.twimg.com/profile_images/1817687239725404160/ljSX1pmD_normal.jpg"
+                },
+                "banner": {
+                  "image_url": "https://pbs.twimg.com/profile_banners/1611052494758576129/1733355489"
+                },
+                "core": {
+                  "created_at": "Thu Jan 05 17:31:22 +0000 2023",
+                  "name": "The Voice Of Truth 🙌",
+                  "screen_name": "thevoicetruth1"
+                },
+                "dm_permissions": {
+                  "can_dm": true
+                },
+                "exclusive_tweet_following": false,
+                "identity_profile_labels_highlighted_label": {},
+                "location": {
+                  "location": "Israel 🇮🇱"
+                },
+                "media_permissions": {
+                  "can_media_tag": false
+                },
+                "notifications_settings": {},
+                "pinned_items": {
+                  "tweet_ids_str": [
+                    "1952653145454067982"
+                  ]
+                },
+                "privacy": {},
+                "private_super_following": false,
+                "profile_bio": {
+                  "description": "a Jew, a Zionist, an Israeli ,\nforever a passionate advocate of Israel and the Jewish people🔯 🇮🇱 I block Nazis.",
+                  "entities": {
+                    "description": {}
+                  }
+                },
+                "profile_metadata": {
+                  "profile_interstitial_type": "",
+                  "profile_link_color": "1DA1F2"
+                },
+                "profile_translation": {
+                  "translator_type_enum": "None"
+                },
+                "properties": {
+                  "has_extended_profile": false
+                },
+                "relationship_counts": {
+                  "followers": 24435,
+                  "following": 5283
+                },
+                "relationship_perspectives": {},
+                "rest_id": "1611052494758576129",
+                "super_follow_eligible": false,
+                "super_followed_by": false,
+                "super_following": false,
+                "tweet_counts": {
+                  "media_tweets": 5352,
+                  "tweets": 27749
+                },
+                "website": {
+                  "url": ""
+                },
+                "verification": {
+                  "is_blue_verified": false
+                }
+              }
+            }
+          }
+        },
+        "display_url": "pic.twitter.com/3FkQRCuiJH",
+        "expanded_url": "https://x.com/thevoicetruth1/status/1951414720738574460/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1951414699712475136",
+        "indices": [
+          164,
+          187
+        ],
+        "media_key": "7_1951414699712475136",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsU0VSR1nAACgACGxbjz07b0JoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxTRVJHWcAAKAAIbFuPPTtvQmgAA",
+            "media_key": "7_1951414699712475136"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1951414699712475136/pu/img/Z8VDBey_sEECzQ9M.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720
+          }
+        },
+        "source_status_id_str": "1951414720738574460",
+        "source_user_id_str": "1611052494758576129",
+        "type": "video",
+        "url": "https://t.co/3FkQRCuiJH",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 13794,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1951414699712475136/pu/pl/_ySF8A0kNJk1ednv.m3u8?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1951414699712475136/pu/vid/avc1/320x568/oBUeRT1QdyYcyrBg.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1951414699712475136/pu/vid/avc1/480x852/WWrAAfVbvlzJLYI3.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1951414699712475136/pu/vid/avc1/720x1280/QAdC3dRnmwsW_BIq.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

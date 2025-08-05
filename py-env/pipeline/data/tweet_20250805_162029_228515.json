@@ -1,0 +1,369 @@
+{
+  "type": "tweet",
+  "id": "1952761847829971443",
+  "url": "https://x.com/OselokaHObaze/status/1952761847829971443",
+  "twitterUrl": "https://twitter.com/OselokaHObaze/status/1952761847829971443",
+  "text": "The Four Year Plan: \nYear 1: Streamline, Cut Governance Costs &amp; correct government's lack of effective control over appropriation &amp; taxation;\nYear 2: Reform all weak National Institutions; \nYear 3: Transform Nigeria's economy to production;\nYear 4: Conduct unassailable elections. https://t.co/NNAw5DiT8i",
+  "source": "Twitter for iPhone",
+  "retweetCount": 90,
+  "replyCount": 7,
+  "likeCount": 174,
+  "quoteCount": 2,
+  "viewCount": 1592,
+  "createdAt": "Tue Aug 05 16:01:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952761847829971443",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "OselokaHObaze",
+    "url": "https://x.com/OselokaHObaze",
+    "twitterUrl": "https://twitter.com/OselokaHObaze",
+    "id": "851784015145316352",
+    "name": "Oseloka H. Obaze (OHO)",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1546826740466696192/UTuzywWV_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/851784015145316352/1658004001",
+    "description": "",
+    "location": "Anambra, Nigeria",
+    "followers": 164782,
+    "following": 5029,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Apr 11 13:08:29 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11808,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3515,
+    "statusesCount": 14812,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1131653142876180490"
+    ],
+    "profile_bio": {
+      "description": "Ex-FSO|Ex-#UN|Ex-SSG | Administrator|Mentor|Author|Influencer|Problem Solver| Anambra PDP Guber Candidate 2017|Campaign Manager, '23 Obi-Datti Org.| Ex LP|",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                10,
+                13
+              ],
+              "text": "UN"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "en.m.wikipedia.org/wiki/Oseloka_H…",
+              "expanded_url": "https://en.m.wikipedia.org/wiki/Oseloka_H._Obaze",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Wh3miseMNb"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/NNAw5DiT8i",
+        "expanded_url": "https://twitter.com/OselokaHObaze/status/1952761847829971443/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "Peter Obi Grassroots Mobilization.",
+                "screen_name": "PO_GrassRootM",
+                "type": "user",
+                "user_id": "1344387565777014786"
+              },
+              {
+                "name": "PRObidient Oracle👑 🦅",
+                "screen_name": "PeterRaphaelJnr",
+                "type": "user",
+                "user_id": "1550979132753952773"
+              },
+              {
+                "name": "Chidimma",
+                "screen_name": "The_Chidimma",
+                "type": "user",
+                "user_id": "889837233741733888"
+              },
+              {
+                "name": "PRECIOUS ORUCHE 📌",
+                "screen_name": "p_oruche",
+                "type": "user",
+                "user_id": "3792765568"
+              },
+              {
+                "name": "Ellup76",
+                "screen_name": "ELLUP76",
+                "type": "user",
+                "user_id": "554241628"
+              },
+              {
+                "name": "Peter Obi Grassroots Mobilization.",
+                "screen_name": "PO_GrassRootM",
+                "type": "user",
+                "user_id": "1344387565777014786"
+              },
+              {
+                "name": "PRObidient Oracle👑 🦅",
+                "screen_name": "PeterRaphaelJnr",
+                "type": "user",
+                "user_id": "1550979132753952773"
+              },
+              {
+                "name": "Chidimma",
+                "screen_name": "The_Chidimma",
+                "type": "user",
+                "user_id": "889837233741733888"
+              },
+              {
+                "name": "PRECIOUS ORUCHE 📌",
+                "screen_name": "p_oruche",
+                "type": "user",
+                "user_id": "3792765568"
+              },
+              {
+                "name": "Ellup76",
+                "screen_name": "ELLUP76",
+                "type": "user",
+                "user_id": "554241628"
+              }
+            ]
+          },
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952761810802659328",
+        "indices": [
+          289,
+          312
+        ],
+        "media_key": "3_1952761810802659328",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZmoVP11AACgACGxmaje7XQfMAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmahU/XUAAKAAIbGZqN7tdB8wAA",
+            "media_key": "3_1952761810802659328"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmahU_XUAAIzYW.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 444,
+              "w": 792,
+              "x": 0,
+              "y": 162
+            },
+            {
+              "h": 792,
+              "w": 792,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 809,
+              "w": 710,
+              "x": 41,
+              "y": 0
+            },
+            {
+              "h": 809,
+              "w": 405,
+              "x": 194,
+              "y": 0
+            },
+            {
+              "h": 809,
+              "w": 792,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 809,
+          "width": 792
+        },
+        "sizes": {
+          "large": {
+            "h": 809,
+            "w": 792
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/NNAw5DiT8i"
+      },
+      {
+        "display_url": "pic.twitter.com/NNAw5DiT8i",
+        "expanded_url": "https://twitter.com/OselokaHObaze/status/1952761847829971443/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "Peter Obi Grassroots Mobilization.",
+                "screen_name": "PO_GrassRootM",
+                "type": "user",
+                "user_id": "1344387565777014786"
+              },
+              {
+                "name": "PRObidient Oracle👑 🦅",
+                "screen_name": "PeterRaphaelJnr",
+                "type": "user",
+                "user_id": "1550979132753952773"
+              },
+              {
+                "name": "Chidimma",
+                "screen_name": "The_Chidimma",
+                "type": "user",
+                "user_id": "889837233741733888"
+              },
+              {
+                "name": "PRECIOUS ORUCHE 📌",
+                "screen_name": "p_oruche",
+                "type": "user",
+                "user_id": "3792765568"
+              },
+              {
+                "name": "Ellup76",
+                "screen_name": "ELLUP76",
+                "type": "user",
+                "user_id": "554241628"
+              },
+              {
+                "name": "Peter Obi Grassroots Mobilization.",
+                "screen_name": "PO_GrassRootM",
+                "type": "user",
+                "user_id": "1344387565777014786"
+              },
+              {
+                "name": "PRObidient Oracle👑 🦅",
+                "screen_name": "PeterRaphaelJnr",
+                "type": "user",
+                "user_id": "1550979132753952773"
+              },
+              {
+                "name": "Chidimma",
+                "screen_name": "The_Chidimma",
+                "type": "user",
+                "user_id": "889837233741733888"
+              },
+              {
+                "name": "PRECIOUS ORUCHE 📌",
+                "screen_name": "p_oruche",
+                "type": "user",
+                "user_id": "3792765568"
+              },
+              {
+                "name": "Ellup76",
+                "screen_name": "ELLUP76",
+                "type": "user",
+                "user_id": "554241628"
+              }
+            ]
+          },
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952761810949382144",
+        "indices": [
+          289,
+          312
+        ],
+        "media_key": "3_1952761810949382144",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZmoVYliAACgACGxmaje7XQfMAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmahViWIAAKAAIbGZqN7tdB8wAA",
+            "media_key": "3_1952761810949382144"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmahViWIAA9PxQ.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 771,
+              "w": 771,
+              "x": 182,
+              "y": 0
+            },
+            {
+              "h": 771,
+              "w": 676,
+              "x": 229,
+              "y": 0
+            },
+            {
+              "h": 771,
+              "w": 386,
+              "x": 374,
+              "y": 0
+            },
+            {
+              "h": 771,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 771,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 771,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/NNAw5DiT8i"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

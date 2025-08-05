@@ -1,0 +1,287 @@
+{
+  "type": "tweet",
+  "id": "1952760500942446996",
+  "url": "https://x.com/MinisterEDU_NC/status/1952760500942446996",
+  "twitterUrl": "https://twitter.com/MinisterEDU_NC/status/1952760500942446996",
+  "text": "📢 URGENT – EXETAT 2025  \nLes résultats de Kinshasa Mont-Amba sont désormais disponibles !\n\n📱 Les candidats peuvent consulter leurs résultats via les services SMS des opérateurs téléphoniques.\n\n#EXETAT2025 #Résultats #ÉducationRDC #EDUNC #RDC https://t.co/29xd95WwpR",
+  "source": "Twitter for iPhone",
+  "retweetCount": 18,
+  "replyCount": 14,
+  "likeCount": 98,
+  "quoteCount": 3,
+  "viewCount": 3032,
+  "createdAt": "Tue Aug 05 15:55:58 +0000 2025",
+  "lang": "fr",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952760500942446996",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "MinisterEDU_NC",
+    "url": "https://x.com/MinisterEDU_NC",
+    "twitterUrl": "https://twitter.com/MinisterEDU_NC",
+    "id": "720319106",
+    "name": "Ministère de l'Education Nationale-NC",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1806426197489836034/ZEbi5xiB_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/720319106/1739390013",
+    "description": "",
+    "location": "Rép. Dém. du Congo",
+    "followers": 101508,
+    "following": 233,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jul 27 15:10:05 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1834,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1401,
+    "statusesCount": 2411,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1931254232981618921"
+    ],
+    "profile_bio": {
+      "description": "Compte officiel du Ministère de l'Education Nationale et Nouvelle Citoyenneté de la République Démocratique du Congo.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "edu-nc.gouv.cd",
+              "expanded_url": "https://edu-nc.gouv.cd/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/r08pAWY6Rf"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/29xd95WwpR",
+        "expanded_url": "https://twitter.com/MinisterEDU_NC/status/1952760500942446996/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 48,
+                "w": 48,
+                "x": 565,
+                "y": 2
+              },
+              {
+                "h": 52,
+                "w": 52,
+                "x": 484,
+                "y": 54
+              },
+              {
+                "h": 53,
+                "w": 53,
+                "x": 489,
+                "y": 883
+              },
+              {
+                "h": 60,
+                "w": 60,
+                "x": 940,
+                "y": 14
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 48,
+                "w": 48,
+                "x": 565,
+                "y": 2
+              },
+              {
+                "h": 52,
+                "w": 52,
+                "x": 484,
+                "y": 54
+              },
+              {
+                "h": 53,
+                "w": 53,
+                "x": 489,
+                "y": 883
+              },
+              {
+                "h": 60,
+                "w": 60,
+                "x": 940,
+                "y": 14
+              }
+            ]
+          }
+        },
+        "id_str": "1952760491568177152",
+        "indices": [
+          242,
+          265
+        ],
+        "media_key": "3_1952760491568177152",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZmVInVqAACgACGxmZVFYWoZQAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmZUidWoAAKAAIbGZlUVhahlAAA",
+            "media_key": "3_1952760491568177152"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmZUidWoAAwmF4.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 49
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 40,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 243,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/29xd95WwpR"
+      }
+    ]
+  },
+  "card": null,
+  "place": {
+    "bounding_box_polygon": {
+      "coordinates": [
+        [
+          [
+            11.091564,
+            -5.084065
+          ],
+          [
+            11.091564,
+            3.7060414
+          ],
+          [
+            18.66035,
+            3.7060414
+          ],
+          [
+            18.66035,
+            -5.084065
+          ],
+          [
+            11.091564,
+            -5.084065
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "country": "Congo Brazzaville",
+    "country_code": "CG",
+    "full_name": "Congo Brazzaville",
+    "id": "326674ea1ad6f260",
+    "name": "Congo Brazzaville",
+    "place_type": "country"
+  },
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          193,
+          204
+        ],
+        "text": "EXETAT2025"
+      },
+      {
+        "indices": [
+          205,
+          215
+        ],
+        "text": "Résultats"
+      },
+      {
+        "indices": [
+          216,
+          229
+        ],
+        "text": "ÉducationRDC"
+      },
+      {
+        "indices": [
+          230,
+          236
+        ],
+        "text": "EDUNC"
+      },
+      {
+        "indices": [
+          237,
+          241
+        ],
+        "text": "RDC"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

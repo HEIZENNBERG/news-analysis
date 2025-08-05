@@ -1,0 +1,121 @@
+{
+  "type": "tweet",
+  "id": "1952693746656817308",
+  "url": "https://x.com/WasimJaffer14/status/1952693746656817308",
+  "twitterUrl": "https://twitter.com/WasimJaffer14/status/1952693746656817308",
+  "text": "Reports of Donald Trump negotiating a ceasefire between me and @MichaelVaughan are BASELESS and UNTRUE. The social media war will continue. Thank you for your attention to this matter. #ENGvIND",
+  "source": "Twitter for iPhone",
+  "retweetCount": 4244,
+  "replyCount": 980,
+  "likeCount": 50637,
+  "quoteCount": 216,
+  "viewCount": 907406,
+  "createdAt": "Tue Aug 05 11:30:43 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 461,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952693746656817308",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "WasimJaffer14",
+    "url": "https://x.com/WasimJaffer14",
+    "twitterUrl": "https://twitter.com/WasimJaffer14",
+    "id": "1098141150144356352",
+    "name": "Wasim Jaffer",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1240617174584020995/Bdo721ub_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1098141150144356352/1563352555",
+    "description": "",
+    "location": "",
+    "followers": 1404261,
+    "following": 354,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 20 08:43:47 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6566,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1835,
+    "statusesCount": 2920,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1475697988353728512"
+    ],
+    "profile_bio": {
+      "description": "Former India Cricketer 🏏\nProud Indian 🇮🇳\n\nFor business queries: contactwasimjaffer@gmail.com https://t.co/KFIzs8EckF",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/wasimjaffer14?…",
+              "expanded_url": "https://instagram.com/wasimjaffer14?igshid=fjtshzlmx2ka",
+              "indices": [
+                93,
+                116
+              ],
+              "url": "https://t.co/KFIzs8EckF"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/channel/UCHAjy…",
+              "expanded_url": "https://youtube.com/channel/UCHAjyIp_vJdsxwMG5H7_rIw",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/FkHXE2p7PE"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          185,
+          193
+        ],
+        "text": "ENGvIND"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "97893963",
+        "indices": [
+          63,
+          78
+        ],
+        "name": "Michael Vaughan",
+        "screen_name": "MichaelVaughan"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,152 @@
+{
+  "type": "tweet",
+  "id": "1952432798012211301",
+  "url": "https://x.com/clashreport/status/1952432798012211301",
+  "twitterUrl": "https://twitter.com/clashreport/status/1952432798012211301",
+  "text": "Dr. Tanya Haj-Hassan recounts Gaza: \n\n“I held a lifeless child—no gear to save him. This isn’t war, it’s a massacre of innocents.” https://t.co/uDAK1woxO7",
+  "source": "Twitter for iPhone",
+  "retweetCount": 15411,
+  "replyCount": 560,
+  "likeCount": 36700,
+  "quoteCount": 218,
+  "viewCount": 453506,
+  "createdAt": "Mon Aug 04 18:13:48 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1355,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952432798012211301",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "clashreport",
+    "url": "https://x.com/clashreport",
+    "twitterUrl": "https://twitter.com/clashreport",
+    "id": "3247652319",
+    "name": "Clash Report",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3247652319/1710871366",
+    "description": "",
+    "location": "",
+    "followers": 622505,
+    "following": 2,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue May 12 11:23:40 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 33827,
+    "statusesCount": 50110,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1929165223665000702"
+    ],
+    "profile_bio": {
+      "description": "Breaking news, reports, and opinions from ongoing clashes of the world. English | Türkçe | عربي",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "t.me/ClashReport",
+              "expanded_url": "https://t.me/ClashReport",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QCrHfq42Pn"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/uDAK1woxO7",
+        "expanded_url": "https://twitter.com/clashreport/status/1952432798012211301/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952432482491445248",
+        "indices": [
+          131,
+          154
+        ],
+        "media_key": "13_1952432482491445248",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsYbv+W1jAAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxhu/5bWMAAAAA==",
+            "media_key": "13_1952432482491445248"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952432482491445248/img/ytJ3U9-D0eAmeexc.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 854,
+          "width": 480
+        },
+        "sizes": {
+          "large": {
+            "h": 854,
+            "w": 480
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/uDAK1woxO7",
+        "video_info": {
+          "aspect_ratio": [
+            240,
+            427
+          ],
+          "duration_millis": 104384,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952432482491445248/pl/EssZFFnIYOOtpaMA.m3u8?tag=21&v=cfc"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952432482491445248/vid/avc1/320x568/GR5fsW4GHg3eICqg.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952432482491445248/vid/avc1/480x854/6q0tDaKuEUmZc6rZ.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

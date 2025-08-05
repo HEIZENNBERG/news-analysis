@@ -1,0 +1,160 @@
+{
+  "type": "tweet",
+  "id": "1951744501489504760",
+  "url": "https://x.com/againstwarvoice/status/1951744501489504760",
+  "twitterUrl": "https://twitter.com/againstwarvoice/status/1951744501489504760",
+  "text": "Tonight in Jerusalem: demonstration against the ongoing genocide and starvation of Gaza https://t.co/KDl467f66u",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1585,
+  "replyCount": 105,
+  "likeCount": 3529,
+  "quoteCount": 70,
+  "viewCount": 79461,
+  "createdAt": "Sat Aug 02 20:38:45 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 112,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1951744501489504760",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "againstwarvoice",
+    "url": "https://x.com/againstwarvoice",
+    "twitterUrl": "https://twitter.com/againstwarvoice",
+    "id": "1711848021082664960",
+    "name": "Voices Against War",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1724007373235273728/lmb7SDON_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1711848021082664960/1699870364",
+    "description": "",
+    "location": "Jerusalem",
+    "followers": 14185,
+    "following": 252,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 10 20:56:00 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4398,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 733,
+    "statusesCount": 1981,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1904926547963687184"
+    ],
+    "profile_bio": {
+      "description": "Resisters in IsraeI-Palestine working to end the occupation of Palestine. To join the call for arms embargo click the link",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "mailchi.mp/refuser/voices…",
+              "expanded_url": "https://mailchi.mp/refuser/voicesagainstwar",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/6fBmmP8J9W"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/KDl467f66u",
+        "expanded_url": "https://twitter.com/againstwarvoice/status/1951744501489504760/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1951744477439086592",
+        "indices": [
+          88,
+          111
+        ],
+        "media_key": "7_1951744477439086592",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsV/ULuFlAACgACGxX9SIeakfgAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxX9Qu4WUAAKAAIbFf1Ih5qR+AAA",
+            "media_key": "7_1951744477439086592"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1951744477439086592/pu/img/NUkWKdH7sNLn5-y_.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/KDl467f66u",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 9476,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1951744477439086592/pu/pl/K1kCC-oW4BIRJc2j.m3u8?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1951744477439086592/pu/vid/avc1/320x568/GQA-rDiD7ClLjPOV.mp4?tag=12"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1951744477439086592/pu/vid/avc1/480x852/AVtpByVhctSLTAfG.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1951744477439086592/pu/vid/avc1/720x1280/-BYiNxMicWke8SkE.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,178 @@
+{
+  "type": "tweet",
+  "id": "1952716246551552432",
+  "url": "https://x.com/usedgov/status/1952716246551552432",
+  "twitterUrl": "https://twitter.com/usedgov/status/1952716246551552432",
+  "text": "Because of the Individuals with Disabilities in Education Act (IDEA), millions of students have access to an education that best serves their unique needs.\n\nAs we celebrate 50 years of this life-changing law, learn how IDEA continues to protect students to this day. Watch the full video here: https://t.co/pQqDavsnKq \n#IDEA50",
+  "source": "Twitter for iPhone",
+  "retweetCount": 8,
+  "replyCount": 2,
+  "likeCount": 24,
+  "quoteCount": 2,
+  "viewCount": 4657,
+  "createdAt": "Tue Aug 05 13:00:07 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952716246551552432",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "usedgov",
+    "url": "https://x.com/usedgov",
+    "twitterUrl": "https://twitter.com/usedgov",
+    "id": "20437286",
+    "name": "U.S. Department of Education",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": "Government",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1807774790846959616/7noJNRiY_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/20437286/1747044551",
+    "description": "",
+    "location": "Washington, DC",
+    "followers": 1397566,
+    "following": 197,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 09 14:15:05 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3004,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 9664,
+    "statusesCount": 32101,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951300641151648158"
+    ],
+    "profile_bio": {
+      "description": "The official United States Department of Education Twitter/X account. Follows, Retweets and shared links ≠ endorsement.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "ed.gov",
+              "expanded_url": "http://www.ed.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/yyBZXRnkf2"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/K0In4Es9r9",
+        "expanded_url": "https://twitter.com/usedgov/status/1952716246551552432/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952715142161903616",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "7_1952715142161903616",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsZcBNsFjAACgACGxlxFI7W4bAAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxlwE2wWMAAKAAIbGXEUjtbhsAAA",
+            "media_key": "7_1952715142161903616"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1952715142161903616/pu/img/tAeNoibRK9XdX8xC.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 720,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 1280
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/K0In4Es9r9",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 62633,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952715142161903616/pu/pl/erp_GMWkvOVxxmzY.m3u8?tag=12&v=166"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952715142161903616/pu/vid/avc1/480x270/SgtdvMfrVExweJH6.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952715142161903616/pu/vid/avc1/640x360/6J-6UZRm2CmEGq6E.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952715142161903616/pu/vid/avc1/1280x720/hpXIEqeXxEViuUHr.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          319,
+          326
+        ],
+        "text": "IDEA50"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "youtu.be/89_PTxKGVbI",
+        "expanded_url": "https://youtu.be/89_PTxKGVbI",
+        "indices": [
+          294,
+          317
+        ],
+        "url": "https://t.co/pQqDavsnKq"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

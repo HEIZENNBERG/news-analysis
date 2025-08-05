@@ -1,0 +1,261 @@
+{
+  "type": "tweet",
+  "id": "1950549258555257124",
+  "url": "https://x.com/RepThomasMassie/status/1950549258555257124",
+  "twitterUrl": "https://twitter.com/RepThomasMassie/status/1950549258555257124",
+  "text": "Israel’s war in Gaza is so lopsided that there’s no rational argument American taxpayers should be paying for it. With tens of thousands of civilian casualties, there’s a moral dilemma too. I vote to stop funding their war and lobbyists for Israel pay for campaign ads against me. https://t.co/kl98hox56N",
+  "source": "Twitter for iPhone",
+  "retweetCount": 6873,
+  "replyCount": 1526,
+  "likeCount": 31229,
+  "quoteCount": 269,
+  "viewCount": 503143,
+  "createdAt": "Wed Jul 30 13:29:17 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 980,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1950549258555257124",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "RepThomasMassie",
+    "url": "https://x.com/RepThomasMassie",
+    "twitterUrl": "https://twitter.com/RepThomasMassie",
+    "id": "975200486",
+    "name": "Thomas Massie",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": "Government",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1899401226158039040/SmC-Bb8i_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/975200486/1717073438",
+    "description": "",
+    "location": "Appalachiastan",
+    "followers": 1402083,
+    "following": 23743,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 28 02:33:14 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 197275,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3355,
+    "statusesCount": 22700,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {
+      "label": {
+        "badge": {
+          "url": "https://pbs.twimg.com/profile_images/1877085039948668928/f4AibqzY_bigger.jpg"
+        },
+        "description": "House Republicans",
+        "url": {
+          "url": "https://twitter.com/HouseGOP",
+          "url_type": "DeepLink"
+        },
+        "user_label_type": "BusinessLabel",
+        "user_label_display_type": "Badge"
+      }
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1821484304582516849"
+    ],
+    "profile_bio": {
+      "description": "U.S. Representative KY4, Engineer, Farmer, Inventor. 30 patents. Appalachian American. MIT SB93 SM96 #sassywithmassie #politicalsciencedenier pronoun: Pappaw",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                101,
+                117
+              ],
+              "text": "sassywithmassie"
+            },
+            {
+              "indices": [
+                118,
+                141
+              ],
+              "text": "politicalsciencedenier"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "massie.house.gov/media/social.h…",
+              "expanded_url": "https://massie.house.gov/media/social.htm",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/s548EIkr5L"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/kl98hox56N",
+        "expanded_url": "https://twitter.com/RepThomasMassie/status/1950549258555257124/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1950549254176378880",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "3_1950549254176378880",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsRvjZUFhAACgACGxG+N1kWcSQAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxG+NlQWEAAKAAIbEb43WRZxJAAA",
+            "media_key": "3_1950549254176378880"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxG-NlQWEAAUARE.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 340,
+              "w": 607,
+              "x": 0,
+              "y": 255
+            },
+            {
+              "h": 607,
+              "w": 607,
+              "x": 0,
+              "y": 24
+            },
+            {
+              "h": 631,
+              "w": 554,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 631,
+              "w": 316,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 631,
+              "w": 607,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 631,
+          "width": 607
+        },
+        "sizes": {
+          "large": {
+            "h": 631,
+            "w": 607
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/kl98hox56N"
+      },
+      {
+        "display_url": "pic.twitter.com/kl98hox56N",
+        "expanded_url": "https://twitter.com/RepThomasMassie/status/1950549258555257124/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1950549254159601664",
+        "indices": [
+          281,
+          304
+        ],
+        "media_key": "3_1950549254159601664",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsRvjZTFhAACgACGxG+N1kWcSQAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxG+NlMWEAAKAAIbEb43WRZxJAAA",
+            "media_key": "3_1950549254159601664"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxG-NlMWEAAlHJ5.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 718,
+              "w": 1283,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 873,
+              "w": 873,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 873,
+              "w": 766,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 873,
+              "w": 437,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 873,
+              "w": 1283,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 873,
+          "width": 1283
+        },
+        "sizes": {
+          "large": {
+            "h": 873,
+            "w": 1283
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/kl98hox56N"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,192 @@
+{
+  "type": "tweet",
+  "id": "1952715200177607019",
+  "url": "https://x.com/SkySportsPL/status/1952715200177607019",
+  "twitterUrl": "https://twitter.com/SkySportsPL/status/1952715200177607019",
+  "text": "BREAKING: Manchester United have made a bid worth just under £74m to RB Leipzig for striker Benjamin Sesko 🚨 https://t.co/aatQRVCvWw",
+  "source": "Twitter for iPhone",
+  "retweetCount": 616,
+  "replyCount": 173,
+  "likeCount": 9008,
+  "quoteCount": 37,
+  "viewCount": 316375,
+  "createdAt": "Tue Aug 05 12:55:58 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 31,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952715200177607019",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "SkySportsPL",
+    "url": "https://x.com/SkySportsPL",
+    "twitterUrl": "https://twitter.com/SkySportsPL",
+    "id": "713993413",
+    "name": "Sky Sports Premier League",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": "Business",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1951062124270096384/61d3VzXN_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/713993413/1754004435",
+    "description": "",
+    "location": "London",
+    "followers": 12961241,
+    "following": 42,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 24 09:18:08 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 343,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 117758,
+    "statusesCount": 234440,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "The Official Sky Sports Premier League X Account.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "shop.skysports.com/football-clubs/",
+              "expanded_url": "https://shop.skysports.com/football-clubs/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/0XTVPZ8lP0"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/aatQRVCvWw",
+        "expanded_url": "https://twitter.com/SkySportsPL/status/1952715200177607019/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 214,
+                "w": 214,
+                "x": 454,
+                "y": 77
+              },
+              {
+                "h": 477,
+                "w": 477,
+                "x": 305,
+                "y": 499
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 214,
+                "w": 214,
+                "x": 454,
+                "y": 77
+              },
+              {
+                "h": 477,
+                "w": 477,
+                "x": 305,
+                "y": 499
+              }
+            ]
+          }
+        },
+        "id_str": "1952715190757154816",
+        "indices": [
+          109,
+          132
+        ],
+        "media_key": "3_1952715190757154816",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZcB68luAACgACGxlwIO4XkWsAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxlwHryW4AAKAAIbGXAg7heRawAA",
+            "media_key": "3_1952715190757154816"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxlwHryW4AAQrTZ.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1231,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1350,
+              "w": 675,
+              "x": 236,
+              "y": 0
+            },
+            {
+              "h": 1350,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1350,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1350,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/aatQRVCvWw"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,172 @@
+{
+  "type": "tweet",
+  "id": "1952761821057651155",
+  "url": "https://x.com/KAVA_CHAIN/status/1952761821057651155",
+  "twitterUrl": "https://twitter.com/KAVA_CHAIN/status/1952761821057651155",
+  "text": "Kava is building the foundation for a U.S.-led decentralized AI movement. https://t.co/UsU04WovbM",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2,
+  "replyCount": 13,
+  "likeCount": 215,
+  "quoteCount": 0,
+  "viewCount": 439,
+  "createdAt": "Tue Aug 05 16:01:13 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952761821057651155",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "KAVA_CHAIN",
+    "url": "https://x.com/KAVA_CHAIN",
+    "twitterUrl": "https://twitter.com/KAVA_CHAIN",
+    "id": "1032773383958745088",
+    "name": "Kava",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": "Business",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1610470977162330119/o059azs5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1032773383958745088/1748939822",
+    "description": "",
+    "location": "",
+    "followers": 365287,
+    "following": 798,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 23 23:35:37 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4415,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2287,
+    "statusesCount": 5351,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "#KAVA is a decentralized blockchain that combines the speed and interoperability of Cosmos with the developer power of Ethereum. Decentralize AI #MadeInUSA 🇺🇸",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                5
+              ],
+              "text": "KAVA"
+            },
+            {
+              "indices": [
+                145,
+                155
+              ],
+              "text": "MadeInUSA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "kava.io",
+              "expanded_url": "https://www.kava.io/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wtl6NNIOuP"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/UsU04WovbM",
+        "expanded_url": "https://twitter.com/KAVA_CHAIN/status/1952761821057651155/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952761778615533568",
+        "indices": [
+          74,
+          97
+        ],
+        "media_key": "13_1952761778615533568",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZmn3RVsAAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxmafdFWwAAAAA==",
+            "media_key": "13_1952761778615533568"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmagpoXoAEXMXS.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 720,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 720,
+            "w": 720
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/UsU04WovbM",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 27060,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952761778615533568/pl/yt3L6hSJfAdbX-Xo.m3u8?tag=14"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952761778615533568/vid/avc1/320x320/-9jW2NVl-XfCbVFH.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952761778615533568/vid/avc1/540x540/txnS9Oj7rBvy3oIY.mp4?tag=14"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952761778615533568/vid/avc1/720x720/lsUNiR_--1NhMnD-.mp4?tag=14"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

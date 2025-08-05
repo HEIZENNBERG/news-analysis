@@ -1,0 +1,179 @@
+{
+  "type": "tweet",
+  "id": "1952734326358937802",
+  "url": "https://x.com/WakeUpPatriott/status/1952734326358937802",
+  "twitterUrl": "https://twitter.com/WakeUpPatriott/status/1952734326358937802",
+  "text": "On a scale of 1-10, how well is President Trump handling the trade war? https://t.co/Ysy4gnR4J7",
+  "source": "Twitter for iPhone",
+  "retweetCount": 51,
+  "replyCount": 204,
+  "likeCount": 251,
+  "quoteCount": 7,
+  "viewCount": 8214,
+  "createdAt": "Tue Aug 05 14:11:58 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952734326358937802",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "WakeUpPatriott",
+    "url": "https://x.com/WakeUpPatriott",
+    "twitterUrl": "https://twitter.com/WakeUpPatriott",
+    "id": "1787070764858142720",
+    "name": "Wake Up Patriot 🇺🇸",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952490302213685248/pv4f7TBR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1787070764858142720/1714906420",
+    "description": "",
+    "location": "USA",
+    "followers": 248550,
+    "following": 23,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 05 10:44:20 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 30799,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4631,
+    "statusesCount": 26795,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1855261866601406631"
+    ],
+    "profile_bio": {
+      "description": "🚨Wake Up Patriot | Unleashing truth, defending freedom, and rallying the spirit of America! Breaking news, bold opinions, and a call to action. #AmericaFirst",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                144,
+                157
+              ],
+              "text": "AmericaFirst"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/Ysy4gnR4J7",
+        "expanded_url": "https://twitter.com/WakeUpPatriott/status/1952734326358937802/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 218,
+                "w": 218,
+                "x": 481,
+                "y": 122
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 218,
+                "w": 218,
+                "x": 481,
+                "y": 122
+              }
+            ]
+          }
+        },
+        "id_str": "1952734317349617664",
+        "indices": [
+          72,
+          95
+        ],
+        "media_key": "3_1952734317349617664",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZgYP+VsAACgACGxmBhhdWEMoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmBg/5WwAAKAAIbGYGGF1YQygAA",
+            "media_key": "3_1952734317349617664"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmBg_5WwAAF0ns.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 717,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 854,
+              "w": 854,
+              "x": 179,
+              "y": 0
+            },
+            {
+              "h": 854,
+              "w": 749,
+              "x": 232,
+              "y": 0
+            },
+            {
+              "h": 854,
+              "w": 427,
+              "x": 393,
+              "y": 0
+            },
+            {
+              "h": 854,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 854,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 854,
+            "w": 1280
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Ysy4gnR4J7"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

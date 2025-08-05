@@ -1,0 +1,144 @@
+{
+  "type": "tweet",
+  "id": "1952258224482074694",
+  "url": "https://x.com/zohranmamdani/status/1952258224482074694",
+  "twitterUrl": "https://twitter.com/zohranmamdani/status/1952258224482074694",
+  "text": "This is what Israel doesn’t want you to see — aerial footage of Gaza reduced to dust.\n\nBecause when you see it, you know: it’s not “war,” it’s genocide. https://t.co/uq7lD4CQ2H",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1565,
+  "replyCount": 627,
+  "likeCount": 3478,
+  "quoteCount": 51,
+  "viewCount": 50519,
+  "createdAt": "Mon Aug 04 06:40:06 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 68,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952258224482074694",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "zohranmamdani",
+    "url": "https://x.com/zohranmamdani",
+    "twitterUrl": "https://twitter.com/zohranmamdani",
+    "id": "1807261617656045568",
+    "name": "Zohran Mamdani",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1940688357790478336/kSEj9Glf_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1807261617656045568/1751029315",
+    "description": "",
+    "location": "",
+    "followers": 116943,
+    "following": 124,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 30 03:55:35 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1058,
+    "statusesCount": 1888,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952736489588019660"
+    ],
+    "profile_bio": {
+      "description": "Independent journalist. Personal account . On mission to elevate minds, challenge norms — if we dared to think bigger. Not the NYC politician",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/uq7lD4CQ2H",
+        "expanded_url": "https://twitter.com/zohranmamdani/status/1952258224482074694/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952258203770638336",
+        "indices": [
+          153,
+          176
+        ],
+        "media_key": "7_1952258203770638336",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAwoAARsX0H4pl1AACgACGxfQgvwWwEYAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAADCgABGxfQfimXUAAKAAIbF9CC/BbARgAA",
+            "media_key": "7_1952258203770638336"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1952258203770638336/pu/img/LYm9JYCNkVcnBJF_.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 1920
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/uq7lD4CQ2H",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 11636,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952258203770638336/pu/pl/RKZpyo_mF5_yK5BJ.m3u8?tag=12&v=c73"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952258203770638336/pu/vid/avc1/480x270/3SK8YFIdkGy28vpB.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952258203770638336/pu/vid/avc1/640x360/n5p3UuZjpYJhzhbg.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/ext_tw_video/1952258203770638336/pu/vid/avc1/1280x720/S6uGwhvS3-nfG8cf.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

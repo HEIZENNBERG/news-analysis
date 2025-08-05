@@ -1,0 +1,241 @@
+{
+  "type": "tweet",
+  "id": "1951374038711865790",
+  "url": "https://x.com/QudsNen/status/1951374038711865790",
+  "twitterUrl": "https://twitter.com/QudsNen/status/1951374038711865790",
+  "text": "Baby Wateen Al-Nada was born into war, her father was killed in an Israeli strike before she ever met him. Now, she suffers from severe malnutrition, like all the children in Gaza enduring the brutal toll of Israel’s ongoing siege, starvation, and bombardment. https://t.co/sW6iLZx0nX",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2285,
+  "replyCount": 133,
+  "likeCount": 2492,
+  "quoteCount": 52,
+  "viewCount": 38485,
+  "createdAt": "Fri Aug 01 20:06:40 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 53,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1951374038711865790",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "QudsNen",
+    "url": "https://x.com/QudsNen",
+    "twitterUrl": "https://twitter.com/QudsNen",
+    "id": "524869533",
+    "name": "Quds News Network",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1539542607864504320/Hiysv5k__normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/524869533/1696785772",
+    "description": "",
+    "location": "London, England",
+    "followers": 591001,
+    "following": 1,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 15 00:24:32 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 144,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 120579,
+    "statusesCount": 136986,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1899409741383692779"
+    ],
+    "profile_bio": {
+      "description": "QNN, founded in 2011, is the largest independent Palestinian youth news network, advocating for freedom, dignity, and Palestinian self-determination. #Palestine",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                150,
+                160
+              ],
+              "text": "Palestine"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/qudsnn",
+              "expanded_url": "http://linktr.ee/qudsnn",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rRtI0wNivK"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/sW6iLZx0nX",
+        "expanded_url": "https://twitter.com/QudsNen/status/1951374038711865790/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1951373925339877376",
+        "indices": [
+          261,
+          284
+        ],
+        "media_key": "3_1951373925339877376",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsUrD8L19AACgACGxSsWXFXEb4AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxSsPwvX0AAKAAIbFKxZcVcRvgAA",
+            "media_key": "3_1951373925339877376"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxSsPwvX0AA6uGW.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 717,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 960,
+              "w": 960,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 960,
+              "w": 842,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 960,
+              "w": 480,
+              "x": 176,
+              "y": 0
+            },
+            {
+              "h": 960,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 960,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 960,
+            "w": 1280
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sW6iLZx0nX"
+      },
+      {
+        "display_url": "pic.twitter.com/sW6iLZx0nX",
+        "expanded_url": "https://twitter.com/QudsNen/status/1951374038711865790/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1951373948010012672",
+        "indices": [
+          261,
+          284
+        ],
+        "media_key": "3_1951373948010012672",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsUrERTFqAACgACGxSsWXFXEb4AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxSsRFMWoAAKAAIbFKxZcVcRvgAA",
+            "media_key": "3_1951373948010012672"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxSsRFMWoAAlBbu.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 717,
+              "w": 1280,
+              "x": 0,
+              "y": 243
+            },
+            {
+              "h": 960,
+              "w": 960,
+              "x": 320,
+              "y": 0
+            },
+            {
+              "h": 960,
+              "w": 842,
+              "x": 438,
+              "y": 0
+            },
+            {
+              "h": 960,
+              "w": 480,
+              "x": 752,
+              "y": 0
+            },
+            {
+              "h": 960,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 960,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 960,
+            "w": 1280
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/sW6iLZx0nX"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

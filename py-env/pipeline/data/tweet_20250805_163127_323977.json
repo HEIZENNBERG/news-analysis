@@ -1,0 +1,186 @@
+{
+  "type": "tweet",
+  "id": "1952768432027431127",
+  "url": "https://x.com/AnthropicAI/status/1952768432027431127",
+  "twitterUrl": "https://twitter.com/AnthropicAI/status/1952768432027431127",
+  "text": "Today we're releasing Claude Opus 4.1, an upgrade to Claude Opus 4 on agentic tasks, real-world coding, and reasoning. https://t.co/25vh0b3FsX",
+  "source": "Twitter for iPhone",
+  "retweetCount": 49,
+  "replyCount": 34,
+  "likeCount": 315,
+  "quoteCount": 48,
+  "viewCount": 4543,
+  "createdAt": "Tue Aug 05 16:27:29 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 25,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952768432027431127",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "AnthropicAI",
+    "url": "https://x.com/AnthropicAI",
+    "twitterUrl": "https://twitter.com/AnthropicAI",
+    "id": "1353836358901501952",
+    "name": "Anthropic",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": "Business",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1353836358901501952/1719228429",
+    "description": "",
+    "location": "",
+    "followers": 611291,
+    "following": 37,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 25 22:45:28 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1364,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 460,
+    "statusesCount": 1081,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "claude.ai",
+              "expanded_url": "https://claude.ai",
+              "indices": [
+                141,
+                164
+              ],
+              "url": "https://t.co/FhDI3KQh0n"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                128,
+                137
+              ],
+              "name": "",
+              "screen_name": "claudeai"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "anthropic.com",
+              "expanded_url": "https://anthropic.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/w94SABjAXZ"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/25vh0b3FsX",
+        "expanded_url": "https://twitter.com/AnthropicAI/status/1952768432027431127/photo/1",
+        "ext_alt_text": "Bar chart comparing software engineering accuracy between two versions of Opus 4. The first bar shows Opus 4 (May 2025) at 72.5% accuracy and the second bar shows Opus 4.1 (Aug 2025) at 74.5% accuracy.",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952766483781836800",
+        "indices": [
+          119,
+          142
+        ],
+        "media_key": "3_1952766483781836800",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZnsVTGuAACgACGxmgiu+XcNcAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmexVMa4AAKAAIbGaCK75dw1wAA",
+            "media_key": "3_1952766483781836800"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmexVMa4AAQgK1.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1210,
+              "w": 2160,
+              "x": 0,
+              "y": 421
+            },
+            {
+              "h": 2160,
+              "w": 2160,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2160,
+              "w": 1895,
+              "x": 265,
+              "y": 0
+            },
+            {
+              "h": 2160,
+              "w": 1080,
+              "x": 1026,
+              "y": 0
+            },
+            {
+              "h": 2160,
+              "w": 2160,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2160,
+          "width": 2160
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 2048
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/25vh0b3FsX"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

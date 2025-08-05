@@ -1,0 +1,164 @@
+{
+  "type": "tweet",
+  "id": "1952551384278278458",
+  "url": "https://x.com/JewsFightBack/status/1952551384278278458",
+  "twitterUrl": "https://twitter.com/JewsFightBack/status/1952551384278278458",
+  "text": "People don’t understand how big October 7 really was.\nIt wasn’t just an attack, it was an act of war.\nHamas hit every Israeli community near Gaza.\nHouse by house. Family by family.\nThis was an attempted genocide.\nOf Israel. Of the Jewish people.\nNever forget that. https://t.co/mx05lmUXc1",
+  "source": "Twitter for iPhone",
+  "retweetCount": 591,
+  "replyCount": 50,
+  "likeCount": 1162,
+  "quoteCount": 17,
+  "viewCount": 15517,
+  "createdAt": "Tue Aug 05 02:05:01 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 105,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952551384278278458",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "JewsFightBack",
+    "url": "https://x.com/JewsFightBack",
+    "twitterUrl": "https://twitter.com/JewsFightBack",
+    "id": "2167177693",
+    "name": "Jews Fight Back 🇺🇸🇮🇱",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1825625499328196609/O6xDyONv_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2167177693/1728620639",
+    "description": "",
+    "location": "",
+    "followers": 74440,
+    "following": 8443,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Oct 31 20:08:34 +0000 2013",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 111440,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5862,
+    "statusesCount": 35928,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1876092376093225361"
+    ],
+    "profile_bio": {
+      "description": "On the front lines of the battle against a rising wave of online antisemitism. JOIN US in this historic fight to defend the TRUTH and stand with ISRAEL.🇮🇱🇺🇸",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/jewsfightbackx",
+              "expanded_url": "https://www.instagram.com/jewsfightbackx",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9VLhHQwY8R"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/mx05lmUXc1",
+        "expanded_url": "https://twitter.com/JewsFightBack/status/1952551384278278458/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952551376824983552",
+        "indices": [
+          265,
+          288
+        ],
+        "media_key": "3_1952551376824983552",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsY2yHVWmAACgACGxjbI5GaoToAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxjbIdVaYAAKAAIbGNsjkZqhOgAA",
+            "media_key": "3_1952551376824983552"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxjbIdVaYAABXeC.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 604,
+              "w": 1079,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1079,
+              "w": 1079,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 66,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 269,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1079,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1079
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1079
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mx05lmUXc1"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

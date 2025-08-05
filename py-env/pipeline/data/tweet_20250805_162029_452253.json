@@ -1,0 +1,175 @@
+{
+  "type": "tweet",
+  "id": "1952722014768132353",
+  "url": "https://x.com/memsync_ai/status/1952722014768132353",
+  "twitterUrl": "https://twitter.com/memsync_ai/status/1952722014768132353",
+  "text": "What if it were this easy to make all of your prompts better? 👀\n\nComing soon... https://t.co/fdetZ1lLMo",
+  "source": "Twitter for iPhone",
+  "retweetCount": 65,
+  "replyCount": 76,
+  "likeCount": 78,
+  "quoteCount": 1,
+  "viewCount": 1030,
+  "createdAt": "Tue Aug 05 13:23:02 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952722014768132353",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "memsync_ai",
+    "url": "https://x.com/memsync_ai",
+    "twitterUrl": "https://twitter.com/memsync_ai",
+    "id": "1811833929437184006",
+    "name": "MemSync",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1932169859175006208/qodyWj8U_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1811833929437184006/1750706633",
+    "description": "",
+    "location": "New York City",
+    "followers": 2275,
+    "following": 1,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 12 18:44:27 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 39,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1,
+    "statusesCount": 9,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {
+      "label": {
+        "badge": {
+          "url": "https://pbs.twimg.com/profile_images/1902830433466978305/9V0NUEPt_bigger.jpg"
+        },
+        "description": "OpenGradient",
+        "url": {
+          "url": "https://twitter.com/OpenGradient",
+          "url_type": "DeepLink"
+        },
+        "user_label_type": "BusinessLabel",
+        "user_label_display_type": "Badge"
+      }
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Portable AI Memory - Port your user profile into AI apps for instant personalization",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "opengradient.ai/memsync",
+              "expanded_url": "http://opengradient.ai/memsync",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UNZkLnBCvC"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/fdetZ1lLMo",
+        "expanded_url": "https://twitter.com/memsync_ai/status/1952722014768132353/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952721830092947456",
+        "indices": [
+          80,
+          103
+        ],
+        "media_key": "3_1952721830092947456",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZdiiT10AACgACGxl2U5NW8QEAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxl2KJPXQAAKAAIbGXZTk1bxAQAA",
+            "media_key": "3_1952721830092947456"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/Gxl2KJPXQAAILDW.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 717,
+              "w": 1280,
+              "x": 0,
+              "y": 83
+            },
+            {
+              "h": 800,
+              "w": 800,
+              "x": 240,
+              "y": 0
+            },
+            {
+              "h": 800,
+              "w": 702,
+              "x": 289,
+              "y": 0
+            },
+            {
+              "h": 800,
+              "w": 400,
+              "x": 440,
+              "y": 0
+            },
+            {
+              "h": 800,
+              "w": 1280,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 800,
+          "width": 1280
+        },
+        "sizes": {
+          "large": {
+            "h": 800,
+            "w": 1280
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/fdetZ1lLMo"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

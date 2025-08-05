@@ -1,0 +1,160 @@
+{
+  "type": "tweet",
+  "id": "1952735925747777809",
+  "url": "https://x.com/Kenyans/status/1952735925747777809",
+  "twitterUrl": "https://twitter.com/Kenyans/status/1952735925747777809",
+  "text": "CS Kabogo does not understand technology. How on earth would you allow a private institution to manage eCitizen? We are not serious as a country. The last serious attempt to ensure we have an eGovernment platform was during Kibaki's time - Vihiga Senator Godfrey Osotsi https://t.co/8LWqrNwPNO",
+  "source": "Twitter for iPhone",
+  "retweetCount": 57,
+  "replyCount": 14,
+  "likeCount": 144,
+  "quoteCount": 0,
+  "viewCount": 14273,
+  "createdAt": "Tue Aug 05 14:18:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 13,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952735925747777809",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "Kenyans",
+    "url": "https://x.com/Kenyans",
+    "twitterUrl": "https://twitter.com/Kenyans",
+    "id": "38737371",
+    "name": "Kenyans.co.ke",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1080852000810692614/tUHsSGLJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/38737371/1733459669",
+    "description": "",
+    "location": "Nairobi, Kenya",
+    "followers": 2648703,
+    "following": 68127,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri May 08 20:27:50 +0000 2009",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1482,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 102296,
+    "statusesCount": 292424,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Media/News Company based in Nairobi, Kenya.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "Kenyans.co.ke",
+              "expanded_url": "http://Kenyans.co.ke",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Mp1oflzT1O"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/8LWqrNwPNO",
+        "expanded_url": "https://twitter.com/Kenyans/status/1952735925747777809/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952735025943773184",
+        "indices": [
+          270,
+          293
+        ],
+        "media_key": "13_1952735025943773184",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZgij514AAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxmCKPnXgAAAAA==",
+            "media_key": "13_1952735025943773184"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952735025943773184/img/8lfoBxGcAJoslGzw.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1080
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/8LWqrNwPNO",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 176340,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952735025943773184/pl/xOIFq_ON55BfHscW.m3u8?tag=21&v=f4a"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952735025943773184/vid/avc1/320x320/5wMsFrJDrD7PRVAO.mp4?tag=21"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952735025943773184/vid/avc1/540x540/e8cGCus6Sx-BDqug.mp4?tag=21"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952735025943773184/vid/avc1/720x720/lvbQOMDmSmFXjtM3.mp4?tag=21"
+            },
+            {
+              "bitrate": 8768000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952735025943773184/vid/avc1/1080x1080/I0y_0oNn5ds1hfgO.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

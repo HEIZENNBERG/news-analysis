@@ -1,0 +1,164 @@
+{
+  "type": "tweet",
+  "id": "1952694629582639591",
+  "url": "https://x.com/NTFabiano/status/1952694629582639591",
+  "twitterUrl": "https://twitter.com/NTFabiano/status/1952694629582639591",
+  "text": "Writing is thinking.\n\nDon't let AI do it all. https://t.co/jwBmhNi6ot",
+  "source": "Twitter for iPhone",
+  "retweetCount": 469,
+  "replyCount": 43,
+  "likeCount": 2958,
+  "quoteCount": 25,
+  "viewCount": 110025,
+  "createdAt": "Tue Aug 05 11:34:13 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1172,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952694629582639591",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "NTFabiano",
+    "url": "https://x.com/NTFabiano",
+    "twitterUrl": "https://twitter.com/NTFabiano",
+    "id": "1242989329472864256",
+    "name": "Nicholas Fabiano, MD",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1816574805358858240/XbcDO3vb_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1242989329472864256/1737419538",
+    "description": "",
+    "location": "Ottawa, Ontario",
+    "followers": 93971,
+    "following": 620,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 26 01:40:19 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18299,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1632,
+    "statusesCount": 8554,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1951991481926828264"
+    ],
+    "profile_bio": {
+      "description": "Writing about science | ✉️: ntfabiano@gmail.com",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/NTFabiano/",
+              "expanded_url": "https://www.instagram.com/NTFabiano/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1jdZKMecT3"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/jwBmhNi6ot",
+        "expanded_url": "https://twitter.com/NTFabiano/status/1952694629582639591/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952694293786689536",
+        "indices": [
+          46,
+          69
+        ],
+        "media_key": "3_1952694293786689536",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZXR1IFoAACgACGxlda3cWEecAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxldHUgWgAAKAAIbGV1rdxYR5wAA",
+            "media_key": "3_1952694293786689536"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxldHUgWgAA_G_b.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 444,
+              "w": 793,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 793,
+              "w": 793,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 852,
+              "w": 747,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 852,
+              "w": 426,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 852,
+              "w": 793,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 852,
+          "width": 793
+        },
+        "sizes": {
+          "large": {
+            "h": 852,
+            "w": 793
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/jwBmhNi6ot"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

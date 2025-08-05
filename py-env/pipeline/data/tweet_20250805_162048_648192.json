@@ -1,0 +1,202 @@
+{
+  "type": "tweet",
+  "id": "1952699733216006327",
+  "url": "https://x.com/cpsavesoil/status/1952699733216006327",
+  "twitterUrl": "https://twitter.com/cpsavesoil/status/1952699733216006327",
+  "text": "The Save Soil Agri-Startup Festival is back! 🌱\n\nGet inspired by real stories of agripreneurs transforming the future of food and farming.\nExplore innovations and learn about agri-entrepreneurship rooted in soil health and human health!\n\n📺 The event will be livestreamed — stay tuned for more information!\n\n📍 Register to attend in person: https://t.co/Yv9hfCk6Lb\n\n#SaveSoil",
+  "source": "Twitter for iPhone",
+  "retweetCount": 84,
+  "replyCount": 6,
+  "likeCount": 136,
+  "quoteCount": 19,
+  "viewCount": 835,
+  "createdAt": "Tue Aug 05 11:54:30 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952699733216006327",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "cpsavesoil",
+    "url": "https://x.com/cpsavesoil",
+    "twitterUrl": "https://twitter.com/cpsavesoil",
+    "id": "1467080747479666691",
+    "name": "Conscious Planet #SaveSoil",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1474287677931352064/UiGyqC51_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1467080747479666691/1740067503",
+    "description": "",
+    "location": "United States",
+    "followers": 106432,
+    "following": 50,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Dec 04 10:38:30 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2695,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2762,
+    "statusesCount": 5910,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "#SaveSoil, a global movement envisioned by @SadhguruJV, seeks to bring about a concerted, conscious response to impending soil extinction.",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                0,
+                9
+              ],
+              "text": "SaveSoil"
+            }
+          ],
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                43,
+                54
+              ],
+              "name": "",
+              "screen_name": "SadhguruJV"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "savesoil.org",
+              "expanded_url": "http://savesoil.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uVnQCIZ3pr"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/prosLSWLAP",
+        "expanded_url": "https://twitter.com/cpsavesoil/status/1952699733216006327/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952699034340364288",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "13_1952699034340364288",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZYW0HGxAAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxlhbQcbEAAAAA==",
+            "media_key": "13_1952699034340364288"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952699034340364288/img/cPsI7F5lt01Hje82.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1920,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "w": 1080
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/prosLSWLAP",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 59040,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952699034340364288/pl/AlqaI6qIoVu51cDB.m3u8?tag=21"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952699034340364288/vid/avc1/320x568/gjgA5XhTpGdbgWex.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952699034340364288/vid/avc1/480x852/cbeHO-AoUE8M6D-c.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952699034340364288/vid/avc1/720x1280/5S8jLtQpX2-5k8k_.mp4?tag=21"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952699034340364288/vid/avc1/1080x1920/WcZ06YHZGAwTkOhD.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          363,
+          372
+        ],
+        "text": "SaveSoil"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "savesoil.org/AgriStartupFes…",
+        "expanded_url": "http://savesoil.org/AgriStartupFestivalRegistration",
+        "indices": [
+          338,
+          361
+        ],
+        "url": "https://t.co/Yv9hfCk6Lb"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

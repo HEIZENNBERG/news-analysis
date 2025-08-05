@@ -1,0 +1,150 @@
+{
+  "type": "tweet",
+  "id": "1952751095769653680",
+  "url": "https://x.com/MadelnCanada/status/1952751095769653680",
+  "twitterUrl": "https://twitter.com/MadelnCanada/status/1952751095769653680",
+  "text": "🚨HOCKEY JERSEY GIVEAWAY🚨\n\nIn honour of launching our new economy page @MadeInCAD we’ve decided to giveaway an authentic NHL jersey from the Canadian team of your choice! \n\nTo enter: \n\n1. FOLLOW @MadeInCAD \n2. LIKE ❤️ &amp; RT 🔄 this tweet.\n3. Reply w/ which team! \n\nGood luck! 🇨🇦 https://t.co/MAkzFICC7C",
+  "source": "Twitter for iPhone",
+  "retweetCount": 217,
+  "replyCount": 214,
+  "likeCount": 268,
+  "quoteCount": 3,
+  "viewCount": 12739,
+  "createdAt": "Tue Aug 05 15:18:36 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 6,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952751095769653680",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "MadelnCanada",
+    "url": "https://x.com/MadelnCanada",
+    "twitterUrl": "https://twitter.com/MadelnCanada",
+    "id": "445138206",
+    "name": "Made In Canada",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1498161430692077569/YzdDrjpM_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/445138206/1646024259",
+    "description": "",
+    "location": "Canada",
+    "followers": 362636,
+    "following": 597,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Dec 24 02:09:31 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5928,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2552,
+    "statusesCount": 5333,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1892793899443225020"
+    ],
+    "profile_bio": {
+      "description": "Canada’s largest independent media company for everything pop culture, politics & sports related 🇨🇦",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/MAkzFICC7C",
+        "expanded_url": "https://twitter.com/MadelnCanada/status/1952751095769653680/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952751076274221057",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "16_1952751076274221057",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAgoAARsZkMH8FjABCgACGxmQxoYa4bAAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAACCgABGxmQwfwWMAEKAAIbGZDGhhrhsAAA",
+            "media_key": "16_1952751076274221057"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GxmQwfwWMAE2Xw6.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 640,
+          "width": 640
+        },
+        "sizes": {
+          "large": {
+            "h": 640,
+            "w": 640
+          }
+        },
+        "type": "animated_gif",
+        "url": "https://t.co/MAkzFICC7C",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/tweet_video/GxmQwfwWMAE2Xw6.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1952575745299030016",
+        "indices": [
+          70,
+          80
+        ],
+        "name": "MadeInCAD 🇨🇦📈",
+        "screen_name": "MadeInCAD"
+      },
+      {
+        "id_str": "1952575745299030016",
+        "indices": [
+          194,
+          204
+        ],
+        "name": "MadeInCAD 🇨🇦📈",
+        "screen_name": "MadeInCAD"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

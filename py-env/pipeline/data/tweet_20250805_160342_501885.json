@@ -1,0 +1,230 @@
+{
+  "type": "tweet",
+  "id": "1951209157308125417",
+  "url": "https://x.com/BasharInshasi/status/1951209157308125417",
+  "twitterUrl": "https://twitter.com/BasharInshasi/status/1951209157308125417",
+  "text": "If you’re scrolling, PLEASE leave a dot\n\nhttps://t.co/MFsV9JxNMB https://t.co/5fSi77nFrl",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1804,
+  "replyCount": 654,
+  "likeCount": 4882,
+  "quoteCount": 6,
+  "viewCount": 65903,
+  "createdAt": "Fri Aug 01 09:11:29 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 80,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1951209157308125417",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "BasharInshasi",
+    "url": "https://x.com/BasharInshasi",
+    "twitterUrl": "https://twitter.com/BasharInshasi",
+    "id": "1431312362506752007",
+    "name": "Bashar Inshasi",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1761001559171776512/mOGZEt1s_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1431312362506752007/1708884816",
+    "description": "",
+    "location": "Gaza,palestine",
+    "followers": 7379,
+    "following": 3199,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 27 17:47:35 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8404,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1255,
+    "statusesCount": 5642,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1838581440029589992"
+    ],
+    "profile_bio": {
+      "description": "Gaza 🇵🇸♥️ medical student",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "gofund.me/db117389",
+              "expanded_url": "http://gofund.me/db117389",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/neIJE5iqcV"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/5fSi77nFrl",
+        "expanded_url": "https://twitter.com/BasharInshasi/status/1951209157308125417/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 67,
+                "w": 67,
+                "x": 396,
+                "y": 674
+              },
+              {
+                "h": 128,
+                "w": 128,
+                "x": 448,
+                "y": 484
+              },
+              {
+                "h": 144,
+                "w": 144,
+                "x": 443,
+                "y": 39
+              },
+              {
+                "h": 129,
+                "w": 129,
+                "x": 40,
+                "y": 533
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 67,
+                "w": 67,
+                "x": 396,
+                "y": 674
+              },
+              {
+                "h": 128,
+                "w": 128,
+                "x": 448,
+                "y": 484
+              },
+              {
+                "h": 144,
+                "w": 144,
+                "x": 443,
+                "y": 39
+              },
+              {
+                "h": 129,
+                "w": 129,
+                "x": 40,
+                "y": 533
+              }
+            ]
+          }
+        },
+        "id_str": "1951209071215878144",
+        "indices": [
+          65,
+          88
+        ],
+        "media_key": "3_1951209071215878144",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsUFk/0V6AACgACGxQWY//XEOkAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxQWT/RXoAAKAAIbFBZj/9cQ6QAA",
+            "media_key": "3_1951209071215878144"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxQWT_RXoAA-utx.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 403,
+              "w": 719,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 719,
+              "w": 719,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 807,
+              "w": 708,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 807,
+              "w": 404,
+              "x": 19,
+              "y": 0
+            },
+            {
+              "h": 807,
+              "w": 719,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 807,
+          "width": 719
+        },
+        "sizes": {
+          "large": {
+            "h": 807,
+            "w": 719
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/5fSi77nFrl"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "gofund.me/db117389",
+        "expanded_url": "http://gofund.me/db117389",
+        "indices": [
+          41,
+          64
+        ],
+        "url": "https://t.co/MFsV9JxNMB"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

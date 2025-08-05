@@ -1,0 +1,164 @@
+{
+  "type": "tweet",
+  "id": "1952687724021879235",
+  "url": "https://x.com/XTravelMyWay/status/1952687724021879235",
+  "twitterUrl": "https://twitter.com/XTravelMyWay/status/1952687724021879235",
+  "text": "Queensboro Bridge, New York https://t.co/YoRpwEcliF",
+  "source": "Twitter for iPhone",
+  "retweetCount": 65,
+  "replyCount": 5,
+  "likeCount": 474,
+  "quoteCount": 2,
+  "viewCount": 6286,
+  "createdAt": "Tue Aug 05 11:06:47 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 10,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952687724021879235",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "XTravelMyWay",
+    "url": "https://x.com/XTravelMyWay",
+    "twitterUrl": "https://twitter.com/XTravelMyWay",
+    "id": "1650351529067675648",
+    "name": "𝕏 Travel My Way",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1887750785577979904/oKDOQtuT_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1650351529067675648/1738909837",
+    "description": "",
+    "location": "Earth",
+    "followers": 68355,
+    "following": 5909,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 24 04:11:14 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12761,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13441,
+    "statusesCount": 17969,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1950867051502850074"
+    ],
+    "profile_bio": {
+      "description": "Sharing Travel Tales | Some of the Posted content isn't mine | Please DM for Credit or Removal 🙏",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "buymeacoffee.com/amazingeye",
+              "expanded_url": "https://www.buymeacoffee.com/amazingeye",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dYwVgn4Ypi"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/YoRpwEcliF",
+        "expanded_url": "https://twitter.com/XTravelMyWay/status/1952687724021879235/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952687693776793601",
+        "indices": [
+          28,
+          51
+        ],
+        "media_key": "3_1952687693776793601",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZVxyY17ABCgACGxlXI6OXEcMAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxlXHJjXsAEKAAIbGVcjo5cRwwAA",
+            "media_key": "3_1952687693776793601"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxlXHJjXsAEUi5d.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 918,
+              "w": 1639,
+              "x": 0,
+              "y": 1130
+            },
+            {
+              "h": 1639,
+              "w": 1639,
+              "x": 0,
+              "y": 409
+            },
+            {
+              "h": 1868,
+              "w": 1639,
+              "x": 0,
+              "y": 180
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1639,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1639
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1639
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/YoRpwEcliF"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

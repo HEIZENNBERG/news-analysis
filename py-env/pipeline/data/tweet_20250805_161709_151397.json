@@ -1,0 +1,151 @@
+{
+  "type": "tweet",
+  "id": "1952686815158161857",
+  "url": "https://x.com/BGatesIsaPyscho/status/1952686815158161857",
+  "twitterUrl": "https://twitter.com/BGatesIsaPyscho/status/1952686815158161857",
+  "text": "Obvious Climate Scam is Obvious.\n\nIt’s impossible for everywhere to be warming up faster than everywhere else.\n\nLegacy Media literally just made the whole thing up to try &amp; continue their bogus narrative. https://t.co/yxoHuLuQQs",
+  "source": "Twitter for iPhone",
+  "retweetCount": 424,
+  "replyCount": 50,
+  "likeCount": 844,
+  "quoteCount": 13,
+  "viewCount": 18694,
+  "createdAt": "Tue Aug 05 11:03:10 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 84,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952686815158161857",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "BGatesIsaPyscho",
+    "url": "https://x.com/BGatesIsaPyscho",
+    "twitterUrl": "https://twitter.com/BGatesIsaPyscho",
+    "id": "629698642",
+    "name": "Concerned Citizen",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1534905804368879621/R5xYZeL5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/629698642/1654897366",
+    "description": "",
+    "location": "In Between The Atlantic",
+    "followers": 1026122,
+    "following": 6670,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Jul 07 22:30:30 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 31110,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 36610,
+    "statusesCount": 45820,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952724886696181976"
+    ],
+    "profile_bio": {
+      "description": "Documenting & 🤣@🤡🌎 through collapse of the West. STOP GeoEngineering. Covid was a SCAM.Reject Woke Ideology. No Wars. Conspiracy Realist/Coincidence Analyser",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/yxoHuLuQQs",
+        "expanded_url": "https://twitter.com/BGatesIsaPyscho/status/1952686815158161857/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952686810070482944",
+        "indices": [
+          209,
+          232
+        ],
+        "media_key": "3_1952686810070482944",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZVk7X14AACgACGxlWUAcXUcEAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxlWTtfXgAAKAAIbGVZQBxdRwQAA",
+            "media_key": "3_1952686810070482944"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxlWTtfXgAA6TcW.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 722,
+              "w": 1289,
+              "x": 0,
+              "y": 77
+            },
+            {
+              "h": 1289,
+              "w": 1289,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1348,
+              "w": 1182,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1348,
+              "w": 674,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1348,
+              "w": 1289,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1348,
+          "width": 1289
+        },
+        "sizes": {
+          "large": {
+            "h": 1348,
+            "w": 1289
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/yxoHuLuQQs"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

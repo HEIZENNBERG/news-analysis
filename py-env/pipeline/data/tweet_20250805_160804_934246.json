@@ -1,0 +1,203 @@
+{
+  "type": "tweet",
+  "id": "1952647383323435082",
+  "url": "https://x.com/bassem_youssef9/status/1952647383323435082",
+  "twitterUrl": "https://twitter.com/bassem_youssef9/status/1952647383323435082",
+  "text": "Everyone knows that you are disgusting, and no one will be interested in seeing the disgusting Mossad tapes of you. Be a man for once and stop the Gaza war. https://t.co/Fi0a9aiMDz",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2240,
+  "replyCount": 336,
+  "likeCount": 7488,
+  "quoteCount": 71,
+  "viewCount": 345325,
+  "createdAt": "Tue Aug 05 08:26:29 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 299,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952647383323435082",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "bassem_youssef9",
+    "url": "https://x.com/bassem_youssef9",
+    "twitterUrl": "https://twitter.com/bassem_youssef9",
+    "id": "3397067128",
+    "name": "Bassem Youssef Commentary",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1825653986080243712/cEqeAVs1_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3397067128/1724109256",
+    "description": "",
+    "location": "Los Angeles, CA",
+    "followers": 104742,
+    "following": 1,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 31 11:51:19 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 74,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 532,
+    "statusesCount": 1392,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1856550657026621821"
+    ],
+    "profile_bio": {
+      "description": "باسم يوسف Commentary\nFree speech",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "Reboota.com",
+              "expanded_url": "http://Reboota.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wHR9F4Q4PE"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Fi0a9aiMDz",
+        "expanded_url": "https://twitter.com/bassem_youssef9/status/1952647383323435082/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 98,
+                "w": 98,
+                "x": 176,
+                "y": 280
+              },
+              {
+                "h": 121,
+                "w": 121,
+                "x": 277,
+                "y": 17
+              },
+              {
+                "h": 118,
+                "w": 118,
+                "x": 148,
+                "y": 231
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 98,
+                "w": 98,
+                "x": 176,
+                "y": 280
+              },
+              {
+                "h": 121,
+                "w": 121,
+                "x": 277,
+                "y": 17
+              },
+              {
+                "h": 118,
+                "w": 118,
+                "x": 148,
+                "y": 231
+              }
+            ]
+          }
+        },
+        "id_str": "1952647381184348160",
+        "indices": [
+          157,
+          180
+        ],
+        "media_key": "3_1952647381184348160",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZMnKXFwAACgACGxkycxaW4EoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxkycpcXAAAKAAIbGTJzFpbgSgAA",
+            "media_key": "3_1952647381184348160"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxkycpcXAAA2aOV.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 249,
+              "w": 445,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 445,
+              "w": 445,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 507,
+              "w": 445,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 556,
+              "w": 278,
+              "x": 167,
+              "y": 0
+            },
+            {
+              "h": 556,
+              "w": 445,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 556,
+          "width": 445
+        },
+        "sizes": {
+          "large": {
+            "h": 556,
+            "w": 445
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Fi0a9aiMDz"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

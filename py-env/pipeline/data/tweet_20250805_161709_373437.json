@@ -1,0 +1,179 @@
+{
+  "type": "tweet",
+  "id": "1952715792140870133",
+  "url": "https://x.com/PinUpGirl_AI/status/1952715792140870133",
+  "twitterUrl": "https://twitter.com/PinUpGirl_AI/status/1952715792140870133",
+  "text": "ur rlly gonna scroll by without saying gm? https://t.co/PJuVRUFiBe",
+  "source": "Twitter for iPhone",
+  "retweetCount": 15,
+  "replyCount": 54,
+  "likeCount": 449,
+  "quoteCount": 0,
+  "viewCount": 6581,
+  "createdAt": "Tue Aug 05 12:58:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 41,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952715792140870133",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "PinUpGirl_AI",
+    "url": "https://x.com/PinUpGirl_AI",
+    "twitterUrl": "https://twitter.com/PinUpGirl_AI",
+    "id": "1652690832976392193",
+    "name": "あいぷぐ/AiPugu✨",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1852786174823419904/TzzrGWqF_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1652690832976392193/1753039440",
+    "description": "",
+    "location": "",
+    "followers": 63810,
+    "following": 116,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 30 15:07:01 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 70546,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 610,
+    "statusesCount": 39108,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952715792140870133"
+    ],
+    "profile_bio": {
+      "description": "Images that cannot be posted to X can be found at the link! Thanks to our supporters💞AiPugu✨\nAIで作った画像を投稿しています❣仲良しさんとご支援者様に感謝♪🥰\n※無断で転載・加工・販売等は禁止です…🥺",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "getallmylinks.com/aipinupgirl",
+              "expanded_url": "https://getallmylinks.com/aipinupgirl",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8oIIFSV3Mi"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/PJuVRUFiBe",
+        "expanded_url": "https://twitter.com/PinUpGirl_AI/status/1952715792140870133/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 260,
+                "w": 260,
+                "x": 374,
+                "y": 179
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 260,
+                "w": 260,
+                "x": 374,
+                "y": 179
+              }
+            ]
+          }
+        },
+        "id_str": "1952715785547464704",
+        "indices": [
+          43,
+          66
+        ],
+        "media_key": "3_1952715785547464704",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZcKk42sAACgACGxlwqsHaIfUAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxlwqTjawAAKAAIbGXCqwdoh9QAA",
+            "media_key": "3_1952715785547464704"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxlwqTjawAAJICG.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 618,
+              "w": 1104,
+              "x": 0,
+              "y": 42
+            },
+            {
+              "h": 1104,
+              "w": 1104,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1259,
+              "w": 1104,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1560,
+              "w": 780,
+              "x": 117,
+              "y": 0
+            },
+            {
+              "h": 1560,
+              "w": 1104,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1560,
+          "width": 1104
+        },
+        "sizes": {
+          "large": {
+            "h": 1560,
+            "w": 1104
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/PJuVRUFiBe"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

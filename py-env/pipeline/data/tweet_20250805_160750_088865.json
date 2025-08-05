@@ -1,0 +1,218 @@
+{
+  "type": "tweet",
+  "id": "1951816029270684045",
+  "url": "https://x.com/K_AminThaabet/status/1951816029270684045",
+  "twitterUrl": "https://twitter.com/K_AminThaabet/status/1951816029270684045",
+  "text": "Ironic that a war that began with Gaza sending paragliders to murder Israelis is ending with Israel airdropping food to sustain the lives of Gazans.  And still the world is furious with Israel. https://t.co/55BGRLQ6v7",
+  "source": "Twitter for iPhone",
+  "retweetCount": 563,
+  "replyCount": 197,
+  "likeCount": 3027,
+  "quoteCount": 19,
+  "viewCount": 65447,
+  "createdAt": "Sun Aug 03 01:22:59 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 98,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1951816029270684045",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "K_AminThaabet",
+    "url": "https://x.com/K_AminThaabet",
+    "twitterUrl": "https://twitter.com/K_AminThaabet",
+    "id": "1933659211214340096",
+    "name": "Kamel Amin Thaabet",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1933659853064454144/DgJMoTgX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1933659211214340096/1750053605",
+    "description": "",
+    "location": "",
+    "followers": 7995,
+    "following": 574,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 13 22:54:28 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1014,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 92,
+    "statusesCount": 1231,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1933663995346419864"
+    ],
+    "profile_bio": {
+      "description": "A Syrian patriot returning to my homeland from Argentina, or not",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/55BGRLQ6v7",
+        "expanded_url": "https://twitter.com/K_AminThaabet/status/1951816029270684045/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1951816024862404608",
+        "indices": [
+          194,
+          217
+        ],
+        "media_key": "3_1951816024862404608",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsWPlVc1rAACgACGxY+VmOXsY0AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxY+VVzWsAAKAAIbFj5WY5exjQAA",
+            "media_key": "3_1951816024862404608"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxY-VVzWsAAM2w0.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1147,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1366,
+              "w": 1366,
+              "x": 682,
+              "y": 0
+            },
+            {
+              "h": 1366,
+              "w": 1198,
+              "x": 850,
+              "y": 0
+            },
+            {
+              "h": 1366,
+              "w": 683,
+              "x": 1365,
+              "y": 0
+            },
+            {
+              "h": 1366,
+              "w": 2048,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1366,
+          "width": 2048
+        },
+        "sizes": {
+          "large": {
+            "h": 1366,
+            "w": 2048
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/55BGRLQ6v7"
+      },
+      {
+        "display_url": "pic.twitter.com/55BGRLQ6v7",
+        "expanded_url": "https://twitter.com/K_AminThaabet/status/1951816029270684045/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1951816024866582528",
+        "indices": [
+          194,
+          217
+        ],
+        "media_key": "3_1951816024866582528",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsWPlVdFnAACgACGxY+VmOXsY0AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxY+VV0WcAAKAAIbFj5WY5exjQAA",
+            "media_key": "3_1951816024866582528"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxY-VV0WcAAmiBl.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 220,
+              "w": 392,
+              "x": 0,
+              "y": 74
+            },
+            {
+              "h": 294,
+              "w": 294,
+              "x": 78,
+              "y": 0
+            },
+            {
+              "h": 294,
+              "w": 258,
+              "x": 96,
+              "y": 0
+            },
+            {
+              "h": 294,
+              "w": 147,
+              "x": 152,
+              "y": 0
+            },
+            {
+              "h": 294,
+              "w": 392,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 294,
+          "width": 392
+        },
+        "sizes": {
+          "large": {
+            "h": 294,
+            "w": 392
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/55BGRLQ6v7"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,177 @@
+{
+  "type": "tweet",
+  "id": "1952704891736162481",
+  "url": "https://x.com/TripInChina/status/1952704891736162481",
+  "twitterUrl": "https://twitter.com/TripInChina/status/1952704891736162481",
+  "text": "Day and night in Qingdao😍😍😍 https://t.co/W2dClAZ86O",
+  "source": "Twitter for iPhone",
+  "retweetCount": 37,
+  "replyCount": 5,
+  "likeCount": 189,
+  "quoteCount": 4,
+  "viewCount": 4700,
+  "createdAt": "Tue Aug 05 12:15:00 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 23,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952704891736162481",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "TripInChina",
+    "url": "https://x.com/TripInChina",
+    "twitterUrl": "https://twitter.com/TripInChina",
+    "id": "1367667738877988864",
+    "name": "Sharing Travel",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1489636633180012544/HY9RWfzI_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1367667738877988864/1643992024",
+    "description": "",
+    "location": "Lishui",
+    "followers": 97753,
+    "following": 254,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 05 02:46:27 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 62463,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 13014,
+    "statusesCount": 29126,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1931142939637579994"
+    ],
+    "profile_bio": {
+      "description": "@mychinatrip Travelers from China. Share what I see. Photography, drones, football, self-driving travel in China over 100,000 km. Living in Lishui, Zhejiang.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                0,
+                12
+              ],
+              "name": "",
+              "screen_name": "mychinatrip"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/mychinatrip",
+              "expanded_url": "https://instagram.com/mychinatrip",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Y4T3tstnZA"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/W2dClAZ86O",
+        "expanded_url": "https://twitter.com/TripInChina/status/1952704891736162481/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952018816378249217",
+        "indices": [
+          28,
+          51
+        ],
+        "media_key": "13_1952018816378249217",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsW9sVxGqABAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxb2xXEaoAEAAA==",
+            "media_key": "13_1952018816378249217"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952018816378249217/img/Fg06LvRZ9GBpTLd8.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1920,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1920,
+            "w": 1080
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/W2dClAZ86O",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 14071,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952018816378249217/pl/XWv_YoYWyU7b8VHE.m3u8?tag=21&v=cfc"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952018816378249217/vid/avc1/320x568/Yt3E8wLP2WSWE4dE.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952018816378249217/vid/avc1/480x852/gjyNWIjQ9kqpIogE.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952018816378249217/vid/avc1/720x1280/QzxDcv8YcOJJzqaA.mp4?tag=21"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952018816378249217/vid/avc1/1080x1920/dbai46eALr9uyseW.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

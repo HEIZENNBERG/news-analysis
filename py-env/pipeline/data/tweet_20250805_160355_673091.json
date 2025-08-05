@@ -1,0 +1,176 @@
+{
+  "type": "tweet",
+  "id": "1949186266010132570",
+  "url": "https://x.com/BasharInshasi/status/1949186266010132570",
+  "twitterUrl": "https://twitter.com/BasharInshasi/status/1949186266010132570",
+  "text": "3 replies — even dots — can break the silence. \n\nhttps://t.co/MFsV9JylC9 https://t.co/PeHqL3gcvC",
+  "source": "Twitter for iPhone",
+  "retweetCount": 5637,
+  "replyCount": 1738,
+  "likeCount": 26938,
+  "quoteCount": 17,
+  "viewCount": 287422,
+  "createdAt": "Sat Jul 26 19:13:14 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 327,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1949186266010132570",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "BasharInshasi",
+    "url": "https://x.com/BasharInshasi",
+    "twitterUrl": "https://twitter.com/BasharInshasi",
+    "id": "1431312362506752007",
+    "name": "Bashar Inshasi",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1761001559171776512/mOGZEt1s_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1431312362506752007/1708884816",
+    "description": "",
+    "location": "Gaza,palestine",
+    "followers": 7379,
+    "following": 3199,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 27 17:47:35 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8404,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1255,
+    "statusesCount": 5642,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1838581440029589992"
+    ],
+    "profile_bio": {
+      "description": "Gaza 🇵🇸♥️ medical student",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "gofund.me/db117389",
+              "expanded_url": "http://gofund.me/db117389",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/neIJE5iqcV"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/PeHqL3gcvC",
+        "expanded_url": "https://twitter.com/BasharInshasi/status/1949186266010132570/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1949186250457419776",
+        "indices": [
+          73,
+          96
+        ],
+        "media_key": "3_1949186250457419776",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsM5pFLlxAACgACGwzmlOqaoFoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGwzmkUuXEAAKAAIbDOaU6pqgWgAA",
+            "media_key": "3_1949186250457419776"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GwzmkUuXEAAE4Cj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 126,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 512,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 1024
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/PeHqL3gcvC"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "gofund.me/db117389",
+        "expanded_url": "http://gofund.me/db117389",
+        "indices": [
+          49,
+          72
+        ],
+        "url": "https://t.co/MFsV9JylC9"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

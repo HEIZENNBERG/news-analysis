@@ -1,0 +1,166 @@
+{
+  "type": "tweet",
+  "id": "1952757941582659618",
+  "url": "https://x.com/SarahAnnabels/status/1952757941582659618",
+  "twitterUrl": "https://twitter.com/SarahAnnabels/status/1952757941582659618",
+  "text": "This AI turns your voice into a fully produced track.\n\nNo mic. No studio. No experience needed.\n\nHere’s how ↓ https://t.co/vTVOmSH88z",
+  "source": "Twitter for iPhone",
+  "retweetCount": 65,
+  "replyCount": 39,
+  "likeCount": 144,
+  "quoteCount": 0,
+  "viewCount": 13087,
+  "createdAt": "Tue Aug 05 15:45:48 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 37,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952757941582659618",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "SarahAnnabels",
+    "url": "https://x.com/SarahAnnabels",
+    "twitterUrl": "https://twitter.com/SarahAnnabels",
+    "id": "1547594954658131975",
+    "name": "SARAH",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1938927135697018880/HL12_3dq_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1547594954658131975/1733126043",
+    "description": "",
+    "location": "London, UK",
+    "followers": 221449,
+    "following": 771,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jul 14 14:52:58 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 167475,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 7031,
+    "statusesCount": 159994,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1919779468652249300"
+    ],
+    "profile_bio": {
+      "description": "Growth Manager | Sharing Daily insights on AI, Technology, Productivity hacks, and trends for entrepreneurs and creators | DM For Collaborations 📩",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/vTVOmSH88z",
+        "expanded_url": "https://twitter.com/SarahAnnabels/status/1952757941582659618/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 301,
+                "w": 301,
+                "x": 425,
+                "y": 141
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 301,
+                "w": 301,
+                "x": 425,
+                "y": 141
+              }
+            ]
+          }
+        },
+        "id_str": "1952757938176811008",
+        "indices": [
+          110,
+          133
+        ],
+        "media_key": "3_1952757938176811008",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZlv+lWmAACgACGxmXAHBbgCIAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmW/6VaYAAKAAIbGZcAcFuAIgAA",
+            "media_key": "3_1952757938176811008"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmW_6VaYAAVqrG.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 46
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 88,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 281,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 1024
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/vTVOmSH88z"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

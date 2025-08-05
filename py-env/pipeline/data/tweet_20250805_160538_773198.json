@@ -1,0 +1,249 @@
+{
+  "type": "tweet",
+  "id": "1952095050013311103",
+  "url": "https://x.com/ZaqoutMe/status/1952095050013311103",
+  "twitterUrl": "https://twitter.com/ZaqoutMe/status/1952095050013311103",
+  "text": "This is the first time I’ve picked up a brush since the war began!\n\nI wanted to paint the life I dream of, a bright future.\nBut all tha fills my heart and mind is fear. Hunger. The terror I live everyday in Gaza.\n\nIf my voice&amp; words haven’t reached u—\nI hope this painting does 🇵🇸 https://t.co/6b7jBwRotI",
+  "source": "Twitter for iPhone",
+  "retweetCount": 11524,
+  "replyCount": 573,
+  "likeCount": 34568,
+  "quoteCount": 84,
+  "viewCount": 440034,
+  "createdAt": "Sun Aug 03 19:51:42 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 986,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952095050013311103",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "ZaqoutMe",
+    "url": "https://x.com/ZaqoutMe",
+    "twitterUrl": "https://twitter.com/ZaqoutMe",
+    "id": "2453630404",
+    "name": "SARAH 𓂆",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1876577408146432001/k4S5uOr5_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2453630404/1735903402",
+    "description": "",
+    "location": "Palestine - Gaza غزة فلسطين",
+    "followers": 64292,
+    "following": 8654,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 02 00:14:24 +0000 2014",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15924,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 344,
+    "statusesCount": 4134,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1890905814929424821"
+    ],
+    "profile_bio": {
+      "description": "Freedom fighter from Gaza to the world, I speak my mind my feelings and my people needs 🇵🇸 - Tap the link to help us rebuild !! https://t.co/SXBhzgCFkC",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/ZaqoutMe",
+              "expanded_url": "https://linktr.ee/ZaqoutMe",
+              "indices": [
+                128,
+                151
+              ],
+              "url": "https://t.co/SXBhzgCFkC"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "chuffed.org/project/sara-z…",
+              "expanded_url": "https://chuffed.org/project/sara-zaqout-family",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DhUT9zI3iI"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/6b7jBwRotI",
+        "expanded_url": "https://twitter.com/ZaqoutMe/status/1952095050013311103/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952095030484615168",
+        "indices": [
+          285,
+          308
+        ],
+        "media_key": "3_1952095030484615168",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsXPBZr10AACgACGxc8GvfXgH8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxc8FmvXQAAKAAIbFzwa99eAfwAA",
+            "media_key": "3_1952095030484615168"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/Gxc8FmvXQAAfdJs.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 870,
+              "w": 1554,
+              "x": 0,
+              "y": 1150
+            },
+            {
+              "h": 1554,
+              "w": 1554,
+              "x": 0,
+              "y": 494
+            },
+            {
+              "h": 1772,
+              "w": 1554,
+              "x": 0,
+              "y": 276
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1554,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1554
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1554
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/6b7jBwRotI"
+      },
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/6b7jBwRotI",
+        "expanded_url": "https://twitter.com/ZaqoutMe/status/1952095050013311103/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952095030669180928",
+        "indices": [
+          285,
+          308
+        ],
+        "media_key": "3_1952095030669180928",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsXPBZ214AACgACGxc8GvfXgH8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxc8FnbXgAAKAAIbFzwa99eAfwAA",
+            "media_key": "3_1952095030669180928"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/Gxc8FnbXgAAxuav.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 704,
+              "w": 1258,
+              "x": 0,
+              "y": 618
+            },
+            {
+              "h": 1258,
+              "w": 1258,
+              "x": 0,
+              "y": 341
+            },
+            {
+              "h": 1434,
+              "w": 1258,
+              "x": 0,
+              "y": 253
+            },
+            {
+              "h": 2048,
+              "w": 1024,
+              "x": 234,
+              "y": 0
+            },
+            {
+              "h": 2048,
+              "w": 1258,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 2048,
+          "width": 1258
+        },
+        "sizes": {
+          "large": {
+            "h": 2048,
+            "w": 1258
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/6b7jBwRotI"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

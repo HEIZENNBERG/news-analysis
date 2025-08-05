@@ -1,0 +1,179 @@
+{
+  "type": "tweet",
+  "id": "1952735392043839584",
+  "url": "https://x.com/DVVMovies/status/1952735392043839584",
+  "twitterUrl": "https://twitter.com/DVVMovies/status/1952735392043839584",
+  "text": "Vibe check…….#FireStorm https://t.co/RPM7NjOmvA",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1807,
+  "replyCount": 116,
+  "likeCount": 6521,
+  "quoteCount": 13,
+  "viewCount": 40789,
+  "createdAt": "Tue Aug 05 14:16:12 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 75,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952735392043839584",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "DVVMovies",
+    "url": "https://x.com/DVVMovies",
+    "twitterUrl": "https://twitter.com/DVVMovies",
+    "id": "3026106503",
+    "name": "DVV Entertainment",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1520458690285178880/VchOV61I_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3026106503/1749313054",
+    "description": "",
+    "location": "Hyderabad, India",
+    "followers": 731254,
+    "following": 24,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 09 06:41:27 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1562,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1971,
+    "statusesCount": 4304,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "The official twitter account of DVV Entertainment. #RRR #TheyCallHimOG #SaripodhaaSanivaaram",
+      "entities": {
+        "description": {
+          "hashtags": [
+            {
+              "indices": [
+                51,
+                55
+              ],
+              "text": "RRR"
+            },
+            {
+              "indices": [
+                56,
+                70
+              ],
+              "text": "TheyCallHimOG"
+            },
+            {
+              "indices": [
+                71,
+                92
+              ],
+              "text": "SaripodhaaSanivaaram"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/RPM7NjOmvA",
+        "expanded_url": "https://twitter.com/DVVMovies/status/1952735392043839584/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952735326629400576",
+        "indices": [
+          24,
+          47
+        ],
+        "media_key": "13_1952735326629400576",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZgm78GhAAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxmCbvwaEAAAAA==",
+            "media_key": "13_1952735326629400576"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952735326629400576/img/XkpklHLBbLN8bs7y.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1280,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "w": 720
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/RPM7NjOmvA",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 12900,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952735326629400576/pl/Cj7He-7T0fAMA2PI.m3u8?tag=21&v=cfc"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952735326629400576/vid/avc1/320x568/CjcHj2nEJIoKWCpb.mp4?tag=21"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952735326629400576/vid/avc1/480x852/NTntvZ8efCtMiZy3.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952735326629400576/vid/avc1/720x1280/9uP-95Ot0B3IybCf.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          13,
+          23
+        ],
+        "text": "FireStorm"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

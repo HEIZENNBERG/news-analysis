@@ -1,0 +1,169 @@
+{
+  "type": "tweet",
+  "id": "1951641254845927674",
+  "url": "https://x.com/dn_osama_rabee/status/1951641254845927674",
+  "twitterUrl": "https://twitter.com/dn_osama_rabee/status/1951641254845927674",
+  "text": "They scorched the land, wiped out the crops and the people, and erased Gaza’s features from the map.\nPeople , with their dreams and hopes vanished into the smoke of war. https://t.co/Kv0M22jLV4",
+  "source": "Twitter for iPhone",
+  "retweetCount": 787,
+  "replyCount": 659,
+  "likeCount": 1009,
+  "quoteCount": 40,
+  "viewCount": 45612,
+  "createdAt": "Sat Aug 02 13:48:29 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 65,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1951641254845927674",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "dn_osama_rabee",
+    "url": "https://x.com/dn_osama_rabee",
+    "twitterUrl": "https://twitter.com/dn_osama_rabee",
+    "id": "1844421240188174336",
+    "name": "Osama Abu Rabee أسامة أبوربيع",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1845306431337099266/9VE_qA3x_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1844421240188174336/1735585382",
+    "description": "",
+    "location": "Gaza",
+    "followers": 18931,
+    "following": 55,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Oct 10 16:54:50 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1174,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1281,
+    "statusesCount": 2287,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952731063471468558"
+    ],
+    "profile_bio": {
+      "description": "Photographer from North Gaza | Capturing the untold stories of resilience & hope in Gaza 🇵🇸",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/Kv0M22jLV4",
+        "expanded_url": "https://twitter.com/dn_osama_rabee/status/1951641254845927674/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 43,
+                "w": 43,
+                "x": 519,
+                "y": 387
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 43,
+                "w": 43,
+                "x": 519,
+                "y": 387
+              }
+            ]
+          }
+        },
+        "id_str": "1951641245475897345",
+        "indices": [
+          170,
+          193
+        ],
+        "media_key": "3_1951641245475897345",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsVn19dl4ABCgACGxWfYYwW0PoAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxWfX12XgAEKAAIbFZ9hjBbQ+gAA",
+            "media_key": "3_1951641245475897345"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxWfX12XgAEcmQy.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 719,
+              "w": 1284,
+              "x": 0,
+              "y": 122
+            },
+            {
+              "h": 1261,
+              "w": 1261,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1261,
+              "w": 1106,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1261,
+              "w": 631,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1261,
+              "w": 1284,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1261,
+          "width": 1284
+        },
+        "sizes": {
+          "large": {
+            "h": 1261,
+            "w": 1284
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Kv0M22jLV4"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

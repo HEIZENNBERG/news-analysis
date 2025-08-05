@@ -1,0 +1,186 @@
+{
+  "type": "tweet",
+  "id": "1952701248731226287",
+  "url": "https://x.com/AlaskaAir/status/1952701248731226287",
+  "twitterUrl": "https://twitter.com/AlaskaAir/status/1952701248731226287",
+  "text": "London. Reykjavík. Rome. A bold new global aircraft design. A premium experience. And endless possibilities for international travel! Be the first to book this fall by joining our early-access list: https://t.co/wr6S8d9j8w\n\nRoutes subject to government approval. https://t.co/rkZ8MgviAG",
+  "source": "Twitter for iPhone",
+  "retweetCount": 100,
+  "replyCount": 50,
+  "likeCount": 668,
+  "quoteCount": 34,
+  "viewCount": 37869,
+  "createdAt": "Tue Aug 05 12:00:31 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 38,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952701248731226287",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "AlaskaAir",
+    "url": "https://x.com/AlaskaAir",
+    "twitterUrl": "https://twitter.com/AlaskaAir",
+    "id": "13192972",
+    "name": "Alaska Airlines",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": "Business",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1624126413891846144/7-2xj6mp_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/13192972/1736199721",
+    "description": "",
+    "location": "Seattle, WA",
+    "followers": 394878,
+    "following": 5444,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 07 05:17:36 +0000 2008",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 37707,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5395,
+    "statusesCount": 409582,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1836450117185925593"
+    ],
+    "profile_bio": {
+      "description": "Care shouldn’t be rare! Our Social Care team is here 24/7. For a formal response: https://t.co/WfdF1u5LOb",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "alaskaair.com/content/about-…",
+              "expanded_url": "https://www.alaskaair.com/content/about-us/help-contact/contact-us",
+              "indices": [
+                82,
+                105
+              ],
+              "url": "https://t.co/WfdF1u5LOb"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "alaskaair.com",
+              "expanded_url": "http://www.alaskaair.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ieOLXdzBkY"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/rkZ8MgviAG",
+        "expanded_url": "https://twitter.com/AlaskaAir/status/1952701248731226287/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952701157685575680",
+        "indices": [
+          263,
+          286
+        ],
+        "media_key": "13_1952701157685575680",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZY1toV8AAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxljW2hXwAAAAA==",
+            "media_key": "13_1952701157685575680"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/Gxljb8zWwAAM9hr.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 405,
+          "width": 720
+        },
+        "sizes": {
+          "large": {
+            "h": 405,
+            "w": 720
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/rkZ8MgviAG",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 64800,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952701157685575680/pl/bbI7SQ_Gh05PWEfy.m3u8?tag=16&v=ba6"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952701157685575680/vid/avc1/480x270/AyVGy8E4Z8k84L0z.mp4?tag=16"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952701157685575680/vid/avc1/640x360/HwzvRYjb2q4fXqEJ.mp4?tag=16"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952701157685575680/vid/avc1/1280x720/s9bgXOaRXC5-87Xr.mp4?tag=16"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952701157685575680/vid/avc1/1920x1080/HXCDBOgW74SDOoeW.mp4?tag=16"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "alaskaair.com/london",
+        "expanded_url": "http://alaskaair.com/london",
+        "indices": [
+          199,
+          222
+        ],
+        "url": "https://t.co/wr6S8d9j8w"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

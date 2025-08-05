@@ -1,0 +1,206 @@
+{
+  "type": "tweet",
+  "id": "1949571207155826911",
+  "url": "https://x.com/AnasAlSharif0/status/1949571207155826911",
+  "twitterUrl": "https://twitter.com/AnasAlSharif0/status/1949571207155826911",
+  "text": "Today, 10-year-old Nour Abu Selah died of severe malnutrition caused by the Israeli blockade on Gaza. Starved to death—another victim of a slow genocide. How many more children must die before this war ends and the siege is lifted?! https://t.co/uo24C7A9ro",
+  "source": "Twitter for iPhone",
+  "retweetCount": 5514,
+  "replyCount": 210,
+  "likeCount": 6898,
+  "quoteCount": 216,
+  "viewCount": 165287,
+  "createdAt": "Sun Jul 27 20:42:51 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 217,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1949571207155826911",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "AnasAlSharif0",
+    "url": "https://x.com/AnasAlSharif0",
+    "twitterUrl": "https://twitter.com/AnasAlSharif0",
+    "id": "1429410320146128899",
+    "name": "أنس الشريف Anas Al-Sharif",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1720329794380861440/_XqutWXx_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1429410320146128899/1717265357",
+    "description": "",
+    "location": "",
+    "followers": 535028,
+    "following": 103,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 22 11:49:36 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4249,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4224,
+    "statusesCount": 7493,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1734252722549899643"
+    ],
+    "profile_bio": {
+      "description": "صحفي فلسطيني من مخيم جباليا، مراسل قناة الجزيرة @AJArabic A Palestinian journalist from Jabalia refugee camp, Al Jazeera Channelnews reporter. +970 597890044",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                48,
+                57
+              ],
+              "name": "",
+              "screen_name": "AJArabic"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/anasjamal44",
+              "expanded_url": "http://instagram.com/anasjamal44",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mFJ87ChdB0"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/uo24C7A9ro",
+        "expanded_url": "https://twitter.com/AnasAlSharif0/status/1949571207155826911/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 59,
+                "w": 59,
+                "x": 952,
+                "y": 145
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 187,
+                "y": 207
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 59,
+                "w": 59,
+                "x": 952,
+                "y": 145
+              },
+              {
+                "h": 74,
+                "w": 74,
+                "x": 187,
+                "y": 207
+              }
+            ]
+          }
+        },
+        "id_str": "1949571201019310080",
+        "indices": [
+          233,
+          256
+        ],
+        "media_key": "3_1949571201019310080",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsORK2VFnAACgACGw5ErwLaQN8AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGw5ErZUWcAAKAAIbDkSvAtpA3wAA",
+            "media_key": "3_1949571201019310080"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/Gw5ErZUWcAAkvDr.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 605,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 947,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 540,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1080,
+              "w": 1080,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1080,
+          "width": 1080
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1080
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/uo24C7A9ro"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

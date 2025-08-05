@@ -1,0 +1,151 @@
+{
+  "type": "tweet",
+  "id": "1952722162453823990",
+  "url": "https://x.com/_amitbehere/status/1952722162453823990",
+  "twitterUrl": "https://twitter.com/_amitbehere/status/1952722162453823990",
+  "text": "Rahul Gandhi is going to look like a genius (AGAIN) when the Indian economy is completely fucked in the next 2-3 years. \n\nYou all are just really fucking slow ...!!! https://t.co/c34OmStuWK",
+  "source": "Twitter for iPhone",
+  "retweetCount": 41,
+  "replyCount": 17,
+  "likeCount": 285,
+  "quoteCount": 3,
+  "viewCount": 4815,
+  "createdAt": "Tue Aug 05 13:23:38 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 6,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952722162453823990",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "_amitbehere",
+    "url": "https://x.com/_amitbehere",
+    "twitterUrl": "https://twitter.com/_amitbehere",
+    "id": "1325566478993788928",
+    "name": "Amit Behere",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1838047825138999297/cFLAZoKh_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1325566478993788928/1611417558",
+    "description": "",
+    "location": "Jacksonville",
+    "followers": 28983,
+    "following": 18732,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 08 22:30:57 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 381559,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2310,
+    "statusesCount": 123196,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952019440389795851"
+    ],
+    "profile_bio": {
+      "description": "उसूलों पर जहां आंच आये टकराना ज़रूरी है. जो जिन्दा हों तो फ़िर जिंदा नज़र आना ज़रूरी है - वसीम बरेलवी. \n\nसत्यमेव जयते.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/c34OmStuWK",
+        "expanded_url": "https://twitter.com/_amitbehere/status/1952722162453823990/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952722017259540480",
+        "indices": [
+          166,
+          189
+        ],
+        "media_key": "3_1952722017259540480",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZdlQn1tAACgACGxl2dfYXwfYAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxl2VCfW0AAKAAIbGXZ19hfB9gAA",
+            "media_key": "3_1952722017259540480"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/Gxl2VCfW0AA5W-T.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 664,
+              "w": 1186,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 740,
+              "w": 740,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 740,
+              "w": 649,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 740,
+              "w": 370,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 740,
+              "w": 1186,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 740,
+          "width": 1186
+        },
+        "sizes": {
+          "large": {
+            "h": 740,
+            "w": 1186
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/c34OmStuWK"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

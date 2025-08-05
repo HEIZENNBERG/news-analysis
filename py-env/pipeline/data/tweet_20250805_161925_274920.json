@@ -1,0 +1,149 @@
+{
+  "type": "tweet",
+  "id": "1952762980812157069",
+  "url": "https://x.com/FlaviaMSoares76/status/1952762980812157069",
+  "twitterUrl": "https://twitter.com/FlaviaMSoares76/status/1952762980812157069",
+  "text": "“Mostre-me a pessoa que eu IMPUTO o crime”.\n\nEstá aí a resposta do que aconteceu comigo. https://t.co/hlpu1AjjG9",
+  "source": "Twitter for iPhone",
+  "retweetCount": 86,
+  "replyCount": 11,
+  "likeCount": 257,
+  "quoteCount": 2,
+  "viewCount": 1467,
+  "createdAt": "Tue Aug 05 16:05:49 +0000 2025",
+  "lang": "pt",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952762980812157069",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "FlaviaMSoares76",
+    "url": "https://x.com/FlaviaMSoares76",
+    "twitterUrl": "https://twitter.com/FlaviaMSoares76",
+    "id": "1476367404204756995",
+    "name": "Flavia Magalhães",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1939358697802596352/RMECZQX6_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1476367404204756995/1673405500",
+    "description": "",
+    "location": "Pompano Beach, FL",
+    "followers": 60855,
+    "following": 13596,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Dec 30 01:40:09 +0000 2021",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 52001,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1701,
+    "statusesCount": 18634,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+      "description": "Pernambucana🇧🇷 cidadã americana🇺🇸republicana, conservadora. Luto pra que TODOS TENHAM LIBERDADE DE EXPRESSÃO. I’m Brazilian🇧🇷 and an American Citizen🇺🇸",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.twitter.com/hlpu1AjjG9",
+        "expanded_url": "https://twitter.com/FlaviaMSoares76/status/1952762980812157069/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952762977343475712",
+        "indices": [
+          89,
+          112
+        ],
+        "media_key": "3_1952762977343475712",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZm5TrF5AACgACGxmblbnXcI0AAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmblOsXkAAKAAIbGZuVuddwjQAA",
+            "media_key": "3_1952762977343475712"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmblOsXkAAL1Lj.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 655,
+              "w": 1170,
+              "x": 0,
+              "y": 75
+            },
+            {
+              "h": 1170,
+              "w": 1170,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1240,
+              "w": 1088,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1240,
+              "w": 620,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1240,
+              "w": 1170,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1240,
+          "width": 1170
+        },
+        "sizes": {
+          "large": {
+            "h": 1240,
+            "w": 1170
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/hlpu1AjjG9"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

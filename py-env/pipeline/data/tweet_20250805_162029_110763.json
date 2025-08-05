@@ -1,0 +1,272 @@
+{
+  "type": "tweet",
+  "id": "1952749058709434782",
+  "url": "https://x.com/jackhcable/status/1952749058709434782",
+  "twitterUrl": "https://twitter.com/jackhcable/status/1952749058709434782",
+  "text": "AI revolutionized coding. Security hasn't kept up–until now.\n\nIntroducing @CorridorSecure: the future of secure coding.\n\nWe just raised a $5.4M seed from @Conviction and hired @alexstamos. Corridor is trusted by leading companies like @cursor_ai–and we’re just getting started. 🧵 https://t.co/VYh7MvolBt",
+  "source": "Twitter for iPhone",
+  "retweetCount": 28,
+  "replyCount": 13,
+  "likeCount": 103,
+  "quoteCount": 7,
+  "viewCount": 9461,
+  "createdAt": "Tue Aug 05 15:10:30 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 29,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952749058709434782",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "jackhcable",
+    "url": "https://x.com/jackhcable",
+    "twitterUrl": "https://twitter.com/jackhcable",
+    "id": "3252712079",
+    "name": "Jack Cable",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1488978641627361281/8z9kwmVD_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3252712079/1576352287",
+    "description": "",
+    "location": "",
+    "followers": 13218,
+    "following": 876,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed May 13 20:52:23 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4048,
+    "hasCustomTimelines": true,
+    "isTranslator": true,
+    "mediaCount": 73,
+    "statusesCount": 1272,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1902808370945593548"
+    ],
+    "profile_bio": {
+      "description": "Ethical hacker. CEO & Co-founder @CorridorSecure. Prev: @CISAgov @HSGAC @KrebsStamos @TrustVanta @DefenseDigital. @Stanford CS. Personal account.",
+      "entities": {
+        "description": {
+          "user_mentions": [
+            {
+              "id_str": "0",
+              "indices": [
+                33,
+                48
+              ],
+              "name": "",
+              "screen_name": "CorridorSecure"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                56,
+                64
+              ],
+              "name": "",
+              "screen_name": "CISAgov"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                65,
+                71
+              ],
+              "name": "",
+              "screen_name": "HSGAC"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                72,
+                84
+              ],
+              "name": "",
+              "screen_name": "KrebsStamos"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                85,
+                96
+              ],
+              "name": "",
+              "screen_name": "TrustVanta"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                97,
+                112
+              ],
+              "name": "",
+              "screen_name": "DefenseDigital"
+            },
+            {
+              "id_str": "0",
+              "indices": [
+                114,
+                123
+              ],
+              "name": "",
+              "screen_name": "Stanford"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "corridor.dev",
+              "expanded_url": "http://corridor.dev",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QuLMdLNW4B"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/VYh7MvolBt",
+        "expanded_url": "https://twitter.com/jackhcable/status/1952749058709434782/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952746759127814144",
+        "indices": [
+          280,
+          303
+        ],
+        "media_key": "13_1952746759127814144",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZjNTSG9AAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxmM1NIb0AAAAA==",
+            "media_key": "13_1952746759127814144"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952746759127814144/img/lXoGdDVEfM4sd_vk.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 2160,
+          "width": 3840
+        },
+        "sizes": {
+          "large": {
+            "h": 1152,
+            "w": 2048
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/VYh7MvolBt",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 209108,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952746759127814144/pl/ayjdCfJdW8WjfHnr.m3u8?tag=21&v=8e2"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952746759127814144/vid/avc1/480x270/DJr0dFLPi4HLFOwI.mp4?tag=21"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952746759127814144/vid/avc1/640x360/LUjnP8WAZ-_cebSz.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952746759127814144/vid/avc1/1280x720/PwBDuble-j8_L-EJ.mp4?tag=21"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952746759127814144/vid/avc1/1920x1080/JYOx7D6mAiuU6jkv.mp4?tag=21"
+            },
+            {
+              "bitrate": 25128000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952746759127814144/vid/avc1/3840x2160/weYZRjK_a7wxmXT5.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1879643629184294912",
+        "indices": [
+          74,
+          89
+        ],
+        "name": "Corridor",
+        "screen_name": "CorridorSecure"
+      },
+      {
+        "id_str": "1534581807122853889",
+        "indices": [
+          154,
+          165
+        ],
+        "name": "Conviction",
+        "screen_name": "conviction"
+      },
+      {
+        "id_str": "41603960",
+        "indices": [
+          176,
+          187
+        ],
+        "name": "Alex Stamos",
+        "screen_name": "alexstamos"
+      },
+      {
+        "id_str": "1695890961094909952",
+        "indices": [
+          235,
+          245
+        ],
+        "name": "Cursor",
+        "screen_name": "cursor_ai"
+      }
+    ]
+  },
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

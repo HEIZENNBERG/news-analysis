@@ -1,0 +1,166 @@
+{
+  "type": "tweet",
+  "id": "1952762988823547990",
+  "url": "https://x.com/LaFresaFresona/status/1952762988823547990",
+  "twitterUrl": "https://twitter.com/LaFresaFresona/status/1952762988823547990",
+  "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 underrated AI tools that are 10x more powerful: ⬇️ https://t.co/6LJD5NnkTa",
+  "source": "Twitter for iPhone",
+  "retweetCount": 12,
+  "replyCount": 9,
+  "likeCount": 17,
+  "quoteCount": 1,
+  "viewCount": 2847,
+  "createdAt": "Tue Aug 05 16:05:51 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 11,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952762988823547990",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "LaFresaFresona",
+    "url": "https://x.com/LaFresaFresona",
+    "twitterUrl": "https://twitter.com/LaFresaFresona",
+    "id": "1788728340150362112",
+    "name": "Helena AI",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948393745059131393/lZdhZQEA_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1788728340150362112/1753368809",
+    "description": "",
+    "location": "➢ San Francisco, CA USA ",
+    "followers": 27388,
+    "following": 50,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 10 00:30:50 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 412,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 169,
+    "statusesCount": 651,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952762988823547990"
+    ],
+    "profile_bio": {
+      "description": "Exploring Al, Tech, and Productivity Hacks | Daily insights on Al-powered tools  | DM for collab 📩",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/6LJD5NnkTa",
+        "expanded_url": "https://twitter.com/LaFresaFresona/status/1952762988823547990/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 404,
+                "y": 131
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 37,
+                "w": 37,
+                "x": 404,
+                "y": 131
+              }
+            ]
+          }
+        },
+        "id_str": "1952762985837211648",
+        "indices": [
+          163,
+          186
+        ],
+        "media_key": "3_1952762985837211648",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZm5blW7AACgACGxmbl5dbkFYAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmbluVbsAAKAAIbGZuXl1uQVgAA",
+            "media_key": "3_1952762985837211648"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmbluVbsAAWSiU.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 286,
+              "w": 510,
+              "x": 0,
+              "y": 10
+            },
+            {
+              "h": 510,
+              "w": 510,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 581,
+              "w": 510,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 680,
+              "w": 340,
+              "x": 170,
+              "y": 0
+            },
+            {
+              "h": 680,
+              "w": 510,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 680,
+          "width": 510
+        },
+        "sizes": {
+          "large": {
+            "h": 680,
+            "w": 510
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/6LJD5NnkTa"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

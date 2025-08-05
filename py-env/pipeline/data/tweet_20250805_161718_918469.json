@@ -1,0 +1,348 @@
+{
+  "type": "tweet",
+  "id": "1952735288335155216",
+  "url": "https://x.com/ImMeme0/status/1952735288335155216",
+  "twitterUrl": "https://twitter.com/ImMeme0/status/1952735288335155216",
+  "text": "🚨BREAKING: NYC Department of Education spent $745,000 of taxpayers’ money at a single Brooklyn restaurant last year — Fusion East, a Caribbean and soul food spot. \n\nThe spending supposedly was part of a citywide push to direct more funds to Minority- and Women-owned Business Enterprise DOE vendors.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 818,
+  "replyCount": 187,
+  "likeCount": 1360,
+  "quoteCount": 47,
+  "viewCount": 27857,
+  "createdAt": "Tue Aug 05 14:15:47 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 58,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952735288335155216",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "ImMeme0",
+    "url": "https://x.com/ImMeme0",
+    "twitterUrl": "https://twitter.com/ImMeme0",
+    "id": "1511074777708085258",
+    "name": "I Meme Therefore I Am 🇺🇸",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": null,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1511105748671021065/h4NfG141_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1511074777708085258/1652637568",
+    "description": "",
+    "location": "New York, USA",
+    "followers": 776606,
+    "following": 7879,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 04 20:15:55 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 231794,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 37634,
+    "statusesCount": 102122,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1512874211647561729"
+    ],
+    "profile_bio": {
+      "description": "Mother & 🇵🇱 immigrant U don’t want to mess with. Parody at times, don’t care about your feelings. DM 4 submissions, video removal or credit.",
+      "entities": {
+        "description": {}
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/TKWyR6aCHT",
+        "expanded_url": "https://twitter.com/ImMeme0/status/1952735288335155216/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 89,
+                "w": 89,
+                "x": 211,
+                "y": 36
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 89,
+                "w": 89,
+                "x": 211,
+                "y": 36
+              }
+            ]
+          }
+        },
+        "id_str": "1952735282756763648",
+        "indices": [
+          277,
+          300
+        ],
+        "media_key": "3_1952735282756763648",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZgmTFFsAACgACGxmCZhGWQBAAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmCZMUWwAAKAAIbGYJmEZZAEAAA",
+            "media_key": "3_1952735282756763648"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmCZMUWwAAm5aq.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 336,
+              "w": 600,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 444,
+              "w": 444,
+              "x": 32,
+              "y": 0
+            },
+            {
+              "h": 444,
+              "w": 389,
+              "x": 60,
+              "y": 0
+            },
+            {
+              "h": 444,
+              "w": 222,
+              "x": 143,
+              "y": 0
+            },
+            {
+              "h": 444,
+              "w": 600,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 444,
+          "width": 600
+        },
+        "sizes": {
+          "large": {
+            "h": 444,
+            "w": 600
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/TKWyR6aCHT"
+      },
+      {
+        "display_url": "pic.twitter.com/TKWyR6aCHT",
+        "expanded_url": "https://twitter.com/ImMeme0/status/1952735288335155216/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {},
+          "orig": {}
+        },
+        "id_str": "1952735282752565248",
+        "indices": [
+          277,
+          300
+        ],
+        "media_key": "3_1952735282752565248",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZgmTE1rAACgACGxmCZhGWQBAAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmCZMTWsAAKAAIbGYJmEZZAEAAA",
+            "media_key": "3_1952735282752565248"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmCZMTWsAA3svp.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 981,
+              "w": 981,
+              "x": 555,
+              "y": 0
+            },
+            {
+              "h": 981,
+              "w": 861,
+              "x": 675,
+              "y": 0
+            },
+            {
+              "h": 981,
+              "w": 491,
+              "x": 945,
+              "y": 0
+            },
+            {
+              "h": 981,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 981,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 981,
+            "w": 1536
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/TKWyR6aCHT"
+      },
+      {
+        "display_url": "pic.twitter.com/TKWyR6aCHT",
+        "expanded_url": "https://twitter.com/ImMeme0/status/1952735288335155216/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 58,
+                "w": 58,
+                "x": 976,
+                "y": 189
+              },
+              {
+                "h": 69,
+                "w": 69,
+                "x": 736,
+                "y": 528
+              },
+              {
+                "h": 201,
+                "w": 201,
+                "x": 643,
+                "y": 57
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 58,
+                "w": 58,
+                "x": 976,
+                "y": 189
+              },
+              {
+                "h": 69,
+                "w": 69,
+                "x": 736,
+                "y": 528
+              },
+              {
+                "h": 201,
+                "w": 201,
+                "x": 643,
+                "y": 57
+              }
+            ]
+          }
+        },
+        "id_str": "1952735282756739072",
+        "indices": [
+          277,
+          300
+        ],
+        "media_key": "3_1952735282756739072",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARsZgmTFFmAACgACGxmCZhGWQBAAAA==",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAABCgABGxmCZMUWYAAKAAIbGYJmEZZAEAAA",
+            "media_key": "3_1952735282756739072"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/GxmCZMUWYAAx7TW.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 860,
+              "w": 1536,
+              "x": 0,
+              "y": 164
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 217,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 280,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 473,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1536,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1536
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "w": 1536
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/TKWyR6aCHT"
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}

@@ -1,0 +1,162 @@
+{
+  "type": "tweet",
+  "id": "1952701186714357971",
+  "url": "https://x.com/contra/status/1952701186714357971",
+  "twitterUrl": "https://twitter.com/contra/status/1952701186714357971",
+  "text": "Meet Indy AI. The new way to find work. https://t.co/Cc0OJUQdD4",
+  "source": "Twitter for iPhone",
+  "retweetCount": 29,
+  "replyCount": 22,
+  "likeCount": 161,
+  "quoteCount": 20,
+  "viewCount": 13122,
+  "createdAt": "Tue Aug 05 12:00:17 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 66,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "1952701186714357971",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "author": {
+    "type": "user",
+    "userName": "contra",
+    "url": "https://x.com/contra",
+    "twitterUrl": "https://twitter.com/contra",
+    "id": "973313523790082053",
+    "name": "Contra",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "verifiedType": "Business",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1915149499095228416/tH3-YJjz_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/973313523790082053/1754323483",
+    "description": "",
+    "location": "",
+    "followers": 25286,
+    "following": 2810,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 12 21:43:22 +0000 2018",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26025,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2691,
+    "statusesCount": 16103,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1952701186714357971"
+    ],
+    "profile_bio": {
+      "description": "The commission-free creative network, connecting you with the talent and tools to get work underway.",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "producthunt.com/products/contr…",
+              "expanded_url": "https://www.producthunt.com/products/contra-2/launches/indy-ai-by-contra",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zNlsb8tz4g"
+            }
+          ]
+        }
+      }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/Cc0OJUQdD4",
+        "expanded_url": "https://twitter.com/contra/status/1952701186714357971/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "1952701132821684224",
+        "indices": [
+          40,
+          63
+        ],
+        "media_key": "13_1952701132821684224",
+        "media_results": {
+          "id": "QXBpTWVkaWFSZXN1bHRzOgwABAoAARsZY1WeVuAAAAA=",
+          "result": {
+            "__typename": "ApiMedia",
+            "id": "QXBpTWVkaWE6DAAECgABGxljVZ5W4AAAAA==",
+            "media_key": "13_1952701132821684224"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1952701132821684224/img/qyw0goBZfu23Efdv.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 1920
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "w": 1920
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/Cc0OJUQdD4",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 30058,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video-s.twimg.com/amplify_video/1952701132821684224/pl/qUfV73qAJJ8h_xpY.m3u8?tag=21&v=cfc"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952701132821684224/vid/avc1/480x270/CIqdps-lSQh-Ekqj.mp4?tag=21"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952701132821684224/vid/avc1/640x360/_4GY90x32ZUNhDfe.mp4?tag=21"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952701132821684224/vid/avc1/1280x720/XsFcjTJyU0Ennenp.mp4?tag=21"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video-s.twimg.com/amplify_video/1952701132821684224/vid/avc1/1920x1080/-h_i_lM9XeUooX2p.mp4?tag=21"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {},
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "article": null
+}
