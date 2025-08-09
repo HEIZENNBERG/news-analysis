@@ -14,6 +14,8 @@ services:
       - HDFS_URL=http://localhost:9870
     env_file:
       - ./hadoop.env
+    networks:
+      - sc-md-analysis_default
 
   datanode1:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
@@ -25,6 +27,8 @@ services:
       - hadoop_datanode1:/hadoop/dfs/data
     env_file:
       - ./hadoop.env
+    networks:
+      - sc-md-analysis_default
 
   datanode2:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
@@ -36,6 +40,9 @@ services:
       - hadoop_datanode2:/hadoop/dfs/data
     env_file:
       - ./hadoop.env
+    networks:
+      - sc-md-analysis_default
+  
 
   resourcemanager:
     image: bde2020/hadoop-resourcemanager:2.0.0-hadoop3.2.1-java8
@@ -47,6 +54,10 @@ services:
       - datanode2
     env_file:
       - ./hadoop.env
+    networks:
+      - sc-md-analysis_default
+
+
 
   nodemanager:
     image: bde2020/hadoop-nodemanager:2.0.0-hadoop3.2.1-java8
@@ -59,6 +70,9 @@ services:
       - datanode2
     env_file:
       - ./hadoop.env
+    networks:
+      - sc-md-analysis_default
+
 
   kafka:
     image: bitnami/kafka:latest
@@ -80,6 +94,8 @@ services:
     volumes:
       - kafka_data:/bitnami/kafka
     restart: always
+    networks:
+      - sc-md-analysis_default
 
   kafka-ui:
     image: provectuslabs/kafka-ui:latest
@@ -106,11 +122,79 @@ services:
     depends_on:
       - kafka
       - namenode
+    networks:
+      - sc-md-analysis_default
+
+
+
+  spark-master:
+    image: bitnami/spark:3.5.1
+    container_name: spark-master
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+    ports:
+      - "7077:7077"   
+      - "8080:8080"
+    volumes:
+      - hadoop_spark:/opt/spark-apps
+      - ./hadoop-conf:/opt/hadoop/etc/hadoop
+    networks:
+      - sc-md-analysis_default
+
+
+
+  spark-worker:
+    image: bitnami/spark:3.5.1
+    container_name: spark-worker
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+    depends_on:
+      - spark-master
+    ports:
+      - "8081:8081" 
+    volumes:
+      - hadoop_spark:/opt/spark-apps
+      - ./hadoop-conf:/opt/hadoop/etc/hadoop
+    networks:
+      - sc-md-analysis_default
+
+  mongodb:
+    image: mongo:6.0
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - sc-md-analysis_default
+
+  mongo-express:
+    image: mongo-express
+    container_name: mongo-express
+    restart: always
+    ports:
+      - "8091:8081"
+    environment:
+      - ME_CONFIG_MONGODB_SERVER=mongodb
+      - ME_CONFIG_MONGODB_ENABLE_ADMIN=false
+    depends_on:
+      - mongodb
+    networks:
+      - sc-md-analysis_default
 
 
 networks:
   sc-md-analysis_default:
     driver: bridge
+
+
+
 
 
 volumes:
@@ -119,3 +203,5 @@ volumes:
   hadoop_datanode2:
   hadoop_historyserver:
   kafka_data:
+  hadoop_spark:
+  mongodb_data:

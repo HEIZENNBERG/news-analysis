@@ -6,6 +6,8 @@ WORKDIR /app
 
 COPY py-env/pipeline/requirements.txt .
 
+RUN apt-get update && apt-get install -y ca-certificates && update-ca-certificates
+
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY py-env/pipeline /app/pipeline
