@@ -13,3 +13,4 @@ to run the python env => /py-env => source /py-env/bin/activate
 
 create a kafka topic => docker exec -it kafka kafka-topics.sh --create --topic twitter-ai --bootstrap-server kafka:9092 --partitions 1 --replication-factor 1
 
+spark took 40 min to run NER analysis

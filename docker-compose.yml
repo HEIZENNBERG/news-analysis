@@ -125,8 +125,6 @@ services:
     networks:
       - sc-md-analysis_default
 
-
-
   spark-master:
     image: bitnami/spark:3.5.1
     container_name: spark-master
