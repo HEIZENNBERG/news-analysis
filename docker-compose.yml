@@ -161,7 +161,7 @@ services:
     networks:
       - sc-md-analysis_default
 
-  mongodb:
+  mongodb:  
     image: mongo:6.0
     container_name: mongodb
     restart: always
