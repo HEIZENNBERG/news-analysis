@@ -119,9 +119,6 @@ services:
     environment:
       - KAFKA_BOOTSTRAP_SERVERS=kafka:9092
       - HDFS_URL=http://namenode:9870
-    depends_on:
-      - kafka
-      - namenode
     networks:
       - sc-md-analysis_default
 
@@ -186,6 +183,28 @@ services:
     networks:
       - sc-md-analysis_default
 
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+    ports:
+      - "9200:9200"
+    networks:
+      - sc-md-analysis_default
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.9.0
+    container_name: kibana
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    ports:
+      - "5601:5601"
+    depends_on:
+      - elasticsearch
+    networks:
+      - sc-md-analysis_default
 
 networks:
   sc-md-analysis_default:
@@ -203,3 +222,4 @@ volumes:
   kafka_data:
   hadoop_spark:
   mongodb_data:
+  grafana_data:
