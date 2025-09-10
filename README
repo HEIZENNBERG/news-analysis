@@ -1,16 +1,72 @@
-run =>   docker compose up
+Overview
 
-stop =>  docker stop $(docker ps -aq)
+This project implements an end-to-end data pipeline for collecting, processing, storing, and analyzing news articles. The goal is to extract insights, named entities, and sentiment analysis from real-world news and make them explorable via Kibana dashboards.
 
-connect to a node => docker exec -it {name of node} /bin/bash
+ Architecture
+ Data Flow
 
-NameNode UI: http://localhost:9870
+Data Ingestion
 
-ResourceManager UI: http://localhost:8088
+Fetch news articles from external News API sources.
 
-to run the python env => /py-env => source /py-env/bin/activate
+Stream data in real-time using Apache Kafka.
 
+Data Storage
 
-create a kafka topic => docker exec -it kafka kafka-topics.sh --create --topic twitter-ai --bootstrap-server kafka:9092 --partitions 1 --replication-factor 1
+Store raw data into HDFS for durability and scalability.
 
-spark took 40 min to run NER analysis
+Data Processing & Analysis
+
+Use Apache Spark to process news articles:
+
+Data cleaning & transformation
+
+Named Entity Recognition (NER) (ORG, GPE, PERSON, etc.)
+
+Sentiment Analysis of the news text
+
+Store processed data into MongoDB for flexible querying.
+
+Indexing & Search
+
+Push enriched news articles into Elasticsearch.
+
+Visualization
+
+Explore, search, and analyze data via Kibana dashboards.
+
+Example insights:
+
+ Trending entities (companies, countries, people)
+
+ Sentiment distribution over time
+
+ Source-wise article counts
+
+ Tech Stack
+
+Ingestion: News API, Apache Kafka
+
+Storage: HDFS, MongoDB
+
+Processing: Apache Spark (NER, sentiment analysis)
+
+Indexing/Search: Elasticsearch
+
+Visualization: Kibana
+
+Orchestration: Docker / Docker Compose
+
+ How It Works
+
+Collect News → API → Kafka topic
+
+Persist Raw Data → Kafka consumer → HDFS
+
+Process Data → Spark job (NER + Sentiment)
+
+Save Results → MongoDB (structured articles)
+
+Index in Elasticsearch → For fast searching
+
+Visualize → Kibana dashboards
