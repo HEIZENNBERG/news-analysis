@@ -35,18 +35,16 @@ Indexing/Search: Elasticsearch
 Visualization: Kibana
 Orchestration: Docker / Docker Compose
 
+--------------------------------------------How it works---------------------------------------------------------------
 
- How It Works
-```mermaid
-flowchart TD
-    A[Collect News] --> B[API]
-    B --> C[Kafka Topic]
-    C --> D[Kafka Consumer]
-    D --> E[HDFS]
+Collect News → API → Kafka topic
 
-    E --> F[Spark Job: NER + Sentiment]
-    F --> G[MongoDB: Structured Articles]
-    G --> H[Elasticsearch: Fast Search]
-    H --> I[Kibana: Visualization]
+Persist Raw Data → Kafka consumer → HDFS
+
+Process Data → Spark job (NER + Sentiment)
+
+Save Results → MongoDB (structured articles)
+
+Index in Elasticsearch → For fast searching
 
 Visualize → Kibana dashboards
