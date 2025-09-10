@@ -1,72 +1,52 @@
-Overview
+--------------------------------------------Overview---------------------------------------------------------------
 
-This project implements an end-to-end data pipeline for collecting, processing, storing, and analyzing news articles. The goal is to extract insights, named entities, and sentiment analysis from real-world news and make them explorable via Kibana dashboards.
+This project implements an end-to-end data pipeline for collecting, processing, storing, and analyzing news articles.
+The goal is to extract insights, named entities, and sentiment analysis from real-world news and make them explorable 
+via Kibana dashboards.
 
- Architecture
- Data Flow
+--------------------------------------------Architecture---------------------------------------------------------------
 
-Data Ingestion
+-> Data Flow
+1-Data Ingestion
+   Fetch news articles from external News API sources.
+   Stream data in real-time using Apache Kafka.
 
-Fetch news articles from external News API sources.
+2-Data Storage
+   Store raw data into HDFS for durability and scalability.
 
-Stream data in real-time using Apache Kafka.
+3-Data Processing & Analysis
+   Use Apache Spark to process news articles:
+   Data cleaning & transformation
+   Named Entity Recognition (NER) (ORG, GPE, PERSON, etc.)
+   Sentiment Analysis of the news text
+   Store processed data into MongoDB for flexible querying.
 
-Data Storage
+4-Indexing & Search
+   Push enriched news articles into Elasticsearch.
 
-Store raw data into HDFS for durability and scalability.
+5-Visualization
+   Explore, search, and analyze data via Kibana dashboards.
 
-Data Processing & Analysis
-
-Use Apache Spark to process news articles:
-
-Data cleaning & transformation
-
-Named Entity Recognition (NER) (ORG, GPE, PERSON, etc.)
-
-Sentiment Analysis of the news text
-
-Store processed data into MongoDB for flexible querying.
-
-Indexing & Search
-
-Push enriched news articles into Elasticsearch.
-
-Visualization
-
-Explore, search, and analyze data via Kibana dashboards.
-
-Example insights:
-
- Trending entities (companies, countries, people)
-
- Sentiment distribution over time
-
- Source-wise article counts
-
- Tech Stack
-
+->Tech Stack
 Ingestion: News API, Apache Kafka
-
 Storage: HDFS, MongoDB
-
 Processing: Apache Spark (NER, sentiment analysis)
-
 Indexing/Search: Elasticsearch
-
 Visualization: Kibana
-
 Orchestration: Docker / Docker Compose
 
+
  How It Works
+```mermaid
+flowchart TD
+    A[Collect News] --> B[API]
+    B --> C[Kafka Topic]
+    C --> D[Kafka Consumer]
+    D --> E[HDFS]
 
-Collect News → API → Kafka topic
-
-Persist Raw Data → Kafka consumer → HDFS
-
-Process Data → Spark job (NER + Sentiment)
-
-Save Results → MongoDB (structured articles)
-
-Index in Elasticsearch → For fast searching
+    E --> F[Spark Job: NER + Sentiment]
+    F --> G[MongoDB: Structured Articles]
+    G --> H[Elasticsearch: Fast Search]
+    H --> I[Kibana: Visualization]
 
 Visualize → Kibana dashboards
