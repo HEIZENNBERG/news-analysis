@@ -10,7 +10,7 @@ TOPIC_NAME = "news-ai"
 KAFKA_BOOTSTRAP_SERVERS = os.getenv('KAFKA_BOOTSTRAP_SERVERS', 'kafka:9092')
 
 # NewsAPI configuration
-NEWS_API_KEY = "f944e3c8d8194049bc787b3b12d67091"
+NEWS_API_KEY = "NEWS_API_key"
 NEWS_API_URL = "https://newsapi.org/v2/everything"
 QUERY = "AI OR climate OR sports OR politics OR economy OR health OR entertainment OR education OR startup OR travel OR technology OR war OR migration"
 LANGUAGE = "en"
