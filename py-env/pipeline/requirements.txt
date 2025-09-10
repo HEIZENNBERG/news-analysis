@@ -1,5 +1,5 @@
 requests
 kafka-python
 hdfs
-pymon
-elasticsearch
+pymongo
+elasticsearch==8.10.0

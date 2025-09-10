@@ -193,6 +193,8 @@ services:
       - "9200:9200"
     networks:
       - sc-md-analysis_default
+    volumes:
+      - elasticsearch_data:/usr/share/elasticsearch/data
 
   kibana:
     image: docker.elastic.co/kibana/kibana:8.9.0
@@ -213,7 +215,6 @@ networks:
 
 
 
-
 volumes:
   hadoop_namenode:
   hadoop_datanode1:
@@ -222,4 +223,4 @@ volumes:
   kafka_data:
   hadoop_spark:
   mongodb_data:
-  grafana_data:
+  elasticsearch_data:
