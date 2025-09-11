@@ -3,6 +3,7 @@
 This project implements an end-to-end data pipeline for collecting, processing, storing, and analyzing news articles.
 The goal is to extract insights, named entities, and sentiment analysis from real-world news and make them explorable 
 via Kibana dashboards.
+![Architecture Diagram](architecture.png)
 --------------------------------------------Architecture---------------------------------------------------------------
 
 -> Data Flow
